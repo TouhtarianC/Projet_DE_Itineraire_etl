@@ -12,10 +12,6 @@ from sqlalchemy import select #exc,  create_engine
 from datetime import datetime
 from tqdm import tqdm
 
-# path to import "local" modules
-#import sys
-#sys.path.append('./load/')
-
 from lib.create_DB_ORM import *
 from lib.load_maria import connect_maria, find_object_in_list, find_element, \
     create_POI_for_mariadb, load_POI_into_mariadb
@@ -132,12 +128,12 @@ if __name__ == '__main__':
         'password': NEO4J_PWD
     }
     
-    # load_DATATOURISME_POI(
-    #     file_dir=file_dir, 
-    #     db_maria_connect=db_maria_connect, 
-    #     db_mongo_connect=db_mongo_connect,
-    #     db_neo4j_connect=db_neo4j_connect, 
-    #     DEBUG=DEBUG)
+    load_DATATOURISME_POI(
+        file_dir=file_dir, 
+        db_maria_connect=db_maria_connect, 
+        db_mongo_connect=db_mongo_connect,
+        db_neo4j_connect=db_neo4j_connect, 
+        DEBUG=DEBUG)
     
     timestamp2 = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
     print("End load POI: ", timestamp2)

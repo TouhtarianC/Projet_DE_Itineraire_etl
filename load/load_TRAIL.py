@@ -365,25 +365,6 @@ def load_TRAIL(data_file: str, db_maria_connect: dict, db_mongo_connect: dict, d
 
     # ############### MongoDB #####################
     load_POI_into_mongodb(mongoJSON, db_mongo_connect)
-    # if len(mongoJSON) > 0:
-    #     mongo_data_file = db_mongo_connect["mongo_data_file"]
-    #     # # If everything is fine, we create the JSON file for MongoDB.
-    #     with open(mongo_data_file, 'w', encoding='utf-8') as file:
-    #         json.dump(mongoJSON, file, indent=4)
-    #     # # ## issue with encoding
-
-    #     # connect to mongoDB
-    #     mongo_host = db_mongo_connect["mongo_host"]
-    #     mongo_port = db_mongo_connect["mongo_port"]
-    #     db_username = db_mongo_connect["db_username"]
-    #     db_password = db_mongo_connect["db_password"]
-    #     db_name = db_mongo_connect["db_name"]
-    #     collection_name = db_mongo_connect["collection_name"]
-
-    #     load_file_mongo(mongo_host=mongo_host, mongo_port=mongo_port,
-    #                     db_username=db_username, db_password=db_password,
-    #                     db_name=db_name, collection_name=collection_name,
-    #                     data_file=mongo_data_file)
 
 
 if __name__ == '__main__':
