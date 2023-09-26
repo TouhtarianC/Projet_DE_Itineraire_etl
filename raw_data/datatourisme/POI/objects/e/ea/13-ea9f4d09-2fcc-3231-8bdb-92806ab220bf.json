@@ -1,0 +1,514 @@
+{
+  "@id": "https://data.datatourisme.fr/13/ea9f4d09-2fcc-3231-8bdb-92806ab220bf",
+  "dc:identifier": "5693682",
+  "@type": [
+    "schema:LocalBusiness",
+    "CulturalSite",
+    "InterpretationCentre",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Dieser alte Bauernhof am Fuße des Tour de Broue, dem einzigen Überrest einer Festung aus dem 11."
+    ],
+    "en": [
+      "This former farm, at the foot of the Broue tower, the only remnant of an 11th century castle, now houses an interpretation centre."
+    ],
+    "it": [
+      "Questa ex fattoria, ai piedi della torre Broue, unica vestigia di un castello fortificato dell'XI secolo, ospita oggi un centro di interpretazione."
+    ],
+    "fr": [
+      "Cette ancienne ferme, au pied de la tour de Broue, seul vestige d’un château-fort du XIe, abrite désormais un centre d’interprétation."
+    ],
+    "nl": [
+      "In deze voormalige boerderij aan de voet van de toren van Broue, het enige overblijfsel van een versterkte burcht uit de 11e eeuw, is nu een interpretatiecentrum gevestigd."
+    ],
+    "es": [
+      "Esta antigua granja, a los pies de la torre Broue, único vestigio de un castillo fortificado del siglo XI, alberga hoy un centro de interpretación."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "La Maison de Broue"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/f492fe86-0677-3749-b00d-68f8e793968e",
+      "schema:email": [
+        "contact.brouage@charente-maritime.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 85 80 60"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.brouage.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/8a567ca4-65a5-3dbb-8a6f-f7061bbcf3fc",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1ae7c27e-6851-396b-96ef-b56f11a10198",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/54771c87-c30d-3fbf-a7e9-71e6e207ffbb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6856ed5a-8eba-3e67-b24f-9025373d6870",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8173b4b3-cae8-3de3-b420-dee8db28bc23",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8e482ac5-27aa-31ee-b869-6a3a89755b9f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Dieser alte Bauernhof am Fuße des Tour de Broue, dem einzigen Überrest einer Festung aus dem 11."
+        ],
+        "en": [
+          "This former farm, at the foot of the Broue tower, the only remnant of an 11th century castle, now houses an interpretation centre."
+        ],
+        "it": [
+          "Questa ex fattoria, ai piedi della torre Broue, unica vestigia di un castello fortificato dell'XI secolo, ospita oggi un centro di interpretazione."
+        ],
+        "fr": [
+          "Cette ancienne ferme, au pied de la tour de Broue, seul vestige d’un château-fort du XIe, abrite désormais un centre d’interprétation."
+        ],
+        "nl": [
+          "In deze voormalige boerderij aan de voet van de toren van Broue, het enige overblijfsel van een versterkte burcht uit de 11e eeuw, is nu een interpretatiecentrum gevestigd."
+        ],
+        "es": [
+          "Esta antigua granja, a los pies de la torre Broue, único vestigio de un castillo fortificado del siglo XI, alberga hoy un centro de interpretación."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:CanoeingKayaking",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kanu-Kajakfahren"
+        ],
+        "pt": [
+          "Canoa caiaque"
+        ],
+        "en": [
+          "Canoeing-kayaking"
+        ],
+        "it": [
+          "Canoismo"
+        ],
+        "fr": [
+          "Canoé kayak"
+        ],
+        "es": [
+          "Piraguas y kayak"
+        ],
+        "nl": [
+          "Kano/kajak"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0c8c1f17-a4ec-331c-aadb-f10a21122233",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/1a4a3b78-c1c5-3f50-9a37-ec90a00428be",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/433a9cac-925c-3981-a40a-da8a8c010353",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c6827e6d-2af0-3d9b-89cb-e8db36ae29aa",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cdf16582-775a-3d03-b7a6-c84aafcca8d6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/8d3931d2-bd8b-3c80-b283-7fcdd07591e1",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/b40c7248-2ab3-3b6a-a979-51030839294d",
+          "schema:addressLocality": "Saint-Sornin",
+          "schema:postalCode": "17600",
+          "schema:streetAddress": [
+            "RD 118",
+            "Suivre les panneaux ’Maison de Broue’"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17406",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Sornin"
+              ],
+              "pt": [
+                "Saint-Sornin"
+              ],
+              "en": [
+                "Saint-Sornin"
+              ],
+              "it": [
+                "Saint-Sornin"
+              ],
+              "fr": [
+                "Saint-Sornin"
+              ],
+              "nl": [
+                "Saint-Sornin"
+              ],
+              "es": [
+                "Saint-Sornin"
+              ]
+            },
+            "insee": "17406",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/39b74f05-b76e-306d-9316-b81461cf4f54",
+        "schema:latitude": "45.787666",
+        "schema:longitude": "-0.976627",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/4354e8ce-cdfc-34ca-9e02-f41953a93414",
+          "schema:closes": "18:00:00",
+          "schema:opens": "14:30:00",
+          "schema:validFrom": "2023-08-28T00:00:00",
+          "schema:validThrough": "2023-09-17T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b578b9e3-6d9b-39f7-a010-36e9b5899811",
+          "schema:closes": "18:30:00",
+          "schema:opens": "14:00:00",
+          "schema:validFrom": "2023-07-08T00:00:00",
+          "schema:validThrough": "2023-08-27T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e5104f0c-c906-3b93-bc82-bd2881d8e86c",
+          "schema:closes": "18:00:00",
+          "schema:opens": "14:30:00",
+          "schema:validFrom": "2023-06-01T00:00:00",
+          "schema:validThrough": "2023-07-07T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/80009736-71af-3484-9792-2b3de63306d1",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-06",
+  "lastUpdateDatatourisme": "2023-07-07T05:48:53.586Z"
+}

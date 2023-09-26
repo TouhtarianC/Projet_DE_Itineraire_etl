@@ -1,0 +1,437 @@
+{
+  "@id": "https://data.datatourisme.fr/13/ec42915e-78da-343e-a891-6719d84f4cba",
+  "dc:identifier": "5773081",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Mediathek, Spielothek, Kulturzentrum im Relais de la Côte de Beauté in Saint-Georges-de-Didonne. Ein geselliger Ort für jeden von uns."
+    ],
+    "en": [
+      "Media and games library, Cultural Center located at the Relais de la Côte de Beauté in Saint-Georges-de-Didonne. A friendly place for each of us."
+    ],
+    "it": [
+      "Mediateca e ludoteca, Centro culturale situato presso il Relais de la Côte de Beauté a Saint-Georges-de-Didonne. Un luogo accogliente per tutti noi."
+    ],
+    "fr": [
+      "Médiathèque Ludothèque, Centre Culturel situé au  Relais de la Côte de Beauté à Saint-Georges-de-Didonne. Un lieu convivial pour chacun d'entre nous."
+    ],
+    "es": [
+      "Mediateca y ludoteca, Centro Cultural situado en el Relais de la Côte de Beauté en Saint-Georges-de-Didonne. Un lugar acogedor para todos."
+    ],
+    "nl": [
+      "Media- en spelotheek, Cultureel Centrum in het Relais de la Côte de Beauté in Saint-Georges-de-Didonne. Een gezellige plek voor iedereen."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Médiathèque Ludothèque de Saint-Georges"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/f7000e22-2122-340f-8b28-c7e327898101",
+      "schema:email": [
+        "mediatheque@sgdd.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 06 19 42"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.saintgeorgesdedidonne.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/06636422-35f7-39d9-bd90-3bb56f9a649f",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/077031d7-e0eb-3723-a25b-fe8d1c3f95f6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/14ecb8f1-e8ae-3df6-af0f-b6c018c273e5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/458e5d8a-5889-3d06-b758-adcd4cdf69a1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/83a15b6e-70b8-32a8-b38f-fdeeebec607c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f1094a29-eaf8-33f9-8993-191c89ef769b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Mediathek, Spielothek, Kulturzentrum im Relais de la Côte de Beauté in Saint-Georges-de-Didonne. Ein geselliger Ort für jeden von uns."
+        ],
+        "en": [
+          "Media and games library, Cultural Center located at the Relais de la Côte de Beauté in Saint-Georges-de-Didonne. A friendly place for each of us."
+        ],
+        "it": [
+          "Mediateca e ludoteca, Centro culturale situato presso il Relais de la Côte de Beauté a Saint-Georges-de-Didonne. Un luogo accogliente per tutti noi."
+        ],
+        "fr": [
+          "Médiathèque Ludothèque, Centre Culturel situé au  Relais de la Côte de Beauté à Saint-Georges-de-Didonne. Un lieu convivial pour chacun d'entre nous."
+        ],
+        "es": [
+          "Mediateca y ludoteca, Centro Cultural situado en el Relais de la Côte de Beauté en Saint-Georges-de-Didonne. Un lugar acogedor para todos."
+        ],
+        "nl": [
+          "Media- en spelotheek, Cultureel Centrum in het Relais de la Côte de Beauté in Saint-Georges-de-Didonne. Een gezellige plek voor iedereen."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/3160d39a-bb68-3281-8558-0f190fc2b47d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/848577b6-7e17-3a6a-997e-e585090f647c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9a8d0d59-371c-3e5d-8b31-329d35380087",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ba99df02-6117-3e05-9f46-1135f9fb87fb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f7e838cb-9809-3559-a5da-0e2f1aad4666",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/588ac117-8407-3a3f-9a12-b0f28df5f5d5",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/69259c42-4d58-382b-980b-ca47c0798039",
+          "schema:addressLocality": "Saint-Georges-de-Didonne",
+          "schema:postalCode": "17110",
+          "schema:streetAddress": [
+            "136 boulevard de la côte de beauté",
+            "Centre culturel du Relais de la Côte de Beauté",
+            "Entrée 1 Avenue de la Mer"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17333",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Georges-de-Didonne"
+              ],
+              "pt": [
+                "Saint-Georges-de-Didonne"
+              ],
+              "en": [
+                "Saint-Georges-de-Didonne"
+              ],
+              "it": [
+                "Saint-Georges-de-Didonne"
+              ],
+              "fr": [
+                "Saint-Georges-de-Didonne"
+              ],
+              "nl": [
+                "Saint-Georges-de-Didonne"
+              ],
+              "es": [
+                "Saint-Georges-de-Didonne"
+              ]
+            },
+            "insee": "17333",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/60d075b8-0b1a-3387-83db-b1ff63d449c5",
+        "schema:latitude": "45.598976",
+        "schema:longitude": "-0.993267",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-05-10",
+  "lastUpdateDatatourisme": "2023-05-11T05:39:28.742Z"
+}

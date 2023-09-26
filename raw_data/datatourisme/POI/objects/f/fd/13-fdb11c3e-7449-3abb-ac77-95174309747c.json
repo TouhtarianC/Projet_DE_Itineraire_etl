@@ -1,0 +1,545 @@
+{
+  "@id": "https://data.datatourisme.fr/13/fdb11c3e-7449-3abb-ac77-95174309747c",
+  "dc:identifier": "5676474",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Museum für die ganze Familie. Einige Kilometer von Angoulême entfernt werden Sie die angenehme Überraschung erleben, ein kleines Museum aus dem Jahr 1900 zu entdecken, in dem stumme, schöne Damen Sie mit einem Lächeln empfangen.\r\nKostenlose Besichtigung nach Vereinbarung, Dauer 1,5 Stunden."
+    ],
+    "en": [
+      "Family museum. A few km from Angoulême, you will have the pleasant surprise of discovering a small 1900's museum where beautiful mute ladies will welcome you with a smile.\r\nFree visit by appointment, duration 1h30."
+    ],
+    "it": [
+      "Museo della famiglia. A pochi chilometri da Angoulême, sarete piacevolmente sorpresi di scoprire un piccolo museo del 1900 dove belle signore mute vi accoglieranno con un sorriso.\r\nVisita gratuita su appuntamento, durata 1h30."
+    ],
+    "fr": [
+      "Musée familial. A quelques km d'Angoulême, vous aurez l'agréable surprise de découvrir un petit musée 1900 où de belles dames muettes vous accueilleront avec le sourire.\r\nVisite gratuite sur rendez-vous, durée 1h30."
+    ],
+    "es": [
+      "Museo de la familia. A pocos kilómetros de Angulema, le sorprenderá gratamente descubrir un pequeño museo del año 1900 en el que bellas damas mudas le recibirán con una sonrisa.\r\nVisita gratuita con cita previa, duración 1h30."
+    ],
+    "nl": [
+      "Familiemuseum. Op enkele kilometers van Angoulême zult u aangenaam verrast zijn door een klein museum uit 1900 waar mooie stomme dames u met een glimlach zullen ontvangen.\r\nGratis bezoek op afspraak, duur 1u30."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Musée 1900"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f3e52c30-0b82-3a81-a3e7-ace55fe15c08",
+    "dc:identifier": "2053",
+    "schema:email": [
+      "snebout@angouleme-tourisme.com"
+    ],
+    "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.angouleme-tourisme.com/"
+    ],
+    "lastUpdateDatatourisme": "2022-12-19T06:44:07.571Z"
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/f718680a-ae43-380c-bb45-05c91a114919",
+      "schema:email": [
+        "mail@gaecdessazaris.fr"
+      ],
+      "schema:telephone": [
+        "+33 6 25 97 93 28"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.gaecdessazaris.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/ebfe9f30-6612-33d6-8daf-b7e30fa9f763",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/5210936c-47c8-386c-861e-af4974e439e8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5b5897ac-396a-36b6-b441-929884e9700a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/681da599-1d88-308b-953c-9e6a881e4a66",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8212052c-0f7c-3b60-af2e-b3cf0963ce14",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d4f2f746-c344-3cb9-b465-b051e6a6f0c5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Museum für die ganze Familie. Einige Kilometer von Angoulême entfernt werden Sie die angenehme Überraschung erleben, ein kleines Museum aus dem Jahr 1900 zu entdecken, in dem stumme, schöne Damen Sie mit einem Lächeln empfangen.\r\nKostenlose Besichtigung nach Vereinbarung, Dauer 1,5 Stunden."
+        ],
+        "en": [
+          "Family museum. A few km from Angoulême, you will have the pleasant surprise of discovering a small 1900's museum where beautiful mute ladies will welcome you with a smile.\r\nFree visit by appointment, duration 1h30."
+        ],
+        "it": [
+          "Museo della famiglia. A pochi chilometri da Angoulême, sarete piacevolmente sorpresi di scoprire un piccolo museo del 1900 dove belle signore mute vi accoglieranno con un sorriso.\r\nVisita gratuita su appuntamento, durata 1h30."
+        ],
+        "fr": [
+          "Musée familial. A quelques km d'Angoulême, vous aurez l'agréable surprise de découvrir un petit musée 1900 où de belles dames muettes vous accueilleront avec le sourire.\r\nVisite gratuite sur rendez-vous, durée 1h30."
+        ],
+        "es": [
+          "Museo de la familia. A pocos kilómetros de Angulema, le sorprenderá gratamente descubrir un pequeño museo del año 1900 en el que bellas damas mudas le recibirán con una sonrisa.\r\nVisita gratuita con cita previa, duración 1h30."
+        ],
+        "nl": [
+          "Familiemuseum. Op enkele kilometers van Angoulême zult u aangenaam verrast zijn door een klein museum uit 1900 waar mooie stomme dames u met een glimlach zullen ontvangen.\r\nGratis bezoek op afspraak, duur 1u30."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/4eb5576e-c96a-3dcd-9cd5-b7d04f515f5c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/600c36b5-8213-3528-977f-8c2535b6d3d9",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/837952d7-7936-3400-9a66-8b2aeaf0f4a4",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/be88f9c4-faa2-33fb-8193-c872ec28ce64",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c3e92bc7-7cae-3063-9aec-588738e82a07",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/3b6292fe-1f25-317c-9a69-bc3ba4c02851",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d4c1c2b8-d1cc-313b-ab21-222b9666c523",
+          "schema:addressLocality": "Fléac",
+          "schema:postalCode": "16730",
+          "schema:streetAddress": [
+            "6 rue de la mairie"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16138",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Fléac"
+              ],
+              "pt": [
+                "Fléac"
+              ],
+              "en": [
+                "Fléac"
+              ],
+              "it": [
+                "Fléac"
+              ],
+              "fr": [
+                "Fléac"
+              ],
+              "nl": [
+                "Fléac"
+              ],
+              "es": [
+                "Fléac"
+              ]
+            },
+            "insee": "16138",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/5936f6a5-d9e1-3fbb-a4bc-9821967448a4",
+        "schema:latitude": "45.664976",
+        "schema:longitude": "0.097113",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/453ed42c-3157-3fe2-8f55-ceb4d20d00e3",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Nach Vereinbarung"
+            ],
+            "en": [
+              "By appointment only"
+            ],
+            "it": [
+              "Su appuntamento"
+            ],
+            "fr": [
+              "Sur rendez-vous"
+            ],
+            "nl": [
+              "Op afspraak"
+            ],
+            "es": [
+              "Con cita previa"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/0997672e-e258-39fd-85d3-e576024ff0be",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/1e40f2f1-f308-37c4-9e1b-8b5475d4cc27",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/5bc0ceea-6051-39bd-8101-b4630f5df56f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/699f6342-66e2-356b-8c29-cdb5113f1350",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/84bfde08-8037-365e-bb7b-7af10318d541",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/65c93456-0984-3a13-aac5-3ae5946a15d8",
+      "schema:email": [
+        "snebout@angouleme-tourisme.com"
+      ],
+      "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.angouleme-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-04",
+  "lastUpdateDatatourisme": "2023-07-05T05:43:27.191Z"
+}

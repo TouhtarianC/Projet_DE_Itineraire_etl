@@ -1,0 +1,468 @@
+{
+  "@id": "https://data.datatourisme.fr/13/fd27561f-31ca-3e6c-ace9-95bb2ad8cc47",
+  "dc:identifier": "5706582",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Mediathek bietet Ihnen verschiedene Dienstleistungen an: Bücher für jeden Geschmack, CDs und DVDs, Zeitungen, Zeitschriften, Veranstaltungen und Ausstellungen."
+    ],
+    "en": [
+      "The media library offers different services: books for all tastes, CDs and DVDs, newspapers, magazines, animations and exhibitions."
+    ],
+    "it": [
+      "La mediateca offre diversi servizi: libri per tutti i gusti, CD e DVD, giornali, riviste, eventi e mostre."
+    ],
+    "fr": [
+      "La médiathèque vous propose différents services: des livres pour tous les goûts, des CD et DVD, des journaux, des revues, des animations et expositions."
+    ],
+    "es": [
+      "La mediateca ofrece varios servicios: libros para todos los gustos, CD y DVD, periódicos, revistas, eventos y exposiciones."
+    ],
+    "nl": [
+      "De mediatheek biedt verschillende diensten aan: boeken voor alle smaken, cd's en dvd's, kranten, tijdschriften, evenementen en tentoonstellingen."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Médiathèque"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/28f65c5a-4649-36b2-985c-7c578507d862",
+      "schema:email": [
+        "mediatheque.accueil@marennes.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 85 72 98"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.mediatheque-marennes.net/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/e76294d4-87f0-3e53-bb26-2565d5ab97be",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/03096b01-3bb7-38a0-9c9e-0850889cc0da",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/404a8ab5-7f94-38a6-9869-f10759bf42dd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6bb958a2-c5b6-32f6-8467-ad5000a82b24",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/adedb78e-c5b1-3dca-9ca7-131a9051127b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d2ed22d6-a6b8-3775-8278-2b0242580f13",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Mediathek bietet Ihnen verschiedene Dienstleistungen an: Bücher für jeden Geschmack, CDs und DVDs, Zeitungen, Zeitschriften, Veranstaltungen und Ausstellungen."
+        ],
+        "en": [
+          "The media library offers different services: books for all tastes, CDs and DVDs, newspapers, magazines, animations and exhibitions."
+        ],
+        "it": [
+          "La mediateca offre diversi servizi: libri per tutti i gusti, CD e DVD, giornali, riviste, eventi e mostre."
+        ],
+        "fr": [
+          "La médiathèque vous propose différents services: des livres pour tous les goûts, des CD et DVD, des journaux, des revues, des animations et expositions."
+        ],
+        "es": [
+          "La mediateca ofrece varios servicios: libros para todos los gustos, CD y DVD, periódicos, revistas, eventos y exposiciones."
+        ],
+        "nl": [
+          "De mediatheek biedt verschillende diensten aan: boeken voor alle smaken, cd's en dvd's, kranten, tijdschriften, evenementen en tentoonstellingen."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/309fcebc-67a5-3cfa-93ce-f07b5735c048",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/826e36a7-09dc-3c22-96e2-5f5109f533b3",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c503f633-cf6d-36bd-8319-acd493ee2645",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d52a0aac-70c0-3030-8fe0-ad27ed5c2237",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fa60b338-3cb6-3cb9-8ea0-09b136a62484",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/7dafbdae-70c6-33df-b784-a782dc801545",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/4dd2542c-9c83-3223-aff7-8a516e3aaccd",
+          "schema:addressLocality": "Marennes-Hiers-Brouage",
+          "schema:postalCode": "17320",
+          "schema:streetAddress": [
+            "3, Rue Samuel Champlain",
+            "Marennes"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17219",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "pt": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "en": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "it": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "fr": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "nl": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "es": [
+                "Marennes-Hiers-Brouage"
+              ]
+            },
+            "insee": "17219",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/6dbe3796-5224-3c0b-84ee-f7e045e20cf9",
+        "schema:latitude": "45.824913",
+        "schema:longitude": "-1.105223",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/d7f018c3-c1ab-31f8-8901-4d29578edb89",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ile-oleron-marennes.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-03-27",
+  "lastUpdateDatatourisme": "2023-03-28T07:19:57.641Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/113a710c-a11e-3aab-b0b8-0d54e594d388",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/e600f6db-ec0e-3081-8973-2fc95ad00107",
+          "schema:minPrice": [
+            "6"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/e1157d95-c066-306f-ba7b-ad02b78a52e2",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2022-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

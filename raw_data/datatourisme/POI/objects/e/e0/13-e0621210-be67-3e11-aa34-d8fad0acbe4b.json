@@ -1,0 +1,420 @@
+{
+  "@id": "https://data.datatourisme.fr/13/e0621210-be67-3e11-aa34-d8fad0acbe4b",
+  "dc:identifier": "5762160",
+  "@type": [
+    "CoveredMarket",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Markthallen, die sich seit 1871 im Besitz der Gemeinde befinden, wurden 2017 nach einer Restaurierung wieder in Betrieb genommen."
+    ],
+    "en": [
+      "Owned by the commune in 1871, the halls were rehabilitated in 2017 after a restoration project."
+    ],
+    "it": [
+      "Di proprietà del Comune dal 1871, le sale sono state riabilitate nel 2017 dopo un progetto di restauro."
+    ],
+    "fr": [
+      "Propriété de la commune en 1871, les halles ont été réhabilitées en 2017 après un chantier de restauration."
+    ],
+    "nl": [
+      "In 1871 eigendom van de gemeente, werden de zalen in 2017 na een restauratieproject in ere hersteld."
+    ],
+    "es": [
+      "De propiedad municipal desde 1871, las salas fueron rehabilitadas en 2017 tras un proyecto de restauración."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Mittelalterliche Markthallen"
+    ],
+    "en": [
+      "Medieval halls"
+    ],
+    "fr": [
+      "Halles médiévales"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/9afefc52-942c-383c-bc1f-14b2139b09ba",
+    "dc:identifier": "2055",
+    "schema:email": [
+      "chloe.mailler@rochefort-ocean.com",
+      "christine.nourisson@rochefort-ocean.com",
+      "chrystelle.ecale@rochefort-ocean.com",
+      "lea.origlia@rochefort-ocean.com",
+      "sandrine.bouron@rochefort-ocean.com"
+    ],
+    "schema:legalName": "Office de Tourisme Rochefort Océan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.rochefort-ocean.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/9eb52b08-291e-3092-8417-22b67b722013",
+      "schema:email": [
+        "mairie@saintjeandangle.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 83 31 01"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/7f4f1e40-fb96-397d-8236-ef61bc6eb18f",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2b36b877-498e-3519-94c5-a728519c6799",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6c113431-3d10-3481-8200-f63c9a2a2c55",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7825e4b3-ba85-3155-ae0c-b8605c6a410a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Markthallen, die sich seit 1871 im Besitz der Gemeinde befinden, wurden 2017 nach einer Restaurierung wieder in Betrieb genommen."
+        ],
+        "en": [
+          "Owned by the commune in 1871, the halls were rehabilitated in 2017 after a restoration project."
+        ],
+        "it": [
+          "Di proprietà del Comune dal 1871, le sale sono state riabilitate nel 2017 dopo un progetto di restauro."
+        ],
+        "fr": [
+          "Propriété de la commune en 1871, les halles ont été réhabilitées en 2017 après un chantier de restauration."
+        ],
+        "nl": [
+          "In 1871 eigendom van de gemeente, werden de zalen in 2017 na een restauratieproject in ere hersteld."
+        ],
+        "es": [
+          "De propiedad municipal desde 1871, las salas fueron rehabilitadas en 2017 tras un proyecto de restauración."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/3ed7259c-f261-3fa3-bdba-b9add6bc1dae",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6925ba5f-8eb2-3423-ba29-c0f0f734dd08",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a0cc2651-9371-3487-b790-ab62b17280c6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/cc591a75-a5b2-351b-9891-86e4828843a6",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/96da7515-6109-3b11-8ed6-9ebce282b835",
+          "schema:addressLocality": "Saint-Jean-d'Angle",
+          "schema:postalCode": "17620",
+          "schema:streetAddress": [
+            "rue de l'Église"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17348",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Jean-d'Angle"
+              ],
+              "pt": [
+                "Saint-Jean-d'Angle"
+              ],
+              "en": [
+                "Saint-Jean-d'Angle"
+              ],
+              "it": [
+                "Saint-Jean-d'Angle"
+              ],
+              "fr": [
+                "Saint-Jean-d'Angle"
+              ],
+              "nl": [
+                "Saint-Jean-d'Angle"
+              ],
+              "es": [
+                "Saint-Jean-d'Angle"
+              ]
+            },
+            "insee": "17348",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/4caabf95-07d0-32ce-a1c5-5b80934871cf",
+        "schema:latitude": "45.81961",
+        "schema:longitude": "-0.94676",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fed90c24-5b4e-374e-b413-9c9ae527b242",
+      "schema:email": [
+        "chloe.mailler@rochefort-ocean.com",
+        "christine.nourisson@rochefort-ocean.com",
+        "chrystelle.ecale@rochefort-ocean.com",
+        "lea.origlia@rochefort-ocean.com",
+        "sandrine.bouron@rochefort-ocean.com"
+      ],
+      "schema:legalName": "Office de Tourisme Rochefort Océan",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.rochefort-ocean.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-24",
+  "lastUpdateDatatourisme": "2023-06-25T05:33:01.183Z"
+}

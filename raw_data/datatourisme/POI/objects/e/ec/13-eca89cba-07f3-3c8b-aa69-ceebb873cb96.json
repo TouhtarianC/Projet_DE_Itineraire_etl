@@ -1,0 +1,422 @@
+{
+  "@id": "https://data.datatourisme.fr/13/eca89cba-07f3-3c8b-aa69-ceebb873cb96",
+  "dc:identifier": "5761218",
+  "@type": [
+    "schema:Landform",
+    "Beach",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Dieser Strand im Süden von Fouras-les-Bains bietet ein herrliches Panorama. Ein idealer Ort zum Entspannen, für Spaziergänger und Sportler."
+    ],
+    "en": [
+      "This beach is located south of Fouras-les-Bains and offers a magnificent panorama. It is an ideal place to relax, walk and play sports."
+    ],
+    "it": [
+      "Questa spiaggia si trova a sud di Fouras-les-Bains e offre un magnifico panorama. È un luogo ideale per rilassarsi, passeggiare e fare sport."
+    ],
+    "fr": [
+      "Cette plage située au sud de Fouras-les-Bains offre un magnifique panorama. Lieu idéal pour la détente, les promeneurs et les sportifs."
+    ],
+    "es": [
+      "Esta playa se encuentra al sur de Fouras-les-Bains y ofrece un magnífico panorama. Es un lugar ideal para relajarse, pasear y hacer deporte."
+    ],
+    "nl": [
+      "Dit strand ligt ten zuiden van Fouras-les-Bains en biedt een prachtig panorama. Het is een ideale plek om te ontspannen, te wandelen en te sporten."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Strand der Hoffnung"
+    ],
+    "en": [
+      "Beach of Hope"
+    ],
+    "fr": [
+      "Plage de l'espérance"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/9afefc52-942c-383c-bc1f-14b2139b09ba",
+    "dc:identifier": "2055",
+    "schema:email": [
+      "chloe.mailler@rochefort-ocean.com",
+      "christine.nourisson@rochefort-ocean.com",
+      "chrystelle.ecale@rochefort-ocean.com",
+      "lea.origlia@rochefort-ocean.com",
+      "sandrine.bouron@rochefort-ocean.com"
+    ],
+    "schema:legalName": "Office de Tourisme Rochefort Océan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.rochefort-ocean.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/b0d3e317-12ab-35f2-97d7-2ed12b0670b3",
+      "schema:email": [
+        "communication@fouras-les-bains.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 84 60 11"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/82cd3a43-fde7-3902-a320-e6f20bda85a1",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/739d1100-3e77-3002-925f-76fbfb4fd3de",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a68b521b-3da9-3eab-8361-06599371db36",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/da2d287e-39b4-3ccc-8655-c9a8c9b13cf1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Dieser Strand im Süden von Fouras-les-Bains bietet ein herrliches Panorama. Ein idealer Ort zum Entspannen, für Spaziergänger und Sportler."
+        ],
+        "en": [
+          "This beach is located south of Fouras-les-Bains and offers a magnificent panorama. It is an ideal place to relax, walk and play sports."
+        ],
+        "it": [
+          "Questa spiaggia si trova a sud di Fouras-les-Bains e offre un magnifico panorama. È un luogo ideale per rilassarsi, passeggiare e fare sport."
+        ],
+        "fr": [
+          "Cette plage située au sud de Fouras-les-Bains offre un magnifique panorama. Lieu idéal pour la détente, les promeneurs et les sportifs."
+        ],
+        "es": [
+          "Esta playa se encuentra al sur de Fouras-les-Bains y ofrece un magnífico panorama. Es un lugar ideal para relajarse, pasear y hacer deporte."
+        ],
+        "nl": [
+          "Dit strand ligt ten zuiden van Fouras-les-Bains en biedt een prachtig panorama. Het is een ideale plek om te ontspannen, te wandelen en te sporten."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Bathing",
+      "@type": [
+        "AccommodationAmenity",
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Baden"
+        ],
+        "pt": [
+          "Banho"
+        ],
+        "en": [
+          "Bathing"
+        ],
+        "it": [
+          "Bagno"
+        ],
+        "fr": [
+          "Baignade"
+        ],
+        "nl": [
+          "Zwemmen"
+        ],
+        "es": [
+          "Baño"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/1e90c979-7ed9-319e-a58e-aac64b707e9b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3e05d01f-7e4d-3947-8a88-7c4ed8feecc6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/912b59d6-c5c3-3e83-950d-e981fb74a48d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/115af55d-e6c9-30e5-a4d0-0a4c6f6a78a8",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/6bb382d2-49ad-3823-a58f-0d32953cb91e",
+          "schema:addressLocality": "Fouras",
+          "schema:postalCode": "17450",
+          "schema:streetAddress": [
+            "rue de l'Espérance"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17168",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Fouras"
+              ],
+              "pt": [
+                "Fouras"
+              ],
+              "en": [
+                "Fouras"
+              ],
+              "it": [
+                "Fouras"
+              ],
+              "fr": [
+                "Fouras"
+              ],
+              "nl": [
+                "Fouras"
+              ],
+              "es": [
+                "Fouras"
+              ]
+            },
+            "insee": "17168",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/b249d650-4d62-325b-a4aa-be88271a3686",
+        "schema:latitude": "45.978058",
+        "schema:longitude": "-1.083698",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fed90c24-5b4e-374e-b413-9c9ae527b242",
+      "schema:email": [
+        "chloe.mailler@rochefort-ocean.com",
+        "christine.nourisson@rochefort-ocean.com",
+        "chrystelle.ecale@rochefort-ocean.com",
+        "lea.origlia@rochefort-ocean.com",
+        "sandrine.bouron@rochefort-ocean.com"
+      ],
+      "schema:legalName": "Office de Tourisme Rochefort Océan",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.rochefort-ocean.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-07-09",
+  "lastUpdateDatatourisme": "2023-02-11T06:38:48.982Z"
+}

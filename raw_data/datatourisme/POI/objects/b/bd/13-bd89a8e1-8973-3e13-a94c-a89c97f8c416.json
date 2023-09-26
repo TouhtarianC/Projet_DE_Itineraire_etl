@@ -1,0 +1,424 @@
+{
+  "@id": "https://data.datatourisme.fr/13/bd89a8e1-8973-3e13-a94c-a89c97f8c416",
+  "dc:identifier": "5761132",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Mediathek befindet sich im Herzen des Dorfes und ist ein echter Ort des Empfangs, der Kultur, der Veranstaltungen, des Austauschs und der Begegnungen und steht allen offen."
+    ],
+    "en": [
+      "Located in the heart of the village, the media library is a place of welcome, culture, entertainment, exchanges and meetings, open to all."
+    ],
+    "it": [
+      "Situata nel cuore del villaggio, la mediateca è un luogo di accoglienza, cultura, intrattenimento, scambi e incontri, aperto a tutti."
+    ],
+    "fr": [
+      "Située au cœur du village, véritable lieu d'accueil, de culture, d'animations, d'échanges et de rencontres, la médiathèque est ouverte à tous."
+    ],
+    "es": [
+      "Situada en el corazón del pueblo, la mediateca es un lugar de acogida, cultura, entretenimiento, intercambios y encuentros, abierto a todos."
+    ],
+    "nl": [
+      "Gelegen in het hart van het dorp, is de mediatheek een plaats van ontvangst, cultuur, vermaak, uitwisseling en ontmoeting, open voor iedereen."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Bibliothek Mediathek in Échillais"
+    ],
+    "en": [
+      "Media Library of Échillais"
+    ],
+    "fr": [
+      "Bibliothèque Médiathèque d'Échillais"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/9afefc52-942c-383c-bc1f-14b2139b09ba",
+    "dc:identifier": "2055",
+    "schema:email": [
+      "chloe.mailler@rochefort-ocean.com",
+      "christine.nourisson@rochefort-ocean.com",
+      "chrystelle.ecale@rochefort-ocean.com",
+      "lea.origlia@rochefort-ocean.com",
+      "sandrine.bouron@rochefort-ocean.com"
+    ],
+    "schema:legalName": "Office de Tourisme Rochefort Océan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.rochefort-ocean.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/92612eed-12ec-3598-8766-ba08c669e2ab",
+      "schema:email": [
+        "mediathequeechillais@agglo-rochefortocean.fr"
+      ],
+      "schema:telephone": [
+        "+33 7 88 85 13 88"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://mediatheques.agglo-rochefortocean.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/2b3999c2-6bf8-339b-b1ff-78ec11faed98",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/7d3469d1-3bb5-3bb6-8d04-357b33010101",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8bff80b3-98dc-328c-91a9-9a4c8199b52b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/eab0e021-54da-3c35-807e-647f371ed255",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Mediathek befindet sich im Herzen des Dorfes und ist ein echter Ort des Empfangs, der Kultur, der Veranstaltungen, des Austauschs und der Begegnungen und steht allen offen."
+        ],
+        "en": [
+          "Located in the heart of the village, the media library is a place of welcome, culture, entertainment, exchanges and meetings, open to all."
+        ],
+        "it": [
+          "Situata nel cuore del villaggio, la mediateca è un luogo di accoglienza, cultura, intrattenimento, scambi e incontri, aperto a tutti."
+        ],
+        "fr": [
+          "Située au cœur du village, véritable lieu d'accueil, de culture, d'animations, d'échanges et de rencontres, la médiathèque est ouverte à tous."
+        ],
+        "es": [
+          "Situada en el corazón del pueblo, la mediateca es un lugar de acogida, cultura, entretenimiento, intercambios y encuentros, abierto a todos."
+        ],
+        "nl": [
+          "Gelegen in het hart van het dorp, is de mediatheek een plaats van ontvangst, cultuur, vermaak, uitwisseling en ontmoeting, open voor iedereen."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Shooting",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Schießen"
+        ],
+        "pt": [
+          "Tiro"
+        ],
+        "en": [
+          "Shooting"
+        ],
+        "it": [
+          "Tiro"
+        ],
+        "fr": [
+          "Tir"
+        ],
+        "es": [
+          "Tiro"
+        ],
+        "nl": [
+          "Schieten"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/6979b3ce-26b3-3eaa-b7e8-606dfa6e67b5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6c166df6-c979-3aaa-bf22-959b8bad4c15",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/dd2fde17-6673-3858-b915-f8f2ca3e1bda",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/72293be4-ece7-35fa-8074-018be28c9f97",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/fc957682-eef0-34af-aa6a-1f8b87833934",
+          "schema:addressLocality": "Échillais",
+          "schema:postalCode": "17620",
+          "schema:streetAddress": [
+            "rue de l'Église"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17146",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Échillais"
+              ],
+              "pt": [
+                "Échillais"
+              ],
+              "en": [
+                "Échillais"
+              ],
+              "it": [
+                "Échillais"
+              ],
+              "fr": [
+                "Échillais"
+              ],
+              "nl": [
+                "Échillais"
+              ],
+              "es": [
+                "Échillais"
+              ]
+            },
+            "insee": "17146",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/9546ee3f-960e-3979-95e6-b10886685a63",
+        "schema:latitude": "45.898222",
+        "schema:longitude": "-0.951594",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fed90c24-5b4e-374e-b413-9c9ae527b242",
+      "schema:email": [
+        "chloe.mailler@rochefort-ocean.com",
+        "christine.nourisson@rochefort-ocean.com",
+        "chrystelle.ecale@rochefort-ocean.com",
+        "lea.origlia@rochefort-ocean.com",
+        "sandrine.bouron@rochefort-ocean.com"
+      ],
+      "schema:legalName": "Office de Tourisme Rochefort Océan",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.rochefort-ocean.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-15",
+  "lastUpdateDatatourisme": "2023-06-16T05:49:27.46Z"
+}

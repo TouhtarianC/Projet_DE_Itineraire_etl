@@ -1,0 +1,537 @@
+{
+  "@id": "https://data.datatourisme.fr/13/f33d134e-bb25-3622-94b1-8c8a7d004045",
+  "dc:identifier": "5707018",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Der 7 ha große Park rund um das Schloss Panloy ist ein geschütztes Naturgebiet, das es zu durchstreifen gilt. Begegnen Sie auf den Wegen den zahlreichen Tieren und entdecken Sie anhand der verschiedenen Gebäude die Geschichte des Ortes."
+    ],
+    "en": [
+      "The park around the castle of Panloy is a preserve nature of 7ha. Walking through the paths, discover the numerous animals and the history of the site and its buildings."
+    ],
+    "it": [
+      "Il parco di 7 ettari intorno al castello di Panloy è un'area naturale preservata da esplorare. Lungo i sentieri, incontrate i numerosi animali e scoprite la storia del luogo attraverso i diversi edifici."
+    ],
+    "fr": [
+      "Le parc de 7ha autour du château de Panloy est un espace naturel préservé à parcourir. Au détour des chemins, faites la rencontre des nombreux animaux et découvrez l'histoire des lieux à travers les différents bâtiments."
+    ],
+    "nl": [
+      "Het park van 7 hectare rond het kasteel van Panloy is een beschermd natuurgebied om te verkennen. Maak langs de paden kennis met de vele dieren en ontdek de geschiedenis van de plaats aan de hand van de verschillende gebouwen."
+    ],
+    "es": [
+      "El parque del castillo es un espacio natural preservado de 7ha. Paseando en los caminos, encuentra los animales y descubre la historia del sitio y sus edificios."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Park of the castle of Panloy"
+    ],
+    "fr": [
+      "Parc du Château de Panloy"
+    ],
+    "es": [
+      "Parque del castillo de Panloy"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f8363057-9d05-3dc5-843a-e693e7cdafe0",
+    "dc:identifier": "2425",
+    "schema:email": [
+      "administration@coeurdesaintonge.fr",
+      "bergonzoni@coeurdesaintonge.fr",
+      "gaillard@coeurdesaintonge.fr",
+      "tourisme@coeurdesaintonge.fr"
+    ],
+    "schema:legalName": "Communauté de communes Coeur de Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.coeurdesaintonge.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/2675a098-9423-3d49-b012-f30de04f8734",
+      "schema:telephone": [
+        "+33 5 46 91 73 23"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.panloy.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/e8ab7e3c-b090-3815-93b5-851b40f15f4f",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/9a01533f-1607-3000-8f58-d8cd53c6a73c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c3fb3482-6d47-3802-b72e-89b405999239",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f35d7b78-d418-3f63-a099-bf1e6c4371aa",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Der 7 ha große Park rund um das Schloss Panloy ist ein geschütztes Naturgebiet, das es zu durchstreifen gilt. Begegnen Sie auf den Wegen den zahlreichen Tieren und entdecken Sie anhand der verschiedenen Gebäude die Geschichte des Ortes."
+        ],
+        "en": [
+          "The park around the castle of Panloy is a preserve nature of 7ha. Walking through the paths, discover the numerous animals and the history of the site and its buildings."
+        ],
+        "it": [
+          "Il parco di 7 ettari intorno al castello di Panloy è un'area naturale preservata da esplorare. Lungo i sentieri, incontrate i numerosi animali e scoprite la storia del luogo attraverso i diversi edifici."
+        ],
+        "fr": [
+          "Le parc de 7ha autour du château de Panloy est un espace naturel préservé à parcourir. Au détour des chemins, faites la rencontre des nombreux animaux et découvrez l'histoire des lieux à travers les différents bâtiments."
+        ],
+        "nl": [
+          "Het park van 7 hectare rond het kasteel van Panloy is een beschermd natuurgebied om te verkennen. Maak langs de paden kennis met de vele dieren en ontdek de geschiedenis van de plaats aan de hand van de verschillende gebouwen."
+        ],
+        "es": [
+          "El parque del castillo es un espacio natural preservado de 7ha. Paseando en los caminos, encuentra los animales y descubre la historia del sitio y sus edificios."
+        ]
+      }
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/6e866798-cae5-351c-9e8d-963661217e60",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:LabelRating_AccueilVelo",
+        "@type": [
+          "LabelRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "Accueil Vélo"
+          ],
+          "pt": [
+            "Accueil Vélo"
+          ],
+          "en": [
+            "Accueil Vélo"
+          ],
+          "it": [
+            "Accueil Vélo"
+          ],
+          "fr": [
+            "Accueil Vélo"
+          ],
+          "nl": [
+            "Accueil Vélo"
+          ],
+          "es": [
+            "Accueil Vélo"
+          ]
+        },
+        "isCompliantWith": [
+          "PlaceOfInterest"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/7ff55edf-cb03-39cb-913c-7a1b35aa3bf9",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cc9e66bf-73ee-36f6-8c84-c0c6ce0ee874",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/df98a037-1f14-336e-9636-2660015f6820",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/a97ab256-8cc2-3ca4-9a33-1ec240d6d902",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/e5c077c6-217c-3223-9b62-6a075fa8d4ea",
+          "schema:addressLocality": "Port-d'Envaux",
+          "schema:postalCode": "17350",
+          "schema:streetAddress": [
+            "3 Domaine de Panloy"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17285",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Port-d'Envaux"
+              ],
+              "pt": [
+                "Port-d'Envaux"
+              ],
+              "en": [
+                "Port-d'Envaux"
+              ],
+              "it": [
+                "Port-d'Envaux"
+              ],
+              "fr": [
+                "Port-d'Envaux"
+              ],
+              "nl": [
+                "Port-d'Envaux"
+              ],
+              "es": [
+                "Port-d'Envaux"
+              ]
+            },
+            "insee": "17285",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/7525b121-1087-30b7-a781-664ad3ed2acd",
+        "schema:latitude": "45.842224",
+        "schema:longitude": "-0.68627",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/5e6bc237-16e9-3abf-98dc-2417543a39c3",
+          "schema:closes": "18:00:00",
+          "schema:opens": "14:00:00",
+          "schema:validFrom": "2023-04-01T00:00:00",
+          "schema:validThrough": "2023-05-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7a797837-4917-3535-be0e-6a7f47c9fc86",
+          "schema:closes": "18:00:00",
+          "schema:opens": "14:00:00",
+          "schema:validFrom": "2023-09-01T00:00:00",
+          "schema:validThrough": "2023-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9c3993b8-cb56-3a30-9d97-1a116acb01f3",
+          "schema:closes": "19:00:00",
+          "schema:opens": "10:00:00",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a1058a57-5cc2-3464-b4f6-321def8c32b6",
+          "schema:closes": "18:00:00",
+          "schema:opens": "14:00:00",
+          "schema:validFrom": "2023-06-01T00:00:00",
+          "schema:validThrough": "2023-06-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fc2b0d2c-52a9-3c92-8221-997076160290",
+          "schema:closes": "18:00:00",
+          "schema:opens": "14:00:00",
+          "schema:validFrom": "2023-10-01T00:00:00",
+          "schema:validThrough": "2023-11-12T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/f8a2cb15-de5f-358e-97f3-0396b4b0396a",
+      "schema:email": [
+        "administration@coeurdesaintonge.fr",
+        "bergonzoni@coeurdesaintonge.fr",
+        "gaillard@coeurdesaintonge.fr",
+        "tourisme@coeurdesaintonge.fr"
+      ],
+      "schema:legalName": "Communauté de communes Coeur de Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.coeurdesaintonge.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-09",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.334Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/21c275c2-3fed-3dc8-abc2-c246ad3a6353",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/572e5359-1b1b-387f-ab08-c8c7b4df4e10",
+          "schema:maxPrice": [
+            "5",
+            "6"
+          ],
+          "schema:minPrice": [
+            "5",
+            "6"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/23698697-176f-3f30-8e29-1d3c3e965d3b",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-11-12",
+              "startDate": "2023-04-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "@id": "https://data.datatourisme.fr/13/f040c7e9-7a59-36b8-8b77-f190a76b86f9",
+  "dc:identifier": "5742937",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Le Berceau des Anges liegt an der Küstenstraße Royan-Blaye und empfängt Sie im Herzen seines Weinbergs. Hier können Sie seine Produktpalette entdecken und probieren, die aus den feinen Holzsorten hervorgeht.\r\nSie können auch eine alte Brennerei besichtigen."
+    ],
+    "en": [
+      "Located on the Royan-Blaye coastal road, the Berceau des Anges welcomes you in the heart of its vineyard, to make you discover and taste its range of products, emanating from fine wood vintages.\r\nYou can also see an old distillery."
+    ],
+    "it": [
+      "Situato sulla strada costiera Royan-Blaye, il Berceau des Anges vi accoglie nel cuore del suo vigneto, per farvi scoprire e degustare la sua gamma di prodotti, frutto di annate di legno pregiato.\r\nSi può anche vedere un'antica distilleria."
+    ],
+    "fr": [
+      "Situé sur la route côtière Royan-Blaye, le Berceau des Anges vous accueille au coeur de son vignoble, pour vous faire découvrir et dégustation sa gamme de produits, émanant des crus fins bois.\r\nVous pourrez ainsi voir une vieille distillerie."
+    ],
+    "es": [
+      "Situado en la carretera costera de Royan-Blaye, el Berceau des Anges le acoge en el corazón de su viñedo, para hacerle descubrir y degustar su gama de productos, emanados de las cosechas de madera noble.\r\nTambién se puede ver una antigua destilería."
+    ],
+    "nl": [
+      "Gelegen aan de kustweg Royan-Blaye, verwelkomt de Berceau des Anges u in het hart van zijn wijngaard, om u zijn assortiment producten te laten ontdekken en proeven, afkomstig van de fijne houtwijnen.\r\nU kunt ook een oude distilleerderij zien."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Le Berceau des Anges"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/35c6e49e-75c8-3037-9283-6fb2c5cfdf46",
+      "schema:email": [
+        "marchand.patrice@orange.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 86 07 16",
+        "+33 6 08 83 02 15"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.berceau-des-anges.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/74b0b5b7-4753-34f1-bfcb-e2a3d5d21a09",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/5f2be05a-886c-3455-9cd7-d7b4f25562ec",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6277ff6d-9388-330c-a324-c44a3b3b1a11",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b639be7e-fcea-318d-8028-74712138a4c3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f4d00df8-b2ac-31dd-8fe2-995813854fe5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f5580424-7f00-358d-86a5-c1a348faee4d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Le Berceau des Anges liegt an der Küstenstraße Royan-Blaye und empfängt Sie im Herzen seines Weinbergs. Hier können Sie seine Produktpalette entdecken und probieren, die aus den feinen Holzsorten hervorgeht.\r\nSie können auch eine alte Brennerei besichtigen."
+        ],
+        "en": [
+          "Located on the Royan-Blaye coastal road, the Berceau des Anges welcomes you in the heart of its vineyard, to make you discover and taste its range of products, emanating from fine wood vintages.\r\nYou can also see an old distillery."
+        ],
+        "it": [
+          "Situato sulla strada costiera Royan-Blaye, il Berceau des Anges vi accoglie nel cuore del suo vigneto, per farvi scoprire e degustare la sua gamma di prodotti, frutto di annate di legno pregiato.\r\nSi può anche vedere un'antica distilleria."
+        ],
+        "fr": [
+          "Situé sur la route côtière Royan-Blaye, le Berceau des Anges vous accueille au coeur de son vignoble, pour vous faire découvrir et dégustation sa gamme de produits, émanant des crus fins bois.\r\nVous pourrez ainsi voir une vieille distillerie."
+        ],
+        "es": [
+          "Situado en la carretera costera de Royan-Blaye, el Berceau des Anges le acoge en el corazón de su viñedo, para hacerle descubrir y degustar su gama de productos, emanados de las cosechas de madera noble.\r\nTambién se puede ver una antigua destilería."
+        ],
+        "nl": [
+          "Gelegen aan de kustweg Royan-Blaye, verwelkomt de Berceau des Anges u in het hart van zijn wijngaard, om u zijn assortiment producten te laten ontdekken en proeven, afkomstig van de fijne houtwijnen.\r\nU kunt ook een oude distilleerderij zien."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/00e80b1d-f31a-3f98-95df-49a1e7631191",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/22869f2a-c1eb-3312-ab21-16c315d412ff",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/67520eeb-2c5f-39a9-b651-8adebec8a389",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b3ff8b64-d28b-3284-98f9-cc12dfed799b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ceefaa6a-51aa-32ed-aa9b-4d9354b89b8c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/64adf7ec-0c79-3bfe-a4a8-b19978eabdd5",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/e3035925-39c8-36d0-a90e-55617c0f4659",
+          "schema:addressLocality": "Saint-Bonnet-sur-Gironde",
+          "schema:postalCode": "17150",
+          "schema:streetAddress": [
+            "22 route de St-Ciers-sur-Gironde",
+            "Les Moulineaux"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17312",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Bonnet-sur-Gironde"
+              ],
+              "pt": [
+                "Saint-Bonnet-sur-Gironde"
+              ],
+              "en": [
+                "Saint-Bonnet-sur-Gironde"
+              ],
+              "it": [
+                "Saint-Bonnet-sur-Gironde"
+              ],
+              "fr": [
+                "Saint-Bonnet-sur-Gironde"
+              ],
+              "nl": [
+                "Saint-Bonnet-sur-Gironde"
+              ],
+              "es": [
+                "Saint-Bonnet-sur-Gironde"
+              ]
+            },
+            "insee": "17312",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/ba022132-90d9-3d99-87f5-eb3122a600dd",
+        "schema:latitude": "45.339969",
+        "schema:longitude": "-0.647125",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-03-16",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.868Z"
+}

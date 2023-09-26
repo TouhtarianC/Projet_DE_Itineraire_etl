@@ -1,0 +1,519 @@
+{
+  "@id": "https://data.datatourisme.fr/13/c027d4df-0461-34c0-b7cb-2ce5ceff00ae",
+  "dc:identifier": "5894180",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Pfarrkirche Saint-Christophe ist romanisch und stammt aus dem frühen 12. Das Gebäude ist bis auf den im 15. Jahrhundert umgebauten Glockenturm authentisch geblieben."
+    ],
+    "en": [
+      "The parish church of St.Christophe is Romanesque and dates from the early 12th century. The building has remained authentic, with the exception of the bell tower, which was remodelled in the 15th century."
+    ],
+    "it": [
+      "La chiesa parrocchiale di San Cristoforo è romanica e risale agli inizi del XII secolo. L'edificio è rimasto autentico, ad eccezione del campanile, rimaneggiato nel XV secolo."
+    ],
+    "fr": [
+      "L'église paroissiale Saint-Christophe est romane et date du début du 12e siècle. Cet édifice est resté authentique, à l’exception du clocher remanié au 15e siècle."
+    ],
+    "es": [
+      "La iglesia parroquial de San Cristóbal es románica y data de principios del siglo XII. El edificio ha conservado su autenticidad, a excepción del campanario, remodelado en el siglo XV."
+    ],
+    "nl": [
+      "De parochiekerk van Sint-Christoffel is Romaans en dateert uit het begin van de 12e eeuw. Het gebouw is authentiek gebleven, met uitzondering van de klokkentoren, die in de 15e eeuw werd verbouwd."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Saint-Christophe Church"
+    ],
+    "fr": [
+      "Eglise Saint-Christophe"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/16ba7217-2e6a-3f1d-a54d-11ab6967e371",
+    "dc:identifier": "2063",
+    "schema:email": [
+      "direction@sudcharentetourisme.fr",
+      "noemie@sudcharentetourisme.fr"
+    ],
+    "schema:legalName": "Office de tourisme du Sud Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.sudcharentetourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/53fa5e22-43d8-312e-b84e-174b114bbada",
+      "schema:email": [
+        "mairie.champagne-vigny@wanadoo.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 64 10 77"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b0263a82-f99c-31a9-b85e-a05d47aed821",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/25cffae6-c770-30c7-819d-f09ab8670041",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3a95dc8c-885f-3dae-baf7-eafef5040207",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/578754cf-d8e0-341a-9da3-c7de0468fde9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9f03cdcd-6621-3848-8f5a-0cd60a3a99ff",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Pfarrkirche Saint-Christophe ist romanisch und stammt aus dem frühen 12. Das Gebäude ist bis auf den im 15. Jahrhundert umgebauten Glockenturm authentisch geblieben."
+        ],
+        "en": [
+          "The parish church of St.Christophe is Romanesque and dates from the early 12th century. The building has remained authentic, with the exception of the bell tower, which was remodelled in the 15th century."
+        ],
+        "it": [
+          "La chiesa parrocchiale di San Cristoforo è romanica e risale agli inizi del XII secolo. L'edificio è rimasto autentico, ad eccezione del campanile, rimaneggiato nel XV secolo."
+        ],
+        "fr": [
+          "L'église paroissiale Saint-Christophe est romane et date du début du 12e siècle. Cet édifice est resté authentique, à l’exception du clocher remanié au 15e siècle."
+        ],
+        "es": [
+          "La iglesia parroquial de San Cristóbal es románica y data de principios del siglo XII. El edificio ha conservado su autenticidad, a excepción del campanario, remodelado en el siglo XV."
+        ],
+        "nl": [
+          "De parochiekerk van Sint-Christoffel is Romaans en dateert uit het begin van de 12e eeuw. Het gebouw is authentiek gebleven, met uitzondering van de klokkentoren, die in de 15e eeuw werd verbouwd."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/2a617a1f-167e-381a-85e9-f92cd7dff855",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ad517e39-a0f0-3636-a520-3f337ca9fb5d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ed2622a7-397b-35a3-9421-0249a9c2d5c7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fa4697ac-cb37-3985-98fa-f3a7f0ade0f5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/d4b2ef01-5ab0-31d7-bb65-62a74ac5b21c",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/50cd97c7-8d76-3706-b598-10f8ca0a8981",
+          "schema:addressLocality": "Champagne-Vigny",
+          "schema:postalCode": "16250",
+          "schema:streetAddress": [
+            "Le Bourg"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16075",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Champagne-Vigny"
+              ],
+              "pt": [
+                "Champagne-Vigny"
+              ],
+              "en": [
+                "Champagne-Vigny"
+              ],
+              "it": [
+                "Champagne-Vigny"
+              ],
+              "fr": [
+                "Champagne-Vigny"
+              ],
+              "nl": [
+                "Champagne-Vigny"
+              ],
+              "es": [
+                "Champagne-Vigny"
+              ]
+            },
+            "insee": "16075",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/0dac1fb4-4a0a-3bb7-a4d3-fca729e06ed6",
+        "schema:latitude": "45.507768",
+        "schema:longitude": "0.037616",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/78011bf2-e45a-33b6-9c21-93641d9c7558",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "24 Stunden am Tag geöffnet."
+            ],
+            "en": [
+              "Open 24 hours a day."
+            ],
+            "it": [
+              "Aperto 24 ore su 24."
+            ],
+            "fr": [
+              "Ouvert 24h/24."
+            ],
+            "es": [
+              "Abierto las 24 horas."
+            ],
+            "nl": [
+              "24 uur open."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/2c829c8f-7c3b-3d92-b597-6adb930cfc92",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/8f572f2d-97d7-3723-b1df-3d20bce1cd75",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/97bfdb96-f59e-37d5-825f-f3e213c7eda4",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/cad2b6b4-c748-37c6-b547-97bb48d94b5b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ce99f383-3e09-348b-a1c7-4b06e3232e83",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/17ccf9a1-6b41-3eb9-a1e1-edf0fbbf90c5",
+      "schema:email": [
+        "direction@sudcharentetourisme.fr",
+        "noemie@sudcharentetourisme.fr"
+      ],
+      "schema:legalName": "Office de tourisme du Sud-Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.sudcharentetourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-03-11",
+  "lastUpdateDatatourisme": "2023-03-12T06:41:03.509Z"
+}

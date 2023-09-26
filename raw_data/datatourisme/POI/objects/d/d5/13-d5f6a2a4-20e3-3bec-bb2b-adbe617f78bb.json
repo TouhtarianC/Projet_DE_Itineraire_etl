@@ -1,0 +1,435 @@
+{
+  "@id": "https://data.datatourisme.fr/13/d5f6a2a4-20e3-3bec-bb2b-adbe617f78bb",
+  "dc:identifier": "5772190",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Unsere Bibliothek ist ein gemütlicher Ort des Lebens und des Austauschs und bietet die Möglichkeit, bis zu 6 Bücher für 3 Wochen auszuleihen, die Anmeldung ist kostenlos."
+    ],
+    "en": [
+      "Our library is a warm space of life and exchange offering the possibility of borrowing up to 6 books for a period of 3 weeks, registration is free."
+    ],
+    "it": [
+      "La nostra biblioteca è un luogo caldo e accogliente per vivere e scambiare idee, che offre la possibilità di prendere in prestito fino a 6 libri per un periodo di 3 settimane, l'iscrizione è gratuita."
+    ],
+    "fr": [
+      "Notre bibliothèque est un espace chaleureux de vie et d'échange offrant la possibilité d'emprunter jusqu'à 6 livres pour une durée de 3 semaines, l'inscription est gratuite."
+    ],
+    "nl": [
+      "Onze bibliotheek is een warme en vriendelijke plek om te leven en ideeën uit te wisselen, en biedt de mogelijkheid om tot 6 boeken te lenen voor een periode van 3 weken, inschrijving is gratis."
+    ],
+    "es": [
+      "Nuestra biblioteca es un lugar cálido y acogedor para convivir e intercambiar ideas, ofreciendo la posibilidad de tomar prestados hasta 6 libros por un periodo de 3 semanas, la inscripción es gratuita."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Bibliothèque Municipale de Corme-Écluse"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/75b3c15d-dedb-3c72-82e1-269807ab1c48",
+      "schema:email": [
+        "c.menant@cormeecluse.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 02 34 31"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.cormeecluse.fr/articles.php?lng=fr&pg=64&mnuid=18&tconfig=0"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/cd0fa9ab-c2e3-321a-a1cc-b1fc5a01eee7",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0660d439-aadc-3e0e-bd4b-40b05ab2a576",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/62b336c2-ddd9-317d-ba9f-5aa164d2b4a3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/688ccd2d-7a5d-37db-ae83-181fe079119f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d8100318-c36c-38cb-8b14-176ca6a0fc48",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/eba332c9-b6d8-3aa5-9aee-304256017a4d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Unsere Bibliothek ist ein gemütlicher Ort des Lebens und des Austauschs und bietet die Möglichkeit, bis zu 6 Bücher für 3 Wochen auszuleihen, die Anmeldung ist kostenlos."
+        ],
+        "en": [
+          "Our library is a warm space of life and exchange offering the possibility of borrowing up to 6 books for a period of 3 weeks, registration is free."
+        ],
+        "it": [
+          "La nostra biblioteca è un luogo caldo e accogliente per vivere e scambiare idee, che offre la possibilità di prendere in prestito fino a 6 libri per un periodo di 3 settimane, l'iscrizione è gratuita."
+        ],
+        "fr": [
+          "Notre bibliothèque est un espace chaleureux de vie et d'échange offrant la possibilité d'emprunter jusqu'à 6 livres pour une durée de 3 semaines, l'inscription est gratuite."
+        ],
+        "nl": [
+          "Onze bibliotheek is een warme en vriendelijke plek om te leven en ideeën uit te wisselen, en biedt de mogelijkheid om tot 6 boeken te lenen voor een periode van 3 weken, inschrijving is gratis."
+        ],
+        "es": [
+          "Nuestra biblioteca es un lugar cálido y acogedor para convivir e intercambiar ideas, ofreciendo la posibilidad de tomar prestados hasta 6 libros por un periodo de 3 semanas, la inscripción es gratuita."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/97c72642-a309-3249-a59a-b1e64702262a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/bff768f1-d9d7-3c0d-91e7-7929ba73d240",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cd54d60f-5b6a-3cf8-b769-bdfadc6ad848",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/dfb0acb5-b174-3a9d-a654-ba1d221f50c0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e500c336-7783-34fa-ab52-22cee3545274",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/5a10b92d-d2c8-3fdc-9e7b-64d7a1aeee0d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/b4b7ba25-199b-302c-9195-3cffdc05b9f1",
+          "schema:addressLocality": "Corme-Écluse",
+          "schema:postalCode": "17600",
+          "schema:streetAddress": [
+            "5 rue des Écoles"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17119",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Corme-Écluse"
+              ],
+              "pt": [
+                "Corme-Écluse"
+              ],
+              "en": [
+                "Corme-Écluse"
+              ],
+              "it": [
+                "Corme-Écluse"
+              ],
+              "fr": [
+                "Corme-Écluse"
+              ],
+              "nl": [
+                "Corme-Écluse"
+              ],
+              "es": [
+                "Corme-Écluse"
+              ]
+            },
+            "insee": "17119",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/bb4d7b39-1d70-35fc-a2f8-40d34bbb7096",
+        "schema:latitude": "45.630386",
+        "schema:longitude": "-0.855644",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-08-05",
+  "lastUpdateDatatourisme": "2023-02-01T18:07:36.037Z"
+}

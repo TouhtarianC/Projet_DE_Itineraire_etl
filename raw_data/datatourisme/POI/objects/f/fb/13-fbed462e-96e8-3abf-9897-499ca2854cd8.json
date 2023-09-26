@@ -1,0 +1,745 @@
+{
+  "@id": "https://data.datatourisme.fr/13/fbed462e-96e8-3abf-9897-499ca2854cd8",
+  "dc:identifier": "5762177",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "DefenceSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das im ältesten zivilen Gebäude von Rochefort untergebrachte Musée national de la Marine öffnet die Türen zu seiner wertvollen Sammlung von Kunst- und Geschichtsobjekten, die das Leben im Arsenal von seiner Gründung durch Ludwig XIV. bis ins 20."
+    ],
+    "en": [
+      "Housed in Rochefort's oldest civilian building, the Musée National de la Marine opens the doors to its precious collection of art and historical objects that bear witness to the life of the Arsenal from its foundation by Louis XIV to the 20th century."
+    ],
+    "it": [
+      "Ospitato nel più antico edificio civile di Rochefort, il Musée National de la Marine apre le porte alla sua preziosa collezione di oggetti d'arte e storici che testimoniano la vita dell'Arsenale dalla sua fondazione da parte di Luigi XIV al XX secolo."
+    ],
+    "fr": [
+      "Installé dans le plus ancien bâtiment civil de Rochefort, le musée national de la Marine ouvre les portes de sa précieuse collection d'objets d’art et d’histoire témoignant de la vie de l’Arsenal, depuis sa fondation par Louis XIV jusqu’au XXe siècle."
+    ],
+    "es": [
+      "Instalado en el edificio civil más antiguo de Rochefort, el Museo Nacional de la Marina abre las puertas a su preciosa colección de arte y objetos históricos que dan testimonio de la vida del Arsenal desde su fundación por Luis XIV hasta el siglo XX."
+    ],
+    "nl": [
+      "Het Musée National de la Marine is gehuisvest in het oudste burgerlijke gebouw van Rochefort en opent de deuren van zijn kostbare collectie kunst en historische voorwerpen die getuigen van het leven van het Arsenaal vanaf de stichting door Lodewijk XIV tot de 20e eeuw."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Nationales Museum der Marine"
+    ],
+    "en": [
+      "National Museum of Navy"
+    ],
+    "fr": [
+      "Musée national de la Marine"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q3330716"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/9afefc52-942c-383c-bc1f-14b2139b09ba",
+    "dc:identifier": "2055",
+    "schema:email": [
+      "chloe.mailler@rochefort-ocean.com",
+      "christine.nourisson@rochefort-ocean.com",
+      "chrystelle.ecale@rochefort-ocean.com",
+      "lea.origlia@rochefort-ocean.com",
+      "sandrine.bouron@rochefort-ocean.com"
+    ],
+    "schema:legalName": "Office de Tourisme Rochefort Océan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.rochefort-ocean.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/6575d1ab-88e7-3d1b-a0f2-bb68aa1d2c37",
+      "schema:email": [
+        "rochefort@musee-marine.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 99 86 57"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.musee-marine.fr/nos-musees/rochefort.html"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/72123ac2-7385-346f-a8c4-3c44b7312ce3",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3573b464-8f49-3754-af55-5a0e0182dde5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6aaaeea9-d709-349c-9271-cb054d53fe08",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9257ba3d-2a16-3981-a087-8d1f85ba4eb0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das im ältesten zivilen Gebäude von Rochefort untergebrachte Musée national de la Marine öffnet die Türen zu seiner wertvollen Sammlung von Kunst- und Geschichtsobjekten, die das Leben im Arsenal von seiner Gründung durch Ludwig XIV. bis ins 20."
+        ],
+        "en": [
+          "Housed in Rochefort's oldest civilian building, the Musée National de la Marine opens the doors to its precious collection of art and historical objects that bear witness to the life of the Arsenal from its foundation by Louis XIV to the 20th century."
+        ],
+        "it": [
+          "Ospitato nel più antico edificio civile di Rochefort, il Musée National de la Marine apre le porte alla sua preziosa collezione di oggetti d'arte e storici che testimoniano la vita dell'Arsenale dalla sua fondazione da parte di Luigi XIV al XX secolo."
+        ],
+        "fr": [
+          "Installé dans le plus ancien bâtiment civil de Rochefort, le musée national de la Marine ouvre les portes de sa précieuse collection d'objets d’art et d’histoire témoignant de la vie de l’Arsenal, depuis sa fondation par Louis XIV jusqu’au XXe siècle."
+        ],
+        "es": [
+          "Instalado en el edificio civil más antiguo de Rochefort, el Museo Nacional de la Marina abre las puertas a su preciosa colección de arte y objetos históricos que dan testimonio de la vida del Arsenal desde su fundación por Luis XIV hasta el siglo XX."
+        ],
+        "nl": [
+          "Het Musée National de la Marine is gehuisvest in het oudste burgerlijke gebouw van Rochefort en opent de deuren van zijn kostbare collectie kunst en historische voorwerpen die getuigen van het leven van het Arsenaal vanaf de stichting door Lodewijk XIV tot de 20e eeuw."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/d1bc9d39-cdfd-3827-be49-deca9ccdd288",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/8aa0d48d-56b3-3c43-8f4e-01e13af9299a",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Musée marine rochefort"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "yoyo"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/0d49c03f-8491-3545-a149-7cf3c6997db1",
+          "ebucore:fileSize": [
+            3647783
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:PNG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "PDF-Bild"
+                ],
+                "pt": [
+                  "Imagem PDF"
+                ],
+                "en": [
+                  "PDF image file"
+                ],
+                "it": [
+                  "Immagine PDF"
+                ],
+                "fr": [
+                  "Image PDF"
+                ],
+                "nl": [
+                  "Pdf-afbeelding"
+                ],
+                "es": [
+                  "Imagen PDF"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/png"
+                ],
+                "pt": [
+                  "image/png"
+                ],
+                "en": [
+                  "image/png"
+                ],
+                "it": [
+                  "image/png"
+                ],
+                "fr": [
+                  "image/png"
+                ],
+                "nl": [
+                  "image/png"
+                ],
+                "es": [
+                  "image/png"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1120,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/4/45/Mus%C3%A9e_marine_rochefort.png"
+          ],
+          "ebucore:width": 1414,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/6e866798-cae5-351c-9e8d-963661217e60",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:LabelRating_AccueilVelo",
+        "@type": [
+          "LabelRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "Accueil Vélo"
+          ],
+          "pt": [
+            "Accueil Vélo"
+          ],
+          "en": [
+            "Accueil Vélo"
+          ],
+          "it": [
+            "Accueil Vélo"
+          ],
+          "fr": [
+            "Accueil Vélo"
+          ],
+          "nl": [
+            "Accueil Vélo"
+          ],
+          "es": [
+            "Accueil Vélo"
+          ]
+        },
+        "isCompliantWith": [
+          "PlaceOfInterest"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0cc20f52-d8cd-37ff-b0ff-84b64b774459",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/10da7cb2-9544-31c6-ae79-ef66285ea276",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2669a2c1-669b-305e-8e6f-17b499db3032",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/783c84d2-685a-3a3f-a932-4f7c364912e7",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/899bf956-e0c5-38ac-a6db-284529773db4",
+          "schema:addressLocality": "Rochefort",
+          "schema:postalCode": "17300",
+          "schema:streetAddress": [
+            "1 place de la Galissonnière",
+            "Hôtel de Cheusses"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17299",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Rochefort"
+              ],
+              "pt": [
+                "Rochefort"
+              ],
+              "en": [
+                "Rochefort"
+              ],
+              "it": [
+                "Rochefort"
+              ],
+              "fr": [
+                "Rochefort"
+              ],
+              "nl": [
+                "Rochefort"
+              ],
+              "es": [
+                "Rochefort"
+              ]
+            },
+            "insee": "17299",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/a8e172d9-8d38-34e1-8eba-bff5114b43d8",
+        "schema:latitude": "45.934914",
+        "schema:longitude": "-0.957971",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/01e7b9cc-af30-312f-9eeb-6da55afbae7c",
+          "schema:closes": "18:00:00",
+          "schema:opens": "13:30:00",
+          "schema:validFrom": "2023-05-13T00:00:00",
+          "schema:validThrough": "2023-05-14T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/762b235f-507d-3681-b504-9160414dc959",
+          "schema:validFrom": "2023-07-08T00:00:00",
+          "schema:validThrough": "2023-09-03T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Nocturnes montags im Rahmen der lundis de l'arsenal (Montags im Zeughaus)"
+            ],
+            "en": [
+              "Nocturnes on Mondays as part of the arsenal's Monday program"
+            ],
+            "it": [
+              "Notturni il lunedì nell'ambito del programma arsenal Mondays"
+            ],
+            "fr": [
+              "Nocturnes les lundis dans le cadre des lundis de l'arsenal"
+            ],
+            "es": [
+              "Nocturnos los lunes en el marco del programa de los lunes del arsenal"
+            ],
+            "nl": [
+              "Nocturnes op maandag als onderdeel van het arsenaal maandagprogramma"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/599bd465-0867-35ae-b311-c88be8a1a382",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/5ce327e0-8349-37dd-9d78-c27430f664a2",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/743c8429-a263-3908-8361-62e81c37ae49",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/cef7ab5a-6784-35a3-ad9c-620f2c22eacb",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f3285f0e-8d56-30fb-99fb-7697ce1579fc",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8307a28c-e0f6-36c1-b50a-0e2a1ad30446",
+          "schema:validFrom": "2023-05-15T00:00:00",
+          "schema:validThrough": "2023-07-07T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9146701b-0a52-3f79-95db-33b7ea5beeed",
+          "schema:validFrom": "2023-04-24T00:00:00",
+          "schema:validThrough": "2023-05-12T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fcb58f57-93c9-3118-b3b8-eb120105e73c",
+          "schema:validFrom": "2023-04-08T00:00:00",
+          "schema:validThrough": "2023-04-23T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fed90c24-5b4e-374e-b413-9c9ae527b242",
+      "schema:email": [
+        "chloe.mailler@rochefort-ocean.com",
+        "christine.nourisson@rochefort-ocean.com",
+        "chrystelle.ecale@rochefort-ocean.com",
+        "lea.origlia@rochefort-ocean.com",
+        "sandrine.bouron@rochefort-ocean.com"
+      ],
+      "schema:legalName": "Office de Tourisme Rochefort Océan",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.rochefort-ocean.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-21",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.304Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/9e3335cc-7c11-3f86-b8b7-420973ec28ce",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/437b9273-0c4a-31ef-83fc-078804ec6400",
+          "schema:maxPrice": [
+            "6",
+            "8"
+          ],
+          "schema:minPrice": [
+            "6",
+            "8"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/c3873c84-46d3-351a-8ae5-7459d73acc75",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-07-20"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a9b62df6-4212-3b1c-adc9-42c30b8e0235",
+          "schema:maxPrice": [
+            "2",
+            "6",
+            "9"
+          ],
+          "schema:minPrice": [
+            "2",
+            "6",
+            "9"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/71865052-cc14-3f67-bb61-1f261271b588",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-07-19",
+              "startDate": "2023-02-02"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "@id": "https://data.datatourisme.fr/13/d1c17777-d4e0-39d9-b328-9f67c288bc14",
+  "dc:identifier": "5783250",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Michel Fradon und sein Sohn Damien sind seit mehreren Generationen Erben einer Weinbauernfamilie und leiten heute den Betrieb."
+    ],
+    "en": [
+      "Heirs to a family of winegrowers for several generations, Michel Fradon and his son Damien now run the business."
+    ],
+    "it": [
+      "Eredi di una famiglia di viticoltori da diverse generazioni, Michel Fradon e suo figlio Damien gestiscono oggi la tenuta."
+    ],
+    "fr": [
+      "Héritiers d’une famille de viticulteurs depuis plusieurs générations, Michel Fradon et son fils Damien dirigent aujourd’hui l’exploitation."
+    ],
+    "nl": [
+      "Michel Fradon en zijn zoon Damien, erfgenamen van een wijnbouwersfamilie van verschillende generaties, runnen nu het bedrijf."
+    ],
+    "es": [
+      "Herederos de una familia de viticultores desde hace varias generaciones, Michel Fradon y su hijo Damien dirigen ahora la finca."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Domaine Fradon - Pineau Cognac et Jus de Raisin"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/7693f7c4-0d56-37f8-bd1d-143ec112aefb",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0ec67136-4e69-3ab4-8132-6e875ca00b5a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/28a81628-04da-3fe7-8636-992921f7d63d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/83060061-4e01-3b98-b3d9-b04d3ffe2c8e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bc2c82f7-8df6-3f67-bebc-52b07c69415f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d34d3897-33fc-3a10-a2a7-5078f98c0684",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Michel Fradon und sein Sohn Damien sind seit mehreren Generationen Erben einer Weinbauernfamilie und leiten heute den Betrieb."
+        ],
+        "en": [
+          "Heirs to a family of winegrowers for several generations, Michel Fradon and his son Damien now run the business."
+        ],
+        "it": [
+          "Eredi di una famiglia di viticoltori da diverse generazioni, Michel Fradon e suo figlio Damien gestiscono oggi la tenuta."
+        ],
+        "fr": [
+          "Héritiers d’une famille de viticulteurs depuis plusieurs générations, Michel Fradon et son fils Damien dirigent aujourd’hui l’exploitation."
+        ],
+        "nl": [
+          "Michel Fradon en zijn zoon Damien, erfgenamen van een wijnbouwersfamilie van verschillende generaties, runnen nu het bedrijf."
+        ],
+        "es": [
+          "Herederos de una familia de viticultores desde hace varias generaciones, Michel Fradon y su hijo Damien dirigen ahora la finca."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/1331639c-fb0b-3bab-a210-d18c4c41ee63",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/496d57fe-3950-36b1-bf5c-777e5e66eb44",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/77efcf86-db98-39c2-9b4e-b4e6f80cff82",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c7bf1361-6df7-36bf-8a6c-deee61aa79b2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ea5408d2-4d2c-3b39-9402-95c5a3b6b542",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/c395be7d-07c9-3620-921f-caeaa702a97c",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/4c490fc2-4e07-34d4-97d0-c0442eb9ff89",
+          "schema:addressLocality": "Réaux sur Trèfle",
+          "schema:postalCode": "17500",
+          "schema:streetAddress": [
+            "le Château"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17295",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Réaux sur Trèfle"
+              ],
+              "pt": [
+                "Réaux sur Trèfle"
+              ],
+              "en": [
+                "Réaux sur Trèfle"
+              ],
+              "it": [
+                "Réaux sur Trèfle"
+              ],
+              "fr": [
+                "Réaux sur Trèfle"
+              ],
+              "nl": [
+                "Réaux sur Trèfle"
+              ],
+              "es": [
+                "Réaux sur Trèfle"
+              ]
+            },
+            "insee": "17295",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/61025aac-fab6-3131-802c-69aff72d015b",
+        "schema:latitude": "45.474446",
+        "schema:longitude": "-0.38368",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-01",
+  "lastUpdateDatatourisme": "2023-06-02T05:50:19.332Z"
+}

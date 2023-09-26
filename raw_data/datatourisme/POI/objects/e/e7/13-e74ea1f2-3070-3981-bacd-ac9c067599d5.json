@@ -1,0 +1,432 @@
+{
+  "@id": "https://data.datatourisme.fr/13/e74ea1f2-3070-3981-bacd-ac9c067599d5",
+  "dc:identifier": "5916959",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "In der Bibliothek können Sie eine große Auswahl an Büchern für Groß und Klein entdecken. Die Gemeindebibliothek wird von einem Team von Freiwilligen geleitet. Sie steht allen Interessierten offen."
+    ],
+    "en": [
+      "The library invites you to come and discover a large choice of books for adults and children. The municipal library is managed by a team of volunteers. It is open to all."
+    ],
+    "it": [
+      "La biblioteca offre una vasta gamma di libri per bambini e adulti. La biblioteca comunale è gestita da un team di volontari. È aperto a tutti."
+    ],
+    "fr": [
+      "La bibliothèque vous propose de venir découvrir un large choix d'ouvrages pour les grands et les petits. La bibliothèque municipale est gérée par une équipe de bénévoles. Elle est ouverte à toutes et tous."
+    ],
+    "es": [
+      "La biblioteca ofrece una amplia gama de libros para niños y adultos. La biblioteca municipal está gestionada por un equipo de voluntarios. Está abierto a todos."
+    ],
+    "nl": [
+      "De bibliotheek biedt een breed scala aan boeken voor kinderen en volwassenen. De gemeentelijke bibliotheek wordt beheerd door een team van vrijwilligers. Het staat open voor iedereen."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Bibliothèque municipale de Nuaillé d'Aunis"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/296472c9-542a-34d4-b88d-543508116cbc",
+    "dc:identifier": "2070",
+    "schema:email": [
+      "aurore.mdc@aunis-maraispoitevin.com",
+      "madeleine.dasilva@aunis-maraispoitevin.com"
+    ],
+    "schema:legalName": "Office de Tourisme Aunis Marais Poitevin",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.aunis-maraispoitevin.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/57e2746f-6699-3a6b-a7f4-14348042280b",
+      "schema:email": [
+        "bibliotheque@nuaille-daunis.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 01 04 46"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://nuaille-daunis.fr/les-activites/bibliotheque-municipale/fonctionnement/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/2108cd70-8c87-316d-9e67-d8b83e94cbf8",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1dc13fb5-77bb-3bdc-b5f9-af1907b1cb64",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/309cc7e0-c38c-390c-abbb-b4433283e70d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3271177e-0573-38d0-8b5e-618a0d753781",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/621185a2-6b10-33d2-8b2d-71d2e5c873ef",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c2774375-2bbb-36e6-a5d5-b837a83c960b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "In der Bibliothek können Sie eine große Auswahl an Büchern für Groß und Klein entdecken. Die Gemeindebibliothek wird von einem Team von Freiwilligen geleitet. Sie steht allen Interessierten offen."
+        ],
+        "en": [
+          "The library invites you to come and discover a large choice of books for adults and children. The municipal library is managed by a team of volunteers. It is open to all."
+        ],
+        "it": [
+          "La biblioteca offre una vasta gamma di libri per bambini e adulti. La biblioteca comunale è gestita da un team di volontari. È aperto a tutti."
+        ],
+        "fr": [
+          "La bibliothèque vous propose de venir découvrir un large choix d'ouvrages pour les grands et les petits. La bibliothèque municipale est gérée par une équipe de bénévoles. Elle est ouverte à toutes et tous."
+        ],
+        "es": [
+          "La biblioteca ofrece una amplia gama de libros para niños y adultos. La biblioteca municipal está gestionada por un equipo de voluntarios. Está abierto a todos."
+        ],
+        "nl": [
+          "De bibliotheek biedt een breed scala aan boeken voor kinderen en volwassenen. De gemeentelijke bibliotheek wordt beheerd door een team van vrijwilligers. Het staat open voor iedereen."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/096438f0-76ee-395e-b047-e4edbd409c01",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/0e0c35f5-1be6-3106-abf4-83f80db8eb42",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3c7e4dad-a543-3ffd-b89f-75efd23945fb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/41cb8597-3708-3aa5-80ab-62529e3969ba",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/59084318-76b5-34af-a83c-383d49581db0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/75759097-cb8a-350b-9e3f-8037f9e78f4f",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d02cde92-605a-3a7e-b392-477c2b2ba6c3",
+          "schema:addressLocality": "Nuaillé-d'Aunis",
+          "schema:postalCode": "17540",
+          "schema:streetAddress": [
+            "17 rue Basse"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17267",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Nuaillé-d'Aunis"
+              ],
+              "pt": [
+                "Nuaillé-d'Aunis"
+              ],
+              "en": [
+                "Nuaillé-d'Aunis"
+              ],
+              "it": [
+                "Nuaillé-d'Aunis"
+              ],
+              "fr": [
+                "Nuaillé-d'Aunis"
+              ],
+              "nl": [
+                "Nuaillé-d'Aunis"
+              ],
+              "es": [
+                "Nuaillé-d'Aunis"
+              ]
+            },
+            "insee": "17267",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/26252874-466a-3055-adcd-7b56a6851065",
+        "schema:latitude": "46.226013",
+        "schema:longitude": "-0.933142",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/a31bfa88-8451-397d-9df1-b4fcba0f5590",
+      "schema:email": [
+        "madeleine.dasilva@aunis-maraispoitevin.com"
+      ],
+      "schema:legalName": "Office de Tourisme Aunis Marais Poitevin",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.aunis-maraispoitevin.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-01-23",
+  "lastUpdateDatatourisme": "2023-02-17T06:38:59.3Z"
+}

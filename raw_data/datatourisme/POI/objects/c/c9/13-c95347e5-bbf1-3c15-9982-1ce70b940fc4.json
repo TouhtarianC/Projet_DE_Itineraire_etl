@@ -1,0 +1,489 @@
+{
+  "@id": "https://data.datatourisme.fr/13/c95347e5-bbf1-3c15-9982-1ce70b940fc4",
+  "dc:identifier": "5827321",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Neben dem Hôpital des Pèlerins können Sie den Garten, die ehemalige Apotheke des Ortes, entdecken. Er ist von mittelalterlichen Gärten inspiriert und enthält über 100 Heilpflanzen."
+    ],
+    "en": [
+      "Next to the Pilgrims' Hospital, you can discover the garden, the former pharmacy of the place. Inspired by medieval gardens, it is rich with a hundred medicinal plants."
+    ],
+    "it": [
+      "Adiacente all'Ospedale dei Pellegrini, si può scoprire il giardino, l'antica farmacia del luogo. Ispirato ai giardini medievali, è ricco di un centinaio di piante medicinali."
+    ],
+    "fr": [
+      "Jouxtant l'Hôpital des Pèlerins, vous pourrez découvrir le jardin, ancienne pharmacie des lieux. Inspiré des jardins médiévaux, il est riche d'une centaine de plantes médicinales."
+    ],
+    "nl": [
+      "Naast het pelgrimsziekenhuis kunt u de tuin ontdekken, de voormalige apotheek van de plaats. Hij is geïnspireerd op de middeleeuwse tuinen en is rijk aan een honderdtal geneeskrachtige planten."
+    ],
+    "es": [
+      "Junto al Hospital de Peregrinos, podrá descubrir el jardín, antigua farmacia del lugar. Inspirado en los jardines medievales, es rico en un centenar de plantas medicinales."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Jardin médicinal de l'Hôpital des Pèlerins"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/1c32142e-0544-3928-8ae9-dff1652f886a",
+      "schema:email": [
+        "tourisme@haute-saintonge.org"
+      ],
+      "schema:telephone": [
+        "+33 5 17 24 03 47"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/fe92d7a3-a7c3-3faf-a0c0-fcaa9a006954",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/11246a54-b1d9-308d-9aa7-2ad27eb2b39c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a2ed7d30-8ae2-394f-8d94-43cf8fbb2760",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/caacd3dc-8d6a-3533-ad8d-830420fecec1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d0e71c7f-531c-32c0-9e08-5e5244bcbb11",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dca7e470-bfd2-3a99-bd1d-75906106a8f8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Neben dem Hôpital des Pèlerins können Sie den Garten, die ehemalige Apotheke des Ortes, entdecken. Er ist von mittelalterlichen Gärten inspiriert und enthält über 100 Heilpflanzen."
+        ],
+        "en": [
+          "Next to the Pilgrims' Hospital, you can discover the garden, the former pharmacy of the place. Inspired by medieval gardens, it is rich with a hundred medicinal plants."
+        ],
+        "it": [
+          "Adiacente all'Ospedale dei Pellegrini, si può scoprire il giardino, l'antica farmacia del luogo. Ispirato ai giardini medievali, è ricco di un centinaio di piante medicinali."
+        ],
+        "fr": [
+          "Jouxtant l'Hôpital des Pèlerins, vous pourrez découvrir le jardin, ancienne pharmacie des lieux. Inspiré des jardins médiévaux, il est riche d'une centaine de plantes médicinales."
+        ],
+        "nl": [
+          "Naast het pelgrimsziekenhuis kunt u de tuin ontdekken, de voormalige apotheek van de plaats. Hij is geïnspireerd op de middeleeuwse tuinen en is rijk aan een honderdtal geneeskrachtige planten."
+        ],
+        "es": [
+          "Junto al Hospital de Peregrinos, podrá descubrir el jardín, antigua farmacia del lugar. Inspirado en los jardines medievales, es rico en un centenar de plantas medicinales."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/207482b9-7040-3216-85d9-3c0b3f4f818a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/23b35890-97ee-37af-bd9d-b001faee5ac1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/31abbf42-feae-319f-8fba-660049d2036f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3a3d8744-69d1-34c2-a281-8c8cdf838218",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/90c1dbe1-e39e-37ea-8db4-c8d77fee09a0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/9205ae41-addf-3450-8e22-26f8741fc181",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/eb88850a-1b2d-3bee-b36c-447cc20e5880",
+          "schema:addressLocality": "Pons",
+          "schema:postalCode": "17800",
+          "schema:streetAddress": [
+            "Rue Georges Clemenceau"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17283",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Pons"
+              ],
+              "pt": [
+                "Pons"
+              ],
+              "en": [
+                "Pons"
+              ],
+              "it": [
+                "Pons"
+              ],
+              "fr": [
+                "Pons"
+              ],
+              "nl": [
+                "Pons"
+              ],
+              "es": [
+                "Pons"
+              ]
+            },
+            "insee": "17283",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/e760a81e-45a7-39c2-8683-3dde3e82d904",
+        "schema:latitude": "45.569708",
+        "schema:longitude": "-0.551464",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/401680a5-4d34-33da-9fb7-f90bec4233ff",
+          "schema:validFrom": "2023-09-01T00:00:00",
+          "schema:validThrough": "2023-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5357bf72-5134-31c8-8b8b-a908a13bc424",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a1dc03ae-d7f4-3a30-9574-4e57b6f365b1",
+          "schema:validFrom": "2023-06-01T00:00:00",
+          "schema:validThrough": "2023-06-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fe81599f-4f84-39b3-9a4e-4923db8ea123",
+          "schema:validFrom": "2023-04-05T00:00:00",
+          "schema:validThrough": "2023-05-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-28",
+  "lastUpdateDatatourisme": "2023-06-29T05:49:12.95Z"
+}

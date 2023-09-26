@@ -1,0 +1,557 @@
+{
+  "@id": "https://data.datatourisme.fr/13/ee02ef4b-dc7f-30a6-8ccf-6132f7d1e279",
+  "dc:identifier": "5774202",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Kirche Saint-Martin de l'Éguille ist eine katholische Kirche in der Diözese La Rochelle und Saintes. Sie gehört zum Dekanat Royan und zum Seelsorgebereich Sainte-Marie en Saintonge. Sie steht unter dem Vokabular von Saint-Martin."
+    ],
+    "en": [
+      "The church of Saint-Martin de l'Éguille is a Catholic church located in the diocese of La Rochelle and Saintes. It is part of the deanery of Royan and the pastoral sector of Sainte-Marie en Saintonge. It is under the vocation of Saint-Martin."
+    ],
+    "it": [
+      "La chiesa di Saint-Martin de l'Éguille è una chiesa cattolica situata nella diocesi di La Rochelle e Saintes. Fa parte del decanato di Royan e del settore pastorale di Sainte-Marie en Saintonge. La chiesa è dedicata a Saint-Martin."
+    ],
+    "fr": [
+      "L’église Saint-Martin de l'Éguille est une église catholique située dans le diocèse de La Rochelle et Saintes. Elle fait partie du doyenné de Royan et du secteur pastoral Sainte-Marie en Saintonge. Elle est sous le vocable de Saint-Martin."
+    ],
+    "es": [
+      "La iglesia de Saint-Martin de l'Éguille es una iglesia católica situada en la diócesis de La Rochelle y Saintes. Forma parte del decanato de Royan y del sector pastoral de Sainte-Marie en Saintonge. La iglesia está dedicada a San Martín."
+    ],
+    "nl": [
+      "De kerk Saint-Martin de l'Éguille is een katholieke kerk in het bisdom La Rochelle en Saintes. Het maakt deel uit van het dekenaat Royan en de pastorale sector van Sainte-Marie en Saintonge. De kerk is gewijd aan Saint-Martin."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Église Saint-Martin de L'Éguille"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q3582809"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/502571ce-17a1-3192-9b56-cf510133bcff",
+      "schema:telephone": [
+        "+33 5 46 22 83 15"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/9e093706-038f-3bac-8b1f-787725d33944",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/038d7e36-3f1f-33af-9484-1dde132e9b7c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7711bea6-99d1-3a42-90b2-f2099f2e2b52",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cb8dd79b-b200-31eb-96fb-a8e22e777da2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d6157872-1796-3969-8df4-1513aca62541",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fa3cb40a-fee2-3874-a4a5-df4c630173f9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Kirche Saint-Martin de l'Éguille ist eine katholische Kirche in der Diözese La Rochelle und Saintes. Sie gehört zum Dekanat Royan und zum Seelsorgebereich Sainte-Marie en Saintonge. Sie steht unter dem Vokabular von Saint-Martin."
+        ],
+        "en": [
+          "The church of Saint-Martin de l'Éguille is a Catholic church located in the diocese of La Rochelle and Saintes. It is part of the deanery of Royan and the pastoral sector of Sainte-Marie en Saintonge. It is under the vocation of Saint-Martin."
+        ],
+        "it": [
+          "La chiesa di Saint-Martin de l'Éguille è una chiesa cattolica situata nella diocesi di La Rochelle e Saintes. Fa parte del decanato di Royan e del settore pastorale di Sainte-Marie en Saintonge. La chiesa è dedicata a Saint-Martin."
+        ],
+        "fr": [
+          "L’église Saint-Martin de l'Éguille est une église catholique située dans le diocèse de La Rochelle et Saintes. Elle fait partie du doyenné de Royan et du secteur pastoral Sainte-Marie en Saintonge. Elle est sous le vocable de Saint-Martin."
+        ],
+        "es": [
+          "La iglesia de Saint-Martin de l'Éguille es una iglesia católica situada en la diócesis de La Rochelle y Saintes. Forma parte del decanato de Royan y del sector pastoral de Sainte-Marie en Saintonge. La iglesia está dedicada a San Martín."
+        ],
+        "nl": [
+          "De kerk Saint-Martin de l'Éguille is een katholieke kerk in het bisdom La Rochelle en Saintes. Het maakt deel uit van het dekenaat Royan en de pastorale sector van Sainte-Marie en Saintonge. De kerk is gewijd aan Saint-Martin."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/ccbfa247-bb9c-3d92-ae01-ca5a650e2003",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/d1f2b477-82e2-3e87-b180-d4c5d1809c3a",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "L'Éguille-église Saint-Martin"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Dimimis (https://commons.wikimedia.org/wiki/User:Dimimis)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/57b7cf93-1d01-324d-a4a2-b758f96243ab",
+          "ebucore:fileSize": [
+            3053438
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 4320,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/e/ec/L%27%C3%89guille-%C3%A9glise_Saint-Martin.JPG"
+          ],
+          "ebucore:width": 3240,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/03cd36d3-2518-33b2-a346-18d733be49a5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/42cd1a49-1a17-3c83-b9fa-16bb27e110af",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5d43192a-4249-348a-a065-05fda00bd26d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c7b1a0f4-5f1a-33dd-9a1c-a27eeaceb3e7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f23be06d-6878-3609-a2a3-217552ad2e85",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/bfe67442-3335-3aa2-94dd-7b68abbfcefd",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/41cb4e84-a7fe-3f7d-9696-1f79c79b827a",
+          "schema:addressLocality": "L'Éguille",
+          "schema:postalCode": "17600",
+          "schema:streetAddress": [
+            "Grand Rue"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17151",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "L'Éguille"
+              ],
+              "pt": [
+                "L'Éguille"
+              ],
+              "en": [
+                "L'Éguille"
+              ],
+              "it": [
+                "L'Éguille"
+              ],
+              "fr": [
+                "L'Éguille"
+              ],
+              "nl": [
+                "L'Éguille"
+              ],
+              "es": [
+                "L'Éguille"
+              ]
+            },
+            "insee": "17151",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/49b63159-d2d4-3cd8-8e73-eca4eb081282",
+        "schema:latitude": "45.67432",
+        "schema:longitude": "-0.930076",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-05-24",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.693Z"
+}

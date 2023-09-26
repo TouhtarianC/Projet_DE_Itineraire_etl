@@ -1,0 +1,546 @@
+{
+  "@id": "https://data.datatourisme.fr/13/e1438a81-114b-3fbb-841e-b4a37152ce23",
+  "dc:identifier": "5695036",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Inmitten einer Gasse des Marktfleckens Dolus-d'Oléron ist die kleine Kirche Saint-André zu entdecken, die aus grauen Kalkbruchsteinen und Quadersteinen in einem Stil erbaut wurde, der klassische und romanische Elemente miteinander verbindet."
+    ],
+    "en": [
+      "To discover in the heart of an alleyway in the village of Dolus-d'Oléron, the small church of Saint-André, built in grey limestone rubble and ashlar, in a style combining classical and Romanesque elements."
+    ],
+    "it": [
+      "Nel cuore di un vicolo del villaggio di Dolus-d'Oléron, merita una visita la piccola chiesa di Saint-André, costruita in calcare grigio e bugnato, in uno stile che combina elementi classici e romanici."
+    ],
+    "fr": [
+      "A découvrir au cœur d'une venelle du bourg de Dolus-d'Oléron, la petite église Saint-André, construite en moellons calcaires gris et en pierres de taille, dans un style mêlant des éléments classiques et romans."
+    ],
+    "nl": [
+      "In het hart van een steegje in het dorp Dolus-d'Oléron staat de kleine kerk van Saint-André, gebouwd van grijze kalksteenpuin en ashlar, in een stijl waarin klassieke en romaanse elementen worden gecombineerd."
+    ],
+    "es": [
+      "En el corazón de una callejuela del pueblo de Dolus-d'Oléron, merece la pena visitar la pequeña iglesia de Saint-André, construida en piedra caliza gris y sillar, en un estilo que combina elementos clásicos y románicos."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Eglise Saint-André"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3bcf02ca-b9c8-3698-a347-79225d9a1f6f",
+      "schema:email": [
+        "contact@paroisse-oleron.com"
+      ],
+      "schema:telephone": [
+        "+33 5 46 47 11 14"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.catholiques17.fr/oleron"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/3757baa1-4c65-3a1a-95cc-c7ad7e213876",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/13a7ae5f-c904-3924-8abf-f6e586ffa95e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3c47048a-9d83-388c-af0d-316d67e08b86",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7ee0aa73-b987-3ed4-b549-f800013e7f76",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/865cca7e-bfb3-35a6-a81e-5a62085c903b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bcb208b5-dbd0-3d7c-9cd3-57c385d70c90",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Inmitten einer Gasse des Marktfleckens Dolus-d'Oléron ist die kleine Kirche Saint-André zu entdecken, die aus grauen Kalkbruchsteinen und Quadersteinen in einem Stil erbaut wurde, der klassische und romanische Elemente miteinander verbindet."
+        ],
+        "en": [
+          "To discover in the heart of an alleyway in the village of Dolus-d'Oléron, the small church of Saint-André, built in grey limestone rubble and ashlar, in a style combining classical and Romanesque elements."
+        ],
+        "it": [
+          "Nel cuore di un vicolo del villaggio di Dolus-d'Oléron, merita una visita la piccola chiesa di Saint-André, costruita in calcare grigio e bugnato, in uno stile che combina elementi classici e romanici."
+        ],
+        "fr": [
+          "A découvrir au cœur d'une venelle du bourg de Dolus-d'Oléron, la petite église Saint-André, construite en moellons calcaires gris et en pierres de taille, dans un style mêlant des éléments classiques et romans."
+        ],
+        "nl": [
+          "In het hart van een steegje in het dorp Dolus-d'Oléron staat de kleine kerk van Saint-André, gebouwd van grijze kalksteenpuin en ashlar, in een stijl waarin klassieke en romaanse elementen worden gecombineerd."
+        ],
+        "es": [
+          "En el corazón de una callejuela del pueblo de Dolus-d'Oléron, merece la pena visitar la pequeña iglesia de Saint-André, construida en piedra caliza gris y sillar, en un estilo que combina elementos clásicos y románicos."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/3c686fac-8e39-343d-9107-d7a83234c5fb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3faa34ab-78f3-3c89-a26a-d880c152ff59",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/89c34210-6aa1-316e-8628-188ef7ef8bfa",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f254fcbb-0de3-320c-860f-5fefd6ac5b17",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fedd4427-23fc-3d37-8e64-e0168c654691",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/009be34b-af4c-373b-add6-a2225d1a23d2",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/10c7aa2d-a258-305f-9175-5033fe737cc3",
+          "schema:addressLocality": "Dolus-d'Oléron",
+          "schema:postalCode": "17550",
+          "schema:streetAddress": [
+            "Parvis Saint- André"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17140",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Dolus-d'Oléron"
+              ],
+              "pt": [
+                "Dolus-d'Oléron"
+              ],
+              "en": [
+                "Dolus-d'Oléron"
+              ],
+              "it": [
+                "Dolus-d'Oléron"
+              ],
+              "fr": [
+                "Dolus-d'Oléron"
+              ],
+              "nl": [
+                "Dolus-d'Oléron"
+              ],
+              "es": [
+                "Dolus-d'Oléron"
+              ]
+            },
+            "insee": "17140",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/87abdd5b-aef2-32a9-be86-eb43b37951e6",
+        "schema:latitude": "45.910867",
+        "schema:longitude": "-1.263589",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/a7134b03-e110-3f52-b174-188b2a04163a",
+          "schema:closes": "16:00:00",
+          "schema:opens": "10:00:00",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "sonntag nur von 10 bis 13 Uhr"
+            ],
+            "en": [
+              "sunday only from 10am to 1pm"
+            ],
+            "it": [
+              "solo la domenica dalle 10.00 alle 13.00"
+            ],
+            "fr": [
+              "dimanche uniquement de 10h à 13h"
+            ],
+            "es": [
+              "sólo los domingos de 10 a 13 horas"
+            ],
+            "nl": [
+              "alleen op zondag van 10 tot 13 uur"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/000e18be-59ce-3cd4-b065-5e591780d17a",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/2fccde4b-ef63-3c9d-a58b-2ec2f4b5ff19",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/776f99f7-6f61-3e43-8fcd-b95df52c8a91",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ba010de4-9427-3ace-89e6-18899d500e5a",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/df017cf5-1b5f-363c-8c8f-b99cadd76f06",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/80009736-71af-3484-9792-2b3de63306d1",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-05-17",
+  "lastUpdateDatatourisme": "2023-06-01T05:41:13.941Z"
+}

@@ -1,0 +1,520 @@
+{
+  "@id": "https://data.datatourisme.fr/13/e79639c6-22c0-36f5-a3f7-5e563a39edbc",
+  "dc:identifier": "5761215",
+  "@type": [
+    "schema:Landform",
+    "Beach",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Familienfreundlicher Strand zum Baden im Meer oder Sonnenbaden im Stadtzentrum."
+    ],
+    "en": [
+      "Family beach for sea bathing or sunbathing in the city centre."
+    ],
+    "it": [
+      "Spiaggia familiare per fare il bagno in mare o prendere il sole nel centro della città, è dominata dal forte Vauban e offre un bacino d'acqua marina e un beach club di fronte al forte Boyard."
+    ],
+    "fr": [
+      "Plage familiale pour des bains de mer ou bains de soleil en centre ville, elle est dominée par le fort Vauban et propose une retenue d’eau de mer et d’un club de plage face au fort Boyard."
+    ],
+    "es": [
+      "Playa familiar para bañarse en el mar o tomar el sol en el centro de la ciudad, está dominada por el fuerte Vauban y ofrece un depósito de agua de mar y un club de playa frente al fuerte Boyard."
+    ],
+    "nl": [
+      "Een familiestrand om te zwemmen of te zonnebaden in het stadscentrum. Het wordt gedomineerd door het fort Vauban en biedt een zeewaterreservoir en een strandclub tegenover het fort Boyard."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Großer Strand"
+    ],
+    "en": [
+      "Great Beach"
+    ],
+    "fr": [
+      "Grande plage"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/9afefc52-942c-383c-bc1f-14b2139b09ba",
+    "dc:identifier": "2055",
+    "schema:email": [
+      "chloe.mailler@rochefort-ocean.com",
+      "christine.nourisson@rochefort-ocean.com",
+      "chrystelle.ecale@rochefort-ocean.com",
+      "lea.origlia@rochefort-ocean.com",
+      "sandrine.bouron@rochefort-ocean.com"
+    ],
+    "schema:legalName": "Office de Tourisme Rochefort Océan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.rochefort-ocean.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/b0d3e317-12ab-35f2-97d7-2ed12b0670b3",
+      "schema:email": [
+        "communication@fouras-les-bains.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 84 60 11"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/bf4dfccf-471a-3d79-b3e4-b07ddaf096a8",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/09896251-1136-363a-bd20-e89603bfdfce",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/119727cc-185f-37e7-8fc5-e83aa858e5ea",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/49cd4a9c-63de-3c18-8d17-0d6a97d35d68",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Familienfreundlicher Strand zum Baden im Meer oder Sonnenbaden im Stadtzentrum."
+        ],
+        "en": [
+          "Family beach for sea bathing or sunbathing in the city centre."
+        ],
+        "it": [
+          "Spiaggia familiare per fare il bagno in mare o prendere il sole nel centro della città, è dominata dal forte Vauban e offre un bacino d'acqua marina e un beach club di fronte al forte Boyard."
+        ],
+        "fr": [
+          "Plage familiale pour des bains de mer ou bains de soleil en centre ville, elle est dominée par le fort Vauban et propose une retenue d’eau de mer et d’un club de plage face au fort Boyard."
+        ],
+        "es": [
+          "Playa familiar para bañarse en el mar o tomar el sol en el centro de la ciudad, está dominada por el fuerte Vauban y ofrece un depósito de agua de mar y un club de playa frente al fuerte Boyard."
+        ],
+        "nl": [
+          "Een familiestrand om te zwemmen of te zonnebaden in het stadscentrum. Het wordt gedomineerd door het fort Vauban en biedt een zeewaterreservoir en een strandclub tegenover het fort Boyard."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Bathing",
+      "@type": [
+        "AccommodationAmenity",
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Baden"
+        ],
+        "pt": [
+          "Banho"
+        ],
+        "en": [
+          "Bathing"
+        ],
+        "it": [
+          "Bagno"
+        ],
+        "fr": [
+          "Baignade"
+        ],
+        "nl": [
+          "Zwemmen"
+        ],
+        "es": [
+          "Baño"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0a060232-8a20-316c-8329-711c15bca37d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7b936c08-084a-3341-914a-d1607c2b122c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c5bf9dbe-e18e-30f6-96c1-d3f2f38478fe",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/35bd0430-2d8a-3ec5-a3b5-5d0fb2ef607b",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/6058e7cd-0ef4-3b64-acf9-316e709e5e5d",
+          "schema:addressLocality": "Fouras",
+          "schema:postalCode": "17450",
+          "schema:streetAddress": [
+            "avenue du Général de Gaulle"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17168",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Fouras"
+              ],
+              "pt": [
+                "Fouras"
+              ],
+              "en": [
+                "Fouras"
+              ],
+              "it": [
+                "Fouras"
+              ],
+              "fr": [
+                "Fouras"
+              ],
+              "nl": [
+                "Fouras"
+              ],
+              "es": [
+                "Fouras"
+              ]
+            },
+            "insee": "17168",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/62b14da7-9992-3032-9ea7-e6d83408c16c",
+        "schema:latitude": "45.98724",
+        "schema:longitude": "-1.098375",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/5e2f05c9-aa4d-3194-9fae-9c5f1c655f56",
+          "schema:validFrom": "2023-08-28T00:00:00",
+          "schema:validThrough": "2023-06-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6904744c-026c-3f1e-b7ca-432a39753e03",
+          "schema:validFrom": "2023-07-08T00:00:00",
+          "schema:validThrough": "2023-08-27T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Beaufsichtigtes Baden jeden Tag von 11:00 bis 19:00 Uhr."
+            ],
+            "en": [
+              "Supervised swimming every day from 11am to 7pm."
+            ],
+            "it": [
+              "Nuoto assistito tutti i giorni dalle 11.00 alle 19.00."
+            ],
+            "fr": [
+              "Baignade surveillée tous les jours de 11h à 19h."
+            ],
+            "es": [
+              "Natación supervisada todos los días de 11.00 a 19.00 horas."
+            ],
+            "nl": [
+              "Elke dag zwemmen onder toezicht van 11.00 tot 19.00 uur."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/830a8e4b-0fbc-3479-a6d3-79f8208bf78c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/aa9f344f-830a-3ba9-ac7c-072b0a95c3a9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ae110db7-5d8f-35ac-9699-73382e598714",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/b49f67b6-17fe-3762-b48c-dd3fb8d9d964",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/cf5d35fe-fffc-3c30-9143-134cff09191b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b6765204-7e87-3280-8a17-2a4451147978",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-07-07T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fed90c24-5b4e-374e-b413-9c9ae527b242",
+      "schema:email": [
+        "chloe.mailler@rochefort-ocean.com",
+        "christine.nourisson@rochefort-ocean.com",
+        "chrystelle.ecale@rochefort-ocean.com",
+        "lea.origlia@rochefort-ocean.com",
+        "sandrine.bouron@rochefort-ocean.com"
+      ],
+      "schema:legalName": "Office de Tourisme Rochefort Océan",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.rochefort-ocean.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-19",
+  "lastUpdateDatatourisme": "2023-06-20T05:49:22.538Z"
+}

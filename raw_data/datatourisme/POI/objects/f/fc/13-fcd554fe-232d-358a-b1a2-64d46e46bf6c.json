@@ -1,0 +1,478 @@
+{
+  "@id": "https://data.datatourisme.fr/13/fcd554fe-232d-358a-b1a2-64d46e46bf6c",
+  "dc:identifier": "5722920",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Diese Seite wird aufgrund eines Eigentümerwechsels das ganze Jahr 2023 geschlossen sein. Er wird umfangreiche Bauarbeiten durchführen. Die Eröffnung ist für 2024 geplant.\r\nDieser botanische Garten ist als \"JARDIN REMARQUABLE\" (bemerkenswerter Garten) eingestuft."
+    ],
+    "en": [
+      "This site will be closed for the whole year 2023 due to a change in ownership. He will carry out important works. The opening is planned in 2024.\r\nThis botanical garden is classified \"JARDIN REMARQUABLE\"."
+    ],
+    "it": [
+      "Questo sito sarà chiuso per tutto il 2023 a causa di un cambio di proprietà. Sarà oggetto di importanti lavori. L'apertura è prevista per il 2024.\r\nQuesto giardino botanico è classificato come \"giardino straordinario\"."
+    ],
+    "fr": [
+      "Ce site sera fermé toute l'année 2023 en raison d'un changement de propriétaire. Il va réaliser d'importants travaux. L'ouverture est prévue en 2024.\r\nCe jardin botanique es classé \"JARDIN REMARQUABLE\"."
+    ],
+    "es": [
+      "Este centro permanecerá cerrado durante todo el año 2023 debido a un cambio de propietario. Será objeto de importantes obras. La inauguración está prevista para 2024.\r\nEste jardín botánico está clasificado como \"JARDÍN MARAVILLOSO\"."
+    ],
+    "nl": [
+      "Deze site zal voor heel 2023 gesloten zijn wegens een verandering van eigenaar. Het zal grote werken ondergaan. De opening is gepland voor 2024.\r\nDeze botanische tuin is geclassificeerd als \"REMARKABLE GARDEN\"."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Les Jardins de la Boirie - fermé en 2023"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/6f3f42d7-f8f1-330a-a6c5-455ba6d42794",
+      "schema:email": [
+        "tlecetre@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 5 16 65 44 36",
+        "+33 6 64 21 44 63"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lesjardinsdelaboirie.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/d5d19af1-b549-3248-a7fe-7fa4611cb797",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/736f4715-ee3e-3530-b617-3c980dcc22b5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8cb35cdc-1e34-3cf4-ad9c-e22d081adda0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b54df482-7de9-34a4-9f45-dff8567db2b0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c9174aaa-fdba-3bd4-b313-981f9059868d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f97cd82c-6cd7-3b56-bdd0-7fe388ba7cde",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Diese Seite wird aufgrund eines Eigentümerwechsels das ganze Jahr 2023 geschlossen sein. Er wird umfangreiche Bauarbeiten durchführen. Die Eröffnung ist für 2024 geplant.\r\nDieser botanische Garten ist als \"JARDIN REMARQUABLE\" (bemerkenswerter Garten) eingestuft."
+        ],
+        "en": [
+          "This site will be closed for the whole year 2023 due to a change in ownership. He will carry out important works. The opening is planned in 2024.\r\nThis botanical garden is classified \"JARDIN REMARQUABLE\"."
+        ],
+        "it": [
+          "Questo sito sarà chiuso per tutto il 2023 a causa di un cambio di proprietà. Sarà oggetto di importanti lavori. L'apertura è prevista per il 2024.\r\nQuesto giardino botanico è classificato come \"giardino straordinario\"."
+        ],
+        "fr": [
+          "Ce site sera fermé toute l'année 2023 en raison d'un changement de propriétaire. Il va réaliser d'importants travaux. L'ouverture est prévue en 2024.\r\nCe jardin botanique es classé \"JARDIN REMARQUABLE\"."
+        ],
+        "es": [
+          "Este centro permanecerá cerrado durante todo el año 2023 debido a un cambio de propietario. Será objeto de importantes obras. La inauguración está prevista para 2024.\r\nEste jardín botánico está clasificado como \"JARDÍN MARAVILLOSO\"."
+        ],
+        "nl": [
+          "Deze site zal voor heel 2023 gesloten zijn wegens een verandering van eigenaar. Het zal grote werken ondergaan. De opening is gepland voor 2024.\r\nDeze botanische tuin is geclassificeerd als \"REMARKABLE GARDEN\"."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/6764ab15-64ba-3133-9a82-f94c8d111625",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/be55c541-1791-3bb8-a1cd-80eb0d5a2183",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d9845278-4f7b-39ae-b1f6-5b8251e4d5f1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e4f2497c-079c-387a-8256-5d0cc5e4084c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f7af146f-5421-3642-ae4f-937e3601bf55",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/8d0f23f0-a9e8-3000-963e-c0c54154da36",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d06519b7-c35f-341f-b489-05fe792ba4de",
+          "schema:addressLocality": "Saint-Pierre-d'Oléron",
+          "schema:postalCode": "17310",
+          "schema:streetAddress": [
+            "La Boirie",
+            "Rue centrale"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17385",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Pierre-d'Oléron"
+              ],
+              "pt": [
+                "Saint-Pierre-d'Oléron"
+              ],
+              "en": [
+                "Saint-Pierre-d'Oléron"
+              ],
+              "it": [
+                "Saint-Pierre-d'Oléron"
+              ],
+              "fr": [
+                "Saint-Pierre-d'Oléron"
+              ],
+              "nl": [
+                "Saint-Pierre-d'Oléron"
+              ],
+              "es": [
+                "Saint-Pierre-d'Oléron"
+              ]
+            },
+            "insee": "17385",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/778d90d6-f472-3afa-b89b-5c2e5c24be7e",
+        "schema:elevation": "0",
+        "schema:latitude": "45.943398",
+        "schema:longitude": "-1.288629",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/2f3f7010-52b2-3974-bc02-34219da9b6c8",
+          "schema:closes": "19:00:00",
+          "schema:opens": "10:00:00",
+          "schema:validFrom": "2023-04-06T00:00:00",
+          "schema:validThrough": "2023-10-06T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7b76383a-2a86-3a02-a0a8-99c23bf9715a",
+          "schema:validFrom": "2023-10-26T00:00:00",
+          "schema:validThrough": "2023-11-03T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/d7f018c3-c1ab-31f8-8901-4d29578edb89",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ile-oleron-marennes.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-01-10",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.851Z"
+}

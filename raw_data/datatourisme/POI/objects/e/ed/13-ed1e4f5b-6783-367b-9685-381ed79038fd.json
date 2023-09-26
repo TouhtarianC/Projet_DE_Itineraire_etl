@@ -1,0 +1,540 @@
+{
+  "@id": "https://data.datatourisme.fr/13/ed1e4f5b-6783-367b-9685-381ed79038fd",
+  "dc:identifier": "5641119",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das Musée des savoir-faire du cognac erzählt die Geschichte des Pays de Cognac im Laufe der Zeit und führt schließlich zum Abenteuer des Cognacs, wobei ein wichtiger Teil der lokalen Geschichte und die mit diesem symbolträchtigen Produkt verbundenen Herstellungstechniken im Vordergrund stehen."
+    ],
+    "en": [
+      "The \"Musée des savoir-faire du cognac\" tells a story of the Cognac countryside through the ages to lead to the adventure of cognac hilighting a major part of the local history and manifacturing techniques related to this emblematic product."
+    ],
+    "it": [
+      "Il museo del know-how del cognac racconta la storia della regione del Cognac attraverso i secoli, culminando nell'avventura del cognac, mettendo in luce una parte importante della storia locale e le tecniche di lavorazione legate a questo prodotto emblematico."
+    ],
+    "fr": [
+      "Le musée des savoir-faire du cognac raconte l'histoire du Pays de Cognac à travers les âges pour aboutir à l'aventure du cognac mettant en avant un pan majeur de l'histoire locale et des techniques de fabrication liées à ce produit emblématique."
+    ],
+    "nl": [
+      "Het cognacmuseum vertelt het verhaal van de Cognacstreek door de eeuwen heen, met als hoogtepunt het avontuur van de cognac, waarbij een belangrijk deel van de plaatselijke geschiedenis en de fabricagetechnieken van dit emblematische product worden belicht."
+    ],
+    "es": [
+      "El museo del saber hacer del coñac narra la historia de la región de Cognac a través de los tiempos, culminando en la aventura del coñac, poniendo de relieve una parte importante de la historia local y las técnicas de fabricación vinculadas a este producto emblemático."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Musée des savoir-faire du cognac"
+    ],
+    "ru": [
+      "Musée des savoir-faire du cognac"
+    ],
+    "en": [
+      "Musée des savoir-faire du cognac"
+    ],
+    "it": [
+      "Musée des savoir-faire du cognac"
+    ],
+    "fr": [
+      "Musée des savoir-faire du cognac  - Les Distillateurs Culturels"
+    ],
+    "zh": [
+      "Musée des savoir-faire du cognac"
+    ],
+    "nl": [
+      "Musée des savoir-faire du cognac"
+    ],
+    "es": [
+      "Musée des savoir-faire du cognac"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/0ae3f79a-3023-3b6c-85a6-f7d298ba1310",
+    "dc:identifier": "2065",
+    "schema:email": [
+      "elodie@destination-cognac.com",
+      "emmanuelle@destination-cognac.com",
+      "evelyne@destination-cognac.com",
+      "pascale@destination-cognac.com"
+    ],
+    "schema:legalName": "Destination Cognac",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.destination-cognac.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/7583af80-171d-38c4-ba84-67a8009a0062",
+      "schema:email": [
+        "musees.cognac@grand-cognac.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 36 03 65"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://les-distillateurs-culturels.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/9c980199-3d6a-3ff4-b978-819b2f636d3d",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/228a8825-a641-3672-a800-495b72050f27",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/23c2e2a1-b2e5-3663-9295-35d9d0ed3de8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/432f35c1-e885-32fd-b29f-c75ae5ec8d51",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d25dc7cc-e2c1-3eb8-ad87-284c6c43e8fd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das Musée des savoir-faire du cognac erzählt die Geschichte des Pays de Cognac im Laufe der Zeit und führt schließlich zum Abenteuer des Cognacs, wobei ein wichtiger Teil der lokalen Geschichte und die mit diesem symbolträchtigen Produkt verbundenen Herstellungstechniken im Vordergrund stehen."
+        ],
+        "en": [
+          "The \"Musée des savoir-faire du cognac\" tells a story of the Cognac countryside through the ages to lead to the adventure of cognac hilighting a major part of the local history and manifacturing techniques related to this emblematic product."
+        ],
+        "it": [
+          "Il museo del know-how del cognac racconta la storia della regione del Cognac attraverso i secoli, culminando nell'avventura del cognac, mettendo in luce una parte importante della storia locale e le tecniche di lavorazione legate a questo prodotto emblematico."
+        ],
+        "fr": [
+          "Le musée des savoir-faire du cognac raconte l'histoire du Pays de Cognac à travers les âges pour aboutir à l'aventure du cognac mettant en avant un pan majeur de l'histoire locale et des techniques de fabrication liées à ce produit emblématique."
+        ],
+        "nl": [
+          "Het cognacmuseum vertelt het verhaal van de Cognacstreek door de eeuwen heen, met als hoogtepunt het avontuur van de cognac, waarbij een belangrijk deel van de plaatselijke geschiedenis en de fabricagetechnieken van dit emblematische product worden belicht."
+        ],
+        "es": [
+          "El museo del saber hacer del coñac narra la historia de la región de Cognac a través de los tiempos, culminando en la aventura del coñac, poniendo de relieve una parte importante de la historia local y las técnicas de fabricación vinculadas a este producto emblemático."
+        ]
+      }
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/6e866798-cae5-351c-9e8d-963661217e60",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:LabelRating_AccueilVelo",
+        "@type": [
+          "LabelRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "Accueil Vélo"
+          ],
+          "pt": [
+            "Accueil Vélo"
+          ],
+          "en": [
+            "Accueil Vélo"
+          ],
+          "it": [
+            "Accueil Vélo"
+          ],
+          "fr": [
+            "Accueil Vélo"
+          ],
+          "nl": [
+            "Accueil Vélo"
+          ],
+          "es": [
+            "Accueil Vélo"
+          ]
+        },
+        "isCompliantWith": [
+          "PlaceOfInterest"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/2257ebaf-54b7-3c58-9623-5ac28eb50191",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a5968471-3425-3612-abc5-7cac2bb9d3d2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cfa938e7-1ba7-39af-828c-f845a852cd26",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f3d70b4f-183f-39cd-89ca-8f239fdb537a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/66faed34-4c32-36ed-9144-10f8bda647cf",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d9a31743-5ae7-3d2d-afb1-3402ed906c82",
+          "schema:addressLocality": "Cognac",
+          "schema:postalCode": "16100",
+          "schema:streetAddress": [
+            "Place de la Salle Verte"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16102",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Cognac"
+              ],
+              "pt": [
+                "Cognac"
+              ],
+              "en": [
+                "Cognac"
+              ],
+              "it": [
+                "Cognac"
+              ],
+              "fr": [
+                "Cognac"
+              ],
+              "nl": [
+                "Cognac"
+              ],
+              "es": [
+                "Cognac"
+              ]
+            },
+            "insee": "16102",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/b31c472d-a314-3220-8345-00d1dd45a6c7",
+        "schema:latitude": "45.695488",
+        "schema:longitude": "-0.332112",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/5357bf72-5134-31c8-8b8b-a908a13bc424",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/766c403f-90d3-3076-8e7c-6633b48ae90c",
+          "schema:validFrom": "2023-09-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b2f223ca-b3f8-38b3-9aef-bb09899fb1d3",
+      "schema:email": [
+        "elodie@destination-cognac.com",
+        "emmanuelle@destination-cognac.com",
+        "evelyne@destination-cognac.com",
+        "pascale@destination-cognac.com"
+      ],
+      "schema:legalName": "Destination Cognac",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.destination-cognac.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-18",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.236Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/efffbbe1-65c3-350c-80b9-79548c9a8181",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f4151db7-13d8-36ad-854d-1c752e7b00cc",
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/8bd6d1fd-e0f5-32e0-81bf-63384ab55c90",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2022-07-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

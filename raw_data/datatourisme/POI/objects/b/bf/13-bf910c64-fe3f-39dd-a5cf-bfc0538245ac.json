@@ -1,0 +1,473 @@
+{
+  "@id": "https://data.datatourisme.fr/13/bf910c64-fe3f-39dd-a5cf-bfc0538245ac",
+  "dc:identifier": "4890615",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Als botanische und zeitgenössische Gärten, die 2018 mit dem Label \"bemerkenswerter Garten\" ausgezeichnet wurden, inspirieren unsere Gärten unser kosmetisches Know-how."
+    ],
+    "en": [
+      "Botanical and contemporary gardens, labeled « remarkable garden » in 2018, our gardens inspire our cosmetic know-how."
+    ],
+    "it": [
+      "Giardini botanici e contemporanei, premiati con il marchio \"giardino notevole\" nel 2018, i nostri giardini ispirano il nostro know-how cosmetico."
+    ],
+    "fr": [
+      "Jardins botaniques et contemporains, labellisés « jardin remarquable » en 2018, nos jardins inspirent notre savoir-faire cosmétique."
+    ],
+    "es": [
+      "Los Jardines Sothys fueron creados en el 2007, en el corazón de un espacio natural preservado de 4 hectáreas y que cuenta con una rica diversidad vegetal.\r\nPropiedad de la familia Mas, Los Jardines Sothys realzan el mundo vegetal ya que son la fuente de inspiración y de creación de los productos cosméticos Sothys."
+    ],
+    "nl": [
+      "Botanische en hedendaagse tuinen, bekroond met het label \"opmerkelijke tuin\" in 2018, onze tuinen inspireren onze cosmetische knowhow."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Sothys Gardens"
+    ],
+    "fr": [
+      "Les Jardins Sothys"
+    ],
+    "es": [
+      "Los Jardines Sothys"
+    ],
+    "nl": [
+      "Les Jardins Sothys"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f4733064-3ae1-34ca-a04b-f6b2481fec47",
+    "dc:identifier": "1182",
+    "schema:email": [
+      "ncaldayroux@cantal-destination.com"
+    ],
+    "schema:legalName": "Cantal Destination",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.auvergne-destination-volcans.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/0c27269f-7451-3cb9-8a39-0dda06ec4baa",
+      "schema:email": [
+        "infos@lesjardinssothys.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 55 91 96 89"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lesjardinssothys.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/c587ce50-d5f2-3da6-b2c4-2ce2f4b6682b",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/88f0123b-2593-3c73-8a18-5e0e221bff3f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b861b7ba-5f7e-3384-a224-b783f171698d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Als botanische und zeitgenössische Gärten, die 2018 mit dem Label \"bemerkenswerter Garten\" ausgezeichnet wurden, inspirieren unsere Gärten unser kosmetisches Know-how."
+        ],
+        "en": [
+          "Botanical and contemporary gardens, labeled « remarkable garden » in 2018, our gardens inspire our cosmetic know-how."
+        ],
+        "it": [
+          "Giardini botanici e contemporanei, premiati con il marchio \"giardino notevole\" nel 2018, i nostri giardini ispirano il nostro know-how cosmetico."
+        ],
+        "fr": [
+          "Jardins botaniques et contemporains, labellisés « jardin remarquable » en 2018, nos jardins inspirent notre savoir-faire cosmétique."
+        ],
+        "es": [
+          "Los Jardines Sothys fueron creados en el 2007, en el corazón de un espacio natural preservado de 4 hectáreas y que cuenta con una rica diversidad vegetal.\r\nPropiedad de la familia Mas, Los Jardines Sothys realzan el mundo vegetal ya que son la fuente de inspiración y de creación de los productos cosméticos Sothys."
+        ],
+        "nl": [
+          "Botanische en hedendaagse tuinen, bekroond met het label \"opmerkelijke tuin\" in 2018, onze tuinen inspireren onze cosmetische knowhow."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/3d9a7baf-c40a-3ce3-9c09-150dcafd0429",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/eefc47d1-72f8-3604-b343-e02109ef12d4",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/15a94281-80d8-35d3-a43d-788aca584c4d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/44acae72-9bd1-3400-8c53-f093762c6938",
+          "schema:addressLocality": "Auriac",
+          "schema:postalCode": "19220",
+          "schema:streetAddress": [
+            "10 rue Bernard Mas"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:19014",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Auriac"
+              ],
+              "pt": [
+                "Auriac"
+              ],
+              "en": [
+                "Auriac"
+              ],
+              "it": [
+                "Auriac"
+              ],
+              "fr": [
+                "Auriac"
+              ],
+              "nl": [
+                "Auriac"
+              ],
+              "es": [
+                "Auriac"
+              ]
+            },
+            "insee": "19014",
+            "isPartOfDepartment": {
+              "@id": "kb:France7519",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Corrèze"
+                ],
+                "pt": [
+                  "Corrèze"
+                ],
+                "en": [
+                  "Corrèze"
+                ],
+                "it": [
+                  "Corrèze"
+                ],
+                "fr": [
+                  "Corrèze"
+                ],
+                "nl": [
+                  "Corrèze"
+                ],
+                "es": [
+                  "Corrèze"
+                ]
+              },
+              "insee": "19",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/dbee2974-1b25-396c-a60c-34ccd37080a0",
+        "schema:elevation": "600",
+        "schema:latitude": "45.200933",
+        "schema:longitude": "2.142048",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/0732f24a-f442-3f91-8b51-91b84005de2d",
+          "schema:closes": "19:00:00",
+          "schema:opens": "10:00:00",
+          "schema:validFrom": "2023-09-01T00:00:00",
+          "schema:validThrough": "2023-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3541332a-273e-3d34-bb8c-8ad246405a2b",
+          "schema:closes": "20:00:00",
+          "schema:opens": "10:00:00",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8f21c72c-4d7e-3b2d-9848-dc7137a96147",
+          "schema:closes": "19:00:00",
+          "schema:opens": "11:00:00",
+          "schema:validFrom": "2023-03-30T00:00:00",
+          "schema:validThrough": "2023-04-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/99d9c291-ca29-3cbc-afd9-2b55f5528a20",
+          "schema:closes": "18:00:00",
+          "schema:opens": "10:00:00",
+          "schema:validFrom": "2023-10-01T00:00:00",
+          "schema:validThrough": "2023-11-05T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dc22de23-ce1d-34eb-9f42-857eac47b573",
+          "schema:closes": "19:00:00",
+          "schema:opens": "10:00:00",
+          "schema:validFrom": "2023-05-01T00:00:00",
+          "schema:validThrough": "2023-06-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/91416cd3-9f10-34ab-8fdc-2b22f474b045",
+      "schema:email": [
+        "ncaldayroux@cantal-destination.com"
+      ],
+      "schema:legalName": "Cantal Destination",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.auvergne-destination-volcans.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-13",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.291Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/2694c1bb-107d-321c-8936-0d191f44da71",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/dc98d1a8-4c2c-3c57-940b-d8662fd393ac",
+          "schema:maxPrice": [
+            "10.5",
+            "7"
+          ],
+          "schema:minPrice": [
+            "4",
+            "6",
+            "8.5"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/21e1f56d-6554-39c8-908f-74bf75b82c7f",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-11-05",
+              "startDate": "2023-03-30"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

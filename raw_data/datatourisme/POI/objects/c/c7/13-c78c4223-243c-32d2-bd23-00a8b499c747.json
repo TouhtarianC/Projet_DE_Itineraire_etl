@@ -1,0 +1,860 @@
+{
+  "@id": "https://data.datatourisme.fr/13/c78c4223-243c-32d2-bd23-00a8b499c747",
+  "dc:identifier": "5758392",
+  "@type": [
+    "Abbey",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Überreste eines Priorats, das 1081 vom Orden von Cluny gegründet wurde. Führungen nach Vereinbarung, aber auch während des Bauernmarkts von Ronsenac am Mittwoch, den 13. Juli um 18 Uhr und an einigen Samstagen im Sommer 2022 ."
+    ],
+    "en": [
+      "Vestiges of a Cluniac priory, founded in 1081."
+    ],
+    "it": [
+      "Resti di un priorato fondato dall'Ordine di Cluny nel 1081. Visite guidate su appuntamento, ma anche al mercato agricolo di Ronsenac mercoledì 13 luglio alle 18.00 e in diversi sabati dell'estate 2022."
+    ],
+    "fr": [
+      "Vestiges d'un prieuré fondé par l’ordre de Cluny en 1081. Visites commentées sur rendez-vous mais également lors du marché de producteurs de Ronsenac le mercredi 13 juillet à 18h et durant quelques samedis de l'été 2022 ."
+    ],
+    "es": [
+      "Restos de un priorato fundado por la Orden de Cluny en 1081. Visitas guiadas con cita previa, pero también en el mercado agrícola de Ronsenac el miércoles 13 de julio a las 18:00 y varios sábados del verano de 2022."
+    ],
+    "nl": [
+      "Overblijfselen van een priorij gesticht door de Orde van Cluny in 1081. Rondleidingen op afspraak, maar ook op de boerenmarkt van Ronsenac op woensdag 13 juli om 18.00 uur en op verschillende zaterdagen in de zomer van 2022."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Prieuré Saint-Jean Baptiste"
+    ],
+    "ru": [
+      "Prieuré Saint-Jean Baptiste"
+    ],
+    "en": [
+      "Prieuré Saint-Jean Baptiste"
+    ],
+    "it": [
+      "Prieuré Saint-Jean Baptiste"
+    ],
+    "fr": [
+      "Prieuré Saint-Jean Baptiste"
+    ],
+    "zh": [
+      "Prieuré Saint-Jean Baptiste"
+    ],
+    "nl": [
+      "Prieuré Saint-Jean Baptiste"
+    ],
+    "es": [
+      "Prieuré Saint-Jean Baptiste"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/16ba7217-2e6a-3f1d-a54d-11ab6967e371",
+    "dc:identifier": "2063",
+    "schema:email": [
+      "direction@sudcharentetourisme.fr",
+      "noemie@sudcharentetourisme.fr"
+    ],
+    "schema:legalName": "Office de tourisme du Sud Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.sudcharentetourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/d968a083-9522-34e6-989f-73bd46a6d145",
+      "schema:email": [
+        "laurent-montigny@orange.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 62 10 83",
+        "+33 6 73 43 97 12"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.prieurederonsenac.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/770c2e8b-c80d-3b75-a21c-2c78d17f0f8f",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/057fb6f4-6f6a-367e-b322-ee173a93e471",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/06bb8b74-855e-3bcb-b4c3-c2e30936273b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5dece0e0-7981-3977-97fe-5465eae4ca00",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c7985a2c-ccd3-3dc9-bee1-c950044cab32",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Überreste eines Priorats, das 1081 vom Orden von Cluny gegründet wurde. Führungen nach Vereinbarung, aber auch während des Bauernmarkts von Ronsenac am Mittwoch, den 13. Juli um 18 Uhr und an einigen Samstagen im Sommer 2022 ."
+        ],
+        "en": [
+          "Vestiges of a Cluniac priory, founded in 1081."
+        ],
+        "it": [
+          "Resti di un priorato fondato dall'Ordine di Cluny nel 1081. Visite guidate su appuntamento, ma anche al mercato agricolo di Ronsenac mercoledì 13 luglio alle 18.00 e in diversi sabati dell'estate 2022."
+        ],
+        "fr": [
+          "Vestiges d'un prieuré fondé par l’ordre de Cluny en 1081. Visites commentées sur rendez-vous mais également lors du marché de producteurs de Ronsenac le mercredi 13 juillet à 18h et durant quelques samedis de l'été 2022 ."
+        ],
+        "es": [
+          "Restos de un priorato fundado por la Orden de Cluny en 1081. Visitas guiadas con cita previa, pero también en el mercado agrícola de Ronsenac el miércoles 13 de julio a las 18:00 y varios sábados del verano de 2022."
+        ],
+        "nl": [
+          "Overblijfselen van een priorij gesticht door de Orde van Cluny in 1081. Rondleidingen op afspraak, maar ook op de boerenmarkt van Ronsenac op woensdag 13 juli om 18.00 uur en op verschillende zaterdagen in de zomer van 2022."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/12747ad4-2ead-36e2-813b-be13cab4f272",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4b6d32b1-8141-349b-a497-9adc1dfe4054",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5ddbbf42-cd83-3f00-91ea-1818cbb6b08b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f7ea9063-6e72-3e85-bde2-bd669ae1c2cb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f3f3f11c-89d9-3fe8-b555-2cf0c23d1874",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/e4277eab-03e0-36bd-9632-e766c98095d5",
+          "schema:addressLocality": "Ronsenac",
+          "schema:postalCode": "16320",
+          "schema:streetAddress": [
+            "8 place Saint Jean Baptiste"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16283",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ronsenac"
+              ],
+              "pt": [
+                "Ronsenac"
+              ],
+              "en": [
+                "Ronsenac"
+              ],
+              "it": [
+                "Ronsenac"
+              ],
+              "fr": [
+                "Ronsenac"
+              ],
+              "nl": [
+                "Ronsenac"
+              ],
+              "es": [
+                "Ronsenac"
+              ]
+            },
+            "insee": "16283",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/e922579c-236f-31f7-a797-74cbe6b9ed8f",
+        "schema:latitude": "45.4764",
+        "schema:longitude": "0.248462",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/068e477a-5234-32d1-b93c-e6db5c646e7e",
+          "schema:opens": "15:00:00",
+          "schema:validFrom": "2023-07-09T00:00:00",
+          "schema:validThrough": "2023-07-09T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "15 Uhr und 17:30 Uhr"
+            ],
+            "en": [
+              "3pm and 5:30pm"
+            ],
+            "it": [
+              "15.00 e 17.30"
+            ],
+            "fr": [
+              "15h et 17h30"
+            ],
+            "es": [
+              "15.00 y 17.30 h"
+            ],
+            "nl": [
+              "15.00 en 17.30 uur"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/00b3d60c-cfa2-3534-b2f3-f12015b1d48c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/054fa174-e095-34da-8cc4-59f6bfd21e62",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/0e3926bc-efe0-3745-a107-089cf8e34846",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/93c5e327-1bb6-3c33-a13b-6c42c18b0f96",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d093a298-a34c-3e90-8b58-42d4ce03071d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6998d485-2f0f-35cf-be96-b96284192417",
+          "schema:opens": "15:00:00",
+          "schema:validFrom": "2023-08-27T00:00:00",
+          "schema:validThrough": "2023-08-27T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "15 Uhr und 17:30 Uhr"
+            ],
+            "en": [
+              "3pm and 5:30pm"
+            ],
+            "it": [
+              "15.00 e 17.30"
+            ],
+            "fr": [
+              "15h et 17h30"
+            ],
+            "es": [
+              "15.00 y 17.30 h"
+            ],
+            "nl": [
+              "15.00 en 17.30 uur"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/0a0cbd86-ad82-3a14-a461-be16326a1c6c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/b8bea8d1-2dd3-3d53-94c3-e033d30f349f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/cfc42911-be3c-365f-913a-ab1c1d3f0e00",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e5a4fcdd-fd67-3722-a7c3-b502aa3d4b0f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/fded4598-5196-3eb3-b5f6-c55e7d5d116f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9c205660-a5f8-3e2a-bae8-d1bc4abcd079",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Auf RDV"
+            ],
+            "en": [
+              "By appointment"
+            ],
+            "it": [
+              "Su appuntamento"
+            ],
+            "fr": [
+              "Sur RDV"
+            ],
+            "nl": [
+              "Op afspraak"
+            ],
+            "es": [
+              "Con cita previa"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/50cb2dd0-0b7b-395d-bfbc-b62bedfabe91",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/5a479462-9350-3345-8795-782041631b03",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/80d5a89f-4225-3d7e-afd2-1c60c440adfc",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/876fa3b8-45d7-3808-8f0a-664431077c0f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a6b9198d-5582-37a4-8743-8ce0dd986b8c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a0187f50-5e1f-3709-9285-8731884d4ee1",
+          "schema:opens": "15:00:00",
+          "schema:validFrom": "2023-08-06T00:00:00",
+          "schema:validThrough": "2023-08-06T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "15 Uhr und 17:30 Uhr"
+            ],
+            "en": [
+              "3pm and 5:30pm"
+            ],
+            "it": [
+              "15.00 e 17.30"
+            ],
+            "fr": [
+              "15h et 17h30"
+            ],
+            "es": [
+              "15.00 y 17.30 h"
+            ],
+            "nl": [
+              "15.00 en 17.30 uur"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/0a807f5f-7576-3950-b917-259140714e60",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/166fe953-8e37-3e51-9581-f2819d164211",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/2358f4fe-dfdf-3497-a6e2-dfee1b96c8d2",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/5d7e8bfb-72ea-36b5-82ac-cecba80a2917",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/9d277125-d1f7-3f8a-83e9-d709a38c0b32",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a7d28ad2-b5d2-31d2-8fe2-462fd346babf",
+          "schema:opens": "18:00:00",
+          "schema:validFrom": "2023-07-13T00:00:00",
+          "schema:validThrough": "2023-07-13T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/a5a35655-de13-3062-b61c-7cbc3e16c2c5",
+      "schema:email": [
+        "direction@sudcharentetourisme.fr",
+        "noemie@sudcharentetourisme.fr"
+      ],
+      "schema:legalName": "Office de tourisme du Sud Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.sudcharentetourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-22",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.271Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/b2dd06dd-93b3-3411-8cdc-8b2e51cd5f7f",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/988deaa3-0df8-353a-856f-fef5be2b3c0f",
+          "schema:maxPrice": [
+            "3",
+            "5"
+          ],
+          "schema:minPrice": [
+            "3",
+            "5"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/ff37de9e-314b-317f-a796-948735097d09",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2021-08-15",
+              "startDate": "2021-07-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

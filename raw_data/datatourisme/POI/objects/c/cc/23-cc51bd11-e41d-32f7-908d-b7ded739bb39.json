@@ -1,0 +1,895 @@
+{
+  "@id": "https://data.datatourisme.fr/23/cc51bd11-e41d-32f7-908d-b7ded739bb39",
+  "dc:identifier": "PCUAQU040V5035B2",
+  "@type": [
+    "schema:Product",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Product",
+    "TechnicalHeritage",
+    "Visit"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Du bist zwischen 6 und 12 Jahre alt, sei willkommen, junger Entdecker! Ausgestattet mit dem Tablet und dem Ermittlungsheft, entdeckst du 16 Rätsel über das Kulturerbe und die Traditionen auf spielerische und interaktive Weise. Das Plus für die Familie: Wenn du das Heft ausgefüllt hast, erhältst du am Ende des Besuchs ein Geschenk."
+    ],
+    "en": [
+      "In Terres de Chalosse, kids have the right to explore things, too…  A route through Mugron’s town centre gives children ages 6 to 12 the chance to learn about the town and its secrets. Through puzzles, treasure hunts and riddles (in French), your young ones can discover the sporting traditions, architectural heritage and history of Mugron and the inland part of the Landes. Stop by the Tourist Office in Mugron or Montfort-en-Chalosse to pick up a booklet and begin your investigation. In July or August, you can extend your day in Mugron at La Saucille aquatic centre. \nFamily bonus: At the end of your tour, with the completed booklet in hand, head back to the Tourist Office with your family to collect your surprise!"
+    ],
+    "it": [
+      "Hai tra i 6 e i 12 anni, benvenuto, giovane esploratore! Con la tavoletta e il libretto delle indagini, scoprite 16 indovinelli sul patrimonio e sulle tradizioni in modo divertente e interattivo. Il bonus famiglia: una volta completato il libretto, riceverete un regalo al termine della visita."
+    ],
+    "fr": [
+      "Tu as entre 6 et 12 ans, soit le bienvenu, jeune Explorateur ! Muni de la tablette et du livret d'enquête, découvre 16 énigmes sur le Patrimoine et les traditions de façon ludique et interactive. Le + famille : Une fois le carnet complété, un cadeau à l'issue de la visite."
+    ],
+    "es": [
+      "Tienes entre 6 y 12 años, ¡bienvenido, joven explorador! Con la tableta y el cuaderno de investigación, descubre 16 adivinanzas sobre el patrimonio y las tradiciones de forma divertida e interactiva. La bonificación familiar: Una vez completado el cuaderno, recibirá un regalo al final de la visita."
+    ],
+    "nl": [
+      "Je bent tussen 6 en 12 jaar oud, welkom, jonge ontdekkingsreiziger! Ontdek met de tablet en het onderzoeksboekje op een leuke en interactieve manier 16 raadsels over erfgoed en tradities. De familiebonus: Als het boekje is ingevuld, ontvangt u aan het eind van het bezoek een cadeautje."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Le petit explorateur"
+    ],
+    "en": [
+      "Le petit explorateur"
+    ],
+    "fr": [
+      "Le petit explorateur"
+    ],
+    "nl": [
+      "Le petit explorateur"
+    ],
+    "es": [
+      "Le petit explorateur"
+    ]
+  },
+  "availableLanguage": [
+    "fr"
+  ],
+  "creationDate": "2014-12-16",
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/23/48f88a9e-9aa5-30a9-b143-256822c8ebd7",
+    "dc:identifier": "66efed65-ec13-438c-a9cb-9ff363ef995a",
+    "schema:legalName": "OT Terres de Chalosse",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/05dc9cb8-2fa5-383d-b87b-497de06649a2",
+      "schema:email": [
+        "sirtaqui@na-tourisme.com"
+      ],
+      "schema:legalName": "SIRTAQUI Nouvelle-Aquitaine",
+      "schema:logo": "http://aquitaine.media.tourinsoft.eu/upload/Logo-Sirtaqui-1280x405.jpg",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "rdfs:comment": {
+        "de": [
+          "Collecter, mettre en commun et diffuser le plus largement possible une information complète et de qualité au service de nos habitants et de nos visiteurs : voici les objectifs du SIRTAQUI, Système d’Information Régional Touristique de Nouvelle-AQUItaine. Le dispositif est mis en œuvre conjointement par le Comité Régional de Tourisme de Nouvelle-Aquitaine, les services touristiques de la Corrèze, de la Creuse, de la Dordogne, de la Gironde, des Landes, du Lot-et-Garonne, des Pyrénées-Atlantiques, des Deux-Sèvres, de la Vienne et de la Haute-Vienne, en collaboration avec les Offices de Tourisme, et avec le soutien financier de l’Europe et du Conseil Régional."
+        ],
+        "en": [
+          "Collecter, mettre en commun et diffuser le plus largement possible une information complète et de qualité au service de nos habitants et de nos visiteurs : voici les objectifs du SIRTAQUI, Système d’Information Régional Touristique de Nouvelle-AQUItaine. Le dispositif est mis en œuvre conjointement par le Comité Régional de Tourisme de Nouvelle-Aquitaine, les services touristiques de la Corrèze, de la Creuse, de la Dordogne, de la Gironde, des Landes, du Lot-et-Garonne, des Pyrénées-Atlantiques, des Deux-Sèvres, de la Vienne et de la Haute-Vienne, en collaboration avec les Offices de Tourisme, et avec le soutien financier de l’Europe et du Conseil Régional."
+        ],
+        "it": [
+          "L'obiettivo di SIRTAQUI, il Sistema Regionale di Informazione Turistica della Nuova Aquitania, è quello di raccogliere, mettere in comune e diffondere il più possibile informazioni complete e di qualità a beneficio dei nostri residenti e visitatori. Il sistema è realizzato congiuntamente dal Comité Régional de Tourisme de Nouvelle-Aquitaine, dai servizi turistici di Corrèze, Creuse, Dordogne, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques, Deux-Sèvres, Vienne e Haute-Vienne, in collaborazione con gli Uffici del Turismo e con il sostegno finanziario dell'Europa e del Conseil Régional."
+        ],
+        "fr": [
+          "Collecter, mettre en commun et diffuser le plus largement possible une information complète et de qualité au service de nos habitants et de nos visiteurs : voici les objectifs du SIRTAQUI, Système d’Information Régional Touristique de Nouvelle-AQUItaine. Le dispositif est mis en œuvre conjointement par le Comité Régional de Tourisme de Nouvelle-Aquitaine, les services touristiques de la Corrèze, de la Creuse, de la Dordogne, de la Gironde, des Landes, du Lot-et-Garonne, des Pyrénées-Atlantiques, des Deux-Sèvres, de la Vienne et de la Haute-Vienne, en collaboration avec les Offices de Tourisme, et avec le soutien financier de l’Europe et du Conseil Régional."
+        ],
+        "nl": [
+          "Collecter, mettre en commun et diffuser le plus largement possible une information complète et de qualité au service de nos habitants et de nos visiteurs : voici les objectifs du SIRTAQUI, Système d’Information Régional Touristique de Nouvelle-AQUItaine. Le dispositif est mis en œuvre conjointement par le Comité Régional de Tourisme de Nouvelle-Aquitaine, les services touristiques de la Corrèze, de la Creuse, de la Dordogne, de la Gironde, des Landes, du Lot-et-Garonne, des Pyrénées-Atlantiques, des Deux-Sèvres, de la Vienne et de la Haute-Vienne, en collaboration avec les Offices de Tourisme, et avec le soutien financier de l’Europe et du Conseil Régional."
+        ],
+        "es": [
+          "Collecter, mettre en commun et diffuser le plus largement possible une information complète et de qualité au service de nos habitants et de nos visiteurs : voici les objectifs du SIRTAQUI, Système d’Information Régional Touristique de Nouvelle-AQUItaine. Le dispositif est mis en œuvre conjointement par le Comité Régional de Tourisme de Nouvelle-Aquitaine, les services touristiques de la Corrèze, de la Creuse, de la Dordogne, de la Gironde, des Landes, du Lot-et-Garonne, des Pyrénées-Atlantiques, des Deux-Sèvres, de la Vienne et de la Haute-Vienne, en collaboration avec les Offices de Tourisme, et avec le soutien financier de l’Europe et du Conseil Régional."
+        ]
+      },
+      "foaf:homepage": [
+        "http://www.sirtaqui-aquitaine.com/"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/eef27e75-4a23-313e-a6ee-797e7b64a1cd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "rdfs:comment"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8dd34307-666f-3e26-8333-519e24cac3ca",
+      "schema:legalName": "Office de Tourisme Terres de Chalosse",
+      "schema:telephone": [
+        "+33 5 58 98 58 50"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.chalosse.fr/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8dd34307-666f-3e26-8333-519e24cac3ca",
+      "schema:legalName": "Office de Tourisme Terres de Chalosse",
+      "schema:telephone": [
+        "+33 5 58 98 58 50"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.chalosse.fr/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9f4d32ee-319f-37c1-9db4-6945d33e59c0",
+      "schema:legalName": "Le petit explorateur",
+      "schema:telephone": [
+        "+33 5 58 98 58 50"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.chalosse.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/094987f0-4a08-327f-a168-f870284dd5b8",
+      "dc:description": {
+        "de": [
+          "In Terres de Chalosse haben auch die Kinder ein Recht auf Entdeckungen...  Auf einem Rundgang durch den Ortskern von Mugron können Kinder von 6 bis 12 Jahren die Stadt und ihre Geheimnisse entdecken. Mithilfe von Rätseln, Suchspielen und Fragen und Antworten entdecken die Kinder die sportlichen Traditionen, das architektonische Erbe und die Geschichte von Mugron und dem Landesinneren. Begeben Sie sich zum Fremdenverkehrsamt von Mugron oder zum Office de Tourisme von Montfort-en-Chalosse, die Ihnen Ihr Heft aushändigen, damit Sie Ihre Ermittlungen erfolgreich abschließen können. Um Ihren Tag in Mugron zu verlängern, können Sie im Juli und August an der Freizeitanlage La Saucille vorbeikommen\nDas Plus für die Familie: Wenn Sie das Heft ausgefüllt haben, gehen Sie mit Ihrer Familie am Ende des Besuchs noch einmal zum Fremdenverkehrsamt, um Ihre Überraschung abzuholen!"
+        ],
+        "en": [
+          "In Terres de Chalosse, kids have the right to explore things, too…  A route through Mugron’s town centre gives children ages 6 to 12 the chance to learn about the town and its secrets. Through puzzles, treasure hunts and riddles (in French), your young ones can discover the sporting traditions, architectural heritage and history of Mugron and the inland part of the Landes. Stop by the Tourist Office in Mugron or Montfort-en-Chalosse to pick up a booklet and begin your investigation. In July or August, you can extend your day in Mugron at La Saucille aquatic centre. \nFamily bonus: At the end of your tour, with the completed booklet in hand, head back to the Tourist Office with your family to collect your surprise!"
+        ],
+        "it": [
+          "A Terres de Chalosse, anche i bambini hanno il diritto di scoprire...  Un circuito nel centro di Mugron permette ai bambini dai 6 ai 12 anni di scoprire la città e i suoi segreti. Attraverso indovinelli, cacce al tesoro e domande e risposte, i bambini scoprono le tradizioni sportive, il patrimonio architettonico e la storia di Mugron e dell'interno delle Landes. Recatevi all'Ufficio del Turismo di Mugron o all'Ufficio del Turismo di Montfort-en-Chalosse, dove riceverete il libretto per completare la vostra indagine. Per prolungare la vostra giornata a Mugron, in luglio e agosto, recatevi al centro ricreativo di Saucille\nIl bonus per le famiglie: alla fine della visita, una volta completato il libretto, tornate all'Ufficio del Turismo per ritirare la vostra sorpresa!"
+        ],
+        "fr": [
+          "En Terres de Chalosse, les enfants aussi ont droit à la découverte...  Un circuit dans le centre bourg de Mugron, permet aux enfants de 6 à 12 ans de découvrir la ville et ses secrets. A travers des énigmes, des jeux de pistes, des questions-réponses, les enfants découvrent les traditions sportives, le patrimoine architectural et l'histoire de Mugron et de l'intérieur des Landes. Rendez vous au Bureau d'Information touristique de Mugron ou à l'Office de Tourisme de Montfort-en-Chalosse qui vous délivreront votre carnet pour mener à bien votre enquête. Pour prolonger votre journée à Mugron, en juillet-août, passez à la base de loisirs de la Saucille. \nLe + famille : A l'issue de la visite, une fois le carnet complété, en famille repassez à l'office de Tourisme pour récupérer votre surprise !"
+        ],
+        "nl": [
+          "In Terres de Chalosse hebben kinderen ook het recht om...  Via een circuit in het centrum van Mugron kunnen kinderen van 6 tot 12 jaar de stad en haar geheimen ontdekken. Door middel van raadsels, speurtochten en vragen en antwoorden ontdekken kinderen de sportieve tradities, het architectonisch erfgoed en de geschiedenis van Mugron en het binnenland van de Landes. Ga naar het VVV-kantoor in Mugron of naar het VVV-kantoor in Montfort-en-Chalosse, waar u uw boekje ontvangt om uw onderzoek af te ronden. Om uw dag in Mugron te verlengen, gaat u in juli en augustus naar het recreatiecentrum van Saucille\nDe familiebonus: kom aan het einde van het bezoek, nadat u het boekje hebt ingevuld, terug naar het VVV-kantoor om uw verrassing op te halen!"
+        ],
+        "es": [
+          "En Terres de Chalosse, los niños también tienen derecho a descubrir...  Un circuito en el centro de Mugron permite a los niños de 6 a 12 años descubrir la ciudad y sus secretos. A través de adivinanzas, búsquedas del tesoro y preguntas y respuestas, los niños descubren las tradiciones deportivas, el patrimonio arquitectónico y la historia de Mugron y del interior de las Landas. Diríjase a la Oficina de Turismo de Mugron o a la Oficina de Turismo de Montfort-en-Chalosse, donde recibirá su folleto para completar su investigación. Para prolongar su jornada en Mugron, en julio y agosto, acuda al centro de ocio de Saucille\nEl plus familiar: Al final de la visita, una vez completado el cuaderno, ¡vuelve a la Oficina de Turismo para recoger tu sorpresa!"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3402c6a3-81e7-346a-8de2-a1595eefeaef",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3eb8e966-8d6b-35d1-b224-e1cf427dbf99",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/78802934-2fcb-346d-b868-bcbf93ad9060",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7f3ebd8e-072d-391e-90ff-cf1acfea11ec",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9c13e7d4-4f27-3a86-b36f-debe40044796",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bfe32017-6ea7-3d69-991c-ea42bbe8f0e9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/db4bfc12-cd87-33b5-a030-4d40ed955a2a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f332a696-91a0-384b-b4e4-148a4a2ba470",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Du bist zwischen 6 und 12 Jahre alt, sei willkommen, junger Entdecker! Ausgestattet mit dem Tablet und dem Ermittlungsheft, entdeckst du 16 Rätsel über das Kulturerbe und die Traditionen auf spielerische und interaktive Weise. Das Plus für die Familie: Wenn du das Heft ausgefüllt hast, erhältst du am Ende des Besuchs ein Geschenk."
+        ],
+        "en": [
+          "In Terres de Chalosse, kids have the right to explore things, too…  A route through Mugron’s town centre gives children ages 6 to 12 the chance to learn about the town and its secrets. Through puzzles, treasure hunts and riddles (in French), your young ones can discover the sporting traditions, architectural heritage and history of Mugron and the inland part of the Landes. Stop by the Tourist Office in Mugron or Montfort-en-Chalosse to pick up a booklet and begin your investigation. In July or August, you can extend your day in Mugron at La Saucille aquatic centre. \nFamily bonus: At the end of your tour, with the completed booklet in hand, head back to the Tourist Office with your family to collect your surprise!"
+        ],
+        "it": [
+          "Hai tra i 6 e i 12 anni, benvenuto, giovane esploratore! Con la tavoletta e il libretto delle indagini, scoprite 16 indovinelli sul patrimonio e sulle tradizioni in modo divertente e interattivo. Il bonus famiglia: una volta completato il libretto, riceverete un regalo al termine della visita."
+        ],
+        "fr": [
+          "Tu as entre 6 et 12 ans, soit le bienvenu, jeune Explorateur ! Muni de la tablette et du livret d'enquête, découvre 16 énigmes sur le Patrimoine et les traditions de façon ludique et interactive. Le + famille : Une fois le carnet complété, un cadeau à l'issue de la visite."
+        ],
+        "es": [
+          "Tienes entre 6 y 12 años, ¡bienvenido, joven explorador! Con la tableta y el cuaderno de investigación, descubre 16 adivinanzas sobre el patrimonio y las tradiciones de forma divertida e interactiva. La bonificación familiar: Una vez completado el cuaderno, recibirá un regalo al final de la visita."
+        ],
+        "nl": [
+          "Je bent tussen 6 en 12 jaar oud, welkom, jonge ontdekkingsreiziger! Ontdek met de tablet en het onderzoeksboekje op een leuke en interactieve manier 16 raadsels over erfgoed en tradities. De familiebonus: Als het boekje is ingevuld, ontvangt u aan het eind van het bezoek een cadeautje."
+        ]
+      }
+    }
+  ],
+  "hasFeature": [
+    {
+      "@id": "https://data.datatourisme.fr/4531512b-fbfe-39a1-98fa-3735244e055e",
+      "@type": [
+        "schema:PropertyValue",
+        "FeatureSpecification"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "hasMainRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/4c7eb3a9-d3c2-3229-b641-7fbf698ee6ed",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/d1e65637-7eea-3423-85aa-32867df08927",
+          "ebucore:isCoveredBy": "By-NC-ND 4.0",
+          "ebucore:title": {
+            "fr": [
+              "Le Petit Explorateur - jeu de piste en famille"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Office de Tourisme Terres de Chalosse"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/d4aa4574-69aa-3f2b-8665-91d3d43118ef",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "http://aquitaine.media.tourinsoft.eu/Upload/Le-Petit-Explorateur---jeu-de-piste-en-famille.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasNeighborhood": [
+    {
+      "@id": "kb:InTown",
+      "@type": [
+        "SpatialEnvironmentTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "in der Stadt"
+        ],
+        "pt": [
+          "Na cidade"
+        ],
+        "en": [
+          "In town"
+        ],
+        "it": [
+          "In città"
+        ],
+        "fr": [
+          "En ville"
+        ],
+        "nl": [
+          "In de stad"
+        ],
+        "es": [
+          "En la ciudad"
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/4c7eb3a9-d3c2-3229-b641-7fbf698ee6ed",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/d1e65637-7eea-3423-85aa-32867df08927",
+          "ebucore:isCoveredBy": "By-NC-ND 4.0",
+          "ebucore:title": {
+            "fr": [
+              "Le Petit Explorateur - jeu de piste en famille"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Office de Tourisme Terres de Chalosse"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/d4aa4574-69aa-3f2b-8665-91d3d43118ef",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "http://aquitaine.media.tourinsoft.eu/Upload/Le-Petit-Explorateur---jeu-de-piste-en-famille.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6863504b-3174-3b47-9ac6-a61012823cda",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/24ab2fba-a146-3dac-837f-7892d36b4f7a",
+          "ebucore:isCoveredBy": "By-NC-ND 4.0",
+          "ebucore:title": {
+            "fr": [
+              "Le Petit Explorateur - jeu de piste patrimoine"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Office de Tourisme Terres de Chalosse"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/92246437-84f4-3ca8-bb0b-92154b28bd10",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "http://aquitaine.media.tourinsoft.eu/Upload/Le-Petit-Explorateur---jeu-de-piste-patrimoine.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:InTown",
+      "@type": [
+        "SpatialEnvironmentTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "in der Stadt"
+        ],
+        "pt": [
+          "Na cidade"
+        ],
+        "en": [
+          "In town"
+        ],
+        "it": [
+          "In città"
+        ],
+        "fr": [
+          "En ville"
+        ],
+        "nl": [
+          "In de stad"
+        ],
+        "es": [
+          "En la ciudad"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0370bd5d-1452-324b-a5e8-3a7487997b26",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/129dd7c4-2e71-36c7-8e25-93679eb30a0c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2068ea6c-02b1-31a6-b4f9-2877c40fe8a2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7e614936-12ca-364e-bc7c-42b3a49d9135",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/1fd93650-f2df-35ae-9aa0-f739b69948e4",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/119263fb-6412-34e5-a56b-4b541e0b968e",
+          "schema:addressLocality": "Mugron",
+          "schema:postalCode": "40250",
+          "schema:streetAddress": [
+            "8 rue Vincent Depaul"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:40201",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Mugron"
+              ],
+              "pt": [
+                "Mugron"
+              ],
+              "en": [
+                "Mugron"
+              ],
+              "it": [
+                "Mugron"
+              ],
+              "fr": [
+                "Mugron"
+              ],
+              "nl": [
+                "Mugron"
+              ],
+              "es": [
+                "Mugron"
+              ]
+            },
+            "insee": "40201",
+            "isPartOfDepartment": {
+              "@id": "kb:France7540",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Landes"
+                ],
+                "pt": [
+                  "Landes"
+                ],
+                "en": [
+                  "Landes"
+                ],
+                "it": [
+                  "Landes"
+                ],
+                "fr": [
+                  "Landes"
+                ],
+                "nl": [
+                  "Landes"
+                ],
+                "es": [
+                  "Landes"
+                ]
+              },
+              "insee": "40",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/8100404c-767b-371d-b4a6-a3d92ca30edb",
+        "schema:latitude": "43.7499033",
+        "schema:longitude": "-0.7502462",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": true
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8dd34307-666f-3e26-8333-519e24cac3ca",
+      "schema:legalName": "Office de Tourisme Terres de Chalosse",
+      "schema:telephone": [
+        "+33 5 58 98 58 50"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.chalosse.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-12-31",
+  "lastUpdateDatatourisme": "2023-07-23T23:27:13.964Z",
+  "reducedMobilityAccess": false
+}

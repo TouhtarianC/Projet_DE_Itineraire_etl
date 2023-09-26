@@ -1,0 +1,577 @@
+{
+  "@id": "https://data.datatourisme.fr/13/d55d7f6a-3959-3b5d-8194-e7ddb19c0197",
+  "dc:identifier": "5676750",
+  "@type": [
+    "schema:Landform",
+    "Beach",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Beaufsichtigtes Baden auf dem baumbestandenen Gelände des Plan d'eau des Trois Fontaines.\r\nAngeln möglich, Verkauf von Angelkarten im Rathaus: 05 45 31 60 57\r\nVerpflegung vor Ort möglich."
+    ],
+    "en": [
+      "Supervised swimming on the wooded site of the Trois Fontaines lake.\r\nFishing is possible, fishing cards can be purchased at the town hall : 05 45 31 60 57\r\nCatering possible on the spot."
+    ],
+    "it": [
+      "Nuoto sorvegliato sul sito boscoso del lago Trois Fontaines.\r\nPossibilità di pesca, carte di pesca in vendita presso il municipio: 05 45 31 60 57\r\nRistorazione disponibile in loco."
+    ],
+    "fr": [
+      "Baignade surveillée sur le site arboré du plan d'eau des Trois Fontaines.\r\nPêche possible, vente de cartes de pêche à la mairie : 05 45 31 60 57\r\nRestauration possible sur place."
+    ],
+    "nl": [
+      "Zwemmen onder toezicht op het beboste terrein van het meer van Trois Fontaines.\r\nVissen mogelijk, viskaarten te koop op het gemeentehuis: 05 45 31 60 57\r\nCatering ter plaatse mogelijk."
+    ],
+    "es": [
+      "Baño vigilado en el terreno arbolado del lago de Trois Fontaines.\r\nPosibilidad de pesca, venta de tarjetas de pesca en el ayuntamiento: 05 45 31 60 57\r\nRestauración disponible in situ."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Plan d'eau des 3 fontaines"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/a96d3afe-c184-366b-beca-7a9f989fc7e7",
+    "dc:identifier": "2056",
+    "schema:email": [
+      "infotouristique@destination-nordcharente.com"
+    ],
+    "schema:legalName": "Office de tourisme Destination Nord Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ruffecois-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/900a1c63-d17f-39a1-94dd-b2b39be5455d",
+      "schema:email": [
+        "adjointsvillefagnan@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 5 45 31 60 57"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.villefagnan.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/059a95db-1cbc-301f-acad-14110556cb6b",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1e7eb30f-25b3-3e23-b52b-1a6118865cdd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6a474784-445f-37fa-baa7-52bc8f150db4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7b6ea3f1-3a60-36a3-80ff-4738b39ef507",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/96b2d331-332c-3f05-8e98-35e24cf5f0ed",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9befc4d7-4e3d-38aa-96f8-6abf578c3b87",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Beaufsichtigtes Baden auf dem baumbestandenen Gelände des Plan d'eau des Trois Fontaines.\r\nAngeln möglich, Verkauf von Angelkarten im Rathaus: 05 45 31 60 57\r\nVerpflegung vor Ort möglich."
+        ],
+        "en": [
+          "Supervised swimming on the wooded site of the Trois Fontaines lake.\r\nFishing is possible, fishing cards can be purchased at the town hall : 05 45 31 60 57\r\nCatering possible on the spot."
+        ],
+        "it": [
+          "Nuoto sorvegliato sul sito boscoso del lago Trois Fontaines.\r\nPossibilità di pesca, carte di pesca in vendita presso il municipio: 05 45 31 60 57\r\nRistorazione disponibile in loco."
+        ],
+        "fr": [
+          "Baignade surveillée sur le site arboré du plan d'eau des Trois Fontaines.\r\nPêche possible, vente de cartes de pêche à la mairie : 05 45 31 60 57\r\nRestauration possible sur place."
+        ],
+        "nl": [
+          "Zwemmen onder toezicht op het beboste terrein van het meer van Trois Fontaines.\r\nVissen mogelijk, viskaarten te koop op het gemeentehuis: 05 45 31 60 57\r\nCatering ter plaatse mogelijk."
+        ],
+        "es": [
+          "Baño vigilado en el terreno arbolado del lago de Trois Fontaines.\r\nPosibilidad de pesca, venta de tarjetas de pesca en el ayuntamiento: 05 45 31 60 57\r\nRestauración disponible in situ."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Bathing",
+      "@type": [
+        "AccommodationAmenity",
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Baden"
+        ],
+        "pt": [
+          "Banho"
+        ],
+        "en": [
+          "Bathing"
+        ],
+        "it": [
+          "Bagno"
+        ],
+        "fr": [
+          "Baignade"
+        ],
+        "nl": [
+          "Zwemmen"
+        ],
+        "es": [
+          "Baño"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Fishing",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Fischerei"
+        ],
+        "pt": [
+          "Pesca"
+        ],
+        "en": [
+          "Fishing"
+        ],
+        "it": [
+          "Pesca"
+        ],
+        "fr": [
+          "Pêche"
+        ],
+        "nl": [
+          "Visserij"
+        ],
+        "es": [
+          "Pesca"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/27fdc27e-2922-3573-959e-e1603f26915b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/33219096-27e8-3960-8ecc-7593dc739e49",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c6520c43-435e-3e75-a31d-b8bac12a8d45",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d63674f7-117f-3987-a719-556e229b35ce",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e06834ca-34e3-307d-8cb6-c6c91784185c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b166a38e-09da-3e6e-949a-db349201452e",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/377787ec-54c8-337d-bc13-46c119a5882f",
+          "schema:addressLocality": "Villefagnan",
+          "schema:postalCode": "16240",
+          "schema:streetAddress": [
+            "Fondoume",
+            "Plan d'eau des Trois Fontaines"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16409",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Villefagnan"
+              ],
+              "pt": [
+                "Villefagnan"
+              ],
+              "en": [
+                "Villefagnan"
+              ],
+              "it": [
+                "Villefagnan"
+              ],
+              "fr": [
+                "Villefagnan"
+              ],
+              "nl": [
+                "Villefagnan"
+              ],
+              "es": [
+                "Villefagnan"
+              ]
+            },
+            "insee": "16409",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/20e86a57-289d-3203-93df-6be1bb8d924d",
+        "schema:latitude": "45.998316",
+        "schema:longitude": "0.070755",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/b8c37ae3-d9e7-37a0-a9c2-2556b33d7bef",
+          "schema:closes": "19:00:00",
+          "schema:opens": "14:00:00",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-27T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Beaufsichtigtes Baden.\r\n\r\nRestauration vor Ort oder zum Mitnehmen jeden Tag außer montags."
+            ],
+            "en": [
+              "Supervised swimming.\r\n\r\nCatering on the spot or to take away every day except Monday."
+            ],
+            "it": [
+              "Nuoto supervisionato.\r\n\r\nCatering sul posto o da asporto tutti i giorni tranne il lunedì."
+            ],
+            "fr": [
+              "Baignade surveillée.\r\n\r\nRestauration sur place ou à emporter tous les jours sauf le lundi."
+            ],
+            "nl": [
+              "Zwemmen onder toezicht.\r\n\r\nCatering ter plaatse of om mee te nemen, elke dag behalve maandag."
+            ],
+            "es": [
+              "Natación supervisada.\r\n\r\nCatering in situ o para llevar todos los días excepto los lunes."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/394631fe-70c0-3649-a0a9-78df02a3a269",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/4646a97f-cbe5-37b9-8f48-0f29a741532d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/4a63270d-6288-34c8-b7ed-415da29a3a0e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/9599a8ab-7253-3058-9441-50737fc568a1",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/dba1aaff-b042-3a65-b7a8-8bdd36e18f68",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/515fb63a-6beb-307d-a0d6-d59e3e2d3f76",
+      "schema:email": [
+        "infotouristique@destination-nordcharente.com"
+      ],
+      "schema:legalName": "Office de tourisme Destination Nord Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ruffecois-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-22",
+  "lastUpdateDatatourisme": "2023-06-23T05:50:54.354Z"
+}

@@ -1,0 +1,466 @@
+{
+  "@id": "https://data.datatourisme.fr/13/f45dd38e-1ad4-3545-a27c-5dda8dab7715",
+  "dc:identifier": "5754882",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Entdecken Sie unsere Produkte: Pineau des Charentes, Cognac verschiedenen Alters, Spirituosen, Walnüsse, Haselnüsse und ihre Nebenprodukte (Süßwaren, Öle, Mandelpulver) und Trüffel, die Sie in unserem Laden auf dem Betrieb erwerben können"
+    ],
+    "en": [
+      "Come and discover our products: pineau des Charentes, cognac of different ages, spirits, walnuts, hazelnuts and their derivatives (confectionery, oils, almond powder) and truffles that you can buy in our shop located on the farm"
+    ],
+    "it": [
+      "Venite a scoprire i nostri prodotti: pineau des Charentes, cognac di diverse età, liquori, noci, nocciole e i loro derivati (pasticceria, oli, polvere di mandorle) e tartufi che potrete acquistare nel nostro negozio situato nella fattoria"
+    ],
+    "fr": [
+      "Venez découvrir nos produits : pineau des Charentes, cognac d’âges différents, spiritueux, noix, noisettes et leurs dérivés (confiserie, huiles, poudre d’amandons) et truffes que vous pourrez acquérir dans notre magasin situé sur l’exploitation"
+    ],
+    "es": [
+      "Venga a descubrir nuestros productos: pineau des Charentes, coñac de diferentes edades, licores, nueces, avellanas y sus derivados (confitería, aceites, polvo de almendra) y trufas que podrá comprar en nuestra tienda situada en la granja"
+    ],
+    "nl": [
+      "Kom en ontdek onze producten: pineau des Charentes, cognac van verschillende leeftijden, sterke drank, walnoten, hazelnoten en hun derivaten (snoepgoed, oliën, amandelpoeder) en truffels die u in onze winkel op de boerderij kunt kopen"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Domaine des Tonneaux"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/58e083a6-6ba0-36a6-8402-964b0b7ce2a1",
+      "schema:email": [
+        "info@domainedestonneaux.com"
+      ],
+      "schema:telephone": [
+        "+33 5 46 49 57 19",
+        "+33 6 73 43 42 09"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.domainedestonneaux.com/",
+        "https://www.instagram.com/domaine.des.tonneaux"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/897395f7-48c5-3b2a-a13d-fffd2b358a3e",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/40bd78d8-e0bb-38fe-a293-364d1609f55c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/55dd9112-742d-3a82-b700-c853bb7f929f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7273406c-799f-3837-a76d-5668c102641d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/83c63766-a5ed-3983-a5d4-ec1322a6dd18",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bcdb8dcd-790a-354c-a84e-f073de87f356",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Entdecken Sie unsere Produkte: Pineau des Charentes, Cognac verschiedenen Alters, Spirituosen, Walnüsse, Haselnüsse und ihre Nebenprodukte (Süßwaren, Öle, Mandelpulver) und Trüffel, die Sie in unserem Laden auf dem Betrieb erwerben können"
+        ],
+        "en": [
+          "Come and discover our products: pineau des Charentes, cognac of different ages, spirits, walnuts, hazelnuts and their derivatives (confectionery, oils, almond powder) and truffles that you can buy in our shop located on the farm"
+        ],
+        "it": [
+          "Venite a scoprire i nostri prodotti: pineau des Charentes, cognac di diverse età, liquori, noci, nocciole e i loro derivati (pasticceria, oli, polvere di mandorle) e tartufi che potrete acquistare nel nostro negozio situato nella fattoria"
+        ],
+        "fr": [
+          "Venez découvrir nos produits : pineau des Charentes, cognac d’âges différents, spiritueux, noix, noisettes et leurs dérivés (confiserie, huiles, poudre d’amandons) et truffes que vous pourrez acquérir dans notre magasin situé sur l’exploitation"
+        ],
+        "es": [
+          "Venga a descubrir nuestros productos: pineau des Charentes, coñac de diferentes edades, licores, nueces, avellanas y sus derivados (confitería, aceites, polvo de almendra) y trufas que podrá comprar en nuestra tienda situada en la granja"
+        ],
+        "nl": [
+          "Kom en ontdek onze producten: pineau des Charentes, cognac van verschillende leeftijden, sterke drank, walnoten, hazelnoten en hun derivaten (snoepgoed, oliën, amandelpoeder) en truffels die u in onze winkel op de boerderij kunt kopen"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0b9d75f9-b561-3f94-8d93-75f54368b157",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/28a9eed2-d696-3f98-8dc2-1d8b90d74a7d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/57307c7f-d66a-36c0-be91-ada807312edb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/81ef6508-3b1c-3e0b-b98c-655157c28fd4",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a3c2905e-d2ca-37a0-86d7-dec3b4a2cc10",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/60222462-4356-398e-964e-fba1c4220d6a",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/f3c8f09f-9d01-317e-9f26-3f2472835230",
+          "schema:addressLocality": "Jarnac-Champagne",
+          "schema:postalCode": "17520",
+          "schema:streetAddress": [
+            "14 rue des Tonneaux"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17192",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Jarnac-Champagne"
+              ],
+              "pt": [
+                "Jarnac-Champagne"
+              ],
+              "en": [
+                "Jarnac-Champagne"
+              ],
+              "it": [
+                "Jarnac-Champagne"
+              ],
+              "fr": [
+                "Jarnac-Champagne"
+              ],
+              "nl": [
+                "Jarnac-Champagne"
+              ],
+              "es": [
+                "Jarnac-Champagne"
+              ]
+            },
+            "insee": "17192",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/57b0cefc-c13d-33bb-9bc3-439007615e2e",
+        "schema:latitude": "45.547852",
+        "schema:longitude": "-0.413777",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-03-24",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.798Z"
+}

@@ -1,0 +1,903 @@
+{
+  "@id": "https://data.datatourisme.fr/13/c2df881a-be0e-3193-ad1b-1094274fadae",
+  "dc:identifier": "5733322",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das Museum erzählt in einer Reihe von Miniaturvitrinen im Maßstab 1:12 von der ländlichen Welt Ende des 19. Jahrhunderts, der Arbeiterschaft, dem Kleinbürgertum und der Aristokratie in verschiedenen Regionen Frankreichs"
+    ],
+    "en": [
+      "Come and discover the work of the miniaturist and immerse yourself in the life of our grandparents. Elisabeth Lapierre tells in a series of miniature showcases about the rural world of the late 19th century, the working class, the petty bourgeoisie and the aristocracy of our regions."
+    ],
+    "it": [
+      "Il museo racconta la storia del mondo rurale di fine Ottocento, della classe operaia, della piccola borghesia e dell'aristocrazia di varie regioni francesi in una serie di vetrine in miniatura in scala 1/12"
+    ],
+    "fr": [
+      "Le musée raconte, dans une série de vitrines miniatures au 1/12 ème, le monde rural de la fin du XIXe, le monde ouvrier, la petite bourgeoisie et l'aristocratie de différentes régions françaises"
+    ],
+    "nl": [
+      "Het museum vertelt het verhaal van de landelijke wereld van het einde van de 19e eeuw, de arbeidersklasse, de kleine burgerij en de aristocratie van verschillende Franse regio's in een reeks miniatuurramen op 1/12e schaal"
+    ],
+    "es": [
+      "El museo cuenta la historia del mundo rural de finales del siglo XIX, la clase obrera, la pequeña burguesía y la aristocracia de varias regiones francesas en una serie de ventanas en miniatura a escala 1/12"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Musée de la Miniature"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/cbef4632-1026-3840-8bc3-216d4774c8a9",
+    "dc:identifier": "2075",
+    "schema:email": [
+      "a.ponchon@charentestourisme.com"
+    ],
+    "schema:legalName": "Destination Vals de Saintonge / Charentes Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.destinationvalsdesaintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/db5f3e2d-f2e2-3b77-bfec-6fb8a239598d",
+      "schema:email": [
+        "lapierre1951@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 6 10 01 37 53"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.miniature17.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/a27cf2db-c54d-3d3f-b4cd-2ebe98fa41fb",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2e316d22-f3d6-36bc-947f-45766f9b66a5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2f7b26fe-2314-3e8e-9019-e90bbf8d09b4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6958a678-ce41-357a-af98-2ba9bc97c355",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cbfbf261-c1e0-3d80-b2cf-d13e10509b15",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das Museum erzählt in einer Reihe von Miniaturvitrinen im Maßstab 1:12 von der ländlichen Welt Ende des 19. Jahrhunderts, der Arbeiterschaft, dem Kleinbürgertum und der Aristokratie in verschiedenen Regionen Frankreichs"
+        ],
+        "en": [
+          "Come and discover the work of the miniaturist and immerse yourself in the life of our grandparents. Elisabeth Lapierre tells in a series of miniature showcases about the rural world of the late 19th century, the working class, the petty bourgeoisie and the aristocracy of our regions."
+        ],
+        "it": [
+          "Il museo racconta la storia del mondo rurale di fine Ottocento, della classe operaia, della piccola borghesia e dell'aristocrazia di varie regioni francesi in una serie di vetrine in miniatura in scala 1/12"
+        ],
+        "fr": [
+          "Le musée raconte, dans une série de vitrines miniatures au 1/12 ème, le monde rural de la fin du XIXe, le monde ouvrier, la petite bourgeoisie et l'aristocratie de différentes régions françaises"
+        ],
+        "nl": [
+          "Het museum vertelt het verhaal van de landelijke wereld van het einde van de 19e eeuw, de arbeidersklasse, de kleine burgerij en de aristocratie van verschillende Franse regio's in een reeks miniatuurramen op 1/12e schaal"
+        ],
+        "es": [
+          "El museo cuenta la historia del mundo rural de finales del siglo XIX, la clase obrera, la pequeña burguesía y la aristocracia de varias regiones francesas en una serie de ventanas en miniatura a escala 1/12"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/26b69387-adbc-3bc6-938f-4afeb7ab2531",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6fd04cad-bc24-3131-a2a1-f344ea789127",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a8d2fcaf-e54b-3222-8101-5fce96f9c988",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fda120d8-5666-346d-bd24-5c6878f27ffc",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/aa7c40f5-a361-3bad-b44a-3e617abcade0",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/fbc4c61f-d910-33cd-aa4e-c8c4ef59a347",
+          "schema:addressLocality": "Saint-Savinien",
+          "schema:postalCode": "17350",
+          "schema:streetAddress": [
+            "13 Rue Saint-Michel"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17397",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Savinien"
+              ],
+              "pt": [
+                "Saint-Savinien"
+              ],
+              "en": [
+                "Saint-Savinien"
+              ],
+              "it": [
+                "Saint-Savinien"
+              ],
+              "fr": [
+                "Saint-Savinien"
+              ],
+              "nl": [
+                "Saint-Savinien"
+              ],
+              "es": [
+                "Saint-Savinien"
+              ]
+            },
+            "insee": "17397",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/ab08e28b-3c7b-31d4-b997-81a16cd6b8f9",
+        "schema:latitude": "45.878599",
+        "schema:longitude": "-0.679993",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/30f95899-ab27-3449-8e1a-77012c43b79e",
+          "schema:validFrom": "2023-09-01T00:00:00",
+          "schema:validThrough": "2023-06-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Dienstag, Mittwoch, Freitag, Samstag, Sonntag: offen\n\nDienstag, Mittwoch, Freitag, Samstag, Sonntag: offen\n\n14:30 bis 18:30 Uhr"
+            ],
+            "en": [
+              "Tuesday, Wednesday, Friday, Saturday, Sunday: open\n\nTuesday, Wednesday, Friday, Saturday, Sunday: open\n\n2:30 pm to 6:30 pm"
+            ],
+            "it": [
+              "Martedì, mercoledì, venerdì, sabato, domenica: aperto\n\nMartedì, mercoledì, venerdì, sabato, domenica: aperto\n\ndalle 14.30 alle 18.30"
+            ],
+            "fr": [
+              "Mardi, Mercredi, Vendredi, Samedi, Dimanche : ouvert\n\nMardi, Mercredi, Vendredi, Samedi, Dimanche : ouvert\n\n14h30 à 18h 30"
+            ],
+            "es": [
+              "Martes, miércoles, viernes, sábado y domingo: abierto\n\nMartes, miércoles, viernes, sábado y domingo: abierto\n\n14.30 h a 18.30 h"
+            ],
+            "nl": [
+              "Dinsdag, woensdag, vrijdag, zaterdag, zondag: open\n\nDinsdag, woensdag, vrijdag, zaterdag, zondag: open\n\n14.30 tot 18.30 uur"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/4c753b03-580c-341d-901b-d8c97cfac074",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/83a5f3cf-0763-3bbf-b854-2f890cb06ff9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/87f341d7-e343-3a24-a37b-bb7b65fa5a9d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/8d112836-c693-305e-9fca-7b6cfe98fda5",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e495fc18-2d57-3f9a-98f3-b35d67cb2089",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/41e7eef8-91bb-3559-a114-56ca0daa2db1",
+          "schema:validFrom": "2023-06-30T00:00:00",
+          "schema:validThrough": "2023-08-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag: offen\n\n14:30 bis 18:30 Uhr"
+            ],
+            "en": [
+              "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday: open\n\n2:30 pm to 6:30 pm"
+            ],
+            "it": [
+              "Lunedì, martedì, mercoledì, giovedì, venerdì, sabato, domenica: aperto\n\ndalle 14.30 alle 18.30"
+            ],
+            "fr": [
+              "Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi, Dimanche : ouvert\n\n14h30 à 18h 30"
+            ],
+            "nl": [
+              "Maandag, dinsdag, woensdag, donderdag, vrijdag, zaterdag, zondag: open\n\n14.30 tot 18.30 uur"
+            ],
+            "es": [
+              "Lunes, martes, miércoles, jueves, viernes, sábado y domingo: abierto\n\nde 14.30 a 18.30 horas"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/052eeccc-42f9-31ea-b5e3-5cf461923338",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/123774a6-a20f-3499-b3c9-4077ef3136f6",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/19f52229-d98e-3f5c-b78c-433a02102f7b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/47a40203-27fe-39fc-a1fb-1293bdfce381",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/8e57c762-053d-3ca5-82e7-5ddff347957c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4fcdaabb-f832-348e-8b83-2acffee7ee66",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag: offen"
+            ],
+            "en": [
+              "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday: open"
+            ],
+            "it": [
+              "Lunedì, martedì, mercoledì, giovedì, venerdì, sabato, domenica: aperto"
+            ],
+            "fr": [
+              "Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi, Dimanche : ouvert"
+            ],
+            "nl": [
+              "Maandag, dinsdag, woensdag, donderdag, vrijdag, zaterdag, zondag: open"
+            ],
+            "es": [
+              "Lunes, martes, miércoles, jueves, viernes, sábado y domingo: abierto"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/470d2db8-b2b3-3247-bfa8-a17f1c49cdbf",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/9efaa5ef-fe80-316c-9e3d-71f9e6b0ede3",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ac68f9e2-4f26-3696-a249-7cabef26c6d0",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/b3ba337d-e9f4-368d-beaa-bd8163152b85",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/dc305888-97b5-3cea-8428-949e78d1cb5d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6d8e7aa6-f409-3dd6-8632-b7591a0f7042",
+          "schema:validFrom": "2023-12-31T00:00:00",
+          "schema:validThrough": "2023-06-29T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Dienstag, Mittwoch, Freitag, Samstag, Sonntag: offen\n\n14.30 bis 18.30 Uhr"
+            ],
+            "en": [
+              "Tuesday, Wednesday, Friday, Saturday, Sunday: open\n\n2:30 pm to 6:30 pm"
+            ],
+            "it": [
+              "Martedì, mercoledì, venerdì, sabato, domenica: aperto\n\ndalle 14.30 alle 18.30"
+            ],
+            "fr": [
+              "Mardi, Mercredi, Vendredi, Samedi, Dimanche : ouvert\n\n14h30 à 18h30"
+            ],
+            "es": [
+              "Martes, miércoles, viernes, sábado y domingo: abierto\n\nde 14.30 a 18.30 horas"
+            ],
+            "nl": [
+              "Dinsdag, woensdag, vrijdag, zaterdag, zondag: open\n\n14.30 tot 18.30 uur"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/2bdbcfb1-6e26-3a94-941e-01ecb3d9d0c1",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/72c7082f-5c2c-364f-8829-c8123d41247a",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/7c9dd281-f7d8-3a3a-aaae-0e3342531704",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d0ec5f9a-0fb1-3dbb-b25b-9009521c41c6",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/de9392d1-2d9f-316b-ae96-26deddbf3c11",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/4fa9e2c8-cea7-3399-9f62-28ebcff26450",
+      "schema:email": [
+        "a.ponchon@charentestourisme.com"
+      ],
+      "schema:legalName": "Destination Vals de Saintonge / Charentes Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.destinationvalsdesaintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-12-23",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.362Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/c65638df-7e3f-3cc4-962e-0ab4dca91346",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/03f931eb-6c57-36e2-a954-77507fa4229d",
+          "schema:maxPrice": [
+            "1",
+            "3"
+          ],
+          "schema:minPrice": [
+            "1",
+            "3"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/7efc8c84-5920-3f85-b414-fa0027bd7fcf",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-08-31",
+              "startDate": "2023-07-01"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/313e210b-33af-3c70-b1d1-23537a7ae60a",
+          "schema:maxPrice": [
+            "1",
+            "3"
+          ],
+          "schema:minPrice": [
+            "1",
+            "3"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/df810cbd-9b5c-3839-bfcd-ef4f45675bb0",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-06-30",
+              "startDate": "2022-09-01"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/77ef96f1-f22b-37c3-afca-a519948376cb",
+          "schema:maxPrice": [
+            "1",
+            "3"
+          ],
+          "schema:minPrice": [
+            "1",
+            "3"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/4cc63787-5b25-345e-a6ec-a4b408ebdd52",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2022-08-31",
+              "startDate": "2022-07-01"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/84f8baf9-2c1b-38b9-8c53-dd26205ca7bd",
+          "schema:maxPrice": [
+            "1",
+            "3"
+          ],
+          "schema:minPrice": [
+            "1",
+            "3"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a2716dc9-f717-3cf3-91a6-cfba850e535b",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2022-06-30",
+              "startDate": "2022-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

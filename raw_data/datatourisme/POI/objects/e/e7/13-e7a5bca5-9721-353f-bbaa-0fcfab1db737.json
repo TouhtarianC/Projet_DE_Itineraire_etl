@@ -1,0 +1,908 @@
+{
+  "@id": "https://data.datatourisme.fr/13/e7a5bca5-9721-353f-bbaa-0fcfab1db737",
+  "dc:identifier": "5773110",
+  "@type": [
+    "CulturalSite",
+    "Lighthouse",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Der Phare de La Coubre befindet sich in der Gemeinde La Tremblade am nördlichen Ende der Gironde-Mündung, der größten Mündung Europas\r\nDieser Wächter des Meeres spielt eine grundlegende Rolle für den Seeverkehr in diesem bewegten Küstenabschnitt."
+    ],
+    "en": [
+      "La Coubre lighthouse is located in the commune of La Tremblade, at the northern end of the Gironde estuary, the largest in Europe\r\nThis sentinel of the sea plays a fundamental role for the maritime traffic in this turbulent part of the coast."
+    ],
+    "it": [
+      "Il faro di La Coubre si trova nel comune di La Tremblade, all'estremità settentrionale dell'estuario della Gironda, il più grande d'Europa\r\nQuesta sentinella del mare svolge un ruolo fondamentale per il traffico marittimo in questa parte turbolenta della costa."
+    ],
+    "fr": [
+      "Le Phare de La Coubre est situé sur la commune de La Tremblade, à l'extrémité nord de l'estuaire de la Gironde, le plus vaste d'Europe. \r\nCette sentinelle de la mer joue un rôle fondamental pour le trafic maritime dans cette partie mouvementée de la côte."
+    ],
+    "es": [
+      "El faro de La Coubre está situado en el municipio de La Tremblade, en el extremo norte del estuario de la Gironda, el más grande de Europa\r\nEste centinela del mar desempeña un papel fundamental para el tráfico marítimo en esta turbulenta parte de la costa."
+    ],
+    "nl": [
+      "De vuurtoren van La Coubre staat in de gemeente La Tremblade, aan het noordelijke uiteinde van het estuarium van de Gironde, het grootste van Europa\r\nDeze schildwacht van de zee speelt een fundamentele rol voor het scheepvaartverkeer in dit woelige deel van de kust."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Phare de La Coubre"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q3378474"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a85b6cdc-7d96-3e01-8843-7d11879a6848",
+      "schema:email": [
+        "pharedelacoubre@latremblade.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 06 26 42"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.pharedelacoubre.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/5fdc0f92-c3cb-3e02-8222-77d9dec57f84",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/5db4711b-8c15-3e59-be79-40d4b48f62a2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8b5a4cf6-95b4-3179-8871-1facffbabbc1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d0b29ca4-0d2d-359f-94d8-106b8490771b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/defadaed-8438-3b1d-a089-caf1101f81bc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/eb10668a-cac3-308e-9dc7-84c227c81ca5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Der Phare de La Coubre befindet sich in der Gemeinde La Tremblade am nördlichen Ende der Gironde-Mündung, der größten Mündung Europas\r\nDieser Wächter des Meeres spielt eine grundlegende Rolle für den Seeverkehr in diesem bewegten Küstenabschnitt."
+        ],
+        "en": [
+          "La Coubre lighthouse is located in the commune of La Tremblade, at the northern end of the Gironde estuary, the largest in Europe\r\nThis sentinel of the sea plays a fundamental role for the maritime traffic in this turbulent part of the coast."
+        ],
+        "it": [
+          "Il faro di La Coubre si trova nel comune di La Tremblade, all'estremità settentrionale dell'estuario della Gironda, il più grande d'Europa\r\nQuesta sentinella del mare svolge un ruolo fondamentale per il traffico marittimo in questa parte turbolenta della costa."
+        ],
+        "fr": [
+          "Le Phare de La Coubre est situé sur la commune de La Tremblade, à l'extrémité nord de l'estuaire de la Gironde, le plus vaste d'Europe. \r\nCette sentinelle de la mer joue un rôle fondamental pour le trafic maritime dans cette partie mouvementée de la côte."
+        ],
+        "es": [
+          "El faro de La Coubre está situado en el municipio de La Tremblade, en el extremo norte del estuario de la Gironda, el más grande de Europa\r\nEste centinela del mar desempeña un papel fundamental para el tráfico marítimo en esta turbulenta parte de la costa."
+        ],
+        "nl": [
+          "De vuurtoren van La Coubre staat in de gemeente La Tremblade, aan het noordelijke uiteinde van het estuarium van de Gironde, het grootste van Europa\r\nDeze schildwacht van de zee speelt een fundamentele rol voor het scheepvaartverkeer in dit woelige deel van de kust."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/4271718d-a7e5-3e5e-8d36-fdbafaf0a082",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/d3366eb6-7384-30c2-8474-b7980e3741c2",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Phare de la Coubre"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Dimimis (https://commons.wikimedia.org/wiki/User:Dimimis)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/5f893c0c-8e0c-3e4a-96a4-d25665e40694",
+          "ebucore:fileSize": [
+            3502790
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 4320,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/3/32/Phare_de_la_Coubre.JPG"
+          ],
+          "ebucore:width": 3240,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/6e866798-cae5-351c-9e8d-963661217e60",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:LabelRating_AccueilVelo",
+        "@type": [
+          "LabelRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "Accueil Vélo"
+          ],
+          "pt": [
+            "Accueil Vélo"
+          ],
+          "en": [
+            "Accueil Vélo"
+          ],
+          "it": [
+            "Accueil Vélo"
+          ],
+          "fr": [
+            "Accueil Vélo"
+          ],
+          "nl": [
+            "Accueil Vélo"
+          ],
+          "es": [
+            "Accueil Vélo"
+          ]
+        },
+        "isCompliantWith": [
+          "PlaceOfInterest"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/040c0046-1364-3044-a930-2a7861ee0ea2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/0693579e-be9c-33f4-9eeb-4fafe3c0f755",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/68739d87-27ca-3564-95d7-02a82e49460d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b0f84147-a3eb-30da-a8f6-d6e296cb5236",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b7b35cc5-70a8-3e9c-ba1f-ace2a6349327",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/a8a6d0f8-66d1-3f25-8bbe-45c81830dce8",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/051b35e9-3d32-30bb-8f07-a439e634bfd2",
+          "schema:addressLocality": "La Tremblade",
+          "schema:postalCode": "17390",
+          "schema:streetAddress": [
+            "Lieu-dit La Coubre (D25)"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17452",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "La Tremblade"
+              ],
+              "pt": [
+                "La Tremblade"
+              ],
+              "en": [
+                "La Tremblade"
+              ],
+              "it": [
+                "La Tremblade"
+              ],
+              "fr": [
+                "La Tremblade"
+              ],
+              "nl": [
+                "La Tremblade"
+              ],
+              "es": [
+                "La Tremblade"
+              ]
+            },
+            "insee": "17452",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/d1249a89-6035-39ad-a19e-6260461dd2a4",
+        "schema:latitude": "45.696514",
+        "schema:longitude": "-1.233258",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/01535c33-98de-392d-83a9-c739b739ed2d",
+          "schema:validFrom": "2023-12-26T00:00:00",
+          "schema:validThrough": "2023-12-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Geöffnet von 9:30 bis 12:30 Uhr und von 13:30 bis 16:30 Uhr"
+            ],
+            "en": [
+              "Open from 9:30 a.m. to 12:30 p.m. and from 1:30 to 4:30 p.m"
+            ],
+            "it": [
+              "Aperto dalle 9:30 alle 12:30 e dalle 13:30 alle 16:30"
+            ],
+            "fr": [
+              "Ouvert de 9h30 à 12h30 et de 13h30 à 16h30"
+            ],
+            "nl": [
+              "Open van 9:30 tot 12:30 en van 13:30 tot 16:30"
+            ],
+            "es": [
+              "Abierto de 9:30 a 12:30 y de 13:30 a 16:30"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/44570c81-cd4d-38d0-bdb9-50f64e06e7f5",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c7db596e-f9dc-33c6-a370-5776406eefc1",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/dca277dc-af70-3d98-a81d-47da7b00e4d5",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e2edac65-be81-3945-9476-b6568903f6df",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/fd0ee303-9d2f-3a90-bc2f-8747623df3e4",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/416b3ee7-201b-35f6-9ac8-2843e6fae4cd",
+          "schema:validFrom": "2023-02-04T00:00:00",
+          "schema:validThrough": "2023-11-12T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Februar - März - Oktober - November geöffnet von 10:00 bis 12:30 Uhr und von 13:30 bis 17:30 Uhr.\r\nApril - Mai - Juni - September geöffnet von 10:00 bis 13:00 Uhr* und von 14:00 bis 18:00 Uhr (* Schließung des Museums/Shops um 12:30 Uhr)\r\nJuli und August geöffnet von 10:00 bis 19:30 Uhr."
+            ],
+            "en": [
+              "February - March - October - November open from 10am to 12:30pm and from 1:30pm to 5:30pm.\r\nApril - May - June - September open from 10am to 1pm* and from 2pm to 6pm (* museum/shop closes at 12:30pm)\r\nJuly and August open from 10am to 7:30pm."
+            ],
+            "it": [
+              "Febbraio - marzo - ottobre - novembre aperto dalle 10.00 alle 12.30 e dalle 13.30 alle 17.30.\r\nAprile - Maggio - Giugno - Settembre aperto dalle 10.00 alle 13.00* e dalle 14.00 alle 18.00 (* il museo/negozio chiude alle 12.30)\r\nLuglio e agosto aperto dalle 10.00 alle 19.30."
+            ],
+            "fr": [
+              "Février - Mars - Octobre - Novembre ouvert de 10h à 12h30 et de 13h30 à 17h30.\r\nAvril - Mai - Juin - Septembre ouvert de 10h à 13h* et de 14h à 18h (* fermeture musée/boutique à 12h30)\r\nJuillet et août ouvert de 10h à 19h30."
+            ],
+            "nl": [
+              "Februari - maart - oktober - november geopend van 10.00 tot 12.30 uur en van 13.30 tot 17.30 uur.\r\nApril - mei - juni - september open van 10 tot 13 uur* en van 14 tot 18 uur (* museum/winkel sluit om 12.30 uur)\r\nJuli en augustus geopend van 10.00 tot 19.30 uur."
+            ],
+            "es": [
+              "Febrero - marzo - octubre - noviembre abierto de 10:00 a 12:30 y de 13:30 a 17:30.\r\nAbril - mayo - junio - septiembre abierto de 10.00 a 13.00 h* y de 14.00 a 18.00 h (* el museo/tienda cierra a las 12.30 h)\r\nJulio y agosto: abierto de 10.00 a 19.30 h."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/5e6b1e1a-898c-3db4-8c7b-a243fe5720f6",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/bf117ff5-1f63-3bfb-890d-3413f1ebe77c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c3f2f47b-cbe3-3673-bf9e-02363ac68170",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/cafa4e59-feef-3230-96fd-403d7ddfba31",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ea3e60c4-8358-3955-8bef-c13a7ea6eba1",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bfd1e5ac-ad7d-3a1b-8fb2-40caecc86bcf",
+          "schema:validFrom": "2023-12-19T00:00:00",
+          "schema:validThrough": "2023-12-23T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Geöffnet von 9:30 bis 12:30 Uhr und von 13:30 bis 16:30 Uhr"
+            ],
+            "en": [
+              "Open from 9:30 a.m. to 12:30 p.m. and from 1:30 to 4:30 p.m"
+            ],
+            "it": [
+              "Aperto dalle 9:30 alle 12:30 e dalle 13:30 alle 16:30"
+            ],
+            "fr": [
+              "Ouvert de 9h30 à 12h30 et de 13h30 à 16h30"
+            ],
+            "nl": [
+              "Open van 9:30 tot 12:30 en van 13:30 tot 16:30"
+            ],
+            "es": [
+              "Abierto de 9:30 a 12:30 y de 13:30 a 16:30"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/315b6cb9-4511-3d09-aa96-5c6a56359af8",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/60e3f138-f3e8-3834-a45c-37df1d31df73",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/75d35aa3-8ab3-3de9-9b77-f1a8d759f84e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/7cf61a54-3ed1-3752-97d9-fd5d3670d696",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ed7c0a99-afce-3f5a-b94d-3798bcec8b98",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-03-15",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.25Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/d36801c2-e196-3c1f-89b2-ffba7d0f9ec6",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/c97bf990-274e-3a54-bab8-0b430fc4e2eb",
+          "schema:maxPrice": [
+            "1.5",
+            "11",
+            "2.5",
+            "3",
+            "4"
+          ],
+          "schema:minPrice": [
+            "1.5",
+            "11",
+            "2.5",
+            "3",
+            "4"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/ffb843c4-c2ee-32db-bf3c-fdfeead368b6",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-30",
+              "startDate": "2023-02-04"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

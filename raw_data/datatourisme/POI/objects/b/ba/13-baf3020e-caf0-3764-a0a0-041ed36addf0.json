@@ -1,0 +1,460 @@
+{
+  "@id": "https://data.datatourisme.fr/13/baf3020e-caf0-3764-a0a0-041ed36addf0",
+  "dc:identifier": "6523130",
+  "@type": [
+    "CityHeritage",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Nanteuil en Vallée trägt das Label Petite Cité de Caractère und bietet Ihnen eine Vielzahl unterschiedlicher Landschaften; das Dorf wird Sie mit seinem Garten, seinen Gassen und nicht zuletzt mit seiner Abtei begeistern."
+    ],
+    "en": [
+      "Nanteuil en Vallée, labeled as a \"Petite Cité de Caractère\", offers you many different and varied landscapes; the village will delight you with its garden, its alleys, without forgetting its abbey."
+    ],
+    "it": [
+      "Nanteuil en Vallée, che ha ottenuto il marchio \"Petite Cité de Caractère\", offre un'ampia varietà di paesaggi. Il villaggio vi incanterà con i suoi giardini, le sue stradine, senza dimenticare l'abbazia."
+    ],
+    "fr": [
+      "Labellisé Petite Cité de Caractère, Nanteuil en Vallée vous offre de multiples paysages divers et variés ; le village saura vous ravir grâce à son jardin, ses ruelles, sans oublier son abbaye."
+    ],
+    "es": [
+      "Nanteuil en Vallée, galardonado con la etiqueta \"Petite Cité de Caractère\", le ofrece una gran variedad de paisajes. El pueblo le deleitará con su jardín, sus callejuelas, sin olvidar su abadía."
+    ],
+    "nl": [
+      "Nanteuil en Vallée, dat het label \"Petite Cité de Caractère\" heeft gekregen, biedt u een grote verscheidenheid aan landschappen. Het dorp zal u bekoren met zijn tuin, zijn smalle straatjes en niet te vergeten zijn abdij."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Village de Nanteuil en Vallée"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/a96d3afe-c184-366b-beca-7a9f989fc7e7",
+    "dc:identifier": "2056",
+    "schema:email": [
+      "infotouristique@destination-nordcharente.com"
+    ],
+    "schema:legalName": "Office de tourisme Destination Nord Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ruffecois-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/e6f3e835-8d81-378b-9f47-b07bfb883c47",
+      "schema:email": [
+        "accueil@nanteuil-en-vallee.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 31 82 67"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.nanteuil-en-vallee.fr/articles.php?lng=fr&pg=71&mnuid=17&tconfig=0&tconfig=0"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/0d45b69d-5959-3757-86f2-698a6be6c966",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/05a13121-3025-3057-b282-7d8a1efc81f6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/0f05e4a0-e653-374c-958b-5ebe62f95f46",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5f45907e-f596-3b0f-b58c-7fab0cf63720",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/81b502c8-da16-320b-89b0-75cd6a8f1063",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dbb9b455-912b-3093-bf3a-367c5156891e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Nanteuil en Vallée trägt das Label Petite Cité de Caractère und bietet Ihnen eine Vielzahl unterschiedlicher Landschaften; das Dorf wird Sie mit seinem Garten, seinen Gassen und nicht zuletzt mit seiner Abtei begeistern."
+        ],
+        "en": [
+          "Nanteuil en Vallée, labeled as a \"Petite Cité de Caractère\", offers you many different and varied landscapes; the village will delight you with its garden, its alleys, without forgetting its abbey."
+        ],
+        "it": [
+          "Nanteuil en Vallée, che ha ottenuto il marchio \"Petite Cité de Caractère\", offre un'ampia varietà di paesaggi. Il villaggio vi incanterà con i suoi giardini, le sue stradine, senza dimenticare l'abbazia."
+        ],
+        "fr": [
+          "Labellisé Petite Cité de Caractère, Nanteuil en Vallée vous offre de multiples paysages divers et variés ; le village saura vous ravir grâce à son jardin, ses ruelles, sans oublier son abbaye."
+        ],
+        "es": [
+          "Nanteuil en Vallée, galardonado con la etiqueta \"Petite Cité de Caractère\", le ofrece una gran variedad de paisajes. El pueblo le deleitará con su jardín, sus callejuelas, sin olvidar su abadía."
+        ],
+        "nl": [
+          "Nanteuil en Vallée, dat het label \"Petite Cité de Caractère\" heeft gekregen, biedt u een grote verscheidenheid aan landschappen. Het dorp zal u bekoren met zijn tuin, zijn smalle straatjes en niet te vergeten zijn abdij."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/1c403987-0f12-32cb-ad1a-11de59c6b9df",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/20de2e9c-e094-38cc-aa3e-cc24fc216423",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4114a475-a9c5-31c2-81d3-006be5fd4deb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5dc1da9c-2c10-3ac9-8b53-241456691775",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cadf2d52-86e6-3767-aada-9cc48d67baa2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/c4a085d8-208c-3fa7-a054-9fe3ebbb997c",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/5aadc321-143e-3f57-b019-505380700039",
+          "schema:addressLocality": "Nanteuil-en-Vallée",
+          "schema:postalCode": "16700",
+          "schema:streetAddress": [
+            "Place du champ de foire"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16242",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Nanteuil-en-Vallée"
+              ],
+              "pt": [
+                "Nanteuil-en-Vallée"
+              ],
+              "en": [
+                "Nanteuil-en-Vallée"
+              ],
+              "it": [
+                "Nanteuil-en-Vallée"
+              ],
+              "fr": [
+                "Nanteuil-en-Vallée"
+              ],
+              "nl": [
+                "Nanteuil-en-Vallée"
+              ],
+              "es": [
+                "Nanteuil-en-Vallée"
+              ]
+            },
+            "insee": "16242",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/2f3afb7c-b361-3dd4-b786-d2222fdb151a",
+        "schema:latitude": "46.000284",
+        "schema:longitude": "0.322447",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/515fb63a-6beb-307d-a0d6-d59e3e2d3f76",
+      "schema:email": [
+        "infotouristique@destination-nordcharente.com"
+      ],
+      "schema:legalName": "Office de tourisme Destination Nord Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ruffecois-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-22",
+  "lastUpdateDatatourisme": "2023-06-23T05:50:54.373Z"
+}

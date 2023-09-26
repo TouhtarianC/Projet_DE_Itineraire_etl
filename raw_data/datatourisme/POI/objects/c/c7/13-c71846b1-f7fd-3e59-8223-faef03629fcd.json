@@ -1,0 +1,545 @@
+{
+  "@id": "https://data.datatourisme.fr/13/c71846b1-f7fd-3e59-8223-faef03629fcd",
+  "dc:identifier": "6194534",
+  "@type": [
+    "schema:LocalBusiness",
+    "CulturalSite",
+    "InterpretationCentre",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Im Kulturzentrum Les Carmes werden auf digitalen Tablets und einem Großbildschirm Werke aus großen Nationalmuseen, Konzerte und Aufführungen gezeigt. Ein Mediator steht vor Ort zur Verfügung und bietet ein Animationsprogramm an."
+    ],
+    "en": [
+      "At the Carmes cultural center, on digital tablets and giant screen, presentation of works from great national museums, concerts, shows... A mediator is available on the spot and proposes a program of animations."
+    ],
+    "it": [
+      "Presso il centro culturale Carmes, su tablet digitali e schermo gigante, presentazione di opere dei principali musei nazionali, concerti, spettacoli... Un mediatore è disponibile sul posto e offre un programma di attività."
+    ],
+    "fr": [
+      "Au centre culturel des Carmes, sur des tablettes numériques et écran géant présentation d'œuvres de grands musées nationaux, concerts, spectacles... Un médiateur est disponible sur place et propose un programme d'animations."
+    ],
+    "nl": [
+      "In het Carmes cultureel centrum, op digitale tablets en een reuzenscherm, presentatie van werken uit grote nationale musea, concerten, voorstellingen... Een bemiddelaar is ter plaatse aanwezig en biedt een activiteitenprogramma aan."
+    ],
+    "es": [
+      "En el centro cultural Carmes, en tabletas digitales y pantalla gigante, presentación de obras de los grandes museos nacionales, conciertos, espectáculos... Un mediador está disponible in situ y ofrece un programa de actividades."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Micro-folie de Jonzac - Musée numérique"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/74c763f0-107a-3dc6-b33d-2423596f957f",
+      "schema:email": [
+        "microfolies@villedejonzac.fr"
+      ],
+      "schema:telephone": [
+        "+33 6 08 15 48 95"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/2dc2a975-fde1-3e4c-803f-58be4474e215",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/34492dd6-be12-3b4d-8005-b090cdf036ff",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8676bfda-cca7-3b7f-8271-2c4f6b3ac52f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a9220b12-13d9-3deb-9031-329f3251c262",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ade50e75-3edf-3b4c-a259-f34586c0e4ed",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f1b501f2-e2e9-3f4e-8427-0c086c098cb9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Im Kulturzentrum Les Carmes werden auf digitalen Tablets und einem Großbildschirm Werke aus großen Nationalmuseen, Konzerte und Aufführungen gezeigt. Ein Mediator steht vor Ort zur Verfügung und bietet ein Animationsprogramm an."
+        ],
+        "en": [
+          "At the Carmes cultural center, on digital tablets and giant screen, presentation of works from great national museums, concerts, shows... A mediator is available on the spot and proposes a program of animations."
+        ],
+        "it": [
+          "Presso il centro culturale Carmes, su tablet digitali e schermo gigante, presentazione di opere dei principali musei nazionali, concerti, spettacoli... Un mediatore è disponibile sul posto e offre un programma di attività."
+        ],
+        "fr": [
+          "Au centre culturel des Carmes, sur des tablettes numériques et écran géant présentation d'œuvres de grands musées nationaux, concerts, spectacles... Un médiateur est disponible sur place et propose un programme d'animations."
+        ],
+        "nl": [
+          "In het Carmes cultureel centrum, op digitale tablets en een reuzenscherm, presentatie van werken uit grote nationale musea, concerten, voorstellingen... Een bemiddelaar is ter plaatse aanwezig en biedt een activiteitenprogramma aan."
+        ],
+        "es": [
+          "En el centro cultural Carmes, en tabletas digitales y pantalla gigante, presentación de obras de los grandes museos nacionales, conciertos, espectáculos... Un mediador está disponible in situ y ofrece un programa de actividades."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/08d2659a-07eb-3357-aeb7-27e94f10b2fe",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/266b0e54-c053-3285-ae88-e99dabbf4045",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4957ad12-7ba2-31d6-9a77-d2e6b1503a54",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7a5a1ebc-3a42-3cc8-ba34-e67303f94423",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7f48e711-c624-3aa0-98b8-856a6784844b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/08b9bd57-be48-3d82-8791-85c0b7ff4f58",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/eb3e6b17-e40f-37d9-a0e6-7c6e66cca930",
+          "schema:addressLocality": "Jonzac",
+          "schema:postalCode": "17500",
+          "schema:streetAddress": [
+            "Centre culturel des Carmes",
+            "Place Marthe Robert"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17197",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Jonzac"
+              ],
+              "pt": [
+                "Jonzac"
+              ],
+              "en": [
+                "Jonzac"
+              ],
+              "it": [
+                "Jonzac"
+              ],
+              "fr": [
+                "Jonzac"
+              ],
+              "nl": [
+                "Jonzac"
+              ],
+              "es": [
+                "Jonzac"
+              ]
+            },
+            "insee": "17197",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/ab374bd4-c2f3-3321-b9cb-d1fca499a476",
+        "schema:latitude": "45.442625",
+        "schema:longitude": "-0.434962",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/8119bf3f-d6dc-3fd8-90e6-644ad3445ffa",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Die Öffnungszeiten variieren je nach Verfügbarkeit des Mediators. Bitte informieren Sie sich vorab.\r\nGeöffnet von Dienstag bis Samstag von 14:30 bis 18:30 Uhr"
+            ],
+            "en": [
+              "Times vary according to availability. Please enquire beforehand.\r\nOpen Tuesday to Saturday, 2.30 pm to 6.30 pm"
+            ],
+            "it": [
+              "Gli orari variano in base alla disponibilità del mediatore. Si prega di chiedere in anticipo.\r\nAperto dal martedì al sabato, dalle 14.30 alle 18.30"
+            ],
+            "fr": [
+              "Horaires variables selon la disponibilité du médiateur. Se renseigner au préalable.\r\nOuvert du mardi au samedi de 14h30 à 18h30"
+            ],
+            "nl": [
+              "Tijden variëren afhankelijk van de beschikbaarheid van de mediator. Informeer vooraf.\r\nGeopend van dinsdag tot zaterdag van 14.30 tot 18.30 uur"
+            ],
+            "es": [
+              "Los horarios varían en función de la disponibilidad del mediador. Consulte previamente.\r\nAbierto de martes a sábado, de 14.30 a 18.30 h"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/449a98ba-53f7-38c6-88aa-ea240e8f9d51",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/5850cac4-5cd7-3455-8921-ce2d64494478",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/9588e6aa-169b-3f0b-b77c-68d8506c6c9a",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c2e302d5-6804-3f5c-977c-0213a18f36a1",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/dd995ce1-d107-35ba-94f3-11a2b52cadac",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-10",
+  "lastUpdateDatatourisme": "2023-07-11T05:51:39.476Z"
+}

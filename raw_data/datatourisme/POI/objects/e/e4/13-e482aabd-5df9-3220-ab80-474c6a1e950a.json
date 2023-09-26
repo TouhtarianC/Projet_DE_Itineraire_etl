@@ -1,0 +1,408 @@
+{
+  "@id": "https://data.datatourisme.fr/13/e482aabd-5df9-3220-ab80-474c6a1e950a",
+  "dc:identifier": "5736493",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Mediathek im ehemaligen Refektorium der Mönche der königlichen Abtei von Saint-Jean-d'Angély."
+    ],
+    "en": [
+      "Media library located in the former refectory of the monks of the Royal Abbey of Saint-Jean-d'Angély."
+    ],
+    "it": [
+      "Mediateca situata nell'antico refettorio dei monaci dell'Abbazia Reale di Saint-Jean-d'Angély."
+    ],
+    "fr": [
+      "Médiathèque située dans l'ancien réfectoire des moines de l'Abbaye Royale de Saint-Jean-d'Angély."
+    ],
+    "nl": [
+      "Mediatheek gevestigd in de voormalige refter van de monniken van de Koninklijke Abdij van Saint-Jean-d'Angély."
+    ],
+    "es": [
+      "Mediateca situada en el antiguo refectorio de los monjes de la Abadía Real de Saint-Jean-d'Angély."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Médiathèque"
+    ],
+    "fr": [
+      "Médiathèque"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/cbef4632-1026-3840-8bc3-216d4774c8a9",
+    "dc:identifier": "2075",
+    "schema:email": [
+      "a.ponchon@charentestourisme.com"
+    ],
+    "schema:legalName": "Destination Vals de Saintonge / Charentes Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.destinationvalsdesaintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/1d37d0b3-a2a3-3fb2-a86a-581b6b9aa4d4",
+      "schema:email": [
+        "mediatheque@angely.net"
+      ],
+      "schema:telephone": [
+        "+33 5 46 32 61 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://bibliotheque.angely.net/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/816ce322-e57e-3f54-8337-93ddd72ae7be",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/48779092-9056-3993-ae39-d552e4efb3fe",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7c2d1b51-b0e2-37a2-b194-27a22c82b975",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/86bcaf2e-0012-32e0-93c4-526f9239bb53",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/de167d9b-31bb-3a9b-9d18-5aa6e7a88de9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Mediathek im ehemaligen Refektorium der Mönche der königlichen Abtei von Saint-Jean-d'Angély."
+        ],
+        "en": [
+          "Media library located in the former refectory of the monks of the Royal Abbey of Saint-Jean-d'Angély."
+        ],
+        "it": [
+          "Mediateca situata nell'antico refettorio dei monaci dell'Abbazia Reale di Saint-Jean-d'Angély."
+        ],
+        "fr": [
+          "Médiathèque située dans l'ancien réfectoire des moines de l'Abbaye Royale de Saint-Jean-d'Angély."
+        ],
+        "nl": [
+          "Mediatheek gevestigd in de voormalige refter van de monniken van de Koninklijke Abdij van Saint-Jean-d'Angély."
+        ],
+        "es": [
+          "Mediateca situada en el antiguo refectorio de los monjes de la Abadía Real de Saint-Jean-d'Angély."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/7a0463ac-eb10-35bc-bd65-bbef6040cef3",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/92c72175-5c14-3c39-8d9f-90417e1b7452",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9718a8eb-529f-3624-9fe7-40f2792542fe",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/dcf9c021-4dbc-3acb-ace4-47e8683adcde",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/e6da288b-d8d3-36b0-8cdb-8d5e8054ba92",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/081c2656-a8ba-328d-8113-436179570593",
+          "schema:addressLocality": "Saint-Jean-d'Angély",
+          "schema:postalCode": "17400",
+          "schema:streetAddress": [
+            "Abbaye Royale"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17347",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Jean-d'Angély"
+              ],
+              "pt": [
+                "Saint-Jean-d'Angély"
+              ],
+              "en": [
+                "Saint-Jean-d'Angély"
+              ],
+              "it": [
+                "Saint-Jean-d'Angély"
+              ],
+              "fr": [
+                "Saint-Jean-d'Angély"
+              ],
+              "nl": [
+                "Saint-Jean-d'Angély"
+              ],
+              "es": [
+                "Saint-Jean-d'Angély"
+              ]
+            },
+            "insee": "17347",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/9a12c565-4437-37c5-9472-5865761b27e6",
+        "schema:latitude": "45.943863",
+        "schema:longitude": "-0.523594",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/4fa9e2c8-cea7-3399-9f62-28ebcff26450",
+      "schema:email": [
+        "a.ponchon@charentestourisme.com"
+      ],
+      "schema:legalName": "Destination Vals de Saintonge / Charentes Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.destinationvalsdesaintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-04-25",
+  "lastUpdateDatatourisme": "2023-04-26T06:24:45.709Z"
+}

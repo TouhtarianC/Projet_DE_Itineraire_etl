@@ -1,0 +1,546 @@
+{
+  "@id": "https://data.datatourisme.fr/13/bc5debe9-8a73-302a-b03a-a28891c05383",
+  "dc:identifier": "5694660",
+  "@type": [
+    "schema:Landform",
+    "Beach",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Künstlich angelegtes Gewässer mit seinem Sandstrand im Herzen der Freizeitanlage von Jonzac, auch Lagune genannt.\r\nDer Strand ist sanft abfallend, sodass er für alle Altersgruppen zugänglich ist. Das kleine Bad ist 1,20 m tief und das große Bad: 2 m mit einem Steg."
+    ],
+    "en": [
+      "Artificial lake with sandy beach at the heart of the Jonzac leisure park, also known as the lagoon.\r\nThe beach slopes gently for access by all ages. The shallow end is 1.20 m deep and the deep end 2 m, with a pontoon."
+    ],
+    "it": [
+      "Un lago artificiale con spiaggia sabbiosa nel cuore del centro ricreativo Jonzac, noto anche come laguna.\r\nLa spiaggia degrada dolcemente per essere accessibile a tutte le età. La parte bassa è profonda 1,20 m e quella profonda 2 m, con un pontone."
+    ],
+    "fr": [
+      "Plan d'eau artificiel avec sa plage de sable au coeur de la base de loisirs de Jonzac, appelé aussi la lagune.\r\nLa plage est en pente douce pour un accès à tous les âges. Le petit bain a une profondeur de 1,20 m et le grand bain : 2 m avec un ponton."
+    ],
+    "es": [
+      "Un lago artificial con playa de arena en el corazón del centro de ocio de Jonzac, también conocido como la laguna.\r\nLa playa tiene una pendiente suave que permite el acceso a todas las edades. La parte menos profunda tiene 1,20 m de profundidad y la más profunda 2 m, con un pantalán."
+    ],
+    "nl": [
+      "Een kunstmatig meer met een zandstrand in het hart van het recreatiecentrum Jonzac, ook wel bekend als de lagune.\r\nHet strand loopt langzaam af zodat het toegankelijk is voor alle leeftijden. Het ondiepe gedeelte is 1,20 m diep en het diepe gedeelte is 2 m diep met een ponton."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Plage de la Base de Loisirs"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/efa62b0e-c16e-3b0b-90c4-b528ca939040",
+      "schema:telephone": [
+        "+33 5 46 48 14 07"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/base-loisirs-jonzac-ete/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/8ae89c86-47ef-3abc-9017-4ec420d3c347",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2490c681-988e-33df-b609-635303ca25e6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/475075ea-5c2c-3873-b294-288f50fa48a9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8134bfff-2b8e-369c-8082-cc2489267e07",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/df1b6ca5-32ff-3108-9ad5-9885c031e20d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e460b4a7-3217-34fc-9fa6-2a6f60151d7b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Künstlich angelegtes Gewässer mit seinem Sandstrand im Herzen der Freizeitanlage von Jonzac, auch Lagune genannt.\r\nDer Strand ist sanft abfallend, sodass er für alle Altersgruppen zugänglich ist. Das kleine Bad ist 1,20 m tief und das große Bad: 2 m mit einem Steg."
+        ],
+        "en": [
+          "Artificial lake with sandy beach at the heart of the Jonzac leisure park, also known as the lagoon.\r\nThe beach slopes gently for access by all ages. The shallow end is 1.20 m deep and the deep end 2 m, with a pontoon."
+        ],
+        "it": [
+          "Un lago artificiale con spiaggia sabbiosa nel cuore del centro ricreativo Jonzac, noto anche come laguna.\r\nLa spiaggia degrada dolcemente per essere accessibile a tutte le età. La parte bassa è profonda 1,20 m e quella profonda 2 m, con un pontone."
+        ],
+        "fr": [
+          "Plan d'eau artificiel avec sa plage de sable au coeur de la base de loisirs de Jonzac, appelé aussi la lagune.\r\nLa plage est en pente douce pour un accès à tous les âges. Le petit bain a une profondeur de 1,20 m et le grand bain : 2 m avec un ponton."
+        ],
+        "es": [
+          "Un lago artificial con playa de arena en el corazón del centro de ocio de Jonzac, también conocido como la laguna.\r\nLa playa tiene una pendiente suave que permite el acceso a todas las edades. La parte menos profunda tiene 1,20 m de profundidad y la más profunda 2 m, con un pantalán."
+        ],
+        "nl": [
+          "Een kunstmatig meer met een zandstrand in het hart van het recreatiecentrum Jonzac, ook wel bekend als de lagune.\r\nHet strand loopt langzaam af zodat het toegankelijk is voor alle leeftijden. Het ondiepe gedeelte is 1,20 m diep en het diepe gedeelte is 2 m diep met een ponton."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Bathing",
+      "@type": [
+        "AccommodationAmenity",
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Baden"
+        ],
+        "pt": [
+          "Banho"
+        ],
+        "en": [
+          "Bathing"
+        ],
+        "it": [
+          "Bagno"
+        ],
+        "fr": [
+          "Baignade"
+        ],
+        "nl": [
+          "Zwemmen"
+        ],
+        "es": [
+          "Baño"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/2710ef40-d45c-3dff-ae4c-11d97146b94a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/834324e5-c44b-3bc8-9e9a-ef9a1b35c92e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9401a42c-0665-336a-8e54-f7faf431555f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9db71cf9-4d83-30de-897f-e1476063e598",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d5c41537-4cf8-32be-996a-ed79e628bdb3",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/968737ab-b3eb-33ef-9a72-906c9b09accc",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/2586dba9-273c-34d3-94fb-653d5a9c2f23",
+          "schema:addressLocality": "Jonzac",
+          "schema:postalCode": "17500",
+          "schema:streetAddress": [
+            "Base de loisirs d'Heurtebise"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17197",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Jonzac"
+              ],
+              "pt": [
+                "Jonzac"
+              ],
+              "en": [
+                "Jonzac"
+              ],
+              "it": [
+                "Jonzac"
+              ],
+              "fr": [
+                "Jonzac"
+              ],
+              "nl": [
+                "Jonzac"
+              ],
+              "es": [
+                "Jonzac"
+              ]
+            },
+            "insee": "17197",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/7d22ccc6-004e-3f0a-9de0-a8e806829098",
+        "schema:latitude": "45.435085",
+        "schema:longitude": "-0.427958",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/8f9d349e-3585-3749-85a6-00bee5ac9573",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Baden erlaubt vom 15. Juni bis 15. September"
+            ],
+            "en": [
+              "Swimming allowed from June 15 to September 15"
+            ],
+            "it": [
+              "Nuoto consentito dal 15 giugno al 15 settembre"
+            ],
+            "fr": [
+              "Baignade autorisée du 15 juin au 15 septembre"
+            ],
+            "nl": [
+              "Zwemmen toegestaan van 15 juni tot 15 september"
+            ],
+            "es": [
+              "Natación permitida del 15 de junio al 15 de septiembre"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/25477944-c456-328b-976f-fa32d24c3511",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6bf30987-1ab1-3fe3-8a27-ec2bbdf03f8c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a4c6a4bc-8b60-305e-9056-be85b804539a",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c3f0e6d3-983d-37c1-807b-e97fe3856d54",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f48556d7-dbb8-3171-b302-36b006571442",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-20",
+  "lastUpdateDatatourisme": "2023-06-21T05:51:34.521Z"
+}

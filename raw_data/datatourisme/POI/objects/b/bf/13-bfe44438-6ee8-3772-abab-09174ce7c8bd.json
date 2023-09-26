@@ -1,0 +1,611 @@
+{
+  "@id": "https://data.datatourisme.fr/13/bfe44438-6ee8-3772-abab-09174ce7c8bd",
+  "dc:identifier": "6320985",
+  "@type": [
+    "schema:LocalBusiness",
+    "CulturalSite",
+    "InterpretationCentre",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Gehen Sie auf Entdeckungsreise in das Naturziel Suzac!\r\nIn einer außergewöhnlichen Umgebung, im Herzen des Küstenwaldes von Suzac, lädt Sie Le Parc de l'Estuaire, ein Standort von Échappées Nature, zur Entdeckung seiner natürlichen Umgebung ein."
+    ],
+    "en": [
+      "Discover the nature destination of Suzac!\r\nIn an exceptional setting, in the heart of Suzac's coastal forest, the Parc de l'Estuaire, a Nature Escape site, invites you to discover its natural environment."
+    ],
+    "it": [
+      "Scoprite la destinazione naturale di Suzac!\r\nIn un contesto eccezionale, nel cuore della foresta costiera di Suzac, il Parc de l'Estuaire, sito Nature Escape, vi invita a scoprire il suo ambiente naturale."
+    ],
+    "fr": [
+      "Partez à la découverte de la destination nature de Suzac !\r\nDans un cadre exceptionnel, au coeur de la forêt littorale de Suzac, Le Parc de l'Estuaire, un site des Échappées Nature, vous invite à la découverte de son environnement naturel."
+    ],
+    "es": [
+      "¡Descubra el destino natural de Suzac!\r\nEn un marco excepcional, en el corazón del bosque costero de Suzac, el Parque de l'Estuaire, sitio de Nature Escape, le invita a descubrir su entorno natural."
+    ],
+    "nl": [
+      "Ontdek de natuurbestemming Suzac!\r\nIn een uitzonderlijke omgeving, in het hart van het kustbos van Suzac, nodigt het Parc de l'Estuaire, een Nature Escape site, u uit om zijn natuurlijke omgeving te ontdekken."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Le Parc de l'Estuaire, un site des Echappées Nature"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/169779d3-852b-32ce-8b1a-1724dbf5217d",
+    "dc:identifier": "2178",
+    "schema:email": [
+      "audrey.tapiero@charente-maritime.fr",
+      "ocilia.iturrart@charente-maritime.fr"
+    ],
+    "schema:legalName": "Echappées Nature / Département de la Charente-Maritime",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.charente-maritime.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/6688e230-d591-33e5-9780-9208de98409c",
+      "schema:email": [
+        "leparcdelestuaire@charente-maritime.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 23 77 77"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.leparcdelestuaire.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/2d2e8a83-f789-3dc6-ae76-1ef76f3af1f1",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/225477a4-4dff-3f0c-8611-4544ef1198ea",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5b4ac87c-6453-3b36-ba33-c9f23580ef40",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c88110e7-add8-3597-8e04-f6a5c62c5cd2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e3e0e7e5-6959-3713-932d-a6eec1e55678",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fc95efa0-ba76-30b9-9311-3285cc89648f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Gehen Sie auf Entdeckungsreise in das Naturziel Suzac!\r\nIn einer außergewöhnlichen Umgebung, im Herzen des Küstenwaldes von Suzac, lädt Sie Le Parc de l'Estuaire, ein Standort von Échappées Nature, zur Entdeckung seiner natürlichen Umgebung ein."
+        ],
+        "en": [
+          "Discover the nature destination of Suzac!\r\nIn an exceptional setting, in the heart of Suzac's coastal forest, the Parc de l'Estuaire, a Nature Escape site, invites you to discover its natural environment."
+        ],
+        "it": [
+          "Scoprite la destinazione naturale di Suzac!\r\nIn un contesto eccezionale, nel cuore della foresta costiera di Suzac, il Parc de l'Estuaire, sito Nature Escape, vi invita a scoprire il suo ambiente naturale."
+        ],
+        "fr": [
+          "Partez à la découverte de la destination nature de Suzac !\r\nDans un cadre exceptionnel, au coeur de la forêt littorale de Suzac, Le Parc de l'Estuaire, un site des Échappées Nature, vous invite à la découverte de son environnement naturel."
+        ],
+        "es": [
+          "¡Descubra el destino natural de Suzac!\r\nEn un marco excepcional, en el corazón del bosque costero de Suzac, el Parque de l'Estuaire, sitio de Nature Escape, le invita a descubrir su entorno natural."
+        ],
+        "nl": [
+          "Ontdek de natuurbestemming Suzac!\r\nIn een uitzonderlijke omgeving, in het hart van het kustbos van Suzac, nodigt het Parc de l'Estuaire, een Nature Escape site, u uit om zijn natuurlijke omgeving te ontdekken."
+        ]
+      }
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/6e866798-cae5-351c-9e8d-963661217e60",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:LabelRating_AccueilVelo",
+        "@type": [
+          "LabelRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "Accueil Vélo"
+          ],
+          "pt": [
+            "Accueil Vélo"
+          ],
+          "en": [
+            "Accueil Vélo"
+          ],
+          "it": [
+            "Accueil Vélo"
+          ],
+          "fr": [
+            "Accueil Vélo"
+          ],
+          "nl": [
+            "Accueil Vélo"
+          ],
+          "es": [
+            "Accueil Vélo"
+          ]
+        },
+        "isCompliantWith": [
+          "PlaceOfInterest"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Yoga",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Yoga"
+        ],
+        "pt": [
+          "Ioga"
+        ],
+        "en": [
+          "Yoga"
+        ],
+        "it": [
+          "Yoga"
+        ],
+        "fr": [
+          "Yoga"
+        ],
+        "nl": [
+          "Yoga"
+        ],
+        "es": [
+          "Yoga"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/59fd4556-568e-347d-8640-3da996ad8fb7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/76f21b51-5581-3571-b3a0-2385a1e978f0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9686dcd3-744d-39d0-a9f2-bf697a855869",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a23a0288-4f65-3a07-bc61-0d40e81cccbf",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c1cdecb8-a94f-3277-97af-7b93c3166933",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/845c8c8b-e906-33da-9848-5254f957f25e",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/5d11c996-210a-381c-87e7-c8293f49d807",
+          "schema:addressLocality": "Saint-Georges-de-Didonne",
+          "schema:postalCode": "17110",
+          "schema:streetAddress": [
+            "47 avenue Paul Roullet"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17333",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Georges-de-Didonne"
+              ],
+              "pt": [
+                "Saint-Georges-de-Didonne"
+              ],
+              "en": [
+                "Saint-Georges-de-Didonne"
+              ],
+              "it": [
+                "Saint-Georges-de-Didonne"
+              ],
+              "fr": [
+                "Saint-Georges-de-Didonne"
+              ],
+              "nl": [
+                "Saint-Georges-de-Didonne"
+              ],
+              "es": [
+                "Saint-Georges-de-Didonne"
+              ]
+            },
+            "insee": "17333",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/4acd1027-41d6-37ac-b1e6-787f9afebdc6",
+        "schema:latitude": "45.580294",
+        "schema:longitude": "-0.98579",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/04ae2e6b-7fb0-3442-9803-5e36125c4f54",
+          "schema:closes": "18:00:00",
+          "schema:opens": "14:00:00",
+          "schema:validFrom": "2023-04-01T00:00:00",
+          "schema:validThrough": "2023-06-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7a797837-4917-3535-be0e-6a7f47c9fc86",
+          "schema:closes": "18:00:00",
+          "schema:opens": "14:00:00",
+          "schema:validFrom": "2023-09-01T00:00:00",
+          "schema:validThrough": "2023-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/94e7ed3e-ed02-39f2-b75e-e0d0a6b8565b",
+          "schema:closes": "18:00:00",
+          "schema:opens": "14:00:00",
+          "schema:validFrom": "2023-10-01T00:00:00",
+          "schema:validThrough": "2023-10-22T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a3387560-8bc5-31f9-90a0-dbeef932b9e9",
+          "schema:closes": "18:30:00",
+          "schema:opens": "10:00:00",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b4a52fd9-1c8f-3470-a37e-b4b76d796d77",
+          "schema:closes": "18:00:00",
+          "schema:opens": "14:00:00",
+          "schema:validFrom": "2023-10-23T00:00:00",
+          "schema:validThrough": "2023-11-05T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b423eca3-3f21-3e47-9e34-3054bd401857",
+      "schema:email": [
+        "audrey.tapiero@charente-maritime.fr",
+        "ocilia.iturrart@charente-maritime.fr"
+      ],
+      "schema:legalName": "Echappées Nature / Département de la Charente-Maritime",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.charente-maritime.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-04-21",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.307Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/56287037-6ef4-3474-85c2-d682f2909168",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/ad6078e7-66a4-3351-a400-633ffe94db1e",
+          "schema:maxPrice": [
+            "3",
+            "4"
+          ],
+          "schema:minPrice": [
+            "3",
+            "4"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/ab0669ce-7763-3732-9103-0d712fcac86a",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-11-05",
+              "startDate": "2023-04-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

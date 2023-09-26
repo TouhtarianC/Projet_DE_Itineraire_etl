@@ -1,0 +1,465 @@
+{
+  "@id": "https://data.datatourisme.fr/13/e47dede5-11ad-3960-b50c-1695ec3f4ecf",
+  "dc:identifier": "6031114",
+  "@type": [
+    "CityHeritage",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Eine wunderschöne Stadt, in der die Steine von einer über tausendjährigen Geschichte erzählen. Durchstreifen Sie Pons von oben nach unten. Entdecken Sie die verwinkelten Gassen, die Stadtmauern mit Blick auf den Fluss Seugne und die religiösen Gebäude, die von den Pilgern auf dem Jakobsweg geerbt wurden."
+    ],
+    "en": [
+      "A magnificent city where the stones tell more than a thousand years of history. Go through Pons from top to bottom. Discover the winding streets, the ramparts overlooking the Seugne river and the religious buildings inherited from the pilgrims of the Way of Saint James."
+    ],
+    "it": [
+      "Una magnifica città dove le pietre raccontano oltre mille anni di storia. Visitate Pons da cima a fondo. Scoprite le strade tortuose, i bastioni che dominano la Seugne e gli edifici religiosi ereditati dai pellegrini del Cammino di Santiago."
+    ],
+    "fr": [
+      "Une ville magnifique où les pierres racontent plus de mille ans d'histoire. Parcourez Pons de haut en bas. Découvrez les ruelles sinueuses, les remparts dominant la Seugne et les édifices religieux hérités des pèlerins du Chemin de St Jacques."
+    ],
+    "es": [
+      "Una magnífica ciudad donde las piedras cuentan la historia de más de mil años de historia. Recorra Pons de arriba a abajo. Descubra las sinuosas calles, las murallas que dominan la Seugne y los edificios religiosos heredados de los peregrinos del Camino de Santiago."
+    ],
+    "nl": [
+      "Een prachtige stad waar de stenen het verhaal vertellen van meer dan duizend jaar geschiedenis. Maak een rondleiding door Pons van boven naar beneden. Ontdek de kronkelende straatjes, de stadswallen met uitzicht op de Seugne en de religieuze gebouwen die de pelgrims op de Jakobsroute hebben geërfd."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Cité médiévale de Pons"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/115fbfe1-42b0-3418-89b8-693adc663b47",
+      "schema:email": [
+        "bienvenue@jonzac-haute-saintonge.com"
+      ],
+      "schema:telephone": [
+        "+33 5 17 24 03 47"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/420c8d69-5d05-3c6e-bc75-83da1bff0443",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1941c11d-2d0c-3093-ab94-8a123caa0561",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9acccd85-4203-328d-91ce-be097bc92a20",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bac44328-71d1-34a5-9247-f21ba244fd97",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c26c207a-8e01-3986-be06-f340bfb9a58c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c2a800e5-96f5-342a-9f7a-3f9f3da31ac8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Eine wunderschöne Stadt, in der die Steine von einer über tausendjährigen Geschichte erzählen. Durchstreifen Sie Pons von oben nach unten. Entdecken Sie die verwinkelten Gassen, die Stadtmauern mit Blick auf den Fluss Seugne und die religiösen Gebäude, die von den Pilgern auf dem Jakobsweg geerbt wurden."
+        ],
+        "en": [
+          "A magnificent city where the stones tell more than a thousand years of history. Go through Pons from top to bottom. Discover the winding streets, the ramparts overlooking the Seugne river and the religious buildings inherited from the pilgrims of the Way of Saint James."
+        ],
+        "it": [
+          "Una magnifica città dove le pietre raccontano oltre mille anni di storia. Visitate Pons da cima a fondo. Scoprite le strade tortuose, i bastioni che dominano la Seugne e gli edifici religiosi ereditati dai pellegrini del Cammino di Santiago."
+        ],
+        "fr": [
+          "Une ville magnifique où les pierres racontent plus de mille ans d'histoire. Parcourez Pons de haut en bas. Découvrez les ruelles sinueuses, les remparts dominant la Seugne et les édifices religieux hérités des pèlerins du Chemin de St Jacques."
+        ],
+        "es": [
+          "Una magnífica ciudad donde las piedras cuentan la historia de más de mil años de historia. Recorra Pons de arriba a abajo. Descubra las sinuosas calles, las murallas que dominan la Seugne y los edificios religiosos heredados de los peregrinos del Camino de Santiago."
+        ],
+        "nl": [
+          "Een prachtige stad waar de stenen het verhaal vertellen van meer dan duizend jaar geschiedenis. Maak een rondleiding door Pons van boven naar beneden. Ontdek de kronkelende straatjes, de stadswallen met uitzicht op de Seugne en de religieuze gebouwen die de pelgrims op de Jakobsroute hebben geërfd."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/07a0febf-ad23-3eb4-b3cd-305def6469c1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/46980a85-39f4-353b-beda-b3c704094037",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/51bd0fa3-94b3-3f97-b4e7-1b9bc0205504",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6e7ebf8e-d59c-33ce-9910-ada2cdd9731a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fee54d7d-cd43-3e11-b419-2221eb8b7679",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/a0a8aa58-4de6-3c7d-9a05-6792a0869975",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/6f986ae4-e6da-351a-9637-65c82e61e16f",
+          "schema:addressLocality": "Pons",
+          "schema:postalCode": "17800",
+          "schema:streetAddress": [
+            "Esplanade du Château",
+            "Place République"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17283",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Pons"
+              ],
+              "pt": [
+                "Pons"
+              ],
+              "en": [
+                "Pons"
+              ],
+              "it": [
+                "Pons"
+              ],
+              "fr": [
+                "Pons"
+              ],
+              "nl": [
+                "Pons"
+              ],
+              "es": [
+                "Pons"
+              ]
+            },
+            "insee": "17283",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/1dc96c9d-d6d4-3d7e-a75b-056233a9310d",
+        "schema:latitude": "45.577952",
+        "schema:longitude": "-0.54753",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-03-13",
+  "lastUpdateDatatourisme": "2023-03-14T06:39:05.494Z"
+}

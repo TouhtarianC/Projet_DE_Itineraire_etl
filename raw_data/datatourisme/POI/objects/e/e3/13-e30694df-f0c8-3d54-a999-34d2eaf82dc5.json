@@ -1,0 +1,623 @@
+{
+  "@id": "https://data.datatourisme.fr/13/e30694df-f0c8-3d54-a999-34d2eaf82dc5",
+  "dc:identifier": "5671663",
+  "@type": [
+    "schema:CivicStructure",
+    "schema:Landform",
+    "Beach",
+    "FitnessPath",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Beaufsichtigtes Baden von Juni bis September.\r\nKinderspielplatz, Picknickbereich, Imbiss, Volleyball-, Fußball-, Handball- und Tischtennisplätze, Bouleplatz? Fitnessbereich, Krafttraining."
+    ],
+    "en": [
+      "Supervised swimming from June to September.\r\nChildren's playground, picnic area, refreshment bar, volleyball, soccer, handball, table tennis, boules? Fitness area, weights."
+    ],
+    "it": [
+      "Nuoto sorvegliato da giugno a settembre.\r\nParco giochi per bambini, area picnic, bar, pallavolo, calcio, pallamano, ping-pong, campo da bocce, ecc Area fitness, pesi."
+    ],
+    "fr": [
+      "Baignade surveillée de juin à septembre.\r\nJeux pour enfants, aire de pique-nique, buvette, terrains de volley-ball, football, hand-ball, tennis de table, terrain de boules… Espace fitness, musculation."
+    ],
+    "nl": [
+      "Zwemmen onder toezicht van juni tot september.\r\nKinderspeelplaats, picknickplaats, snackbar, volleybal, voetbal, handbal, tafeltennis, jeu de boulesbaan, enz Fitnessruimte, gewichten."
+    ],
+    "es": [
+      "Natación vigilada de junio a septiembre.\r\nParque infantil, merendero, bar, voleibol, fútbol, balonmano, ping-pong, petanca, etc Zona de fitness, pesas."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Baignade Plan d'Eau de la Grande Prairie"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f3e52c30-0b82-3a81-a3e7-ace55fe15c08",
+    "dc:identifier": "2053",
+    "schema:email": [
+      "snebout@angouleme-tourisme.com"
+    ],
+    "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.angouleme-tourisme.com/"
+    ],
+    "lastUpdateDatatourisme": "2022-12-19T06:44:07.571Z"
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a06a24df-24dc-3555-9bdb-f3583da5dd2c",
+      "schema:email": [
+        "voile.angouleme@fcol16.org"
+      ],
+      "schema:telephone": [
+        "+33 5 45 68 42 46"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.fcol16.org/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/47633c17-eaa8-3616-b1dc-0e22031bde4f",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/539975fe-86cb-39aa-aa1b-940998f58453",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8896c1a9-ff67-3770-a508-cc94041f64b8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9282ef17-3732-3f2b-b2ba-e8e4ba76a36c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cf909a2e-1cae-31dc-8f8f-0a4f9d89e240",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d6f9664e-6cbd-313d-b6c9-71113100cc17",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Beaufsichtigtes Baden von Juni bis September.\r\nKinderspielplatz, Picknickbereich, Imbiss, Volleyball-, Fußball-, Handball- und Tischtennisplätze, Bouleplatz? Fitnessbereich, Krafttraining."
+        ],
+        "en": [
+          "Supervised swimming from June to September.\r\nChildren's playground, picnic area, refreshment bar, volleyball, soccer, handball, table tennis, boules? Fitness area, weights."
+        ],
+        "it": [
+          "Nuoto sorvegliato da giugno a settembre.\r\nParco giochi per bambini, area picnic, bar, pallavolo, calcio, pallamano, ping-pong, campo da bocce, ecc Area fitness, pesi."
+        ],
+        "fr": [
+          "Baignade surveillée de juin à septembre.\r\nJeux pour enfants, aire de pique-nique, buvette, terrains de volley-ball, football, hand-ball, tennis de table, terrain de boules… Espace fitness, musculation."
+        ],
+        "nl": [
+          "Zwemmen onder toezicht van juni tot september.\r\nKinderspeelplaats, picknickplaats, snackbar, volleybal, voetbal, handbal, tafeltennis, jeu de boulesbaan, enz Fitnessruimte, gewichten."
+        ],
+        "es": [
+          "Natación vigilada de junio a septiembre.\r\nParque infantil, merendero, bar, voleibol, fútbol, balonmano, ping-pong, petanca, etc Zona de fitness, pesas."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Bathing",
+      "@type": [
+        "AccommodationAmenity",
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Baden"
+        ],
+        "pt": [
+          "Banho"
+        ],
+        "en": [
+          "Bathing"
+        ],
+        "it": [
+          "Bagno"
+        ],
+        "fr": [
+          "Baignade"
+        ],
+        "nl": [
+          "Zwemmen"
+        ],
+        "es": [
+          "Baño"
+        ]
+      }
+    },
+    {
+      "@id": "kb:FitnessTrail",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Gesundheitspfad"
+        ],
+        "pt": [
+          "Circuito de manutenção"
+        ],
+        "en": [
+          "Fitness trail"
+        ],
+        "it": [
+          "Percorso fitness"
+        ],
+        "fr": [
+          "Parcours de santé"
+        ],
+        "es": [
+          "Pista de ejercicios"
+        ],
+        "nl": [
+          "Fitnessparcours"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Pedestrian",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Zu Fuß"
+        ],
+        "pt": [
+          "Pedestre"
+        ],
+        "en": [
+          "Pedestrian"
+        ],
+        "it": [
+          "A piedi"
+        ],
+        "fr": [
+          "Pédestre"
+        ],
+        "nl": [
+          "Voetgangers"
+        ],
+        "es": [
+          "Peatón"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Running",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Laufen"
+        ],
+        "pt": [
+          "Corrida a pé"
+        ],
+        "en": [
+          "Running"
+        ],
+        "it": [
+          "Corsa a piedi"
+        ],
+        "fr": [
+          "Course à pied"
+        ],
+        "nl": [
+          "Hardlopen"
+        ],
+        "es": [
+          "Carrera a pie"
+        ]
+      }
+    },
+    {
+      "@id": "kb:SportSailing",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Segelsport"
+        ],
+        "pt": [
+          "Desporto à vela"
+        ],
+        "en": [
+          "Sport sailing"
+        ],
+        "it": [
+          "Sport di vela"
+        ],
+        "fr": [
+          "Sport à voile"
+        ],
+        "nl": [
+          "Zeilsport"
+        ],
+        "es": [
+          "Deportes de vela"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Windsurfing",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Windsurfen"
+        ],
+        "pt": [
+          "Prancha à vela"
+        ],
+        "en": [
+          "Windsurfing"
+        ],
+        "it": [
+          "Windsurf"
+        ],
+        "fr": [
+          "Planche à voile"
+        ],
+        "es": [
+          "Tabla de windsurf"
+        ],
+        "nl": [
+          "Surfplank"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/1fb9d677-8864-3415-a3b6-227b56e75fcb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/798c2060-f83f-309a-aad5-7fa97de87fb1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a377ffef-c0ba-375c-a469-d5f5885d4fd0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b016620c-b599-37b7-ba60-614628404fb0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c3d5aa77-ddab-3a18-9bfe-96516ef64a10",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b97a119b-f27c-3314-93e2-468e3e33fdac",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/f90041f5-9478-31ec-a284-808caa36be33",
+          "schema:addressLocality": "Saint-Yrieix-sur-Charente",
+          "schema:postalCode": "16710",
+          "schema:streetAddress": [
+            "20 rue du Plan d'Eau"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16358",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Yrieix-sur-Charente"
+              ],
+              "pt": [
+                "Saint-Yrieix-sur-Charente"
+              ],
+              "en": [
+                "Saint-Yrieix-sur-Charente"
+              ],
+              "it": [
+                "Saint-Yrieix-sur-Charente"
+              ],
+              "fr": [
+                "Saint-Yrieix-sur-Charente"
+              ],
+              "nl": [
+                "Saint-Yrieix-sur-Charente"
+              ],
+              "es": [
+                "Saint-Yrieix-sur-Charente"
+              ]
+            },
+            "insee": "16358",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/b0a92dec-ab0c-3068-b684-d9c778c3115b",
+        "schema:latitude": "45.68324",
+        "schema:longitude": "0.14935",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/c0be9959-ca7a-3935-8272-75e894bab7a1",
+          "schema:closes": "19:30:00",
+          "schema:opens": "14:00:00",
+          "schema:validFrom": "2023-06-01T00:00:00",
+          "schema:validThrough": "2023-06-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c7565e3e-04d9-3a77-be83-905a6eb4daf6",
+          "schema:closes": "19:30:00",
+          "schema:opens": "14:00:00",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-09-03T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/65c93456-0984-3a13-aac5-3ae5946a15d8",
+      "schema:email": [
+        "snebout@angouleme-tourisme.com"
+      ],
+      "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.angouleme-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-22",
+  "lastUpdateDatatourisme": "2023-06-23T05:50:54.352Z"
+}

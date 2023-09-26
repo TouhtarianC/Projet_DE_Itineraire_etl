@@ -1,0 +1,512 @@
+{
+  "@id": "https://data.datatourisme.fr/13/bd9c00d5-9bf5-3e5f-a174-5d4e64f9d05e",
+  "dc:identifier": "5773778",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Was Ihnen die Mediathek bietet :"
+    ],
+    "en": [
+      "What the media library offers you:"
+    ],
+    "it": [
+      "Cosa offre la mediateca:"
+    ],
+    "fr": [
+      "Ce que vous propose la médiathèque :"
+    ],
+    "nl": [
+      "Wat de mediatheek biedt:"
+    ],
+    "es": [
+      "Lo que ofrece la mediateca:"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Médiathèque Émile Gaboriau"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/68d30981-2548-3874-80e3-75eaa036d2f1",
+    "dc:identifier": "2317",
+    "schema:email": [
+      "a.viaud@mairie-saujon.fr",
+      "evenementiel@saujon.fr"
+    ],
+    "schema:legalName": "Mairie de Saujon",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.saujon.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/c38af07a-1fdc-36ae-8ff8-7dfe535f6a19",
+      "schema:email": [
+        "mediatheque_saujon@hotmail.com"
+      ],
+      "schema:telephone": [
+        "+33 5 46 02 94 71"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/29bed748-9854-3dc1-80d4-54b0d21f2619",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/34d1c920-607e-3709-8ad6-6b9ca12e6c4f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/508b8b06-8811-300c-bd4d-5ab3c503ac21",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8420c7ae-a37f-30e3-8afd-918598993e49",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8f73e1b1-6a41-3f25-890f-cc6298e5c8ee",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b8f4d527-5e91-3074-bf80-05512845a2a0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Was Ihnen die Mediathek bietet :"
+        ],
+        "en": [
+          "What the media library offers you:"
+        ],
+        "it": [
+          "Cosa offre la mediateca:"
+        ],
+        "fr": [
+          "Ce que vous propose la médiathèque :"
+        ],
+        "nl": [
+          "Wat de mediatheek biedt:"
+        ],
+        "es": [
+          "Lo que ofrece la mediateca:"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/24c996ec-73a3-3a4e-a519-fdd4aac6c819",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/35a8bbf4-7313-37a5-ab29-06240871187e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5594bbcb-378f-35cf-b95b-4304053057a4",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7ee5a4c0-d2b0-3edb-ad99-02c19064ddb7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c7dc4443-145c-3962-a5fe-ef92beb5c9b4",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/ef072fb6-8262-3d68-9603-cd0a81570dbb",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/91bc3c38-a13a-30b2-875b-4e5350257b5a",
+          "schema:addressLocality": "Saujon",
+          "schema:postalCode": "17600",
+          "schema:streetAddress": [
+            "18 rue Carnot"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17421",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saujon"
+              ],
+              "pt": [
+                "Saujon"
+              ],
+              "en": [
+                "Saujon"
+              ],
+              "it": [
+                "Saujon"
+              ],
+              "fr": [
+                "Saujon"
+              ],
+              "nl": [
+                "Saujon"
+              ],
+              "es": [
+                "Saujon"
+              ]
+            },
+            "insee": "17421",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/5082a584-8819-3db9-947d-564ae47eec33",
+        "schema:latitude": "45.675056",
+        "schema:longitude": "-0.924888",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/119ff335-51d3-3cc6-819a-5e72e5bcedec",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Öffnungszeiten (außer in den Sommerferien) :\r\n\r\nDienstag von 15:00 bis 19:00 Uhr\r\nMittwoch von 9:30 bis 12:00 Uhr und von 14:00 bis 18:00 Uhr\r\nFreitag von 15:00 bis 19:00 Uhr\r\nSamstag von 9:30 bis 12:00 Uhr und von 14:00 bis 18:00 Uhr."
+            ],
+            "en": [
+              "Opening hours (except summer vacations) :\r\n\r\nTuesday from 3pm to 7pm\r\nWednesday from 9h30 to 12h and from 14h to 18h\r\nFriday from 3pm to 7pm\r\nSaturday from 9h30 to 12h and from 14h to 18h."
+            ],
+            "it": [
+              "Orari di apertura (escluse le vacanze estive) :\r\n\r\nMartedì dalle 15.00 alle 19.00\r\nMercoledì dalle 9.30 alle 12.00 e dalle 14.00 alle 18.00\r\nVenerdì dalle 15.00 alle 19.00\r\nSabato dalle 9.30 alle 12.00 e dalle 14.00 alle 18.00."
+            ],
+            "fr": [
+              "Horaires d'ouverture (hors vacances d'été) :\r\n\r\nMardi de 15h à 19h\r\nMercredi de 9h30 à 12h et de 14h à 18h\r\nVendredi de 15h à 19h\r\nSamedi de 9h30 à 12h et de 14h à 18h."
+            ],
+            "nl": [
+              "Openingstijden (met uitzondering van de zomervakantie) :\r\n\r\nDinsdag van 15.00 tot 19.00 uur\r\nWoensdag van 9u30 tot 12u en van 14u tot 18u\r\nVrijdag van 15.00 tot 19.00 uur\r\nZaterdag van 9.30 tot 12.00 uur en van 14.00 tot 18.00 uur."
+            ],
+            "es": [
+              "Horario de apertura (excluyendo las vacaciones de verano) :\r\n\r\nMartes de 15 a 19 horas\r\nMiércoles de 9.30 a 12 horas y de 14 a 18 horas\r\nViernes de 15 a 19 horas\r\nSábado de 9.30 a 12 y de 14 a 18 horas."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/912e356c-de2d-3913-bb04-f11b4f61b868",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/9a210d9e-0d2d-3ff1-929f-3cd609709904",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/9a62b052-7534-367f-8d3d-95be67882a3b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ba464c49-9720-343d-b7d0-34358c071ac1",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f73d8815-3656-3769-a54b-0fc8944bc99a",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/e86ffc0f-f769-33e1-9729-c9b01a262016",
+      "schema:email": [
+        "a.viaud@mairie-saujon.fr",
+        "evenementiel@saujon.fr"
+      ],
+      "schema:legalName": "Mairie de Saujon",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.saujon.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-11-29",
+  "lastUpdateDatatourisme": "2023-02-01T18:07:36.155Z"
+}

@@ -1,0 +1,537 @@
+{
+  "@id": "https://data.datatourisme.fr/13/fb1bfec5-eb29-31fe-aa7e-a4070153ee88",
+  "dc:identifier": "5707104",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Als natürlicher und außergewöhnlicher Rahmen der Abtei von Fontdouce ist der Park ein eigenständiger Ort, den es zu entdecken gilt. Fontdouce liegt in einem Tal und ist eine Oase der Ruhe und Gelassenheit."
+    ],
+    "en": [
+      "The park of the abbey of Fontdouce is wonderful natural place to visit. Located in a small valley, Fontdouce is a haven of peacefulness and serenity."
+    ],
+    "it": [
+      "Il parco è la cornice naturale ed eccezionale dell'Abbazia di Fontdouce ed è un luogo da scoprire a sé stante. Situata in una valle, Fontdouce è un'oasi di pace e serenità."
+    ],
+    "fr": [
+      "Cadre naturel et exceptionnel de l'Abbaye de Fontdouce, le parc est un lieu à part entière à découvrir. Situé dans un vallon, Fontdouce est un havre de tranquillité et de sérénité."
+    ],
+    "nl": [
+      "Het park vormt het natuurlijke en uitzonderlijke kader van de abdij van Fontdouce en is een plek om te ontdekken. Fontdouce, gelegen in een vallei, is een oase van rust en sereniteit."
+    ],
+    "es": [
+      "El parque de la abadía de Fontdouce es un magnifico sitio natural a visitar. Ubicado en un valle pequeño, Fontdouce es un remanso de tranquilidad y serenidad."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Garden of the Abbey of Fontdouce"
+    ],
+    "fr": [
+      "Jardin de l'Abbaye de Fontdouce"
+    ],
+    "es": [
+      "Jardín de la Abadía de Fontdouce"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f8c0c968-6328-35cd-9333-08b1a494967f",
+    "dc:identifier": "2060",
+    "schema:email": [
+      "a.tonin@saintes-tourisme.fr",
+      "f.herbec@saintes-tourisme.fr",
+      "l.conan@saintes-tourisme.fr"
+    ],
+    "schema:legalName": "Office de Tourisme de Saintes & la Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.saintes-tourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/d9328498-f2bd-38ca-a16e-08fbe4d02995",
+      "schema:telephone": [
+        "+33 5 46 74 77 08"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.fontdouce.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/9eb0e215-5581-3b66-8901-d94da996abf8",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1b846316-6167-3fae-9655-cc4dc71f5a5a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/86f1ecbf-4c91-340d-a49d-ec9f2fdf3594",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bfd8cec8-df0c-3083-9195-c3c89939029a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Als natürlicher und außergewöhnlicher Rahmen der Abtei von Fontdouce ist der Park ein eigenständiger Ort, den es zu entdecken gilt. Fontdouce liegt in einem Tal und ist eine Oase der Ruhe und Gelassenheit."
+        ],
+        "en": [
+          "The park of the abbey of Fontdouce is wonderful natural place to visit. Located in a small valley, Fontdouce is a haven of peacefulness and serenity."
+        ],
+        "it": [
+          "Il parco è la cornice naturale ed eccezionale dell'Abbazia di Fontdouce ed è un luogo da scoprire a sé stante. Situata in una valle, Fontdouce è un'oasi di pace e serenità."
+        ],
+        "fr": [
+          "Cadre naturel et exceptionnel de l'Abbaye de Fontdouce, le parc est un lieu à part entière à découvrir. Situé dans un vallon, Fontdouce est un havre de tranquillité et de sérénité."
+        ],
+        "nl": [
+          "Het park vormt het natuurlijke en uitzonderlijke kader van de abdij van Fontdouce en is een plek om te ontdekken. Fontdouce, gelegen in een vallei, is een oase van rust en sereniteit."
+        ],
+        "es": [
+          "El parque de la abadía de Fontdouce es un magnifico sitio natural a visitar. Ubicado en un valle pequeño, Fontdouce es un remanso de tranquilidad y serenidad."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0deb0122-9f8d-3b15-8239-4eafdbb56bda",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2ae71951-32fd-3010-a95b-a9759b4bae73",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e681d349-95fe-3dd3-8ca5-965a90341de4",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/ed1e16f0-029d-3d12-8f68-341310e71e93",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d4d1999e-28bd-3f44-ac58-83fa30155d59",
+          "schema:addressLocality": "Saint-Bris-des-Bois",
+          "schema:postalCode": "17770",
+          "schema:streetAddress": [
+            "Abbaye de Fontdouce"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17313",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Bris-des-Bois"
+              ],
+              "pt": [
+                "Saint-Bris-des-Bois"
+              ],
+              "en": [
+                "Saint-Bris-des-Bois"
+              ],
+              "it": [
+                "Saint-Bris-des-Bois"
+              ],
+              "fr": [
+                "Saint-Bris-des-Bois"
+              ],
+              "nl": [
+                "Saint-Bris-des-Bois"
+              ],
+              "es": [
+                "Saint-Bris-des-Bois"
+              ]
+            },
+            "insee": "17313",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/f1c69225-43da-35b7-8d89-a1a6c809ada4",
+        "schema:latitude": "45.769613",
+        "schema:longitude": "-0.458822",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/6179de89-cebe-3acf-88ed-5cf23301c664",
+          "schema:validFrom": "2023-04-08T00:00:00",
+          "schema:validThrough": "2023-11-05T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Juli / August: täglich von 10 bis 19 Uhr und samstags von 10 bis 16 Uhr geöffnet April / Mai / Juni // September / Oktober: - an Wochenenden, Feiertagen und in den Schulferien: von 10:30 bis 18:30 Uhr und samstags von 10:30 bis 16 Uhr - unter der Woche (außer in den Ferien): von 13:30 bis 18:30 Uhr"
+            ],
+            "en": [
+              "July / August : open every day from 10am to 7pm and Saturday from 10am to 4pm April / May / June // September / October : - weekends, holidays and school vacations : from 10:30am to 6:30pm and Saturday from 10:30am to 4pm - during the week (except vacations) : from 1:30pm to 6:30pm"
+            ],
+            "it": [
+              "Luglio / Agosto: aperto tutti i giorni dalle 10.00 alle 19.00 e il sabato dalle 10.00 alle 16.00 Aprile / Maggio / Giugno // Settembre / Ottobre: - nei fine settimana, nei giorni festivi e nelle vacanze scolastiche: dalle 10.30 alle 18.30 e il sabato dalle 10.30 alle 16.00 - nei giorni feriali (esclusi i festivi): dalle 13.30 alle 18.30"
+            ],
+            "fr": [
+              "Juillet / Août : ouvert tous les jours de 10h à 19h et le samedi de 10h à 16h Avril / Mai / Juin // Septembre / Octobre : - week-ends, jours fériés et vacances scolaires : de 10h30 à 18h30 et le samedi de 10h30 à 16h - en semaine (hors vacances) : de 13h30 à 18h30"
+            ],
+            "es": [
+              "Julio / agosto: abierto todos los días de 10.00 a 19.00 h y los sábados de 10.00 a 16.00 h Abril / mayo / junio // septiembre / octubre: - fines de semana, festivos y vacaciones escolares: de 10.30 a 18.30 h y los sábados de 10.30 a 16.00 h - entre semana (excepto festivos): de 13.30 a 18.30 h"
+            ],
+            "nl": [
+              "Juli / augustus: elke dag open van 10 tot 19 uur en zaterdag van 10 tot 16 uur april / mei / juni // september / oktober: - weekends, feestdagen en schoolvakanties: van 10.30 tot 18.30 uur en zaterdag van 10.30 tot 16 uur - op weekdagen (behalve feestdagen): van 13.30 tot 18.30 uur"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/4a9dd15f-c6b0-34b7-9ea2-cb0cb8d0072d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/7ef2c561-661b-33a7-ac01-f55053734f82",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/bcf67261-c6ad-3745-801f-1401f5cca157",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e0abffad-b407-3413-aeb3-222950913d45",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e4d65579-9258-3d8b-bf4f-ebfbb031d924",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/6788b742-800e-3e07-a704-c6181e0a8dd1",
+      "schema:email": [
+        "a.tonin@saintes-tourisme.fr",
+        "f.herbec@saintes-tourisme.fr",
+        "l.conan@saintes-tourisme.fr"
+      ],
+      "schema:legalName": "Office de Tourisme de Saintes & la Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.saintes-tourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-01-27",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.298Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/add7cf57-b91a-3c6c-aa7b-5ab439cf295c",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/94d20609-9b10-3fda-988a-17af18b0df38",
+          "schema:maxPrice": [
+            "5",
+            "5.5",
+            "7"
+          ],
+          "schema:minPrice": [
+            "5",
+            "5.5",
+            "7"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a72571ee-b0e2-3ea2-9dd2-53d743cf79ac",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-11-05",
+              "startDate": "2023-04-08"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

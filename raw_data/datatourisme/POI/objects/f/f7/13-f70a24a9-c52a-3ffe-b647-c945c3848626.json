@@ -1,0 +1,528 @@
+{
+  "@id": "https://data.datatourisme.fr/13/f70a24a9-c52a-3ffe-b647-c945c3848626",
+  "dc:identifier": "5750291",
+  "@type": [
+    "schema:Landform",
+    "Beach",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "An der Südwestküste der Insel Oléron gelegen, bietet Ihnen dieser bewachte Strand ein ungestörtes Badevergnügen für die ganze Familie."
+    ],
+    "en": [
+      "Located on the south west coast of the island of Oleron, this supervised beach offers you a quiet family swim."
+    ],
+    "it": [
+      "Situata sulla costa sud-occidentale dell'isola di Oleron, questa spiaggia sorvegliata vi offre un tranquillo bagno in famiglia."
+    ],
+    "fr": [
+      "Situées sur la côte sud ouest de l'île d'Oléron, cette plage surveillée vous offre une baignade en famille en toute quiétude."
+    ],
+    "es": [
+      "Situada en la costa suroeste de la isla de Oleron, esta playa vigilada le ofrece un tranquilo baño familiar."
+    ],
+    "nl": [
+      "Gelegen aan de zuidwestkust van het eiland Oleron, biedt dit bewaakte strand u een rustige zwempartij voor het hele gezin."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Plage de la Rémigeasse"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/47b0f104-1d94-3af4-83dd-a845417626b3",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/37c2a4b0-c0e3-3495-921c-67d77467e67f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/45fc98e4-fe08-35c6-a08c-b13c92f23f6a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8b39320d-b44f-3f1f-8791-4a3c930a8839",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d44bf206-4bdf-3f77-aad0-c79ed7fec7cd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d580f3f1-a40d-3ebb-b2a4-12527a4a71b0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "An der Südwestküste der Insel Oléron gelegen, bietet Ihnen dieser bewachte Strand ein ungestörtes Badevergnügen für die ganze Familie."
+        ],
+        "en": [
+          "Located on the south west coast of the island of Oleron, this supervised beach offers you a quiet family swim."
+        ],
+        "it": [
+          "Situata sulla costa sud-occidentale dell'isola di Oleron, questa spiaggia sorvegliata vi offre un tranquillo bagno in famiglia."
+        ],
+        "fr": [
+          "Situées sur la côte sud ouest de l'île d'Oléron, cette plage surveillée vous offre une baignade en famille en toute quiétude."
+        ],
+        "es": [
+          "Situada en la costa suroeste de la isla de Oleron, esta playa vigilada le ofrece un tranquilo baño familiar."
+        ],
+        "nl": [
+          "Gelegen aan de zuidwestkust van het eiland Oleron, biedt dit bewaakte strand u een rustige zwempartij voor het hele gezin."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Bathing",
+      "@type": [
+        "AccommodationAmenity",
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Baden"
+        ],
+        "pt": [
+          "Banho"
+        ],
+        "en": [
+          "Bathing"
+        ],
+        "it": [
+          "Bagno"
+        ],
+        "fr": [
+          "Baignade"
+        ],
+        "nl": [
+          "Zwemmen"
+        ],
+        "es": [
+          "Baño"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/47d2d999-c257-3d5b-aedf-aed253f68956",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5d9ac2ca-b45e-3425-9bb8-42c3755d06fd",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8cc823be-0e15-3407-87d3-832d3042e99c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ac403bb3-106e-38a4-9ef1-38db5d118ac1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b7d42ab0-8200-371b-9c39-b12983b6af85",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/526404e9-67c7-3b10-8b72-754bcb813be9",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/ad573662-e6ea-3f05-95cb-dcfeb7352ad7",
+          "schema:addressLocality": "Dolus-d'Oléron",
+          "schema:postalCode": "17550",
+          "schema:streetAddress": [
+            "La Rémigeasse"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17140",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Dolus-d'Oléron"
+              ],
+              "pt": [
+                "Dolus-d'Oléron"
+              ],
+              "en": [
+                "Dolus-d'Oléron"
+              ],
+              "it": [
+                "Dolus-d'Oléron"
+              ],
+              "fr": [
+                "Dolus-d'Oléron"
+              ],
+              "nl": [
+                "Dolus-d'Oléron"
+              ],
+              "es": [
+                "Dolus-d'Oléron"
+              ]
+            },
+            "insee": "17140",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/6001af16-569b-3fcc-87e8-4711dfbac4fc",
+        "schema:latitude": "45.896529",
+        "schema:longitude": "-1.289897",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/1f3102f7-529a-3a51-9fb1-1b25af4c2d27",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Bewachter Strand von 11 bis 19 Uhr in der Sommersaison - Vom 9. Juli bis 28. August 2022"
+            ],
+            "en": [
+              "Supervised beach from 11am to 7pm during the summer - From July 9th to August 28th 2022"
+            ],
+            "it": [
+              "Spiaggia sorvegliata dalle 11 alle 19 in estate - Dal 9 luglio al 28 agosto 2022"
+            ],
+            "fr": [
+              "Plage surveillée de 11h à 19h en période estivale - Du 9 juillet au 28 août 2022"
+            ],
+            "es": [
+              "Playa vigilada de 11 a 19 horas en verano - Del 9 de julio al 28 de agosto de 2022"
+            ],
+            "nl": [
+              "Bewaakt strand van 11u tot 19u tijdens de zomer - Van 9 juli tot 28 augustus 2022"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/1cd53d76-0027-34f3-bf72-813c47294b2e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/3589e2e6-3e6d-3c54-b78d-d2ad388e699e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/53a62e3d-7741-3375-990f-c3d9d30e6a80",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e3239a15-91b8-3a8b-9ea9-d965f5d8177d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e3636a70-ec6b-3ef6-92a1-03a2f54cecb6",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/80009736-71af-3484-9792-2b3de63306d1",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-07-06",
+  "lastUpdateDatatourisme": "2023-06-01T05:41:13.998Z"
+}

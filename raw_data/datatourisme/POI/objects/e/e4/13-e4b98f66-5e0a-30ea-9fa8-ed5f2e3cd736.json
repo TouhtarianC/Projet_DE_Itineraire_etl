@@ -1,0 +1,555 @@
+{
+  "@id": "https://data.datatourisme.fr/13/e4b98f66-5e0a-30ea-9fa8-ed5f2e3cd736",
+  "dc:identifier": "6001604",
+  "@type": [
+    "schema:Landform",
+    "Canal",
+    "CulturalSite",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Der Canal de Charras, an den Toren des Marais rochefortais\r\nDer Canal de Charras ist eine etwa 20 km lange Wasserstraße, die als unterer Lauf der Flüsse Gères und devise gilt."
+    ],
+    "en": [
+      "The Charras Canal, at the gateway to the Rochefort marshes\r\nLower court of the rivers Gères and Motto, the Canal de Charras is a waterway about 20km long."
+    ],
+    "it": [
+      "Il canale di Charras, alle porte delle paludi di Rochefort\r\nIl canale di Charras è un corso d'acqua lungo circa 20 km che nasce dal basso dei fiumi Gères e Motto."
+    ],
+    "fr": [
+      "Le canal de Charras, aux portes du marais rochefortais\r\nCour inférieur des rivières la Gères et la devise, le Canal de Charras est une voie d’eau longue d’environ 20km."
+    ],
+    "nl": [
+      "Het kanaal van Charras, aan de poort van de moerassen van Rochefort\r\nDe benedenloop van de rivieren Gères en Motto, het kanaal van Charras is een waterweg van ongeveer 20 km lang."
+    ],
+    "es": [
+      "El canal de Charras, a las puertas de las marismas de Rochefort\r\nEl Canal de Charras, que es el tramo inferior de los ríos Gères y Motto, es una vía fluvial de unos 20 km de longitud."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Canal de Charras"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q2935988"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/296472c9-542a-34d4-b88d-543508116cbc",
+    "dc:identifier": "2070",
+    "schema:email": [
+      "aurore.mdc@aunis-maraispoitevin.com",
+      "madeleine.dasilva@aunis-maraispoitevin.com"
+    ],
+    "schema:legalName": "Office de Tourisme Aunis Marais Poitevin",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.aunis-maraispoitevin.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/07cc6571-7863-3d40-9ef0-601b8586fb6c",
+      "schema:telephone": [
+        "+33 5 46 01 12 10"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/c2888ffc-2ae6-3464-947d-971b79233552",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/087afe90-2aa8-359d-976d-afbbf2337537",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2664e36a-127e-3917-8670-add3f7bdc00f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/449fbf17-eb97-3b27-9ce8-3ee4ebbf7511",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/941e8d2d-b713-351b-937e-d3ce95c9b630",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d4659dc4-f0da-3539-8bc5-f8a8a62eafbf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Der Canal de Charras, an den Toren des Marais rochefortais\r\nDer Canal de Charras ist eine etwa 20 km lange Wasserstraße, die als unterer Lauf der Flüsse Gères und devise gilt."
+        ],
+        "en": [
+          "The Charras Canal, at the gateway to the Rochefort marshes\r\nLower court of the rivers Gères and Motto, the Canal de Charras is a waterway about 20km long."
+        ],
+        "it": [
+          "Il canale di Charras, alle porte delle paludi di Rochefort\r\nIl canale di Charras è un corso d'acqua lungo circa 20 km che nasce dal basso dei fiumi Gères e Motto."
+        ],
+        "fr": [
+          "Le canal de Charras, aux portes du marais rochefortais\r\nCour inférieur des rivières la Gères et la devise, le Canal de Charras est une voie d’eau longue d’environ 20km."
+        ],
+        "nl": [
+          "Het kanaal van Charras, aan de poort van de moerassen van Rochefort\r\nDe benedenloop van de rivieren Gères en Motto, het kanaal van Charras is een waterweg van ongeveer 20 km lang."
+        ],
+        "es": [
+          "El canal de Charras, a las puertas de las marismas de Rochefort\r\nEl Canal de Charras, que es el tramo inferior de los ríos Gères y Motto, es una vía fluvial de unos 20 km de longitud."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/b71aec35-2724-3e46-a6b3-f79c95f1bcb2",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/c6d110e2-54e6-3c45-aae9-07bafd53baac",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "1044 - Canal de Charras - St Laurent de la Prée"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Patrick Despoix (https://commons.wikimedia.org/wiki/User:Piso17)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/19c8e09b-1c5f-344a-bfdb-d842e0bec33a",
+          "ebucore:fileSize": [
+            4166717
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1920,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/b/b2/1044_-_Canal_de_Charras_-_St_Laurent_de_la_Pr%C3%A9e.jpg"
+          ],
+          "ebucore:width": 2560,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/3770652e-b827-3b9b-ac98-e56c18c779aa",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/672ce907-51a7-3560-908c-450f88b1e56d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9251cf39-6519-3712-8e74-9296ef513a83",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cc81d6e1-ee98-39ef-ae7b-850ba425f601",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fa582f64-0bf8-3657-8d03-6d36df028e14",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/41e11678-d82c-323f-8826-c6a69b1d7774",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/24f43391-7fde-3a00-b2d9-140de7e2b8e9",
+          "schema:addressLocality": "Landrais",
+          "schema:postalCode": "17290",
+          "schema:streetAddress": [
+            "Gué Charreau"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17203",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Landrais"
+              ],
+              "pt": [
+                "Landrais"
+              ],
+              "en": [
+                "Landrais"
+              ],
+              "it": [
+                "Landrais"
+              ],
+              "fr": [
+                "Landrais"
+              ],
+              "nl": [
+                "Landrais"
+              ],
+              "es": [
+                "Landrais"
+              ]
+            },
+            "insee": "17203",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/44f9105e-80b0-3352-b0bb-d405b09dcc23",
+        "schema:latitude": "46.054595",
+        "schema:longitude": "-0.837027",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/a31bfa88-8451-397d-9df1-b4fcba0f5590",
+      "schema:email": [
+        "madeleine.dasilva@aunis-maraispoitevin.com"
+      ],
+      "schema:legalName": "Office de Tourisme Aunis Marais Poitevin",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.aunis-maraispoitevin.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-12-30",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.807Z"
+}

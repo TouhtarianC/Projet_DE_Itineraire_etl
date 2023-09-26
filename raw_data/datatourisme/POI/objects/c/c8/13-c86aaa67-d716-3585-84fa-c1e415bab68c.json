@@ -1,0 +1,426 @@
+{
+  "@id": "https://data.datatourisme.fr/13/c86aaa67-d716-3585-84fa-c1e415bab68c",
+  "dc:identifier": "6183929",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Service: Internetzugang, Blumenkunst- und Origami-Workshop (1 Mal pro Monat). Sie können 22 Dokumente ausleihen, davon maximal: 6 Bücher, 4 Zeitschriften, 6 CDs, 4 DVDs, 2 Gesellschaftsspiele (für 31 Tage)."
+    ],
+    "en": [
+      "Services: Internet access, floral art workshop and origami workshop (once a month). You can borrow 22 documents, including a maximum of 6 books, 4 magazines, 6 CDs, 4 DVDs, 2 board games (for 31 days)."
+    ],
+    "it": [
+      "Servizi: accesso a Internet, laboratorio di arte floreale e di origami (una volta al mese). È possibile prendere in prestito 22 documenti, tra cui un massimo di 6 libri, 4 riviste, 6 CD, 4 DVD, 2 giochi da tavolo (per 31 giorni)."
+    ],
+    "fr": [
+      "Services : accès Internet, atelier Art Floral et atelier origami (1 fois par mois). Vous pouvez emprunter 22 documents, dont au maximum : 6 livres, 4 revues, 6 CD, 4 DVD, 2 jeux de société (pour 31 jours)."
+    ],
+    "es": [
+      "Servicios: acceso a Internet, taller de arte floral y taller de origami (una vez al mes). Puedes tomar prestados 22 documentos, incluyendo un máximo de 6 libros, 4 revistas, 6 CDs, 4 DVDs, 2 juegos de mesa (durante 31 días)."
+    ],
+    "nl": [
+      "Diensten: internettoegang, workshop bloemsierkunst en origami-workshop (één keer per maand). U kunt 22 documenten lenen, waaronder maximaal 6 boeken, 4 tijdschriften, 6 cd's, 4 dvd's, 2 gezelschapsspellen (voor 31 dagen)."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Médiathèque de Mornac"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f3e52c30-0b82-3a81-a3e7-ace55fe15c08",
+    "dc:identifier": "2053",
+    "schema:email": [
+      "snebout@angouleme-tourisme.com"
+    ],
+    "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.angouleme-tourisme.com/"
+    ],
+    "lastUpdateDatatourisme": "2022-12-19T06:44:07.571Z"
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/027f1851-65ad-3517-bc2d-78bddbb52eda",
+      "schema:telephone": [
+        "+33 5 45 65 24 45"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/759dab93-a1c8-3cbc-87e1-5e3359b0c744",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/535ba4e3-c307-3e6a-babe-93737f256db8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5acce33b-019a-346e-96b7-03b554ef5c91",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9ac1ca83-d2f5-30a2-85ee-2499b51a4611",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b317704b-54bf-38cf-a3a0-1a3e85808e81",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e5dd9002-bab0-33c7-b62c-8a39bef149db",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Service: Internetzugang, Blumenkunst- und Origami-Workshop (1 Mal pro Monat). Sie können 22 Dokumente ausleihen, davon maximal: 6 Bücher, 4 Zeitschriften, 6 CDs, 4 DVDs, 2 Gesellschaftsspiele (für 31 Tage)."
+        ],
+        "en": [
+          "Services: Internet access, floral art workshop and origami workshop (once a month). You can borrow 22 documents, including a maximum of 6 books, 4 magazines, 6 CDs, 4 DVDs, 2 board games (for 31 days)."
+        ],
+        "it": [
+          "Servizi: accesso a Internet, laboratorio di arte floreale e di origami (una volta al mese). È possibile prendere in prestito 22 documenti, tra cui un massimo di 6 libri, 4 riviste, 6 CD, 4 DVD, 2 giochi da tavolo (per 31 giorni)."
+        ],
+        "fr": [
+          "Services : accès Internet, atelier Art Floral et atelier origami (1 fois par mois). Vous pouvez emprunter 22 documents, dont au maximum : 6 livres, 4 revues, 6 CD, 4 DVD, 2 jeux de société (pour 31 jours)."
+        ],
+        "es": [
+          "Servicios: acceso a Internet, taller de arte floral y taller de origami (una vez al mes). Puedes tomar prestados 22 documentos, incluyendo un máximo de 6 libros, 4 revistas, 6 CDs, 4 DVDs, 2 juegos de mesa (durante 31 días)."
+        ],
+        "nl": [
+          "Diensten: internettoegang, workshop bloemsierkunst en origami-workshop (één keer per maand). U kunt 22 documenten lenen, waaronder maximaal 6 boeken, 4 tijdschriften, 6 cd's, 4 dvd's, 2 gezelschapsspellen (voor 31 dagen)."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/23c9efb2-6440-3b6a-b553-d505f65ca568",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5dab55d4-31aa-369d-9571-ce5ff14c4ce9",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b139f604-0b34-309e-b962-37732a315746",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d78098dc-515f-36b7-86db-deec4ceea30f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e74914ab-de29-3afa-90cf-cf483f7e4401",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/c21099ca-6f8a-318c-8b89-e18df59a9498",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/557cfc90-cb3a-359c-892c-9fa55c43a732",
+          "schema:addressLocality": "Mornac",
+          "schema:postalCode": "16600",
+          "schema:streetAddress": [
+            "5 rue de l'Égalité"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16232",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Mornac"
+              ],
+              "pt": [
+                "Mornac"
+              ],
+              "en": [
+                "Mornac"
+              ],
+              "it": [
+                "Mornac"
+              ],
+              "fr": [
+                "Mornac"
+              ],
+              "nl": [
+                "Mornac"
+              ],
+              "es": [
+                "Mornac"
+              ]
+            },
+            "insee": "16232",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/ee20f637-a5f6-30d0-944b-40e59484e17a",
+        "schema:latitude": "45.680731",
+        "schema:longitude": "0.271754",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/65c93456-0984-3a13-aac5-3ae5946a15d8",
+      "schema:email": [
+        "snebout@angouleme-tourisme.com"
+      ],
+      "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.angouleme-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-06-27",
+  "lastUpdateDatatourisme": "2023-05-26T05:53:38.393Z"
+}

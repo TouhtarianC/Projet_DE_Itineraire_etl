@@ -1,0 +1,673 @@
+{
+  "@id": "https://data.datatourisme.fr/13/f9faf434-1517-3df8-a11e-6826d20bec28",
+  "dc:identifier": "6085913",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Begeben Sie sich in diesem einzigartigen Naturgebiet in den Vals de Saintonge auf eine botanische Weltreise."
+    ],
+    "en": [
+      "Take a botanical tour of the world in this unique natural site in the Vals de Saintonge."
+    ],
+    "it": [
+      "Fate un giro del mondo botanico in questo sito naturale unico della Vals de Saintonge."
+    ],
+    "fr": [
+      "Faites un tour du monde botanique dans ce site naturel unique des Vals de Saintonge."
+    ],
+    "nl": [
+      "Maak een botanische wereldreis in dit unieke natuurgebied van de Vals de Saintonge."
+    ],
+    "es": [
+      "Dé una vuelta al mundo botánico en este paraje natural único de los Vals de Saintonge."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "La Bambouseraie"
+    ],
+    "fr": [
+      "La Bambouseraie"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/cbef4632-1026-3840-8bc3-216d4774c8a9",
+    "dc:identifier": "2075",
+    "schema:email": [
+      "a.ponchon@charentestourisme.com"
+    ],
+    "schema:legalName": "Destination Vals de Saintonge / Charentes Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.destinationvalsdesaintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/209d74ec-a553-3221-9d52-1550981f65c3",
+      "schema:email": [
+        "bambouseraie.brisson@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 5 46 58 25 07"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.bambouseraie-brisson.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/1886d1fb-0be1-322f-a2a2-912099642886",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/39218e42-adcb-360a-8735-050acc9edeb2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3d0f6929-93d5-3544-ac94-dd2aa38c9d39",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/71b1a07b-dc6d-3390-8bb1-168985750575",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/80c23fb9-841f-35cd-86a2-ad3af88504ed",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Begeben Sie sich in diesem einzigartigen Naturgebiet in den Vals de Saintonge auf eine botanische Weltreise."
+        ],
+        "en": [
+          "Take a botanical tour of the world in this unique natural site in the Vals de Saintonge."
+        ],
+        "it": [
+          "Fate un giro del mondo botanico in questo sito naturale unico della Vals de Saintonge."
+        ],
+        "fr": [
+          "Faites un tour du monde botanique dans ce site naturel unique des Vals de Saintonge."
+        ],
+        "nl": [
+          "Maak een botanische wereldreis in dit unieke natuurgebied van de Vals de Saintonge."
+        ],
+        "es": [
+          "Dé una vuelta al mundo botánico en este paraje natural único de los Vals de Saintonge."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/10103361-007e-3bf5-a3cf-78ed6624501f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/257d3543-36fd-38a8-8b56-029dc8b75d65",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d3a8f002-dc19-3d08-ba2c-650cca69d5f5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d8ebdae9-ca43-3a05-95bc-61f021d37cd2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/3529a025-0fe0-38fa-b07a-36a07e5a55a1",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/e44f16f1-55c0-360a-8bbe-a63f99920174",
+          "schema:addressLocality": "Matha",
+          "schema:postalCode": "17160",
+          "schema:streetAddress": [
+            "16 rue du Moulin"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17224",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Matha"
+              ],
+              "pt": [
+                "Matha"
+              ],
+              "en": [
+                "Matha"
+              ],
+              "it": [
+                "Matha"
+              ],
+              "fr": [
+                "Matha"
+              ],
+              "nl": [
+                "Matha"
+              ],
+              "es": [
+                "Matha"
+              ]
+            },
+            "insee": "17224",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/9f801b42-296a-30a6-83d6-76bd9c89605d",
+        "schema:latitude": "45.858349",
+        "schema:longitude": "-0.32188",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/ae9f5030-248e-3d2f-9d0a-61b6e99a3246",
+          "schema:validFrom": "2023-08-19T00:00:00",
+          "schema:validThrough": "2023-09-17T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Für Gruppen nach Vereinbarung"
+            ],
+            "en": [
+              "For groups by appointment"
+            ],
+            "it": [
+              "Per gruppi su appuntamento"
+            ],
+            "fr": [
+              "Pour les groupes sur rendez-vous"
+            ],
+            "nl": [
+              "Voor groepen op afspraak"
+            ],
+            "es": [
+              "Para grupos con cita previa"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/25d1e38a-eff5-39a7-9496-d9176d91babc",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ad3c6714-7a6b-35c7-8915-7bc6eda98b1d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/bf349852-c4a4-3efd-b02c-60ed937453d0",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e8d71fda-b826-3fc7-905a-7fcbc831cdf4",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ebd8e441-acbf-31f1-8d1e-960712fb93d5",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f6eb0c67-005e-391e-928c-d3d6914a5780",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-15T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Für Gruppen nach Vereinbarung"
+            ],
+            "en": [
+              "For groups by appointment"
+            ],
+            "it": [
+              "Per gruppi su appuntamento"
+            ],
+            "fr": [
+              "Pour les groupes sur rendez-vous"
+            ],
+            "nl": [
+              "Voor groepen op afspraak"
+            ],
+            "es": [
+              "Para grupos con cita previa"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/0ea07a01-3440-3932-8740-ece9aaef6fe7",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/19c560be-bd4f-37e6-b835-cf596969cc7b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/83d9bda3-0353-3070-916f-6f44922a0dc8",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/b2fd7a90-ef37-3368-b005-13bc3e111c57",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c0254e2a-204b-3b56-923f-d4fbc686cb23",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/4fa9e2c8-cea7-3399-9f62-28ebcff26450",
+      "schema:email": [
+        "a.ponchon@charentestourisme.com"
+      ],
+      "schema:legalName": "Destination Vals de Saintonge / Charentes Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.destinationvalsdesaintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-20",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.327Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/c75da007-fac2-3892-ab13-1c44cf12ac07",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/0438127f-30fa-35d6-b45f-42dfc8cc1839",
+          "schema:maxPrice": [
+            "4",
+            "6"
+          ],
+          "schema:minPrice": [
+            "4",
+            "6"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/1f1c7823-cc84-3047-a723-0e62ede68a65",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-09-17",
+              "startDate": "2023-08-19"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5bb048f0-eb99-3553-ba07-43d9918badf8",
+          "schema:maxPrice": [
+            "4",
+            "6"
+          ],
+          "schema:minPrice": [
+            "4",
+            "6"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/07ac914c-6249-32d6-9074-c5f45350cc66",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-08-15",
+              "startDate": "2023-07-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

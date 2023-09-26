@@ -1,0 +1,455 @@
+{
+  "@id": "https://data.datatourisme.fr/13/ef7b449d-f329-3d3e-aab2-96868cf3c418",
+  "dc:identifier": "6611003",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Kirche Saint-Michel ist seit dem 29. November 1948 im Zusatzinventar der historischen Denkmäler eingetragen."
+    ],
+    "en": [
+      "Saint-Michel church has been listed on the supplementary inventory of historic monuments since November 29, 1948."
+    ],
+    "it": [
+      "La chiesa di Saint-Michel è iscritta nell'inventario supplementare dei monumenti storici dal 29 novembre 1948."
+    ],
+    "fr": [
+      "L’église Saint-Michel est inscrite à l’inventaire supplémentaire des monuments historiques depuis le 29 novembre 1948."
+    ],
+    "es": [
+      "La iglesia de Saint-Michel está inscrita en el inventario suplementario de monumentos históricos desde el 29 de noviembre de 1948."
+    ],
+    "nl": [
+      "De kerk Saint-Michel staat sinds 29 november 1948 op de aanvullende lijst van historische monumenten."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Eglise Saint-Michel"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/a96d3afe-c184-366b-beca-7a9f989fc7e7",
+    "dc:identifier": "2056",
+    "schema:email": [
+      "infotouristique@destination-nordcharente.com"
+    ],
+    "schema:legalName": "Office de tourisme Destination Nord Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ruffecois-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/e2852d53-594e-3e55-acc7-058c89969b45",
+      "schema:telephone": [
+        "+33 5 45 39 21 45"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/6d1df856-c4ea-3f02-835b-296ece7667a6",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/7281aaee-73d4-3817-9bc9-c9ee7603009e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8197dd66-67dc-3096-8c56-92905e061199",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9dad06d9-9c88-3038-954f-414be6d40c6e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c546276c-35c3-3b3a-8312-d189ab48dd8b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cc2981e4-bec8-3675-843e-e7d5771ec3f3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Kirche Saint-Michel ist seit dem 29. November 1948 im Zusatzinventar der historischen Denkmäler eingetragen."
+        ],
+        "en": [
+          "Saint-Michel church has been listed on the supplementary inventory of historic monuments since November 29, 1948."
+        ],
+        "it": [
+          "La chiesa di Saint-Michel è iscritta nell'inventario supplementare dei monumenti storici dal 29 novembre 1948."
+        ],
+        "fr": [
+          "L’église Saint-Michel est inscrite à l’inventaire supplémentaire des monuments historiques depuis le 29 novembre 1948."
+        ],
+        "es": [
+          "La iglesia de Saint-Michel está inscrita en el inventario suplementario de monumentos históricos desde el 29 de noviembre de 1948."
+        ],
+        "nl": [
+          "De kerk Saint-Michel staat sinds 29 november 1948 op de aanvullende lijst van historische monumenten."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/214e50b2-ab39-3c6f-96bc-93a742d74ce5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/589740da-60e6-373a-b5d9-24e46bcd340c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8a7d328d-9cbf-3b9d-acfc-b0e465dac98a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/953f0b76-b5fc-34d1-90ec-f44b3ec9a31b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e1f89ae7-e975-3096-ba68-16b862f68461",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/3f6ab158-b780-3991-bc42-bcb3dd999fb0",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/798a141e-42b5-3482-9909-e809fa272607",
+          "schema:addressLocality": "Val-de-Bonnieure",
+          "schema:postalCode": "16230",
+          "schema:streetAddress": [
+            "Rue des Saints-Amants"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16300",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Val-de-Bonnieure"
+              ],
+              "pt": [
+                "Val-de-Bonnieure"
+              ],
+              "en": [
+                "Val-de-Bonnieure"
+              ],
+              "it": [
+                "Val-de-Bonnieure"
+              ],
+              "fr": [
+                "Val-de-Bonnieure"
+              ],
+              "nl": [
+                "Val-de-Bonnieure"
+              ],
+              "es": [
+                "Val-de-Bonnieure"
+              ]
+            },
+            "insee": "16300",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/aea081ec-a670-3088-864d-d8a522fbd0d6",
+        "schema:latitude": "45.848796",
+        "schema:longitude": "0.287633",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/515fb63a-6beb-307d-a0d6-d59e3e2d3f76",
+      "schema:email": [
+        "infotouristique@destination-nordcharente.com"
+      ],
+      "schema:legalName": "Office de tourisme Destination Nord Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ruffecois-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-20",
+  "lastUpdateDatatourisme": "2023-07-21T05:51:39.235Z"
+}

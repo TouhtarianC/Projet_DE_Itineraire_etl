@@ -1,0 +1,397 @@
+{
+  "@id": "https://data.datatourisme.fr/13/beb4d097-2ab2-36f2-be9b-cae96b01cbe5",
+  "dc:identifier": "5740506",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Eine Kirche, die aus einer unglaublichen Architektur besteht und einen Panoramablick auf das Meer und die Umgebung bietet."
+    ],
+    "en": [
+      "A church with incredible architecture and a panoramic view of the sea and the surrounding area."
+    ],
+    "it": [
+      "Una chiesa dall'architettura incredibile e con una vista panoramica sul mare e sulla zona circostante."
+    ],
+    "fr": [
+      "Une église composée d'une architecture incroyable et une vue panoramique sur la mer et les alentours."
+    ],
+    "es": [
+      "Una iglesia con una arquitectura increíble y una vista panorámica del mar y los alrededores."
+    ],
+    "nl": [
+      "Een kerk met een ongelooflijke architectuur en een panoramisch uitzicht op de zee en de omgeving."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Kirche St. Martin"
+    ],
+    "en": [
+      "St. Martin's Church"
+    ],
+    "fr": [
+      "Eglise Saint-Martin"
+    ],
+    "es": [
+      "Iglesia de San Martín"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/1359aa93-3b48-3754-a2f5-4adb688bfa77",
+    "dc:identifier": "2058",
+    "schema:email": [
+      "a.lefeuvre@larochelle-tourisme-evenements.com",
+      "c.collot@larochelle-tourisme-evenements.com",
+      "m.farre@larochelle-tourisme-evenements.com",
+      "maxime.vossier@otipass.com",
+      "s.nogues@larochelle-tourisme-evenements.com"
+    ],
+    "schema:legalName": "La Rochelle Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.larochelle-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/4c8a9fab-a149-3316-9cd8-cece17f75d84",
+      "schema:telephone": [
+        "+33 5 46 01 34 64"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.esnandes.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/257744b9-2f64-3ff2-bdb7-00062c8c0a5e",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/aebe0658-4d45-331e-9c5f-35c704e7c9a3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/befc98ac-6df2-36c9-804f-39e49f346c3d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Eine Kirche, die aus einer unglaublichen Architektur besteht und einen Panoramablick auf das Meer und die Umgebung bietet."
+        ],
+        "en": [
+          "A church with incredible architecture and a panoramic view of the sea and the surrounding area."
+        ],
+        "it": [
+          "Una chiesa dall'architettura incredibile e con una vista panoramica sul mare e sulla zona circostante."
+        ],
+        "fr": [
+          "Une église composée d'une architecture incroyable et une vue panoramique sur la mer et les alentours."
+        ],
+        "es": [
+          "Una iglesia con una arquitectura increíble y una vista panorámica del mar y los alrededores."
+        ],
+        "nl": [
+          "Een kerk met een ongelooflijke architectuur en een panoramisch uitzicht op de zee en de omgeving."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/2b465411-b800-3e53-ba2d-6a245b10b5b7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7766979b-254c-35ed-8090-6164c46ceb6a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/3aefeb52-7cdf-3c60-b26e-8450f4b45b79",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/7289ebf8-a9bb-351a-ab13-5dd08668961e",
+          "schema:addressLocality": "Esnandes",
+          "schema:postalCode": "17137",
+          "schema:streetAddress": [
+            "62 rue de l'Eglise"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17153",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Esnandes"
+              ],
+              "pt": [
+                "Esnandes"
+              ],
+              "en": [
+                "Esnandes"
+              ],
+              "it": [
+                "Esnandes"
+              ],
+              "fr": [
+                "Esnandes"
+              ],
+              "nl": [
+                "Esnandes"
+              ],
+              "es": [
+                "Esnandes"
+              ]
+            },
+            "insee": "17153",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/df55620a-76c7-31e9-8205-d2a94dd77663",
+        "schema:latitude": "46.249615",
+        "schema:longitude": "-1.11004",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8da8ffa9-cdd8-3b7a-a8c5-edb456104fe0",
+      "schema:email": [
+        "a.lefeuvre@larochelle-tourisme-evenements.com",
+        "c.collot@larochelle-tourisme-evenements.com",
+        "m.farre@larochelle-tourisme-evenements.com",
+        "maxime.vossier@otipass.com",
+        "s.nogues@larochelle-tourisme-evenements.com"
+      ],
+      "schema:legalName": "La Rochelle Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.larochelle-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-12-05",
+  "lastUpdateDatatourisme": "2023-05-26T05:53:38.292Z"
+}

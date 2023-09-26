@@ -1,0 +1,536 @@
+{
+  "@id": "https://data.datatourisme.fr/13/d0a204c5-8d57-3dde-a782-d9d654c2ab93",
+  "dc:identifier": "5740500",
+  "@type": [
+    "Castle",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RemarkableBuilding"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das Château de Buzay zeugt von der Lebenskunst, die die Stadt La Rochelle genoss, als sie privilegierte Verbindungen zu den Kolonien der Neuen Welt aufbaute."
+    ],
+    "en": [
+      "The Château de Buzay bears witness to the art of living that the city of La Rochelle enjoyed when privileged links were established with the colonies of the New World."
+    ],
+    "it": [
+      "Il Castello di Buzay testimonia l'arte di vivere di cui godeva la città di La Rochelle quando si stabilirono legami privilegiati con le colonie del Nuovo Mondo."
+    ],
+    "fr": [
+      "Le Château de Buzay témoigne de l’art de vivre que connut la ville de La Rochelle lorsque des liens privilégiés s’établirent avec les colonies du Nouveau Monde."
+    ],
+    "nl": [
+      "Het Château de Buzay getuigt van de levenskunst die de stad La Rochelle ervoer toen er bevoorrechte banden werden aangeknoopt met de koloniën van de Nieuwe Wereld."
+    ],
+    "es": [
+      "El castillo de Buzay es testigo del arte de vivir del que gozaba la ciudad de La Rochelle cuando se establecieron vínculos privilegiados con las colonias del Nuevo Mundo."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Schloss de Buzay"
+    ],
+    "en": [
+      "Buzay Castle"
+    ],
+    "fr": [
+      "Château de Buzay"
+    ],
+    "es": [
+      "Castillo de Buzay"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q2968714"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/1359aa93-3b48-3754-a2f5-4adb688bfa77",
+    "dc:identifier": "2058",
+    "schema:email": [
+      "a.lefeuvre@larochelle-tourisme-evenements.com",
+      "c.collot@larochelle-tourisme-evenements.com",
+      "m.farre@larochelle-tourisme-evenements.com",
+      "maxime.vossier@otipass.com",
+      "s.nogues@larochelle-tourisme-evenements.com"
+    ],
+    "schema:legalName": "La Rochelle Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.larochelle-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/39a32ca6-eb81-37c5-a96c-ebbccb0042df",
+      "schema:email": [
+        "demontbron.didier@free.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 56 63 21",
+        "+33 6 07 54 31 50"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.chateaudebuzay.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/2253575c-ed4f-35e0-a3b1-9095d650aaf5",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/004a9975-f5e2-39f2-aac3-b02d5d0df26f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/75ce9b57-51f3-3506-8967-30e25a12707f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das Château de Buzay zeugt von der Lebenskunst, die die Stadt La Rochelle genoss, als sie privilegierte Verbindungen zu den Kolonien der Neuen Welt aufbaute."
+        ],
+        "en": [
+          "The Château de Buzay bears witness to the art of living that the city of La Rochelle enjoyed when privileged links were established with the colonies of the New World."
+        ],
+        "it": [
+          "Il Castello di Buzay testimonia l'arte di vivere di cui godeva la città di La Rochelle quando si stabilirono legami privilegiati con le colonie del Nuovo Mondo."
+        ],
+        "fr": [
+          "Le Château de Buzay témoigne de l’art de vivre que connut la ville de La Rochelle lorsque des liens privilégiés s’établirent avec les colonies du Nouveau Monde."
+        ],
+        "nl": [
+          "Het Château de Buzay getuigt van de levenskunst die de stad La Rochelle ervoer toen er bevoorrechte banden werden aangeknoopt met de koloniën van de Nieuwe Wereld."
+        ],
+        "es": [
+          "El castillo de Buzay es testigo del arte de vivir del que gozaba la ciudad de La Rochelle cuando se establecieron vínculos privilegiados con las colonias del Nuevo Mundo."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/989d2d14-9ce3-3170-9069-9b7437afd40e",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/54b9e9c7-c50f-3d34-87c8-a082a43d0908",
+          "ebucore:isCoveredBy": "Public domain",
+          "ebucore:title": {
+            "fr": [
+              "Facade nord"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "cialou"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/650bf0fa-52cb-3dc9-be80-0cc25419ccee",
+          "ebucore:fileSize": [
+            689719
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1696,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/4/4d/Facade_nord.jpg"
+          ],
+          "ebucore:width": 1167,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/22c4d401-9d29-3304-94a4-420e0d67c1a6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/45fd89e9-33c7-3664-aba4-5b4643f2352a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/5a147fa5-ef9d-3454-8c7a-ad7fba4890e7",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/61b0ed53-81ea-3e3b-8022-fb7b1aa04dd9",
+          "schema:addressLocality": "La Jarne",
+          "schema:postalCode": "17220",
+          "schema:streetAddress": [
+            "10 rue du Château"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17193",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "La Jarne"
+              ],
+              "pt": [
+                "La Jarne"
+              ],
+              "en": [
+                "La Jarne"
+              ],
+              "it": [
+                "La Jarne"
+              ],
+              "fr": [
+                "La Jarne"
+              ],
+              "nl": [
+                "La Jarne"
+              ],
+              "es": [
+                "La Jarne"
+              ]
+            },
+            "insee": "17193",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/d189e473-7f35-396a-bf03-663ca0d23803",
+        "schema:latitude": "46.12643",
+        "schema:longitude": "-1.080383",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/bce939c0-49ff-3a95-9aa7-e774ca26452d",
+          "schema:validFrom": "2023-05-01T00:00:00",
+          "schema:validThrough": "2023-11-06T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8da8ffa9-cdd8-3b7a-a8c5-edb456104fe0",
+      "schema:email": [
+        "a.lefeuvre@larochelle-tourisme-evenements.com",
+        "c.collot@larochelle-tourisme-evenements.com",
+        "m.farre@larochelle-tourisme-evenements.com",
+        "maxime.vossier@otipass.com",
+        "s.nogues@larochelle-tourisme-evenements.com"
+      ],
+      "schema:legalName": "La Rochelle Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.larochelle-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-04-12",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.258Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/74b18e12-58d3-3bb0-9ff1-589a745055c3",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/b417c835-b8ff-3fbd-b0a1-2c9d0aae6fb5",
+          "schema:maxPrice": [
+            "6.5",
+            "9"
+          ],
+          "schema:minPrice": [
+            "6.5",
+            "9"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/e72ee0ce-68ae-3f0c-9db6-1658f4f67a58",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-11-06",
+              "startDate": "2023-05-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

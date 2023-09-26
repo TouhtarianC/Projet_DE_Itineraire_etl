@@ -1,0 +1,459 @@
+{
+  "@id": "https://data.datatourisme.fr/13/e30a2ae9-54e4-3031-931b-ba952860057b",
+  "dc:identifier": "6473380",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Arboretum\r\nIdentifizierung von etwa 30 Bäumen.\r\nPlan in der Bushaltestelle\r\nJeder Baum mit einem erklärenden Schild zu den verschiedenen Arten."
+    ],
+    "en": [
+      "Arboretum\r\nIdentification of about 30 trees.\r\nMap in the bus shelter\r\nEach tree with a sign explaining the different species."
+    ],
+    "it": [
+      "Arboreto\r\nIdentificazione di circa 30 alberi.\r\nMappa nella pensilina dell'autobus\r\nOgni albero con un cartello che spiega le diverse specie."
+    ],
+    "fr": [
+      "Arboretum\r\nIdentification d'environ 30 arbres.\r\nPlan dans l'abri bus\r\nChaque arbre avec une pancarte explicative sur les différentes espèces."
+    ],
+    "nl": [
+      "Arboretum\r\nIdentificatie van ongeveer 30 bomen.\r\nKaart in het bushokje\r\nElke boom met een bordje met uitleg over de verschillende soorten."
+    ],
+    "es": [
+      "Arboreto\r\nIdentificación de unos 30 árboles.\r\nMapa en la marquesina\r\nCada árbol con un cartel explicativo de las distintas especies."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Arboretum"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/eb72d855-b025-3718-b52d-2a9022b3fe7c",
+      "schema:telephone": [
+        "+33 5 46 70 43 12"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/3ee747a5-a894-3b87-bef0-1abfff5e99a4",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/8b701dbb-e032-3c83-b488-b79ff60a6624",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9031648a-dc5c-3405-b9d8-6db36b1e5b4a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bfbbb032-0308-39ac-bfc5-c8c988e82e01",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cc9cf97a-1be2-3628-8240-a5b554478b86",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e0e14f38-91d0-3a15-9f08-54ab44c8b59d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Arboretum\r\nIdentifizierung von etwa 30 Bäumen.\r\nPlan in der Bushaltestelle\r\nJeder Baum mit einem erklärenden Schild zu den verschiedenen Arten."
+        ],
+        "en": [
+          "Arboretum\r\nIdentification of about 30 trees.\r\nMap in the bus shelter\r\nEach tree with a sign explaining the different species."
+        ],
+        "it": [
+          "Arboreto\r\nIdentificazione di circa 30 alberi.\r\nMappa nella pensilina dell'autobus\r\nOgni albero con un cartello che spiega le diverse specie."
+        ],
+        "fr": [
+          "Arboretum\r\nIdentification d'environ 30 arbres.\r\nPlan dans l'abri bus\r\nChaque arbre avec une pancarte explicative sur les différentes espèces."
+        ],
+        "nl": [
+          "Arboretum\r\nIdentificatie van ongeveer 30 bomen.\r\nKaart in het bushokje\r\nElke boom met een bordje met uitleg over de verschillende soorten."
+        ],
+        "es": [
+          "Arboreto\r\nIdentificación de unos 30 árboles.\r\nMapa en la marquesina\r\nCada árbol con un cartel explicativo de las distintas especies."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/18d83edd-bf01-3cfe-9aad-38d011eb9e6e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/42e1bf7f-e951-3868-b518-a682983a9899",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/727118d3-e838-3f70-bd1c-1bffebeb9a80",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/757d3c0d-40f6-372b-a8a1-0fdb22863ddb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/96d91265-790c-3f73-bc12-16832f13bf0a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/a84b8a86-467b-375d-b3dd-fa3624b680cb",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/75fc9ba1-1b1f-3b06-94c2-fb3d7931ee57",
+          "schema:addressLocality": "Saint-Grégoire-d'Ardennes",
+          "schema:postalCode": "17240",
+          "schema:streetAddress": [
+            "Le Bourg"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17343",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Grégoire-d'Ardennes"
+              ],
+              "pt": [
+                "Saint-Grégoire-d'Ardennes"
+              ],
+              "en": [
+                "Saint-Grégoire-d'Ardennes"
+              ],
+              "it": [
+                "Saint-Grégoire-d'Ardennes"
+              ],
+              "fr": [
+                "Saint-Grégoire-d'Ardennes"
+              ],
+              "nl": [
+                "Saint-Grégoire-d'Ardennes"
+              ],
+              "es": [
+                "Saint-Grégoire-d'Ardennes"
+              ]
+            },
+            "insee": "17343",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/3b56bf6b-6618-3b6e-bb69-f09b19b0f42f",
+        "schema:latitude": "45.494116",
+        "schema:longitude": "-0.503239",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-03-30",
+  "lastUpdateDatatourisme": "2023-03-31T05:53:50.179Z"
+}

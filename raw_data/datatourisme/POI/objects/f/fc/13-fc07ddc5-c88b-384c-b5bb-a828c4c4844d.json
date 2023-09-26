@@ -1,0 +1,633 @@
+{
+  "@id": "https://data.datatourisme.fr/13/fc07ddc5-c88b-384c-b5bb-a828c4c4844d",
+  "dc:identifier": "5762174",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Eine Zeitreise durch die Rekonstruktion, lebensgross, kleine Geschäfte und Geschäfte aus der ersten Hälfte des 20. Jahrhunderts."
+    ],
+    "en": [
+      "A journey through time thanks to the reconstitution, life-size, of small shops and boutiques of the first half of the 20th Century."
+    ],
+    "it": [
+      "Un viaggio nel tempo attraverso la ricostruzione a grandezza naturale di piccoli negozi e bancarelle della prima metà del XX secolo."
+    ],
+    "fr": [
+      "Un voyage dans le temps grâce à la reconstitution, grandeur nature, de petits commerces et échoppes datant de la première moitié du 20ème siècle."
+    ],
+    "es": [
+      "Un viaje en el tiempo a través de la reconstrucción a tamaño real de pequeñas tiendas y puestos de la primera mitad del siglo XX."
+    ],
+    "nl": [
+      "Een reis terug in de tijd door de levensgrote reconstructie van winkeltjes en kraampjes uit de eerste helft van de 20e eeuw."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Das Museum die alten Geschäfte"
+    ],
+    "en": [
+      "The Museum of Olden Times Businesses"
+    ],
+    "fr": [
+      "Musée des Commerces d'Autrefois"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q3330127"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/9afefc52-942c-383c-bc1f-14b2139b09ba",
+    "dc:identifier": "2055",
+    "schema:email": [
+      "chloe.mailler@rochefort-ocean.com",
+      "christine.nourisson@rochefort-ocean.com",
+      "chrystelle.ecale@rochefort-ocean.com",
+      "lea.origlia@rochefort-ocean.com",
+      "sandrine.bouron@rochefort-ocean.com"
+    ],
+    "schema:legalName": "Office de Tourisme Rochefort Océan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.rochefort-ocean.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/71638031-95db-38d4-97bc-d0f907995243",
+      "schema:email": [
+        "museedescommerces@wanadoo.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 83 91 50"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.museedescommerces.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/2b5328b1-ff98-3d1e-abc3-489fe08a83e7",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/6055cb92-d9c1-3006-a4e4-ad1d6381842d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9127a48c-4450-3e4c-864c-72b79be15d31",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d9676108-6eaf-3d1b-a0c0-3adb2fddd521",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Eine Zeitreise durch die Rekonstruktion, lebensgross, kleine Geschäfte und Geschäfte aus der ersten Hälfte des 20. Jahrhunderts."
+        ],
+        "en": [
+          "A journey through time thanks to the reconstitution, life-size, of small shops and boutiques of the first half of the 20th Century."
+        ],
+        "it": [
+          "Un viaggio nel tempo attraverso la ricostruzione a grandezza naturale di piccoli negozi e bancarelle della prima metà del XX secolo."
+        ],
+        "fr": [
+          "Un voyage dans le temps grâce à la reconstitution, grandeur nature, de petits commerces et échoppes datant de la première moitié du 20ème siècle."
+        ],
+        "es": [
+          "Un viaje en el tiempo a través de la reconstrucción a tamaño real de pequeñas tiendas y puestos de la primera mitad del siglo XX."
+        ],
+        "nl": [
+          "Een reis terug in de tijd door de levensgrote reconstructie van winkeltjes en kraampjes uit de eerste helft van de 20e eeuw."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/75605e32-56f0-3c0d-a4da-5e56065822e4",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/3f25ff92-9bb7-3594-ba57-95fba802d6c1",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Musée des Commerces d'autrefois de Rochefort (17)"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Serge Lacotte (https://commons.wikimedia.org/w/index.php?title=User:Serge_Lacotte&amp;action=edit&amp;redlink=1)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/1978f713-5a1d-3354-ad4f-ec8f7d2514b9",
+          "ebucore:fileSize": [
+            5010646
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 4320,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/4/40/Mus%C3%A9e_des_Commerces_d%27autrefois_de_Rochefort_%2817%29.JPG"
+          ],
+          "ebucore:width": 3240,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/6e866798-cae5-351c-9e8d-963661217e60",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:LabelRating_AccueilVelo",
+        "@type": [
+          "LabelRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "Accueil Vélo"
+          ],
+          "pt": [
+            "Accueil Vélo"
+          ],
+          "en": [
+            "Accueil Vélo"
+          ],
+          "it": [
+            "Accueil Vélo"
+          ],
+          "fr": [
+            "Accueil Vélo"
+          ],
+          "nl": [
+            "Accueil Vélo"
+          ],
+          "es": [
+            "Accueil Vélo"
+          ]
+        },
+        "isCompliantWith": [
+          "PlaceOfInterest"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/4ff7d67f-89bb-31b7-a149-efcbb01c3526",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8fb13cd7-ada9-38c1-8f70-c60b5a656553",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c353df50-d697-3987-910a-cf0b197b5bb2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b0bcd80b-3700-30f6-92af-8889b618d60e",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/5075a5bd-b982-3a1a-979c-9d3b433517fc",
+          "schema:addressLocality": "Rochefort",
+          "schema:postalCode": "17300",
+          "schema:streetAddress": [
+            "12 rue Lesson"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17299",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Rochefort"
+              ],
+              "pt": [
+                "Rochefort"
+              ],
+              "en": [
+                "Rochefort"
+              ],
+              "it": [
+                "Rochefort"
+              ],
+              "fr": [
+                "Rochefort"
+              ],
+              "nl": [
+                "Rochefort"
+              ],
+              "es": [
+                "Rochefort"
+              ]
+            },
+            "insee": "17299",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/ff2ef230-368b-31e0-8264-38c5ec0260f9",
+        "schema:latitude": "45.936554",
+        "schema:longitude": "-0.960205",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3c026453-97b0-32aa-bf1a-9dfe864b3546",
+          "schema:validFrom": "2023-04-01T00:00:00",
+          "schema:validThrough": "2023-06-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/490b825b-08c0-3aaf-b812-146890aeb3a7",
+          "schema:validFrom": "2023-09-01T00:00:00",
+          "schema:validThrough": "2023-10-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5357bf72-5134-31c8-8b8b-a908a13bc424",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dc0879dc-5ba8-3092-b5a7-cce6baefe273",
+          "schema:validFrom": "2023-11-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f28d51da-b42b-3f05-9620-93bc5e7c5fff",
+          "schema:validFrom": "2023-02-01T00:00:00",
+          "schema:validThrough": "2023-03-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fed90c24-5b4e-374e-b413-9c9ae527b242",
+      "schema:email": [
+        "chloe.mailler@rochefort-ocean.com",
+        "christine.nourisson@rochefort-ocean.com",
+        "chrystelle.ecale@rochefort-ocean.com",
+        "lea.origlia@rochefort-ocean.com",
+        "sandrine.bouron@rochefort-ocean.com"
+      ],
+      "schema:legalName": "Office de Tourisme Rochefort Océan",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.rochefort-ocean.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-02-14",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.29Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/47e3b0c7-644a-3a5c-8815-e1d34cc07dc2",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/4103cee7-7aa3-3952-9c2d-72a56e4e24a5",
+          "schema:maxPrice": [
+            "4.5",
+            "5.9",
+            "6.9"
+          ],
+          "schema:minPrice": [
+            "4.5",
+            "4.9",
+            "5.9"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/acc8d736-c8cf-3e01-a88a-babfbf07a452",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-02-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

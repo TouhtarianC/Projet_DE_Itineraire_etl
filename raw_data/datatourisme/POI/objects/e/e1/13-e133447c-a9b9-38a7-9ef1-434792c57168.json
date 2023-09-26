@@ -1,0 +1,445 @@
+{
+  "@id": "https://data.datatourisme.fr/13/e133447c-a9b9-38a7-9ef1-434792c57168",
+  "dc:identifier": "6536888",
+  "@type": [
+    "CityHeritage",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Bassac ist eine charmante Gemeinde im Herzen des Weinbaugebiets Charente, die vom Fluss Charente gesäumt wird und auf halbem Weg zwischen Angoulême und Cognac liegt."
+    ],
+    "en": [
+      "Bassac is a charming commune in the heart of the Charente vineyards, bordered by the river Charente and located halfway between Angoulême and Cognac."
+    ],
+    "it": [
+      "Bassac è un incantevole comune nel cuore dei vigneti della Charente, costeggiato dal fiume Charente e situato a metà strada tra Angoulême e Cognac."
+    ],
+    "fr": [
+      "Bassac est une charmante commune au cœur du vignoble charentais, longée par le fleuve Charente et située à mi-chemin entre Angoulême et Cognac."
+    ],
+    "nl": [
+      "Bassac is een charmante gemeente in het hart van de wijngaarden van de Charente, begrensd door de rivier de Charente en gelegen halverwege Angoulême en Cognac."
+    ],
+    "es": [
+      "Bassac es un encantador municipio en el corazón de los viñedos de Charente, bordeado por el río Charente y situado a medio camino entre Angulema y Cognac."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Village de Bassac"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/0ae3f79a-3023-3b6c-85a6-f7d298ba1310",
+    "dc:identifier": "2065",
+    "schema:email": [
+      "elodie@destination-cognac.com",
+      "emmanuelle@destination-cognac.com",
+      "evelyne@destination-cognac.com",
+      "pascale@destination-cognac.com"
+    ],
+    "schema:legalName": "Destination Cognac",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.destination-cognac.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/c5341c34-5cca-3d23-9d3d-d059563792ba",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2634af1e-8701-30d5-b013-359180646a76",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4c3e189b-d4de-3301-8de8-53b8d0fb688f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8a19b917-5bc9-38e2-96dc-9cf04eaf74c2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/eab8990e-3c7a-3c86-abf5-cd5871d232c7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f3995bfd-a4b8-36f9-b18a-47059bcd28fc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Bassac ist eine charmante Gemeinde im Herzen des Weinbaugebiets Charente, die vom Fluss Charente gesäumt wird und auf halbem Weg zwischen Angoulême und Cognac liegt."
+        ],
+        "en": [
+          "Bassac is a charming commune in the heart of the Charente vineyards, bordered by the river Charente and located halfway between Angoulême and Cognac."
+        ],
+        "it": [
+          "Bassac è un incantevole comune nel cuore dei vigneti della Charente, costeggiato dal fiume Charente e situato a metà strada tra Angoulême e Cognac."
+        ],
+        "fr": [
+          "Bassac est une charmante commune au cœur du vignoble charentais, longée par le fleuve Charente et située à mi-chemin entre Angoulême et Cognac."
+        ],
+        "nl": [
+          "Bassac is een charmante gemeente in het hart van de wijngaarden van de Charente, begrensd door de rivier de Charente en gelegen halverwege Angoulême en Cognac."
+        ],
+        "es": [
+          "Bassac es un encantador municipio en el corazón de los viñedos de Charente, bordeado por el río Charente y situado a medio camino entre Angulema y Cognac."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0d02456d-7bd8-3f65-a40d-4fbd02c38dd6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/1092e5b3-bda1-30ec-a927-a2f1834b5de7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/440cb4ab-95a4-3340-9552-cb26e711efc5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b4f350a1-3517-3bf3-946c-f524970558f2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e513ba08-a4a9-3d3d-a7e7-0e79836a2501",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/5fd1a6ef-9575-3d16-ad9b-3d099d650fd9",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/470cb0ad-1d61-35e1-be88-6766cd826976",
+          "schema:addressLocality": "Bassac",
+          "schema:postalCode": "16120",
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16032",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Bassac"
+              ],
+              "pt": [
+                "Bassac"
+              ],
+              "en": [
+                "Bassac"
+              ],
+              "it": [
+                "Bassac"
+              ],
+              "fr": [
+                "Bassac"
+              ],
+              "nl": [
+                "Bassac"
+              ],
+              "es": [
+                "Bassac"
+              ]
+            },
+            "insee": "16032",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/0ef86932-1ef5-3378-aaaf-e6906f6f494a",
+        "schema:latitude": "45.662323",
+        "schema:longitude": "-0.104694",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b2f223ca-b3f8-38b3-9aef-bb09899fb1d3",
+      "schema:email": [
+        "elodie@destination-cognac.com",
+        "emmanuelle@destination-cognac.com",
+        "evelyne@destination-cognac.com",
+        "pascale@destination-cognac.com"
+      ],
+      "schema:legalName": "Destination Cognac",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.destination-cognac.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-23",
+  "lastUpdateDatatourisme": "2023-06-24T05:41:45.998Z"
+}

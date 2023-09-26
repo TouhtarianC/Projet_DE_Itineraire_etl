@@ -1,0 +1,462 @@
+{
+  "@id": "https://data.datatourisme.fr/13/fe160322-58ac-37a8-b545-9b6ed78e204f",
+  "dc:identifier": "5753288",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Verkauf von Pineau des Charentes und Cognac.\r\nTäglich von 9 bis 12 Uhr und von 14 bis 19 Uhr nach Vereinbarung.\r\nBesichtigung mit Verkostung und Verkauf der Produkte nach Voranmeldung."
+    ],
+    "en": [
+      "Sale of pineau des Charentes, cognac.\r\nEvery day from 9am to 12pm and from 2pm to 7pm by appointment.\r\nVisit with tasting and sale of products on reservation."
+    ],
+    "it": [
+      "Vendita di pineau des Charentes, cognac.\r\nTutti i giorni dalle 9 alle 12 e dalle 14 alle 19 su appuntamento.\r\nVisita con degustazione e vendita di prodotti su prenotazione."
+    ],
+    "fr": [
+      "Vente de pineau des Charentes, cognac.\r\nTous les jours de 9h à 12h et de 14h à 19 h sur rendez vous.\r\nVisite avec dégustation et vente des produits sur réservation."
+    ],
+    "nl": [
+      "Verkoop van pineau des Charentes, cognac.\r\nElke dag van 9 tot 12 uur en van 14 tot 19 uur op afspraak.\r\nBezoek met proeverij en verkoop van producten op reservering."
+    ],
+    "es": [
+      "Venta de pineau des Charentes, coñac.\r\nTodos los días de 9 a 12 horas y de 14 a 19 horas con cita previa.\r\nVisita con degustación y venta de productos bajo reserva."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Jarzaguet Rigallaud"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/893c0810-ce8b-3a6f-81be-8f4229878acc",
+      "schema:email": [
+        "sebastien.jarzaguet@outlook.com"
+      ],
+      "schema:telephone": [
+        "+33 5 46 70 91 35",
+        "+33 6 32 57 39 82"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/9b6c667d-a0f3-3531-bb2f-5fecbe663675",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/06d5984e-5d1c-3bfb-936b-87bd484cc9e1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/12809da0-b1e5-3eff-8a7c-6cf8a80a6960",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/670bd148-3df3-3398-9fd2-fc3db3c96b26",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a5b215ed-1b0b-3cd4-a059-09958b8755fd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e528ec4e-ed04-32b6-8bc1-12372b19ae3d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Verkauf von Pineau des Charentes und Cognac.\r\nTäglich von 9 bis 12 Uhr und von 14 bis 19 Uhr nach Vereinbarung.\r\nBesichtigung mit Verkostung und Verkauf der Produkte nach Voranmeldung."
+        ],
+        "en": [
+          "Sale of pineau des Charentes, cognac.\r\nEvery day from 9am to 12pm and from 2pm to 7pm by appointment.\r\nVisit with tasting and sale of products on reservation."
+        ],
+        "it": [
+          "Vendita di pineau des Charentes, cognac.\r\nTutti i giorni dalle 9 alle 12 e dalle 14 alle 19 su appuntamento.\r\nVisita con degustazione e vendita di prodotti su prenotazione."
+        ],
+        "fr": [
+          "Vente de pineau des Charentes, cognac.\r\nTous les jours de 9h à 12h et de 14h à 19 h sur rendez vous.\r\nVisite avec dégustation et vente des produits sur réservation."
+        ],
+        "nl": [
+          "Verkoop van pineau des Charentes, cognac.\r\nElke dag van 9 tot 12 uur en van 14 tot 19 uur op afspraak.\r\nBezoek met proeverij en verkoop van producten op reservering."
+        ],
+        "es": [
+          "Venta de pineau des Charentes, coñac.\r\nTodos los días de 9 a 12 horas y de 14 a 19 horas con cita previa.\r\nVisita con degustación y venta de productos bajo reserva."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/5f4e3300-5a6e-344d-9ff6-0258d2db9e2e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/72c3ebd9-6617-3312-876a-14b3e4b9ea5c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9ddcfcdf-3281-31aa-870a-4deb4aa6465f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e3b610e4-b7eb-31a6-ab5e-bedb5dca7d5f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e53ed430-dfab-3d70-a798-b415a88481a1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b6994ca2-d13e-3cc7-957f-d1b07120e800",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d0a5ab95-274f-3baa-91e3-5173d34a294d",
+          "schema:addressLocality": "Champagnolles",
+          "schema:postalCode": "17240",
+          "schema:streetAddress": [
+            "Le bois du mont"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17084",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Champagnolles"
+              ],
+              "pt": [
+                "Champagnolles"
+              ],
+              "en": [
+                "Champagnolles"
+              ],
+              "it": [
+                "Champagnolles"
+              ],
+              "fr": [
+                "Champagnolles"
+              ],
+              "nl": [
+                "Champagnolles"
+              ],
+              "es": [
+                "Champagnolles"
+              ]
+            },
+            "insee": "17084",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/defd8bc3-cbef-34dc-a725-3cf3140641a2",
+        "schema:latitude": "45.522935",
+        "schema:longitude": "-0.653071",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-10",
+  "lastUpdateDatatourisme": "2023-06-11T05:50:25.199Z"
+}

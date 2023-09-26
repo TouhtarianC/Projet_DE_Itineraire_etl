@@ -1,0 +1,466 @@
+{
+  "@id": "https://data.datatourisme.fr/13/f2c819b2-4692-3de2-8f56-2e023c211977",
+  "dc:identifier": "5984308",
+  "@type": [
+    "schema:LocalBusiness",
+    "CulturalSite",
+    "InterpretationCentre",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Ein Zwischenstopp in der Natur, der mit Karten, Fotos und Fresken illustriert wird. Unterschlupf an der Kreuzung zweier historischer Stätten: der Festung von Brouage und der Tour de Broue, an der Radtouristen und Wanderer vorbeikommen."
+    ],
+    "en": [
+      "A nature stopover illustrated by maps, photos, fresco. Shelter at the crossroads of two historical sites: the stronghold of Brouage and the Tower of Broue, along the passage of cyclotourists and hikers."
+    ],
+    "it": [
+      "Una tappa naturalistica illustrata da mappe, foto e un affresco. Un rifugio all'incrocio di due siti storici: la roccaforte di Brouage e la Tour de Broue, lungo il percorso di ciclisti ed escursionisti."
+    ],
+    "fr": [
+      "Une escale nature illustrée par des cartes, photos, fresque. Abri à la croisée de deux sites historiques : la place forte de Brouage et la Tour de Broue, au fil du passage des cyclotouristes et randonneurs."
+    ],
+    "es": [
+      "Una parada natural ilustrada con mapas, fotos y un fresco. Un refugio en la encrucijada de dos lugares históricos: la fortaleza de Brouage y el Tour de Broue, por el camino de ciclistas y senderistas."
+    ],
+    "nl": [
+      "Een natuurverblijf geïllustreerd met kaarten, foto's en een fresco. Een schuilplaats op het kruispunt van twee historische plaatsen: het bolwerk van Brouage en de Tour de Broue, langs het pad van fietsers en wandelaars."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Cabane de la Craie"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/f492fe86-0677-3749-b00d-68f8e793968e",
+      "schema:email": [
+        "contact.brouage@charente-maritime.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 85 80 60"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.brouage.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/f5a8422c-3df2-343f-95b9-c1511d82bb48",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/03b54d72-64b3-3df2-9788-11baa90d100c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/21ec8d3b-4c62-31e5-8713-d2b09dd66d3c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/60658be5-cd11-3edd-9869-9870b0b033fe",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a8f86d12-9ac2-3ee2-9697-2325f8589753",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/adca5758-5708-32e8-86e3-0a0be67c82b5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Ein Zwischenstopp in der Natur, der mit Karten, Fotos und Fresken illustriert wird. Unterschlupf an der Kreuzung zweier historischer Stätten: der Festung von Brouage und der Tour de Broue, an der Radtouristen und Wanderer vorbeikommen."
+        ],
+        "en": [
+          "A nature stopover illustrated by maps, photos, fresco. Shelter at the crossroads of two historical sites: the stronghold of Brouage and the Tower of Broue, along the passage of cyclotourists and hikers."
+        ],
+        "it": [
+          "Una tappa naturalistica illustrata da mappe, foto e un affresco. Un rifugio all'incrocio di due siti storici: la roccaforte di Brouage e la Tour de Broue, lungo il percorso di ciclisti ed escursionisti."
+        ],
+        "fr": [
+          "Une escale nature illustrée par des cartes, photos, fresque. Abri à la croisée de deux sites historiques : la place forte de Brouage et la Tour de Broue, au fil du passage des cyclotouristes et randonneurs."
+        ],
+        "es": [
+          "Una parada natural ilustrada con mapas, fotos y un fresco. Un refugio en la encrucijada de dos lugares históricos: la fortaleza de Brouage y el Tour de Broue, por el camino de ciclistas y senderistas."
+        ],
+        "nl": [
+          "Een natuurverblijf geïllustreerd met kaarten, foto's en een fresco. Een schuilplaats op het kruispunt van twee historische plaatsen: het bolwerk van Brouage en de Tour de Broue, langs het pad van fietsers en wandelaars."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/2e6f9ad4-5dc9-30fe-91c8-b0127cd60ffd",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ceba60ff-491f-3500-82b5-aba9d12a600b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e0023161-0689-302d-8f16-8188fe27fdea",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e77fbae3-d859-3164-aa6d-3d76b855fa0c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f00936b5-24fe-3ec8-a1ef-660d37ebde2d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/643a4d93-e162-3380-84b1-4a2a80556b34",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/2a11b95e-eccd-3746-8390-b6d4101e5f67",
+          "schema:addressLocality": "Marennes-Hiers-Brouage",
+          "schema:postalCode": "17320",
+          "schema:streetAddress": [
+            "A la croisée des routes de Beaugay/Fousil/Tirançon",
+            "Route de Beaugay"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17219",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "pt": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "en": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "it": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "fr": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "nl": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "es": [
+                "Marennes-Hiers-Brouage"
+              ]
+            },
+            "insee": "17219",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/d86d0e4b-8201-3435-89ac-a222c4cbae27",
+        "schema:latitude": "45.856806",
+        "schema:longitude": "-1.036051",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/d7f018c3-c1ab-31f8-8901-4d29578edb89",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ile-oleron-marennes.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-04-19",
+  "lastUpdateDatatourisme": "2023-04-20T05:49:28.203Z"
+}

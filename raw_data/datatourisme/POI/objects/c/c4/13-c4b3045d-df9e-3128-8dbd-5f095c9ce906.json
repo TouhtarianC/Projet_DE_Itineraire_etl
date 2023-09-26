@@ -1,0 +1,429 @@
+{
+  "@id": "https://data.datatourisme.fr/13/c4b3045d-df9e-3128-8dbd-5f095c9ce906",
+  "dc:identifier": "5915496",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Gemeindebibliothek wird von der Vereinigung \"Le Livre nomade\" (Das Nomadenbuch) verwaltet. Sie bieten Ihnen die Möglichkeit, zahlreiche Werke zu entdecken.\r\nSie werden von den ehrenamtlichen Mitarbeiterinnen empfangen, die Ihnen gerne bei Ihrer Lektüre beratend zur Seite stehen."
+    ],
+    "en": [
+      "The municipal library is managed by the association \" Le Livre nomade \". They propose you to discover many books.\r\nYou will be welcomed by the volunteers who will be ready to advise you in your reading."
+    ],
+    "it": [
+      "La biblioteca comunale è gestita dall'associazione \"Le Livre nomade\". Vi offrono l'opportunità di scoprire molti libri.\r\nSarete accolti dai volontari che saranno pronti a consigliarvi nella lettura."
+    ],
+    "fr": [
+      "La bibliothèque municipale est gérée par l'association « Le Livre nomade ». Ils vous proposent de découvrir de nombreux ouvrages.\r\nVous serez accueillis par les bénévoles qui seront prêtes à vous conseiller dans vos lectures."
+    ],
+    "es": [
+      "La biblioteca municipal está gestionada por la asociación \"Le Livre nomade\". Le ofrecen la oportunidad de descubrir muchos libros.\r\nSerá recibido por los voluntarios que estarán dispuestos a aconsejarle en su lectura."
+    ],
+    "nl": [
+      "De gemeentelijke bibliotheek wordt beheerd door de vereniging \"Le Livre nomade\". Zij bieden u de mogelijkheid om veel boeken te ontdekken.\r\nU wordt ontvangen door de vrijwilligers die klaar staan om u te adviseren bij het lezen."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Bibliothèque municipale d'Andilly Les Marais"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/296472c9-542a-34d4-b88d-543508116cbc",
+    "dc:identifier": "2070",
+    "schema:email": [
+      "aurore.mdc@aunis-maraispoitevin.com",
+      "madeleine.dasilva@aunis-maraispoitevin.com"
+    ],
+    "schema:legalName": "Office de Tourisme Aunis Marais Poitevin",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.aunis-maraispoitevin.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/36161c42-25d8-3639-b83c-114d30d627ae",
+      "schema:email": [
+        "lelivrenomade@sfr.fr"
+      ],
+      "schema:telephone": [
+        "+33 9 62 61 75 52"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/0ff2df58-17aa-35ad-83f3-b56a2f06cec8",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/28e8b4fc-a0d8-39a2-afe9-ca79c594de14",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/70ded135-a838-3c3e-a150-da4bba1de8d4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/94a5ca73-cc4c-3792-bfb9-b569f0472394",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a7c85e33-cbba-3256-a2be-78cfc7bbc240",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/abb24916-5676-3ca5-b942-ea67f4b2f41c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Gemeindebibliothek wird von der Vereinigung \"Le Livre nomade\" (Das Nomadenbuch) verwaltet. Sie bieten Ihnen die Möglichkeit, zahlreiche Werke zu entdecken.\r\nSie werden von den ehrenamtlichen Mitarbeiterinnen empfangen, die Ihnen gerne bei Ihrer Lektüre beratend zur Seite stehen."
+        ],
+        "en": [
+          "The municipal library is managed by the association \" Le Livre nomade \". They propose you to discover many books.\r\nYou will be welcomed by the volunteers who will be ready to advise you in your reading."
+        ],
+        "it": [
+          "La biblioteca comunale è gestita dall'associazione \"Le Livre nomade\". Vi offrono l'opportunità di scoprire molti libri.\r\nSarete accolti dai volontari che saranno pronti a consigliarvi nella lettura."
+        ],
+        "fr": [
+          "La bibliothèque municipale est gérée par l'association « Le Livre nomade ». Ils vous proposent de découvrir de nombreux ouvrages.\r\nVous serez accueillis par les bénévoles qui seront prêtes à vous conseiller dans vos lectures."
+        ],
+        "es": [
+          "La biblioteca municipal está gestionada por la asociación \"Le Livre nomade\". Le ofrecen la oportunidad de descubrir muchos libros.\r\nSerá recibido por los voluntarios que estarán dispuestos a aconsejarle en su lectura."
+        ],
+        "nl": [
+          "De gemeentelijke bibliotheek wordt beheerd door de vereniging \"Le Livre nomade\". Zij bieden u de mogelijkheid om veel boeken te ontdekken.\r\nU wordt ontvangen door de vrijwilligers die klaar staan om u te adviseren bij het lezen."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/3e67b870-fe7b-33c7-a38a-9b29ff26fc66",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6363c0bb-7ba5-360f-afe6-4ff56355b941",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/afbf972e-b62a-39ca-a4b2-ef0d6d01d927",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b47c1f64-7d35-34f0-b074-0899f9f48e5b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e06c9f53-daf3-36ce-a7f7-8f4c077617c9",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/56f099c0-beb1-37b9-b487-ea56cf62f8e0",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/2aa3d69d-3716-3195-a32f-b8011b189571",
+          "schema:addressLocality": "Andilly",
+          "schema:postalCode": "17230",
+          "schema:streetAddress": [
+            "3 rue du Cimetière"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17008",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Andilly"
+              ],
+              "pt": [
+                "Andilly"
+              ],
+              "en": [
+                "Andilly"
+              ],
+              "it": [
+                "Andilly"
+              ],
+              "fr": [
+                "Andilly"
+              ],
+              "nl": [
+                "Andilly"
+              ],
+              "es": [
+                "Andilly"
+              ]
+            },
+            "insee": "17008",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/d0642351-081e-3203-8983-55b1934b2122",
+        "schema:latitude": "46.254166",
+        "schema:longitude": "-1.028407",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/a31bfa88-8451-397d-9df1-b4fcba0f5590",
+      "schema:email": [
+        "madeleine.dasilva@aunis-maraispoitevin.com"
+      ],
+      "schema:legalName": "Office de Tourisme Aunis Marais Poitevin",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.aunis-maraispoitevin.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-01-20",
+  "lastUpdateDatatourisme": "2023-02-01T18:07:36.095Z"
+}

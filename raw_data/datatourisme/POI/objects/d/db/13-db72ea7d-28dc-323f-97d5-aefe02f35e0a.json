@@ -1,0 +1,770 @@
+{
+  "@id": "https://data.datatourisme.fr/13/db72ea7d-28dc-323f-97d5-aefe02f35e0a",
+  "dc:identifier": "5773699",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das Musée de Royan ist im ehemaligen Markt von Pontaillac im Herzen eines historischen Viertels von Royan untergebracht. Seine Sammlungen werden auf einem Rundgang präsentiert, der die Entdeckung der reichen Vergangenheit der Stadt Royan ermöglicht."
+    ],
+    "en": [
+      "The Museum of Royan is located in the old market of Pontaillac in the heart of a historic district of Royan. Its collections are presented according to an itinerary allowing the discovery of the rich past of the city of Royan."
+    ],
+    "it": [
+      "Il Museo di Royan si trova nell'antico mercato di Pontaillac, nel cuore del quartiere storico di Royan. Le sue collezioni sono presentate in modo da permettere la scoperta del ricco passato della città di Royan."
+    ],
+    "fr": [
+      "Le Musée de Royan est installé dans l’ancien marché de Pontaillac au cœur d’un quartier historique de Royan. Ses collections sont présentées selon un parcours permettant la découverte du riche passé de la ville de Royan."
+    ],
+    "nl": [
+      "Het museum van Royan is gevestigd in de oude markt van Pontaillac, in het hart van een historische wijk van Royan. De collecties worden zodanig gepresenteerd dat men het rijke verleden van de stad Royan kan ontdekken."
+    ],
+    "es": [
+      "El Museo de Royan está situado en el antiguo mercado de Pontaillac, en el corazón de un barrio histórico de Royan. Sus colecciones se presentan de forma que permiten descubrir el rico pasado de la ciudad de Royan."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Musée de Royan"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q3329744"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8ca40941-b9c6-3b77-97c1-9c3104121b55",
+      "schema:email": [
+        "musee@mairie-royan.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 38 85 96"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.musee-de-royan.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/74daaa19-a0c5-3d42-bb66-46232929ed54",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/359c9938-880c-31db-94da-15e62ecfa98b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5ec9e33d-c56f-3e72-b3f7-45cc67c46c2f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8369994e-a393-350f-b328-8cafb89e828f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d4ea3d6d-661c-3dff-99b2-1bc2799b12e6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f08e1269-5a0b-30b2-a9e2-ed67bf46d0ab",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das Musée de Royan ist im ehemaligen Markt von Pontaillac im Herzen eines historischen Viertels von Royan untergebracht. Seine Sammlungen werden auf einem Rundgang präsentiert, der die Entdeckung der reichen Vergangenheit der Stadt Royan ermöglicht."
+        ],
+        "en": [
+          "The Museum of Royan is located in the old market of Pontaillac in the heart of a historic district of Royan. Its collections are presented according to an itinerary allowing the discovery of the rich past of the city of Royan."
+        ],
+        "it": [
+          "Il Museo di Royan si trova nell'antico mercato di Pontaillac, nel cuore del quartiere storico di Royan. Le sue collezioni sono presentate in modo da permettere la scoperta del ricco passato della città di Royan."
+        ],
+        "fr": [
+          "Le Musée de Royan est installé dans l’ancien marché de Pontaillac au cœur d’un quartier historique de Royan. Ses collections sont présentées selon un parcours permettant la découverte du riche passé de la ville de Royan."
+        ],
+        "nl": [
+          "Het museum van Royan is gevestigd in de oude markt van Pontaillac, in het hart van een historische wijk van Royan. De collecties worden zodanig gepresenteerd dat men het rijke verleden van de stad Royan kan ontdekken."
+        ],
+        "es": [
+          "El Museo de Royan está situado en el antiguo mercado de Pontaillac, en el corazón de un barrio histórico de Royan. Sus colecciones se presentan de forma que permiten descubrir el rico pasado de la ciudad de Royan."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/18befb38-9149-3107-9fb2-8183c5822b11",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/47d3dd37-6109-3c6d-9fab-c2efb9bd870f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4f69faca-88d8-3cbb-b1df-d0692ac6ed54",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5a7559da-f438-34a3-82ff-b6ac2a29708c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c79a5a30-3582-3af4-ba46-3c13ea7ae2ba",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/8b626d5a-0e6e-3a22-aaf3-bbd5ebce586c",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/6ce0aed9-282e-3cd3-b784-b5ef93294317",
+          "schema:addressLocality": "Royan",
+          "schema:postalCode": "17200",
+          "schema:streetAddress": [
+            "31 avenue de Paris"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17306",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Royan"
+              ],
+              "pt": [
+                "Royan"
+              ],
+              "en": [
+                "Royan"
+              ],
+              "it": [
+                "Royan"
+              ],
+              "fr": [
+                "Royan"
+              ],
+              "nl": [
+                "Royan"
+              ],
+              "es": [
+                "Royan"
+              ]
+            },
+            "insee": "17306",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/38b09b98-3dd3-3aba-a206-57879f7b6b14",
+        "schema:latitude": "45.62642",
+        "schema:longitude": "-1.04832",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/1713e704-483e-31e9-9ead-4a178c482c75",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-06-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Mittwoch bis Freitag: 14h bis 18h\r\nSamstag und Sonntag: 10 bis 12.30 Uhr und 14 bis 18 Uhr"
+            ],
+            "en": [
+              "Wednesday to Friday: 2pm to 6pm\r\nSaturday and Sunday: 10am to 12:30pm and 2pm to 6pm"
+            ],
+            "it": [
+              "Da mercoledì a venerdì: dalle 14.00 alle 18.00\r\nSabato e domenica: dalle 10.00 alle 12.30 e dalle 14.00 alle 18.00"
+            ],
+            "fr": [
+              "Mercredi au vendredi : 14h à 18h\r\nSamedi et dimanche : 10h à 12h30 et 14h à 18h"
+            ],
+            "nl": [
+              "Woensdag tot vrijdag: 14u tot 18u\r\nZaterdag en zondag: 10u tot 12u30 en 14u tot 18u"
+            ],
+            "es": [
+              "De miércoles a viernes: de 14:00 a 18:00\r\nSábado y domingo: de 10.00 a 12.30 h. y de 14.00 a 18.00 h"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/1e22d6a0-6ae0-35ba-8a56-5482dfee4505",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/76d75d3b-4854-3ec8-af2f-6ce715d17cf9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/87aa10ad-3f42-3875-9fb2-399a141cd823",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d62b67d5-c7d1-34d8-afa8-fdcfa48a9954",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e9cc25bf-b7fa-3bbd-b713-237a9feb467d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/610ffc45-6a1a-3783-ab9d-0dd68c0b5ee8",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Dienstag bis Sonntag: 9:30 bis 12:30 Uhr und 14:30 bis 18:30 Uhr"
+            ],
+            "en": [
+              "Tuesday to Sunday: 9:30 am to 12:30 pm and 2:30 pm to 6:30 pm"
+            ],
+            "it": [
+              "Da martedì a domenica: 9.30-12.30 e 14.30-18.30"
+            ],
+            "fr": [
+              "Mardi au dimanche : 9h30 à 12h30 et 14h30 à 18h30"
+            ],
+            "nl": [
+              "Dinsdag tot zondag: 9.30u tot 12.30u en 14.30u tot 18.30u"
+            ],
+            "es": [
+              "De martes a domingo: de 9.30 a 12.30 h. y de 14.30 a 18.30 h"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/0e4ec7fd-0654-38cd-8503-04436140133b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/21961b5a-51cd-369d-85f1-100993e34a14",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/5f349eb2-c41d-3f7a-809e-a02b7eb32662",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/b73d6d56-75c0-3b42-8ede-f80126566439",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c62d5918-4a38-3661-9c13-43323501705e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f79dfd76-4803-3e1c-aa45-b70339262b10",
+          "schema:validFrom": "2023-09-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Mittwoch bis Freitag: 14h bis 18h\r\nSamstag und Sonntag: 10 bis 12.30 Uhr und 14 bis 18 Uhr"
+            ],
+            "en": [
+              "Wednesday to Friday: 2pm to 6pm\r\nSaturday and Sunday: 10am to 12:30pm and 2pm to 6pm"
+            ],
+            "it": [
+              "Da mercoledì a venerdì: dalle 14.00 alle 18.00\r\nSabato e domenica: dalle 10.00 alle 12.30 e dalle 14.00 alle 18.00"
+            ],
+            "fr": [
+              "Mercredi au vendredi : 14h à 18h\r\nSamedi et dimanche : 10h à 12h30 et 14h à 18h"
+            ],
+            "nl": [
+              "Woensdag tot vrijdag: 14u tot 18u\r\nZaterdag en zondag: 10u tot 12u30 en 14u tot 18u"
+            ],
+            "es": [
+              "De miércoles a viernes: de 14:00 a 18:00\r\nSábado y domingo: de 10.00 a 12.30 h. y de 14.00 a 18.00 h"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/02235669-53f2-3e77-b6a1-8b3ed9fc9911",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/0c4ab5d1-bfdb-32f6-88d3-28d3e8c0ad37",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/2ddb6d21-867a-3ed0-89bb-ec11e146bad5",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/5ac4b00e-84c6-3f42-8bd3-fdffd02802b0",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/7a7a6a27-248b-377d-a2f5-3ad3a5635113",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-04-25",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.4Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/091840a8-12f3-3070-bc04-5e8fd25f6676",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/8c4a3e64-a4d8-3a3b-95f6-f9cc36bdc01b",
+          "schema:maxPrice": [
+            "121",
+            "2.1",
+            "4.2"
+          ],
+          "schema:minPrice": [
+            "121",
+            "2.1",
+            "4.2"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

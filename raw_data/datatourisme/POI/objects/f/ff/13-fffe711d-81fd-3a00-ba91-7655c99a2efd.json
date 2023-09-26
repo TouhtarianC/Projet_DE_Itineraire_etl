@@ -1,0 +1,432 @@
+{
+  "@id": "https://data.datatourisme.fr/13/fffe711d-81fd-3a00-ba91-7655c99a2efd",
+  "dc:identifier": "5914790",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Es ist möglich, 4 Bücher und 2 CDs für 3 Wochen auszuleihen, die um denselben Zeitraum verlängert werden können. Sie können zwei Neuerscheinungen ausleihen, aber es ist nicht möglich, sie zu verlängern."
+    ],
+    "en": [
+      "It is possible to borrow 4 books and 2 CDs for 3 weeks, renewable for the same period. You can borrow two new books, but it will not be possible to renew them."
+    ],
+    "it": [
+      "È possibile prendere in prestito 4 libri e 2 CD per 3 settimane, rinnovabili per lo stesso periodo. È possibile prendere in prestito due nuovi libri, ma non sarà possibile rinnovarli."
+    ],
+    "fr": [
+      "Il est possible d'emprunter 4 livres et 2 CD pour 3 semaines, renouvelables pour la même durée. Vous pouvez emprunter deux nouveautés, mais il ne sera pas possible de les renouveler."
+    ],
+    "nl": [
+      "U kunt 4 boeken en 2 cd's lenen voor 3 weken, verlengbaar voor dezelfde periode. U kunt twee nieuwe boeken lenen, maar u kunt ze niet verlengen."
+    ],
+    "es": [
+      "Puede tomar prestados 4 libros y 2 CD durante 3 semanas, renovables por el mismo periodo. Puede tomar prestados dos libros nuevos, pero no será posible renovarlos."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Bibliothèque municipale de Charron"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/296472c9-542a-34d4-b88d-543508116cbc",
+    "dc:identifier": "2070",
+    "schema:email": [
+      "aurore.mdc@aunis-maraispoitevin.com",
+      "madeleine.dasilva@aunis-maraispoitevin.com"
+    ],
+    "schema:legalName": "Office de Tourisme Aunis Marais Poitevin",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.aunis-maraispoitevin.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/c85144b4-b416-3d5c-9112-e466a5845fb1",
+      "schema:email": [
+        "bibliothequecharron17@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 5 46 01 50 22"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://charron-pom.c3rb.org/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/634f051c-bd23-3735-afa9-35d465d1b5ad",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/66261d03-a425-31a1-9301-ba07c6bb4876",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7b3c7e02-370f-3f5f-9eef-3ffe620e2035",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8d63969e-e911-349d-911e-5193dc37ddc7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b870ffaf-d869-3174-8dac-3e5c06b69eeb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d5bbd7ba-353b-3f11-a4e4-a21ef1264e22",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Es ist möglich, 4 Bücher und 2 CDs für 3 Wochen auszuleihen, die um denselben Zeitraum verlängert werden können. Sie können zwei Neuerscheinungen ausleihen, aber es ist nicht möglich, sie zu verlängern."
+        ],
+        "en": [
+          "It is possible to borrow 4 books and 2 CDs for 3 weeks, renewable for the same period. You can borrow two new books, but it will not be possible to renew them."
+        ],
+        "it": [
+          "È possibile prendere in prestito 4 libri e 2 CD per 3 settimane, rinnovabili per lo stesso periodo. È possibile prendere in prestito due nuovi libri, ma non sarà possibile rinnovarli."
+        ],
+        "fr": [
+          "Il est possible d'emprunter 4 livres et 2 CD pour 3 semaines, renouvelables pour la même durée. Vous pouvez emprunter deux nouveautés, mais il ne sera pas possible de les renouveler."
+        ],
+        "nl": [
+          "U kunt 4 boeken en 2 cd's lenen voor 3 weken, verlengbaar voor dezelfde periode. U kunt twee nieuwe boeken lenen, maar u kunt ze niet verlengen."
+        ],
+        "es": [
+          "Puede tomar prestados 4 libros y 2 CD durante 3 semanas, renovables por el mismo periodo. Puede tomar prestados dos libros nuevos, pero no será posible renovarlos."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/22f5de12-924f-3e3a-8aab-228e004731d9",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2c3a3502-fb71-30b4-935d-3962f7b215bb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7e0dd1a5-d383-344e-956b-05e2d7ba43a6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9a51b8de-2850-38d1-82ea-18e5dea17f07",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ff11905c-5396-32b0-b28f-643dd214ac21",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/def0f42e-1924-38e1-bf73-36a179d3c0d8",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/84f71a26-a41b-31b6-89fe-739edf20818e",
+          "schema:addressLocality": "Charron",
+          "schema:postalCode": "17230",
+          "schema:streetAddress": [
+            "7 rue des Ecoles"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17091",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Charron"
+              ],
+              "pt": [
+                "Charron"
+              ],
+              "en": [
+                "Charron"
+              ],
+              "it": [
+                "Charron"
+              ],
+              "fr": [
+                "Charron"
+              ],
+              "nl": [
+                "Charron"
+              ],
+              "es": [
+                "Charron"
+              ]
+            },
+            "insee": "17091",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/fd555ed3-168f-39ef-97b9-993f1df939ee",
+        "schema:latitude": "46.295601",
+        "schema:longitude": "-1.105776",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/a31bfa88-8451-397d-9df1-b4fcba0f5590",
+      "schema:email": [
+        "madeleine.dasilva@aunis-maraispoitevin.com"
+      ],
+      "schema:legalName": "Office de Tourisme Aunis Marais Poitevin",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.aunis-maraispoitevin.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-01-23",
+  "lastUpdateDatatourisme": "2023-03-01T06:42:06.836Z"
+}

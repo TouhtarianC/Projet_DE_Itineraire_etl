@@ -1,0 +1,541 @@
+{
+  "@id": "https://data.datatourisme.fr/13/d4989884-fb4c-3135-acc4-5c814877f0c0",
+  "dc:identifier": "5677681",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "DefenceSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Souvenirs aus dem Bir'Hakeim Maquis: Waffen, Kleidung und Porträts von Widerstandsführern."
+    ],
+    "en": [
+      "Memories of the Bir'Hakeim maquis: weapons, clothing and portraits of Resistance leaders."
+    ],
+    "it": [
+      "Souvenir del maquis di Bir'Hakeim: armi, abiti e ritratti di leader della Resistenza."
+    ],
+    "fr": [
+      "Souvenirs du maquis Bir'Hakeim : armes, tenues vestimentaires et portraits de chefs de la Résistance."
+    ],
+    "nl": [
+      "Souvenirs van het Bir'Hakeim maquis: wapens, kleding en portretten van verzetsleiders."
+    ],
+    "es": [
+      "Recuerdos del maquis de Bir'Hakeim: armas, ropa y retratos de los líderes de la Resistencia."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Maison de la Résistance"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/584b98aa-c2dd-3f59-ae2c-f19ca4ccb75e",
+    "dc:identifier": "2052",
+    "schema:email": [
+      "fatiha.guetarni@charente-limousine.fr",
+      "marc.vachot@charente-limousine.fr"
+    ],
+    "schema:legalName": "Office de Tourisme Charente Limousine",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/09724912-5f47-3d85-8a82-4ce23ff88955",
+      "schema:email": [
+        "communication@chasseneuil.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 39 60 71"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/440ba1f7-f8da-3bbf-b88c-41de67128dca",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/344e8a2f-2d17-3020-a59f-fb5b794a5be7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8ee271e9-b6e0-3b1b-89a9-e6d0242f16a4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/96fe9518-93ec-332b-bb6a-0652afaea408",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/add1ef6b-b359-39f1-a810-7499b590aeae",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dc04c3ca-6ef6-340d-9dcc-9573640c5ff0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Souvenirs aus dem Bir'Hakeim Maquis: Waffen, Kleidung und Porträts von Widerstandsführern."
+        ],
+        "en": [
+          "Memories of the Bir'Hakeim maquis: weapons, clothing and portraits of Resistance leaders."
+        ],
+        "it": [
+          "Souvenir del maquis di Bir'Hakeim: armi, abiti e ritratti di leader della Resistenza."
+        ],
+        "fr": [
+          "Souvenirs du maquis Bir'Hakeim : armes, tenues vestimentaires et portraits de chefs de la Résistance."
+        ],
+        "nl": [
+          "Souvenirs van het Bir'Hakeim maquis: wapens, kleding en portretten van verzetsleiders."
+        ],
+        "es": [
+          "Recuerdos del maquis de Bir'Hakeim: armas, ropa y retratos de los líderes de la Resistencia."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/214dbfc7-2c18-34e3-963c-6a3788b6e748",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3dc42423-71db-3c44-a6ba-c421c13bf295",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/40a4bbe2-bd0d-388b-a7c4-10adda184033",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/438162a4-8e37-3578-a9c6-0b12f09ea5ae",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f2456730-aa33-3bd8-a721-a6195c2cec8a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/aebb279b-1e0c-35f4-bb5b-1decf1152689",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/e4d52bca-2d04-31bc-924c-bdd7ffcc4180",
+          "schema:addressLocality": "Chasseneuil-sur-Bonnieure",
+          "schema:postalCode": "16260",
+          "schema:streetAddress": [
+            "22 Rue Bir-Hacheim",
+            "Maison des Associations"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16085",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Chasseneuil-sur-Bonnieure"
+              ],
+              "pt": [
+                "Chasseneuil-sur-Bonnieure"
+              ],
+              "en": [
+                "Chasseneuil-sur-Bonnieure"
+              ],
+              "it": [
+                "Chasseneuil-sur-Bonnieure"
+              ],
+              "fr": [
+                "Chasseneuil-sur-Bonnieure"
+              ],
+              "nl": [
+                "Chasseneuil-sur-Bonnieure"
+              ],
+              "es": [
+                "Chasseneuil-sur-Bonnieure"
+              ]
+            },
+            "insee": "16085",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/2becc06b-b902-383c-a1c6-8f01fb5057ed",
+        "schema:latitude": "45.823438",
+        "schema:longitude": "0.45167",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/242565e8-dbf2-3187-8a56-8d829770db55",
+          "schema:closes": "17:30:00",
+          "schema:opens": "10:00:00",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "freie oder geführte Besichtigung während der Öffnungszeiten des Fremdenverkehrsamtes."
+            ],
+            "en": [
+              "free or guided visit during the opening hours of the Tourist Office."
+            ],
+            "it": [
+              "visita libera o guidata durante gli orari di apertura dell'Ufficio del Turismo."
+            ],
+            "fr": [
+              "visite libre ou commentée aux horaires d'ouverture de l'Office de Tourisme."
+            ],
+            "es": [
+              "visita libre o guiada durante el horario de apertura de la Oficina de Turismo."
+            ],
+            "nl": [
+              "gratis of rondleiding tijdens de openingstijden van de VVV."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/354089c7-5e64-39a5-8cf8-ffe89688c3e7",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/65a0b7fd-6e68-347d-9c86-2f2af7355cb5",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/673cdf05-df3c-313b-8049-f34aa586c8b3",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/7062eba1-6449-3a40-898d-d9e1a876c0b7",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/b83be951-6a1d-33cd-b1de-5e3586f34481",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ca729d9a-b370-39c8-8ff2-ebfbb796dad5",
+      "schema:email": [
+        "fatiha.guetarni@charente-limousine.fr",
+        "marc.vachot@charente-limousine.fr"
+      ],
+      "schema:legalName": "Office de Tourisme Charente Limousine",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-01-19",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.699Z"
+}

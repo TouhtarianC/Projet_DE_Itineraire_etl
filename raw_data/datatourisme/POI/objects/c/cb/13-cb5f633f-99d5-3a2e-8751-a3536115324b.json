@@ -1,0 +1,571 @@
+{
+  "@id": "https://data.datatourisme.fr/13/cb5f633f-99d5-3a2e-8751-a3536115324b",
+  "dc:identifier": "5855524",
+  "@type": [
+    "CulturalSite",
+    "Farm",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace",
+    "TeachingFarm",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Entdecken Sie den Bio-Bauernhof Les Fillaos und den Beruf des Landwirts."
+    ],
+    "en": [
+      "Discovery of the Fillaos organic farm and the farmer's job."
+    ],
+    "it": [
+      "Scoperta dell'azienda agricola biologica Fillaos e del lavoro dell'agricoltore."
+    ],
+    "fr": [
+      "Découverte de la ferme biologique des Fillaos et du métier de fermier."
+    ],
+    "nl": [
+      "Ontdekking van de biologische boerderij Fillaos en het werk van de boer."
+    ],
+    "es": [
+      "Descubrimiento de la granja ecológica de Fillaos y del trabajo del agricultor."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "La ferme des fillaos"
+    ]
+  },
+  "COVID19SpecialMeasures": {
+    "de": [
+      "auf 10 Personen begrenzte Gruppen"
+    ],
+    "en": [
+      "groups limited to 10 people"
+    ],
+    "it": [
+      "gruppi limitati a 10 persone"
+    ],
+    "fr": [
+      "groupes limités à 10 personnes"
+    ],
+    "es": [
+      "grupos limitados a 10 personas"
+    ],
+    "nl": [
+      "groepen beperkt tot 10 personen"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/2eace51d-8f79-3d04-991c-831a07059758",
+    "dc:identifier": "2059",
+    "schema:email": [
+      "otdurouillacais@gmail.com"
+    ],
+    "schema:legalName": "Office de Tourisme du Rouillacais",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.rouillac-tourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/b5a04ea5-5940-307c-a5fa-21f7d60b83ce",
+      "schema:email": [
+        "thierry.masse@neuf.fr"
+      ],
+      "schema:telephone": [
+        "+33 6 71 76 66 49"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ferme-charente.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/d3c983be-1de4-34ea-a7dd-3c6333022c70",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/008f0d22-b515-39aa-99c3-d4666742a5dd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3b3d1bbd-7df3-3e32-aedc-f95515eff171",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8ad17c0b-3f36-385a-a4e1-db14c4fa253a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b936446b-c060-3f22-8e37-80d334ee18e1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d3cc3788-4584-3bc6-8db2-f35164ec8678",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Entdecken Sie den Bio-Bauernhof Les Fillaos und den Beruf des Landwirts."
+        ],
+        "en": [
+          "Discovery of the Fillaos organic farm and the farmer's job."
+        ],
+        "it": [
+          "Scoperta dell'azienda agricola biologica Fillaos e del lavoro dell'agricoltore."
+        ],
+        "fr": [
+          "Découverte de la ferme biologique des Fillaos et du métier de fermier."
+        ],
+        "nl": [
+          "Ontdekking van de biologische boerderij Fillaos en het werk van de boer."
+        ],
+        "es": [
+          "Descubrimiento de la granja ecológica de Fillaos y del trabajo del agricultor."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/082718e9-5e07-3838-ad10-4fe60c36c105",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        "COVID19SpecialMeasures"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/1f4f4d83-e88a-3460-b291-d558229aea90",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        "COVID19SpecialMeasures"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2e218aaf-2bea-3a37-be85-dded451d9267",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/54630ff8-acb1-395d-900a-df2032457a0f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/74878f2c-de36-38ba-9abc-ead1fff4d9cc",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        "COVID19SpecialMeasures"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8221c7b9-5af0-3980-bea0-cd095f2bc5b4",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        "COVID19SpecialMeasures"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9ab47a82-324b-3d6a-bd4a-75c3a2442e84",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        "COVID19SpecialMeasures"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/bb0b4589-20b7-33e9-a5a6-0c4ec013299a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c9cc8d79-d436-323e-8f22-813206e7729c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fe4ad68a-c87b-3cf6-bf0c-ed48b645879a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f825f25a-cfcf-3e4a-a3b0-8f087c406e2a",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d4b9d897-d891-3db6-a02b-d5e943ba2334",
+          "schema:addressLocality": "Rouillac",
+          "schema:postalCode": "16170",
+          "schema:streetAddress": [
+            "La chèvrerie de Bordeville"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16286",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Rouillac"
+              ],
+              "pt": [
+                "Rouillac"
+              ],
+              "en": [
+                "Rouillac"
+              ],
+              "it": [
+                "Rouillac"
+              ],
+              "fr": [
+                "Rouillac"
+              ],
+              "nl": [
+                "Rouillac"
+              ],
+              "es": [
+                "Rouillac"
+              ]
+            },
+            "insee": "16286",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/e74e3f3a-f22d-3c25-af2b-66a9207a66be",
+        "schema:latitude": "45.78176",
+        "schema:longitude": "-0.099468",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/7a8c6e16-77b8-3c6c-a70f-15d967a89e49",
+      "schema:email": [
+        "otdurouillacais@gmail.com"
+      ],
+      "schema:legalName": "Office de Tourisme du Rouillacais",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.rouillac-tourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-05-03",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.868Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/da65d221-a584-3d82-b7e1-62e5644db445",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/a24edea2-f6f6-39a5-8517-3b4deddc2ce6",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/0663ca4b-3470-3171-9053-39aa704e8f56",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2022-12-31",
+              "startDate": "2022-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

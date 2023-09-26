@@ -1,0 +1,779 @@
+{
+  "@id": "https://data.datatourisme.fr/13/cd5b4364-0f0c-3655-913a-54ac3549a7d0",
+  "dc:identifier": "5696357",
+  "@type": [
+    "Abbey",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Abtei von Fontdouce, eine bemerkenswerte Verbindung von romanischer und gotischer Kunst, ist ein privilegierter Ort, um einen Besuch mit der Familie zu genießen, ein Picknick am Wasser zu machen oder einen Spaziergang durch das bewaldete und von Weinbergen gesäumte Tal zu machen."
+    ],
+    "en": [
+      "Founded in 1111, the abbey is located in a green and peaceful valley. Exceptional in the area, it combines the austere Romanesque in the chapels and the luminous Gothic in the chapter house and the parlour. Fontdouce has been restored for more than 40 years and organizes each year exhibitions, concerts, training courses (songs, calligraphy…) and a lot of various animations."
+    ],
+    "it": [
+      "Straordinaria combinazione di arte romanica e gotica, l'Abbazia di Fontdouce è il luogo ideale per una visita in famiglia, un picnic in riva al mare o una passeggiata nella valle boscosa delimitata da vigneti."
+    ],
+    "fr": [
+      "Alliance remarquable de l’art roman et de l’art gothique, l’Abbaye de Fontdouce est un site privilégié pour profiter d’une visite en famille, d’un pique-nique au bord de l’eau ou d’une balade dans le vallon boisé et bordé de vignes."
+    ],
+    "es": [
+      "La abadía de Fontdouce, notable combinación de arte románico y gótico, es un lugar ideal para disfrutar de una visita familiar, un picnic junto al agua o un paseo por el valle arbolado bordeado de viñas."
+    ],
+    "nl": [
+      "De abdij van Fontdouce, een opmerkelijke combinatie van romaanse en gotische kunst, is een bevoorrechte plaats voor een gezinsbezoek, een picknick aan het water of een wandeling in de beboste, door wijngaarden omzoomde vallei."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Abbaye de Fontdouce"
+    ],
+    "fr": [
+      "Abbaye de Fontdouce"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q333915"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f8c0c968-6328-35cd-9333-08b1a494967f",
+    "dc:identifier": "2060",
+    "schema:email": [
+      "a.tonin@saintes-tourisme.fr",
+      "f.herbec@saintes-tourisme.fr",
+      "l.conan@saintes-tourisme.fr"
+    ],
+    "schema:legalName": "Office de Tourisme de Saintes & la Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.saintes-tourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8d538102-36b0-382e-ac2b-c2eb3a869589",
+      "schema:email": [
+        "contact@fontdouce.com"
+      ],
+      "schema:telephone": [
+        "+33 5 46 74 77 08"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.fontdouce.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/336f45bb-c944-3666-a872-6333718f2c8e",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/03436238-71ca-34a3-9264-25957fc76950",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/54801fb5-8293-308a-bd75-71db7ade25c2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5aa0521f-2e50-3036-9114-6365205afb73",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9ec4d19c-e1f3-3e20-90d4-40675566bc7d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Abtei von Fontdouce, eine bemerkenswerte Verbindung von romanischer und gotischer Kunst, ist ein privilegierter Ort, um einen Besuch mit der Familie zu genießen, ein Picknick am Wasser zu machen oder einen Spaziergang durch das bewaldete und von Weinbergen gesäumte Tal zu machen."
+        ],
+        "en": [
+          "Founded in 1111, the abbey is located in a green and peaceful valley. Exceptional in the area, it combines the austere Romanesque in the chapels and the luminous Gothic in the chapter house and the parlour. Fontdouce has been restored for more than 40 years and organizes each year exhibitions, concerts, training courses (songs, calligraphy…) and a lot of various animations."
+        ],
+        "it": [
+          "Straordinaria combinazione di arte romanica e gotica, l'Abbazia di Fontdouce è il luogo ideale per una visita in famiglia, un picnic in riva al mare o una passeggiata nella valle boscosa delimitata da vigneti."
+        ],
+        "fr": [
+          "Alliance remarquable de l’art roman et de l’art gothique, l’Abbaye de Fontdouce est un site privilégié pour profiter d’une visite en famille, d’un pique-nique au bord de l’eau ou d’une balade dans le vallon boisé et bordé de vignes."
+        ],
+        "es": [
+          "La abadía de Fontdouce, notable combinación de arte románico y gótico, es un lugar ideal para disfrutar de una visita familiar, un picnic junto al agua o un paseo por el valle arbolado bordeado de viñas."
+        ],
+        "nl": [
+          "De abdij van Fontdouce, een opmerkelijke combinatie van romaanse en gotische kunst, is een bevoorrechte plaats voor een gezinsbezoek, een picknick aan het water of een wandeling in de beboste, door wijngaarden omzoomde vallei."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/634c2854-9e9d-3e62-80c9-6396b1b7e2a2",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/4d492787-7271-3f8d-84ba-2aae5bce5fc3",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "The superposed chapels and the formal garden"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "T Boutinet"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/63aeb6a7-af9c-3907-93be-e3102ca61722",
+          "ebucore:fileSize": [
+            416001
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1200,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/2/2c/The_superposed_chapels_and_the_formal_garden.JPG"
+          ],
+          "ebucore:width": 1600,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0c27307f-e973-34be-8b56-8bffda950263",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7ff290b7-2649-3578-8eb6-756193884124",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ab8155ec-ffb4-30d3-a5ef-0abc449d7371",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fd15b131-536b-3add-9118-607cf8bee781",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f7c5487e-f01c-36cf-932b-9f67b577b43d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d4d1999e-28bd-3f44-ac58-83fa30155d59",
+          "schema:addressLocality": "Saint-Bris-des-Bois",
+          "schema:postalCode": "17770",
+          "schema:streetAddress": [
+            "Abbaye de Fontdouce"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17313",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Bris-des-Bois"
+              ],
+              "pt": [
+                "Saint-Bris-des-Bois"
+              ],
+              "en": [
+                "Saint-Bris-des-Bois"
+              ],
+              "it": [
+                "Saint-Bris-des-Bois"
+              ],
+              "fr": [
+                "Saint-Bris-des-Bois"
+              ],
+              "nl": [
+                "Saint-Bris-des-Bois"
+              ],
+              "es": [
+                "Saint-Bris-des-Bois"
+              ]
+            },
+            "insee": "17313",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/f1c69225-43da-35b7-8d89-a1a6c809ada4",
+        "schema:latitude": "45.769613",
+        "schema:longitude": "-0.458822",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/c7ace7b3-d624-35c5-b2ce-90dd169b3d4e",
+          "schema:validFrom": "2023-04-09T00:00:00",
+          "schema:validThrough": "2023-11-06T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "April / Mai / Juni / September / Oktober / November :\r\n- An Wochenenden, Feiertagen und in den Schulferien von 10:30 bis 18:30 Uhr und am Samstag von 10:30 bis 17:00 Uhr.\r\n- Unter der Woche (außerhalb der Ferien) von 13:30 bis 18:30 Uhr\r\nJuli / August: Täglich von 10:00 bis 19:00 Uhr und samstags von 10:00 bis 17:00 Uhr"
+            ],
+            "en": [
+              "April / May / June / September / October / November :\r\n- Weekends, holidays and school vacations from 10:30 am to 6:30 pm and Saturday from 10:30 am to 5:00 pm.\r\n- During the week (except vacations) from 1:30 pm to 6:30 pm\r\nJuly / August : Every day from 10 am to 7 pm and Saturday from 10 am to 5 pm"
+            ],
+            "it": [
+              "Aprile / Maggio / Giugno / Settembre / Ottobre / Novembre :\r\n- Fine settimana, giorni festivi e vacanze scolastiche dalle 10:30 alle 18:30 e sabato dalle 10:30 alle 17:00.\r\n- Giorni feriali (esclusi i festivi) dalle 13.30 alle 18.30\r\nLuglio/Agosto: tutti i giorni dalle 10.00 alle 19.00 e il sabato dalle 10.00 alle 17.00"
+            ],
+            "fr": [
+              "Avril / Mai / Juin / Septembre / Octobre / Novembre :\r\n- Week-ends, jours fériés et vacances scolaires de 10h30 à 18h30 et le samedi de 10h30 à 17h00.\r\n- En semaine (hors vacances) de 13h30 à 18h30\r\nJuillet / Août : Tous les jours de 10h00 à 19h00 et le samedi de 10h00 à 17h00"
+            ],
+            "nl": [
+              "April / mei / juni / september / oktober / november :\r\n- Weekends, feestdagen en schoolvakanties van 10.30 tot 18.30 uur en op zaterdag van 10.30 tot 17.00 uur.\r\n- Weekdagen (behalve feestdagen) van 13.30 tot 18.30 uur\r\nJuli / augustus: elke dag van 10 tot 19 uur en zaterdag van 10 tot 17 uur"
+            ],
+            "es": [
+              "Abril / Mayo / Junio / Septiembre / Octubre / Noviembre :\r\n- Fines de semana, festivos y vacaciones escolares de 10:30 a 18:30 y sábados de 10:30 a 17:00.\r\n- Días laborables (excepto festivos) de 13.30 a 18.30 horas\r\nJulio / agosto: todos los días de 10 a 19 horas y los sábados de 10 a 17 horas"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/111147f6-5e04-3965-9177-dd5565dd31f0",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/49362946-fcb4-30ea-889c-157ecd8653b7",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/758eff39-eac5-3132-bd75-185f8f57e515",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/be648d67-2e65-3e44-928b-3e944a88cf93",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f31515e1-3627-3549-92dc-f1bd5daf78f5",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d69cb5ac-79e7-37d6-9d7b-25042b228cb0",
+          "schema:validFrom": "2023-04-08T00:00:00",
+          "schema:validThrough": "2023-11-05T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Juli / August: Täglich von 10:00 bis 19:00 Uhr und samstags von 10:00 bis 16:00 Uhr geöffnet\r\nApril / Mai / Juni // September / Oktober \r\n- an Wochenenden, Feiertagen und in den Schulferien: von 10:30 bis 18:30 Uhr und samstags von 10:30 bis 16 Uhr\r\n- unter der Woche (außer in den Ferien): von 13:30 bis 18:30 Uhr"
+            ],
+            "en": [
+              "July / August : open every day from 10am to 7pm and Saturday from 10am to 4pm\r\nApril / May / June // September / October \r\n- weekends, holidays and school vacations: from 10:30 am to 6:30 pm and Saturday from 10:30 am to 4 pm\r\n- weekdays (except vacations): from 1:30 pm to 6:30 pm"
+            ],
+            "it": [
+              "Luglio/Agosto: aperto tutti i giorni dalle 10.00 alle 19.00 e il sabato dalle 10.00 alle 16.00\r\nAprile / Maggio / Giugno // Settembre / Ottobre \r\n- fine settimana, giorni festivi e vacanze scolastiche: dalle 10:30 alle 18:30 e il sabato dalle 10:30 alle 16:00\r\n- giorni feriali (esclusi i festivi): dalle 13.30 alle 18.30"
+            ],
+            "fr": [
+              "Juillet / Août : ouvert tous les jours de 10h à 19h et le samedi de 10h à 16h\r\nAvril / Mai / Juin // Septembre / Octobre : \r\n- week-ends, jours fériés et vacances scolaires : de 10h30 à 18h30 et le samedi de 10h30 à 16h\r\n- en semaine (hors vacances) : de 13h30 à 18h30"
+            ],
+            "es": [
+              "Julio / agosto: abierto todos los días de 10 a 19 horas y los sábados de 10 a 16 horas\r\nAbril / Mayo / Junio // Septiembre / Octubre \r\n- fines de semana, días festivos y vacaciones escolares: de 10:30 a 18:30 y el sábado de 10:30 a 16:00\r\n- días laborables (excepto festivos): de 13.30 a 18.30 horas"
+            ],
+            "nl": [
+              "Juli / augustus: dagelijks geopend van 10 tot 19 uur en zaterdag van 10 tot 16 uur\r\nApril / mei / juni // september / oktober \r\n- weekends, feestdagen en schoolvakanties: van 10u30 tot 18u30 en zaterdag van 10u30 tot 16u00\r\n- weekdagen (behalve feestdagen): van 13.30 tot 18.30 uur"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/0a6ba8b2-c85f-3f61-8a88-0178fa8adf0b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/3be926a0-17f8-35c1-a464-e0f3ed47f34c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/922eb291-2d17-3c01-a79f-ed2ce2e623b9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a72b5ba3-fc25-36e4-a83a-a44ec9235e2e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/fc5cdd43-0ca9-31da-ba59-8c06b983175c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/6788b742-800e-3e07-a704-c6181e0a8dd1",
+      "schema:email": [
+        "a.tonin@saintes-tourisme.fr",
+        "f.herbec@saintes-tourisme.fr",
+        "l.conan@saintes-tourisme.fr"
+      ],
+      "schema:legalName": "Office de Tourisme de Saintes & la Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.saintes-tourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-03-17",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.331Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/5b01b96c-f55b-3463-8f70-9e9599829464",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/554d26b9-7443-3afc-a6b7-e0872ba39b6e",
+          "schema:maxPrice": [
+            "5",
+            "5.5",
+            "7"
+          ],
+          "schema:minPrice": [
+            "5",
+            "5.5",
+            "7"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/460e9c79-897a-3294-b8b6-358f326e8fdb",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2022-11-06",
+              "startDate": "2022-04-09"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c069cad6-8f03-3bf9-8dfa-7f25d37471e7",
+          "schema:maxPrice": [
+            "5",
+            "5.5",
+            "7"
+          ],
+          "schema:minPrice": [
+            "5",
+            "5.5",
+            "7"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a72571ee-b0e2-3ea2-9dd2-53d743cf79ac",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-11-05",
+              "startDate": "2023-04-08"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

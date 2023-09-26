@@ -1,0 +1,836 @@
+{
+  "@id": "https://data.datatourisme.fr/23/c3eeccd7-a860-30a7-bfd6-3660bc7c379d",
+  "dc:identifier": "LOIAQU087V500117",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Bibliothek im Stadtteil La Bastide ist eine Nachbarschaftsbibliothek in einem kulturellen und sozialen Komplex, der auch einen Multimediaraum beherbergt.\nÜber einen täglichen Pendelverkehr kann sie alle Ressourcen des BFM-Netzes (Bibliothèque francophone multimedia) nutzen.\nAdresse des computergestützten Katalogs: www.bm-limoges.fr.\nArt der verfügbaren Dokumente: Bücher.\nVerfügbare Dienstleistungen: siehe www.bm-limoges.fr.\nTeilnahme an einem Netzwerk: Städtisches Netzwerk. Sudoc-PS (für Zeitschriften, www.sudoc.abes.fr)."
+    ],
+    "en": [
+      "The library is located in the La Bastide district, within a cultural and social complex that also houses a multimedia space.\nThanks to a daily shuttle service, it has access to all the resources of the BFM (Bibliothèque francophone multimédia) network.\nAddress of computerized catalog: www.bm-limoges.fr.\nTypes of documents available: books.\nServices available: see www.bm-limoges.fr.\nNetwork membership: municipal network. Sudoc-PS (for journals, www.sudoc.abes.fr)."
+    ],
+    "it": [
+      "La biblioteca si trova nel quartiere La Bastide, all'interno di un complesso culturale e sociale che ospita anche un centro multimediale.\nGrazie a un servizio navetta giornaliero, ha accesso a tutte le risorse della rete BFM (Bibliothèque francophone multimédia).\nIndirizzo del catalogo informatizzato: www.bm-limoges.fr.\nTipi di documenti disponibili: libri.\nServizi disponibili: vedi www.bm-limoges.fr.\nPartecipazione a una rete: rete comunale. Sudoc-PS (per le riviste, www.sudoc.abes.fr)."
+    ],
+    "fr": [
+      "Bibliothèque du quartier de La Bastide, elle assure des missions de bibliothèque de proximité, au sein d’un complexe culturel et social qui abrite également un espace multimédia.\nElle bénéficie, par l’intermédiaire d’un système de navettes quotidiennes, de l’ensemble des ressources du réseau de la BFM (Bibliothèque francophone multimédia). \nAdresse du catalogue informatisé : www.bm-limoges.fr.\nTypes de documents disponibles : livres.\nServices disponibles : se reporter au site www.bm-limoges.fr.\nParticipation à un réseau : réseau municipal. Sudoc-PS (pour les revues, www.sudoc.abes.fr)."
+    ],
+    "es": [
+      "La biblioteca está situada en el barrio de La Bastide, dentro de un complejo cultural y social que también alberga un centro multimedia.\nGracias a un servicio diario de lanzaderas, tiene acceso a todos los recursos de la red BFM (Bibliothèque francophone multimédia).\nDirección del catálogo informatizado: www.bm-limoges.fr.\nTipos de documentos disponibles: libros.\nServicios disponibles: véase www.bm-limoges.fr.\nParticipación en una red: red municipal. Sudoc-PS (para revistas, www.sudoc.abes.fr)."
+    ],
+    "nl": [
+      "De bibliotheek ligt in de wijk La Bastide, in een cultureel en sociaal complex waar ook een multimediacentrum is gevestigd.\nDankzij een dagelijkse pendeldienst heeft de bibliotheek toegang tot alle bronnen van het BFM-netwerk (Bibliothèque francophone multimédia).\nAdres van de geautomatiseerde catalogus: www.bm-limoges.fr.\nSoorten beschikbare documenten: boeken.\nBeschikbare diensten: zie www.bm-limoges.fr.\nDeelname aan een netwerk: gemeentelijk netwerk. Sudoc-PS (voor tijdschriften, www.sudoc.abes.fr)."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Bibliothèque Francophone Multimédia de Limoges - La Bastide"
+    ],
+    "en": [
+      "Bibliothèque Francophone Multimédia de Limoges - La Bastide"
+    ],
+    "fr": [
+      "Bibliothèque Francophone Multimédia de Limoges - La Bastide"
+    ],
+    "nl": [
+      "Bibliothèque Francophone Multimédia de Limoges - La Bastide"
+    ],
+    "es": [
+      "Bibliothèque Francophone Multimédia de Limoges - La Bastide"
+    ]
+  },
+  "creationDate": "2022-09-06",
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/23/9d783618-f147-345d-bffb-d4d3abda8b95",
+    "dc:identifier": "2bc794c9-414e-41a5-b9ca-3a221e6a8acc",
+    "schema:legalName": "OT Limoges Métropole",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/05dc9cb8-2fa5-383d-b87b-497de06649a2",
+      "schema:email": [
+        "sirtaqui@na-tourisme.com"
+      ],
+      "schema:legalName": "SIRTAQUI Nouvelle-Aquitaine",
+      "schema:logo": "http://aquitaine.media.tourinsoft.eu/upload/Logo-Sirtaqui-1280x405.jpg",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "rdfs:comment": {
+        "de": [
+          "Collecter, mettre en commun et diffuser le plus largement possible une information complète et de qualité au service de nos habitants et de nos visiteurs : voici les objectifs du SIRTAQUI, Système d’Information Régional Touristique de Nouvelle-AQUItaine. Le dispositif est mis en œuvre conjointement par le Comité Régional de Tourisme de Nouvelle-Aquitaine, les services touristiques de la Corrèze, de la Creuse, de la Dordogne, de la Gironde, des Landes, du Lot-et-Garonne, des Pyrénées-Atlantiques, des Deux-Sèvres, de la Vienne et de la Haute-Vienne, en collaboration avec les Offices de Tourisme, et avec le soutien financier de l’Europe et du Conseil Régional."
+        ],
+        "en": [
+          "Collecter, mettre en commun et diffuser le plus largement possible une information complète et de qualité au service de nos habitants et de nos visiteurs : voici les objectifs du SIRTAQUI, Système d’Information Régional Touristique de Nouvelle-AQUItaine. Le dispositif est mis en œuvre conjointement par le Comité Régional de Tourisme de Nouvelle-Aquitaine, les services touristiques de la Corrèze, de la Creuse, de la Dordogne, de la Gironde, des Landes, du Lot-et-Garonne, des Pyrénées-Atlantiques, des Deux-Sèvres, de la Vienne et de la Haute-Vienne, en collaboration avec les Offices de Tourisme, et avec le soutien financier de l’Europe et du Conseil Régional."
+        ],
+        "it": [
+          "L'obiettivo di SIRTAQUI, il Sistema Regionale di Informazione Turistica della Nuova Aquitania, è quello di raccogliere, mettere in comune e diffondere il più possibile informazioni complete e di qualità a beneficio dei nostri residenti e visitatori. Il sistema è realizzato congiuntamente dal Comité Régional de Tourisme de Nouvelle-Aquitaine, dai servizi turistici di Corrèze, Creuse, Dordogne, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques, Deux-Sèvres, Vienne e Haute-Vienne, in collaborazione con gli Uffici del Turismo e con il sostegno finanziario dell'Europa e del Conseil Régional."
+        ],
+        "fr": [
+          "Collecter, mettre en commun et diffuser le plus largement possible une information complète et de qualité au service de nos habitants et de nos visiteurs : voici les objectifs du SIRTAQUI, Système d’Information Régional Touristique de Nouvelle-AQUItaine. Le dispositif est mis en œuvre conjointement par le Comité Régional de Tourisme de Nouvelle-Aquitaine, les services touristiques de la Corrèze, de la Creuse, de la Dordogne, de la Gironde, des Landes, du Lot-et-Garonne, des Pyrénées-Atlantiques, des Deux-Sèvres, de la Vienne et de la Haute-Vienne, en collaboration avec les Offices de Tourisme, et avec le soutien financier de l’Europe et du Conseil Régional."
+        ],
+        "nl": [
+          "Collecter, mettre en commun et diffuser le plus largement possible une information complète et de qualité au service de nos habitants et de nos visiteurs : voici les objectifs du SIRTAQUI, Système d’Information Régional Touristique de Nouvelle-AQUItaine. Le dispositif est mis en œuvre conjointement par le Comité Régional de Tourisme de Nouvelle-Aquitaine, les services touristiques de la Corrèze, de la Creuse, de la Dordogne, de la Gironde, des Landes, du Lot-et-Garonne, des Pyrénées-Atlantiques, des Deux-Sèvres, de la Vienne et de la Haute-Vienne, en collaboration avec les Offices de Tourisme, et avec le soutien financier de l’Europe et du Conseil Régional."
+        ],
+        "es": [
+          "Collecter, mettre en commun et diffuser le plus largement possible une information complète et de qualité au service de nos habitants et de nos visiteurs : voici les objectifs du SIRTAQUI, Système d’Information Régional Touristique de Nouvelle-AQUItaine. Le dispositif est mis en œuvre conjointement par le Comité Régional de Tourisme de Nouvelle-Aquitaine, les services touristiques de la Corrèze, de la Creuse, de la Dordogne, de la Gironde, des Landes, du Lot-et-Garonne, des Pyrénées-Atlantiques, des Deux-Sèvres, de la Vienne et de la Haute-Vienne, en collaboration avec les Offices de Tourisme, et avec le soutien financier de l’Europe et du Conseil Régional."
+        ]
+      },
+      "foaf:homepage": [
+        "http://www.sirtaqui-aquitaine.com/"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/eef27e75-4a23-313e-a6ee-797e7b64a1cd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "rdfs:comment"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a0239874-e3a0-3ce2-80cd-37006e8950ab",
+      "schema:telephone": [
+        "+33 5 55 37 44 45"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.bm-limoges.fr/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a0239874-e3a0-3ce2-80cd-37006e8950ab",
+      "schema:telephone": [
+        "+33 5 55 37 44 45"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.bm-limoges.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/e3c7e59b-fb42-36be-8b18-da6842af54ee",
+      "dc:description": {
+        "de": [
+          "Die Bibliothek im Stadtteil La Bastide ist eine Nachbarschaftsbibliothek in einem kulturellen und sozialen Komplex, der auch einen Multimediaraum beherbergt.\nÜber einen täglichen Pendelverkehr kann sie alle Ressourcen des BFM-Netzes (Bibliothèque francophone multimedia) nutzen.\nAdresse des computergestützten Katalogs: www.bm-limoges.fr.\nArt der verfügbaren Dokumente: Bücher.\nVerfügbare Dienstleistungen: siehe www.bm-limoges.fr.\nTeilnahme an einem Netzwerk: Städtisches Netzwerk. Sudoc-PS (für Zeitschriften, www.sudoc.abes.fr)."
+        ],
+        "en": [
+          "The library is located in the La Bastide district, within a cultural and social complex that also houses a multimedia space.\nThanks to a daily shuttle service, it has access to all the resources of the BFM (Bibliothèque francophone multimédia) network.\nAddress of computerized catalog: www.bm-limoges.fr.\nTypes of documents available: books.\nServices available: see www.bm-limoges.fr.\nNetwork membership: municipal network. Sudoc-PS (for journals, www.sudoc.abes.fr)."
+        ],
+        "it": [
+          "La biblioteca si trova nel quartiere La Bastide, all'interno di un complesso culturale e sociale che ospita anche un centro multimediale.\nGrazie a un servizio navetta giornaliero, ha accesso a tutte le risorse della rete BFM (Bibliothèque francophone multimédia).\nIndirizzo del catalogo informatizzato: www.bm-limoges.fr.\nTipi di documenti disponibili: libri.\nServizi disponibili: vedi www.bm-limoges.fr.\nPartecipazione a una rete: rete comunale. Sudoc-PS (per le riviste, www.sudoc.abes.fr)."
+        ],
+        "fr": [
+          "Bibliothèque du quartier de La Bastide, elle assure des missions de bibliothèque de proximité, au sein d’un complexe culturel et social qui abrite également un espace multimédia.\nElle bénéficie, par l’intermédiaire d’un système de navettes quotidiennes, de l’ensemble des ressources du réseau de la BFM (Bibliothèque francophone multimédia). \nAdresse du catalogue informatisé : www.bm-limoges.fr.\nTypes de documents disponibles : livres.\nServices disponibles : se reporter au site www.bm-limoges.fr.\nParticipation à un réseau : réseau municipal. Sudoc-PS (pour les revues, www.sudoc.abes.fr)."
+        ],
+        "es": [
+          "La biblioteca está situada en el barrio de La Bastide, dentro de un complejo cultural y social que también alberga un centro multimedia.\nGracias a un servicio diario de lanzaderas, tiene acceso a todos los recursos de la red BFM (Bibliothèque francophone multimédia).\nDirección del catálogo informatizado: www.bm-limoges.fr.\nTipos de documentos disponibles: libros.\nServicios disponibles: véase www.bm-limoges.fr.\nParticipación en una red: red municipal. Sudoc-PS (para revistas, www.sudoc.abes.fr)."
+        ],
+        "nl": [
+          "De bibliotheek ligt in de wijk La Bastide, in een cultureel en sociaal complex waar ook een multimediacentrum is gevestigd.\nDankzij een dagelijkse pendeldienst heeft de bibliotheek toegang tot alle bronnen van het BFM-netwerk (Bibliothèque francophone multimédia).\nAdres van de geautomatiseerde catalogus: www.bm-limoges.fr.\nSoorten beschikbare documenten: boeken.\nBeschikbare diensten: zie www.bm-limoges.fr.\nDeelname aan een netwerk: gemeentelijk netwerk. Sudoc-PS (voor tijdschriften, www.sudoc.abes.fr)."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1c80e9e8-a424-3974-a73d-38d6f14b4eb8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/35facb36-0300-326f-9352-e115893c112c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/515af5ca-e5f3-345d-b87f-bd14ad95fe49",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/65e9bd08-9fa1-3e12-99f0-d905848e26aa",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6ef8e6f0-fefa-3cc2-9e60-6d04e04752c5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/863f426d-02a6-3327-8661-26bec524bff2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9257cecc-ae94-3958-8393-cb0799b8885d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b903e099-45e1-3afc-8e9a-13220445b446",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c0a69b7f-a4c0-3d1a-a39a-324651aaf4d1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cdc76f13-1984-374d-98b2-6d9fc8418f81",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Bibliothek im Stadtteil La Bastide ist eine Nachbarschaftsbibliothek in einem kulturellen und sozialen Komplex, der auch einen Multimediaraum beherbergt.\nÜber einen täglichen Pendelverkehr kann sie alle Ressourcen des BFM-Netzes (Bibliothèque francophone multimedia) nutzen.\nAdresse des computergestützten Katalogs: www.bm-limoges.fr.\nArt der verfügbaren Dokumente: Bücher.\nVerfügbare Dienstleistungen: siehe www.bm-limoges.fr.\nTeilnahme an einem Netzwerk: Städtisches Netzwerk. Sudoc-PS (für Zeitschriften, www.sudoc.abes.fr)."
+        ],
+        "en": [
+          "The library is located in the La Bastide district, within a cultural and social complex that also houses a multimedia space.\nThanks to a daily shuttle service, it has access to all the resources of the BFM (Bibliothèque francophone multimédia) network.\nAddress of computerized catalog: www.bm-limoges.fr.\nTypes of documents available: books.\nServices available: see www.bm-limoges.fr.\nNetwork membership: municipal network. Sudoc-PS (for journals, www.sudoc.abes.fr)."
+        ],
+        "it": [
+          "La biblioteca si trova nel quartiere La Bastide, all'interno di un complesso culturale e sociale che ospita anche un centro multimediale.\nGrazie a un servizio navetta giornaliero, ha accesso a tutte le risorse della rete BFM (Bibliothèque francophone multimédia).\nIndirizzo del catalogo informatizzato: www.bm-limoges.fr.\nTipi di documenti disponibili: libri.\nServizi disponibili: vedi www.bm-limoges.fr.\nPartecipazione a una rete: rete comunale. Sudoc-PS (per le riviste, www.sudoc.abes.fr)."
+        ],
+        "fr": [
+          "Bibliothèque du quartier de La Bastide, elle assure des missions de bibliothèque de proximité, au sein d’un complexe culturel et social qui abrite également un espace multimédia.\nElle bénéficie, par l’intermédiaire d’un système de navettes quotidiennes, de l’ensemble des ressources du réseau de la BFM (Bibliothèque francophone multimédia). \nAdresse du catalogue informatisé : www.bm-limoges.fr.\nTypes de documents disponibles : livres.\nServices disponibles : se reporter au site www.bm-limoges.fr.\nParticipation à un réseau : réseau municipal. Sudoc-PS (pour les revues, www.sudoc.abes.fr)."
+        ],
+        "es": [
+          "La biblioteca está situada en el barrio de La Bastide, dentro de un complejo cultural y social que también alberga un centro multimedia.\nGracias a un servicio diario de lanzaderas, tiene acceso a todos los recursos de la red BFM (Bibliothèque francophone multimédia).\nDirección del catálogo informatizado: www.bm-limoges.fr.\nTipos de documentos disponibles: libros.\nServicios disponibles: véase www.bm-limoges.fr.\nParticipación en una red: red municipal. Sudoc-PS (para revistas, www.sudoc.abes.fr)."
+        ],
+        "nl": [
+          "De bibliotheek ligt in de wijk La Bastide, in een cultureel en sociaal complex waar ook een multimediacentrum is gevestigd.\nDankzij een dagelijkse pendeldienst heeft de bibliotheek toegang tot alle bronnen van het BFM-netwerk (Bibliothèque francophone multimédia).\nAdres van de geautomatiseerde catalogus: www.bm-limoges.fr.\nSoorten beschikbare documenten: boeken.\nBeschikbare diensten: zie www.bm-limoges.fr.\nDeelname aan een netwerk: gemeentelijk netwerk. Sudoc-PS (voor tijdschriften, www.sudoc.abes.fr)."
+        ]
+      }
+    }
+  ],
+  "hasMainRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/4c57d457-39a3-3c97-8ee1-1ac765e92fba",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/a8083c25-d7d9-34b0-bd41-f3e1db8c781f",
+          "ebucore:isCoveredBy": "CC By-NC-ND 4.0",
+          "ebucore:title": {
+            "fr": [
+              "Bibliothèque Francophone Multimédia de Limoges - La Bastide_1"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Ville de Limoges"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/8519ab7a-3226-3e6b-868f-f8de1d592c17",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "http://aquitaine.media.tourinsoft.eu/Upload/191001309-4.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/4c57d457-39a3-3c97-8ee1-1ac765e92fba",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/a8083c25-d7d9-34b0-bd41-f3e1db8c781f",
+          "ebucore:isCoveredBy": "CC By-NC-ND 4.0",
+          "ebucore:title": {
+            "fr": [
+              "Bibliothèque Francophone Multimédia de Limoges - La Bastide_1"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Ville de Limoges"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/8519ab7a-3226-3e6b-868f-f8de1d592c17",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "http://aquitaine.media.tourinsoft.eu/Upload/191001309-4.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ea89f49b-8628-35d5-aa69-db0c71d77658",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/56183863-f057-31a6-aa1d-eda7d428f58a",
+          "ebucore:isCoveredBy": "By-NC-ND 4.0",
+          "ebucore:title": {
+            "fr": [
+              "Bibliothèque Francophone Multimédia de Limoges - La Bastide_1"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Ville de Limoges"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/8519ab7a-3226-3e6b-868f-f8de1d592c17",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "http://aquitaine.media.tourinsoft.eu/Upload/191001309-4.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/6ab05fc5-921c-3a5d-ba3d-2eb09518b376",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/bb3fbac1-ca29-362e-af02-877f3b1b382d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e4a4f743-757e-3cb5-bd0e-d4d4874e1a81",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f264e2f8-91a0-3514-a743-42babf088392",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fa2c3555-0e4d-39fe-994c-87539780380d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/eca5773c-715a-3069-8972-14e73fe2eb71",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/286cbd85-1911-389e-97ee-b76f5f4787c1",
+          "schema:addressLocality": "Limoges",
+          "schema:postalCode": "87000",
+          "schema:streetAddress": [
+            "24 Rue Pissaro"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:87085",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Limoges"
+              ],
+              "pt": [
+                "Limoges"
+              ],
+              "en": [
+                "Limoges"
+              ],
+              "it": [
+                "Limoges"
+              ],
+              "fr": [
+                "Limoges"
+              ],
+              "nl": [
+                "Limoges"
+              ],
+              "es": [
+                "Limoges"
+              ]
+            },
+            "insee": "87085",
+            "isPartOfDepartment": {
+              "@id": "kb:France7587",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Haute-Vienne"
+                ],
+                "pt": [
+                  "Haute-Vienne"
+                ],
+                "en": [
+                  "Haute-Vienne"
+                ],
+                "it": [
+                  "Haute-Vienne"
+                ],
+                "fr": [
+                  "Haute-Vienne"
+                ],
+                "nl": [
+                  "Haute-Vienne"
+                ],
+                "es": [
+                  "Haute-Vienne"
+                ]
+              },
+              "insee": "87",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/121aef32-3144-3e42-8b87-13c40fb4e9d2",
+        "schema:latitude": "45.8559451",
+        "schema:longitude": "1.2725687",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/a0239874-e3a0-3ce2-80cd-37006e8950ab",
+      "schema:telephone": [
+        "+33 5 55 37 44 45"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.bm-limoges.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-03-17",
+  "lastUpdateDatatourisme": "2023-07-24T00:37:55.755Z",
+  "reducedMobilityAccess": true
+}

@@ -1,0 +1,933 @@
+{
+  "@id": "https://data.datatourisme.fr/23/fec1515e-1b16-3021-a8fb-86113ff86168",
+  "dc:identifier": "PNAAQU087V5003BX",
+  "@type": [
+    "schema:Landform",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das Gartempe-Tal bietet eine Vielfalt an Landschaften zwischen tief eingeschnittenen Tälern, Heidelandschaften und Wäldern. Da die Gartempe das Haut Limousin von den Gemeinden Val d'Oire sur Gartempe bis nach Châteauponsac durchfließt, wurden zahlreiche Wanderwege eingerichtet, um diese Gebiete zu entdecken. Darüber hinaus sind an den Ufern der stürmischen Gartempe einige prestigeträchtige Dörfer entstanden oder wurden auf einem Felsvorsprung errichtet, wie z. B. Châteauponsac, das als \"Perle der Gartempe\" bezeichnet wird und das das repräsentativste Beispiel dafür ist.  Im Rahmen des Lachsplans wurden an diesem Fluss zahlreiche Studien durchgeführt. Ein Teil des Flusses profitiert von einem präfektoralen Biotopschutzbeschluss zur Erhaltung des Atlantischen Lachses, dem Symbolfisch des Flusses."
+    ],
+    "en": [
+      "The Gartempe Valley offers a diversity of landscapes, from steep-sided valleys to moors and forests. As the Gartempe flows through the Haut Limousin region from Val d'Oire sur Gartempe to Châteauponsac, a number of hiking trails have been set up to explore the area. What's more, a number of prestigious towns have sprung up along the banks of the tumultuous Gartempe, or have been built on a rocky spur. Châteauponsac, nicknamed \"the Pearl of the Gartempe\", is the most representative example.  Numerous studies have been carried out on this river as part of the salmon plan. Part of the river benefits from a prefectoral biotope protection order to preserve the Atlantic salmon, the river's emblematic fish."
+    ],
+    "it": [
+      "La Valle della Gartempe offre una vasta gamma di paesaggi, dalle valli scoscese alle brughiere e alle foreste. Poiché la Gartempe attraversa l'Haut Limousin dalla Val d'Oire sur Gartempe a Châteauponsac, sono stati creati numerosi sentieri per esplorare la zona. Inoltre, lungo le rive della tumultuosa Gartempe o su uno sperone roccioso sono sorte alcune prestigiose città mercato, tra cui Châteauponsac, soprannominata \"la Perla della Gartempe\", è l'esempio più rappresentativo.  Su questo fiume sono stati condotti numerosi studi nell'ambito del piano salmonicolo. Una parte del fiume beneficia di un'ordinanza prefettizia di tutela del biotopo per proteggere il salmone atlantico, pesce emblematico del fiume."
+    ],
+    "fr": [
+      "La Vallée de la Gartempe offre une diversité de paysages, entre vallées encaissées, landes et forêts. La Gartempe traversant le Haut Limousin des communes de Val d'Oire sur Gartempe jusqu'à Châteauponsac, de nombreux circuits de randonnées ont été mis en place afin de découvrir ces espaces. De plus, certains bourgs prestigieux ont vu le jour le long des rives de la tumultueuse Gartempe ou se sont construit sur un éperon rocheux, c'est le cas de Châteauponsac que l'on surnomme \"la Perle de la Gartempe\" qui en est l'exemple le plus représentatif.  De nombreuses études ont été réalisées sur cette rivière dans le cadre du plan saumon. Une partie de la rivière bénéficie d'un arrêté préfectoral de protection de biotope pour la préservation du saumon atlantique, poisson emblématique de la rivière."
+    ],
+    "es": [
+      "El valle del Gartempe ofrece una gran diversidad de paisajes, desde valles escarpados hasta páramos y bosques. El Gartempe atraviesa el Haut Limousin desde Val d'Oire sur Gartempe hasta Châteauponsac, por lo que se han creado numerosas rutas de senderismo para explorar la zona. Además, a orillas del tumultuoso Gartempe han surgido varias ciudades mercado de prestigio o se han construido sobre un espolón rocoso, como en el caso de Châteauponsac, apodada \"la Perla del Gartempe\", que es el ejemplo más representativo.  Se han realizado numerosos estudios sobre este río en el marco del plan del salmón. Una parte del río se beneficia de una orden prefectoral de protección del biotopo para proteger al salmón atlántico, pez emblemático del río."
+    ],
+    "nl": [
+      "De vallei van de Gartempe biedt een verscheidenheid aan landschappen, van steile valleien tot heidevelden en bossen. Aangezien de Gartempe door de Haut Limousin stroomt van Val d'Oire sur Gartempe tot Châteauponsac, zijn er verschillende wandelroutes uitgezet om het gebied te verkennen. Bovendien zijn er langs de oevers van de tumultueuze Gartempe een aantal prestigieuze marktstadjes ontstaan of gebouwd op een rotsachtige uitloper. Châteauponsac, bijgenaamd \"de Parel van de Gartempe\", is hiervan het meest representatieve voorbeeld.  Er zijn talrijke studies uitgevoerd op deze rivier in het kader van het zalmplan. Voor een deel van de rivier geldt een prefectorale biotoopbescherming om de Atlantische zalm, de emblematische vis van de rivier, te beschermen."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "La Vallée de la Gartempe"
+    ],
+    "en": [
+      "La Vallée de la Gartempe"
+    ],
+    "fr": [
+      "La Vallée de la Gartempe"
+    ],
+    "nl": [
+      "La Vallée de la Gartempe"
+    ],
+    "es": [
+      "La Vallée de la Gartempe"
+    ]
+  },
+  "creationDate": "2022-09-06",
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/23/5b9cef25-4afe-3322-beb1-71ccca1c0450",
+    "dc:identifier": "3a568f48-c1b2-4c22-8510-b845c2d844cb",
+    "schema:legalName": "OT Pays du Haut Limousin",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0bb7ff35-8399-3d8d-9bb9-4dac061cf323",
+      "schema:email": [
+        "sirtaqui@na-tourisme.com"
+      ],
+      "schema:legalName": "SIRTAQUI Nouvelle-Aquitaine",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "rdfs:comment": {
+        "de": [
+          "Collecter, mettre en commun et diffuser le plus largement possible une information complète et de qualité au service de nos habitants et de nos visiteurs : voici les objectifs du SIRTAQUI, Système d’Information Régional Touristique de Nouvelle-AQUItaine. Le dispositif est mis en œuvre conjointement par le Comité Régional de Tourisme de Nouvelle-Aquitaine, les services touristiques de la Corrèze, de la Creuse, de la Dordogne, de la Gironde, des Landes, du Lot-et-Garonne, des Pyrénées-Atlantiques, des Deux-Sèvres, de la Vienne et de la Haute-Vienne, en collaboration avec les Offices de Tourisme, et avec le soutien financier de l’Europe et du Conseil Régional."
+        ],
+        "en": [
+          "Collecter, mettre en commun et diffuser le plus largement possible une information complète et de qualité au service de nos habitants et de nos visiteurs : voici les objectifs du SIRTAQUI, Système d’Information Régional Touristique de Nouvelle-AQUItaine. Le dispositif est mis en œuvre conjointement par le Comité Régional de Tourisme de Nouvelle-Aquitaine, les services touristiques de la Corrèze, de la Creuse, de la Dordogne, de la Gironde, des Landes, du Lot-et-Garonne, des Pyrénées-Atlantiques, des Deux-Sèvres, de la Vienne et de la Haute-Vienne, en collaboration avec les Offices de Tourisme, et avec le soutien financier de l’Europe et du Conseil Régional."
+        ],
+        "it": [
+          "L'obiettivo di SIRTAQUI, il Sistema Regionale di Informazione Turistica della Nuova Aquitania, è quello di raccogliere, mettere in comune e diffondere il più possibile informazioni complete e di qualità a beneficio dei nostri residenti e visitatori. Il sistema è realizzato congiuntamente dal Comité Régional de Tourisme de Nouvelle-Aquitaine, dai servizi turistici di Corrèze, Creuse, Dordogne, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques, Deux-Sèvres, Vienne e Haute-Vienne, in collaborazione con gli Uffici del Turismo e con il sostegno finanziario dell'Europa e del Conseil Régional."
+        ],
+        "fr": [
+          "Collecter, mettre en commun et diffuser le plus largement possible une information complète et de qualité au service de nos habitants et de nos visiteurs : voici les objectifs du SIRTAQUI, Système d’Information Régional Touristique de Nouvelle-AQUItaine. Le dispositif est mis en œuvre conjointement par le Comité Régional de Tourisme de Nouvelle-Aquitaine, les services touristiques de la Corrèze, de la Creuse, de la Dordogne, de la Gironde, des Landes, du Lot-et-Garonne, des Pyrénées-Atlantiques, des Deux-Sèvres, de la Vienne et de la Haute-Vienne, en collaboration avec les Offices de Tourisme, et avec le soutien financier de l’Europe et du Conseil Régional."
+        ],
+        "nl": [
+          "Collecter, mettre en commun et diffuser le plus largement possible une information complète et de qualité au service de nos habitants et de nos visiteurs : voici les objectifs du SIRTAQUI, Système d’Information Régional Touristique de Nouvelle-AQUItaine. Le dispositif est mis en œuvre conjointement par le Comité Régional de Tourisme de Nouvelle-Aquitaine, les services touristiques de la Corrèze, de la Creuse, de la Dordogne, de la Gironde, des Landes, du Lot-et-Garonne, des Pyrénées-Atlantiques, des Deux-Sèvres, de la Vienne et de la Haute-Vienne, en collaboration avec les Offices de Tourisme, et avec le soutien financier de l’Europe et du Conseil Régional."
+        ],
+        "es": [
+          "Collecter, mettre en commun et diffuser le plus largement possible une information complète et de qualité au service de nos habitants et de nos visiteurs : voici les objectifs du SIRTAQUI, Système d’Information Régional Touristique de Nouvelle-AQUItaine. Le dispositif est mis en œuvre conjointement par le Comité Régional de Tourisme de Nouvelle-Aquitaine, les services touristiques de la Corrèze, de la Creuse, de la Dordogne, de la Gironde, des Landes, du Lot-et-Garonne, des Pyrénées-Atlantiques, des Deux-Sèvres, de la Vienne et de la Haute-Vienne, en collaboration avec les Offices de Tourisme, et avec le soutien financier de l’Europe et du Conseil Régional."
+        ]
+      },
+      "foaf:homepage": [
+        "http://www.sirtaqui-aquitaine.com/"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/698ad0c3-e6e2-373f-b8e2-93106d9f2d91",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "rdfs:comment"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/25dc9294-ee64-3aa2-8718-ba9ff936eac5",
+      "schema:email": [
+        "info@tourisme-hautlimousin.com"
+      ],
+      "schema:legalName": "La Vallée de la Gartempe",
+      "schema:telephone": [
+        "+33 5 55 68 12 79"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.tourisme-hautlimousin.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/25dc9294-ee64-3aa2-8718-ba9ff936eac5",
+      "schema:email": [
+        "info@tourisme-hautlimousin.com"
+      ],
+      "schema:legalName": "La Vallée de la Gartempe",
+      "schema:telephone": [
+        "+33 5 55 68 12 79"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.tourisme-hautlimousin.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2f2453fc-ec2e-3e73-8bac-9a7ace595127",
+      "schema:email": [
+        "info@tourisme-hautlimousin.com"
+      ],
+      "schema:telephone": [
+        "+33 5 55 68 12 79"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.tourisme-hautlimousin.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b21651ef-603c-3a72-9148-9a726a0c20de",
+      "dc:description": {
+        "de": [
+          "Das Gartempe-Tal bietet eine Vielfalt an Landschaften zwischen tief eingeschnittenen Tälern, Heidelandschaften und Wäldern. Da die Gartempe das Haut Limousin von den Gemeinden Val d'Oire sur Gartempe bis nach Châteauponsac durchfließt, wurden zahlreiche Wanderwege eingerichtet, um diese Gebiete zu entdecken. Darüber hinaus sind an den Ufern der stürmischen Gartempe einige prestigeträchtige Dörfer entstanden oder wurden auf einem Felsvorsprung errichtet, wie z. B. Châteauponsac, das als \"Perle der Gartempe\" bezeichnet wird und das das repräsentativste Beispiel dafür ist.  Im Rahmen des Lachsplans wurden an diesem Fluss zahlreiche Studien durchgeführt. Ein Teil des Flusses profitiert von einem präfektoralen Biotopschutzbeschluss zur Erhaltung des Atlantischen Lachses, dem Symbolfisch des Flusses."
+        ],
+        "en": [
+          "The Gartempe Valley offers a diversity of landscapes, from steep-sided valleys to moors and forests. As the Gartempe flows through the Haut Limousin region from Val d'Oire sur Gartempe to Châteauponsac, a number of hiking trails have been set up to explore the area. What's more, a number of prestigious towns have sprung up along the banks of the tumultuous Gartempe, or have been built on a rocky spur. Châteauponsac, nicknamed \"the Pearl of the Gartempe\", is the most representative example.  Numerous studies have been carried out on this river as part of the salmon plan. Part of the river benefits from a prefectoral biotope protection order to preserve the Atlantic salmon, the river's emblematic fish."
+        ],
+        "it": [
+          "La Valle della Gartempe offre una vasta gamma di paesaggi, dalle valli scoscese alle brughiere e alle foreste. Poiché la Gartempe attraversa l'Haut Limousin dalla Val d'Oire sur Gartempe a Châteauponsac, sono stati creati numerosi sentieri per esplorare la zona. Inoltre, lungo le rive della tumultuosa Gartempe o su uno sperone roccioso sono sorte alcune prestigiose città mercato, tra cui Châteauponsac, soprannominata \"la Perla della Gartempe\", è l'esempio più rappresentativo.  Su questo fiume sono stati condotti numerosi studi nell'ambito del piano salmonicolo. Una parte del fiume beneficia di un'ordinanza prefettizia di tutela del biotopo per proteggere il salmone atlantico, pesce emblematico del fiume."
+        ],
+        "fr": [
+          "La Vallée de la Gartempe offre une diversité de paysages, entre vallées encaissées, landes et forêts. La Gartempe traversant le Haut Limousin des communes de Val d'Oire sur Gartempe jusqu'à Châteauponsac, de nombreux circuits de randonnées ont été mis en place afin de découvrir ces espaces. De plus, certains bourgs prestigieux ont vu le jour le long des rives de la tumultueuse Gartempe ou se sont construit sur un éperon rocheux, c'est le cas de Châteauponsac que l'on surnomme \"la Perle de la Gartempe\" qui en est l'exemple le plus représentatif.  De nombreuses études ont été réalisées sur cette rivière dans le cadre du plan saumon. Une partie de la rivière bénéficie d'un arrêté préfectoral de protection de biotope pour la préservation du saumon atlantique, poisson emblématique de la rivière."
+        ],
+        "es": [
+          "El valle del Gartempe ofrece una gran diversidad de paisajes, desde valles escarpados hasta páramos y bosques. El Gartempe atraviesa el Haut Limousin desde Val d'Oire sur Gartempe hasta Châteauponsac, por lo que se han creado numerosas rutas de senderismo para explorar la zona. Además, a orillas del tumultuoso Gartempe han surgido varias ciudades mercado de prestigio o se han construido sobre un espolón rocoso, como en el caso de Châteauponsac, apodada \"la Perla del Gartempe\", que es el ejemplo más representativo.  Se han realizado numerosos estudios sobre este río en el marco del plan del salmón. Una parte del río se beneficia de una orden prefectoral de protección del biotopo para proteger al salmón atlántico, pez emblemático del río."
+        ],
+        "nl": [
+          "De vallei van de Gartempe biedt een verscheidenheid aan landschappen, van steile valleien tot heidevelden en bossen. Aangezien de Gartempe door de Haut Limousin stroomt van Val d'Oire sur Gartempe tot Châteauponsac, zijn er verschillende wandelroutes uitgezet om het gebied te verkennen. Bovendien zijn er langs de oevers van de tumultueuze Gartempe een aantal prestigieuze marktstadjes ontstaan of gebouwd op een rotsachtige uitloper. Châteauponsac, bijgenaamd \"de Parel van de Gartempe\", is hiervan het meest representatieve voorbeeld.  Er zijn talrijke studies uitgevoerd op deze rivier in het kader van het zalmplan. Voor een deel van de rivier geldt een prefectorale biotoopbescherming om de Atlantische zalm, de emblematische vis van de rivier, te beschermen."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/09b72fee-c9d2-3a80-b215-58ff93f959f7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/396ae142-c630-3e29-84f2-d851426d7196",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3c9579f1-3688-3dbb-858a-b54eff612829",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4234efe8-017a-305c-a7be-58e0faae9041",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/55369c6f-92bc-345e-9754-41353337d09a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7fd45d80-ce4e-3fa0-be09-904a5d5851ce",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a82f20ab-8d88-367b-9834-d5bf14bdc9fa",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ba8781f1-d5f0-3996-824a-5dbc5d12e2b5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c0ed57d0-6438-3551-830a-8796ad7678ed",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f2d46aa1-9685-3ac1-8747-a62a09115805",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das Gartempe-Tal bietet eine Vielfalt an Landschaften zwischen tief eingeschnittenen Tälern, Heidelandschaften und Wäldern. Da die Gartempe das Haut Limousin von den Gemeinden Val d'Oire sur Gartempe bis nach Châteauponsac durchfließt, wurden zahlreiche Wanderwege eingerichtet, um diese Gebiete zu entdecken. Darüber hinaus sind an den Ufern der stürmischen Gartempe einige prestigeträchtige Dörfer entstanden oder wurden auf einem Felsvorsprung errichtet, wie z. B. Châteauponsac, das als \"Perle der Gartempe\" bezeichnet wird und das das repräsentativste Beispiel dafür ist.  Im Rahmen des Lachsplans wurden an diesem Fluss zahlreiche Studien durchgeführt. Ein Teil des Flusses profitiert von einem präfektoralen Biotopschutzbeschluss zur Erhaltung des Atlantischen Lachses, dem Symbolfisch des Flusses."
+        ],
+        "en": [
+          "The Gartempe Valley offers a diversity of landscapes, from steep-sided valleys to moors and forests. As the Gartempe flows through the Haut Limousin region from Val d'Oire sur Gartempe to Châteauponsac, a number of hiking trails have been set up to explore the area. What's more, a number of prestigious towns have sprung up along the banks of the tumultuous Gartempe, or have been built on a rocky spur. Châteauponsac, nicknamed \"the Pearl of the Gartempe\", is the most representative example.  Numerous studies have been carried out on this river as part of the salmon plan. Part of the river benefits from a prefectoral biotope protection order to preserve the Atlantic salmon, the river's emblematic fish."
+        ],
+        "it": [
+          "La Valle della Gartempe offre una vasta gamma di paesaggi, dalle valli scoscese alle brughiere e alle foreste. Poiché la Gartempe attraversa l'Haut Limousin dalla Val d'Oire sur Gartempe a Châteauponsac, sono stati creati numerosi sentieri per esplorare la zona. Inoltre, lungo le rive della tumultuosa Gartempe o su uno sperone roccioso sono sorte alcune prestigiose città mercato, tra cui Châteauponsac, soprannominata \"la Perla della Gartempe\", è l'esempio più rappresentativo.  Su questo fiume sono stati condotti numerosi studi nell'ambito del piano salmonicolo. Una parte del fiume beneficia di un'ordinanza prefettizia di tutela del biotopo per proteggere il salmone atlantico, pesce emblematico del fiume."
+        ],
+        "fr": [
+          "La Vallée de la Gartempe offre une diversité de paysages, entre vallées encaissées, landes et forêts. La Gartempe traversant le Haut Limousin des communes de Val d'Oire sur Gartempe jusqu'à Châteauponsac, de nombreux circuits de randonnées ont été mis en place afin de découvrir ces espaces. De plus, certains bourgs prestigieux ont vu le jour le long des rives de la tumultueuse Gartempe ou se sont construit sur un éperon rocheux, c'est le cas de Châteauponsac que l'on surnomme \"la Perle de la Gartempe\" qui en est l'exemple le plus représentatif.  De nombreuses études ont été réalisées sur cette rivière dans le cadre du plan saumon. Une partie de la rivière bénéficie d'un arrêté préfectoral de protection de biotope pour la préservation du saumon atlantique, poisson emblématique de la rivière."
+        ],
+        "es": [
+          "El valle del Gartempe ofrece una gran diversidad de paisajes, desde valles escarpados hasta páramos y bosques. El Gartempe atraviesa el Haut Limousin desde Val d'Oire sur Gartempe hasta Châteauponsac, por lo que se han creado numerosas rutas de senderismo para explorar la zona. Además, a orillas del tumultuoso Gartempe han surgido varias ciudades mercado de prestigio o se han construido sobre un espolón rocoso, como en el caso de Châteauponsac, apodada \"la Perla del Gartempe\", que es el ejemplo más representativo.  Se han realizado numerosos estudios sobre este río en el marco del plan del salmón. Una parte del río se beneficia de una orden prefectoral de protección del biotopo para proteger al salmón atlántico, pez emblemático del río."
+        ],
+        "nl": [
+          "De vallei van de Gartempe biedt een verscheidenheid aan landschappen, van steile valleien tot heidevelden en bossen. Aangezien de Gartempe door de Haut Limousin stroomt van Val d'Oire sur Gartempe tot Châteauponsac, zijn er verschillende wandelroutes uitgezet om het gebied te verkennen. Bovendien zijn er langs de oevers van de tumultueuze Gartempe een aantal prestigieuze marktstadjes ontstaan of gebouwd op een rotsachtige uitloper. Châteauponsac, bijgenaamd \"de Parel van de Gartempe\", is hiervan het meest representatieve voorbeeld.  Er zijn talrijke studies uitgevoerd op deze rivier in het kader van het zalmplan. Voor een deel van de rivier geldt een prefectorale biotoopbescherming om de Atlantische zalm, de emblematische vis van de rivier, te beschermen."
+        ]
+      }
+    }
+  ],
+  "hasMainRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/5f9d6ed4-e3d8-3b8b-8914-b7cb64ab7e1c",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/7742c97c-660d-36d4-9d75-3a7eb86809f4",
+          "ebucore:isCoveredBy": "By-NC-ND 4.0",
+          "ebucore:title": {
+            "fr": [
+              "TourismeHautLimousin_1"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Sabine Massé"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/67c8e3bb-e777-3fae-a125-be1034cd7134",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "http://aquitaine.media.tourinsoft.eu/Upload/210002143-5.JPG"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/505bfb20-4d2a-3959-ae5d-acbeda5feec2",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/e0933595-f5f2-3fc2-968c-c8a35101bd7d",
+          "ebucore:isCoveredBy": "By-NC-ND 4.0",
+          "ebucore:title": {
+            "fr": [
+              "TourismeHautLimousinChâteauponsac_3"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Sabine Massé"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/67b8e01a-fb93-36ae-ba6e-43ca7382f07e",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "http://aquitaine.media.tourinsoft.eu/Upload/210002143-6.JPG"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5f9d6ed4-e3d8-3b8b-8914-b7cb64ab7e1c",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/7742c97c-660d-36d4-9d75-3a7eb86809f4",
+          "ebucore:isCoveredBy": "By-NC-ND 4.0",
+          "ebucore:title": {
+            "fr": [
+              "TourismeHautLimousin_1"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Sabine Massé"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/67c8e3bb-e777-3fae-a125-be1034cd7134",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "http://aquitaine.media.tourinsoft.eu/Upload/210002143-5.JPG"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cd077a5c-3100-33cd-a273-843e59d4790b",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/d004ceed-11d9-3f33-b052-a93a31d02050",
+          "ebucore:isCoveredBy": "By-NC-ND 4.0",
+          "ebucore:title": {
+            "fr": [
+              "La Gartempe vue du Pont dit Romain à Châteauponsac_2"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "OTPHL"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/00ab7fd0-ceec-38cd-b1d4-cc099cf0ebf9",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "http://aquitaine.media.tourinsoft.eu/Upload/210002143-4.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/05a736be-5fa2-323f-8f6e-5e51d59462bf",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5390fd47-68aa-3900-9f5d-6f52faee0c34",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/585a201e-4739-3e42-918e-4c4315d13f24",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/69087ea1-54ca-3200-837c-a77e409727fb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/dd5d4df4-a1d8-3f31-8118-2a90875fb37f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/131390e9-3e69-3ef5-b919-727eb9753c65",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/0e679354-69b7-3562-b163-f2832f7a53c5",
+          "schema:addressLocality": "Châteauponsac",
+          "schema:postalCode": "87290",
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:87041",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Châteauponsac"
+              ],
+              "pt": [
+                "Châteauponsac"
+              ],
+              "en": [
+                "Châteauponsac"
+              ],
+              "it": [
+                "Châteauponsac"
+              ],
+              "fr": [
+                "Châteauponsac"
+              ],
+              "nl": [
+                "Châteauponsac"
+              ],
+              "es": [
+                "Châteauponsac"
+              ]
+            },
+            "insee": "87041",
+            "isPartOfDepartment": {
+              "@id": "kb:France7587",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Haute-Vienne"
+                ],
+                "pt": [
+                  "Haute-Vienne"
+                ],
+                "en": [
+                  "Haute-Vienne"
+                ],
+                "it": [
+                  "Haute-Vienne"
+                ],
+                "fr": [
+                  "Haute-Vienne"
+                ],
+                "nl": [
+                  "Haute-Vienne"
+                ],
+                "es": [
+                  "Haute-Vienne"
+                ]
+              },
+              "insee": "87",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/2f6d5150-0470-3937-a025-6f94f56d0750",
+        "schema:latitude": "46.1273891",
+        "schema:longitude": "1.27458572",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "altInsee": [
+        "87041"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-14",
+  "lastUpdateDatatourisme": "2023-07-24T00:26:35.185Z",
+  "reducedMobilityAccess": false
+}

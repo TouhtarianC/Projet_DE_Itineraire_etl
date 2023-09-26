@@ -1,0 +1,462 @@
+{
+  "@id": "https://data.datatourisme.fr/13/d0809ae0-5aa3-3818-93a7-3fcff694015b",
+  "dc:identifier": "5751999",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Verkostung von Pineau des Charentes und Likören. Besichtigung des Weinbergs und der Destillerie nach Vereinbarung möglich\r\nBesichtigung auf Englisch und Deutsch möglich."
+    ],
+    "en": [
+      "Tasting of pineau des Charentes and liqueurs. Visit of the vineyard and distillery possible by appointment\r\nVisit possible in English and German."
+    ],
+    "it": [
+      "Degustazione di pineau des Charentes e liquori. Visita del vigneto e della distilleria possibile su appuntamento\r\nVisita possibile in inglese e tedesco."
+    ],
+    "fr": [
+      "Dégustation de pineau des Charentes et liqueurs. Visite possible du vignoble et de la distillerie sur rendez-vous. \r\nVisite possible en anglais et en allemand."
+    ],
+    "nl": [
+      "Proeverij van pineau des Charentes en likeuren. Bezoek aan de wijngaard en distilleerderij mogelijk op afspraak\r\nBezoek mogelijk in het Engels en Duits."
+    ],
+    "es": [
+      "Degustación de pineau des Charentes y licores. Posibilidad de visitar el viñedo y la destilería con cita previa\r\nVisita posible en inglés y alemán."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Etablissements Martinaud"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/75baccd2-d462-372d-919e-d4164babbd73",
+      "schema:email": [
+        "contact@ets-martinaud.com"
+      ],
+      "schema:telephone": [
+        "+33 5 46 04 60 40",
+        "+33 6 48 14 51 90"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/3bb1efba-4a69-3356-b3ff-e9b3cee74ce5",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1f48b025-074a-3c80-bf80-3b258652b0a0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/86a15751-d049-3f8e-8cae-b90843f6c9a6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/895bb20a-e56b-386c-b768-9aeed14b586e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a6c5975e-daaf-3b27-bfc6-1e7e4dbcd77f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b43223b9-26b5-322d-9e03-b1f1801861d7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Verkostung von Pineau des Charentes und Likören. Besichtigung des Weinbergs und der Destillerie nach Vereinbarung möglich\r\nBesichtigung auf Englisch und Deutsch möglich."
+        ],
+        "en": [
+          "Tasting of pineau des Charentes and liqueurs. Visit of the vineyard and distillery possible by appointment\r\nVisit possible in English and German."
+        ],
+        "it": [
+          "Degustazione di pineau des Charentes e liquori. Visita del vigneto e della distilleria possibile su appuntamento\r\nVisita possibile in inglese e tedesco."
+        ],
+        "fr": [
+          "Dégustation de pineau des Charentes et liqueurs. Visite possible du vignoble et de la distillerie sur rendez-vous. \r\nVisite possible en anglais et en allemand."
+        ],
+        "nl": [
+          "Proeverij van pineau des Charentes en likeuren. Bezoek aan de wijngaard en distilleerderij mogelijk op afspraak\r\nBezoek mogelijk in het Engels en Duits."
+        ],
+        "es": [
+          "Degustación de pineau des Charentes y licores. Posibilidad de visitar el viñedo y la destilería con cita previa\r\nVisita posible en inglés y alemán."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/4252d101-b520-3b25-ab72-34cfe5e4fab5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/949ae63f-eae2-31d5-9c56-01156b1759c5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cdd5ca20-e1ac-32dc-b4e3-289f8f006e48",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/dbfadebb-a383-3079-a9d6-160bdd35972c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fffdefa3-aa46-3f1e-a7ac-be7dd73431b6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/706891e5-ceb4-3583-8984-b2e852911912",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/8f78d999-07e4-3f81-9afe-b81e7a77e598",
+          "schema:addressLocality": "Saint-Palais-de-Négrignac",
+          "schema:postalCode": "17210",
+          "schema:streetAddress": [
+            "Chatendeau"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17378",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Palais-de-Négrignac"
+              ],
+              "pt": [
+                "Saint-Palais-de-Négrignac"
+              ],
+              "en": [
+                "Saint-Palais-de-Négrignac"
+              ],
+              "it": [
+                "Saint-Palais-de-Négrignac"
+              ],
+              "fr": [
+                "Saint-Palais-de-Négrignac"
+              ],
+              "nl": [
+                "Saint-Palais-de-Négrignac"
+              ],
+              "es": [
+                "Saint-Palais-de-Négrignac"
+              ]
+            },
+            "insee": "17378",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/9cb9fac8-010b-3582-8ea4-67c777051798",
+        "schema:latitude": "45.275217",
+        "schema:longitude": "-0.195418",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-01",
+  "lastUpdateDatatourisme": "2023-06-02T05:50:19.174Z"
+}

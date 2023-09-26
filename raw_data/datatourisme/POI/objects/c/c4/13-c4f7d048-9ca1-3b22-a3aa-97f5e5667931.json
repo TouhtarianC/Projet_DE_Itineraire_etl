@@ -1,0 +1,593 @@
+{
+  "@id": "https://data.datatourisme.fr/13/c4f7d048-9ca1-3b22-a3aa-97f5e5667931",
+  "dc:identifier": "5825147",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Beteiligt sich an der Entwicklung der Lesekompetenz und erleichtert den Zugang zu Multimedia."
+    ],
+    "en": [
+      "Participates in the development of reading and facilitates access to multimedia."
+    ],
+    "it": [
+      "Aiuta a sviluppare la lettura e facilita l'accesso al multimediale."
+    ],
+    "fr": [
+      "Participe au développement de la lecture et facilite l’accès au multimédia."
+    ],
+    "nl": [
+      "Draagt bij tot de ontwikkeling van het lezen en vergemakkelijkt de toegang tot multimedia."
+    ],
+    "es": [
+      "Ayuda a desarrollar la lectura y facilita el acceso a los multimedia."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "La médiathèque du Rouillacais"
+    ]
+  },
+  "COVID19SpecialMeasures": {
+    "de": [
+      "Reservieren Sie Ihre Dokumente über das Dokumentationsportal der Mediathek https://www.mediathequedurouillacais.fr/ oder telefonisch unter 05 45 96 48 56"
+    ],
+    "en": [
+      "Reserve your documents on the media library's documentary portal https://www.mediathequedurouillacais.fr/ or call 05 45 96 48 56"
+    ],
+    "it": [
+      "Prenotate i vostri documenti sul portale dei documenti della mediateca https://www.mediathequedurouillacais.fr/ o chiamate il numero 05 45 96 48 56"
+    ],
+    "fr": [
+      "Réservez vos documents sur le portail documentaire de la médiathèque https://www.mediathequedurouillacais.fr/ ou téléphoner au 05 45 96 48 56"
+    ],
+    "nl": [
+      "Reserveer uw documenten op de documentenportal van de mediatheek https://www.mediathequedurouillacais.fr/ of bel 05 45 96 48 56"
+    ],
+    "es": [
+      "Reserve sus documentos en el portal documental de la mediateca https://www.mediathequedurouillacais.fr/ o llame al 05 45 96 48 56"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/2eace51d-8f79-3d04-991c-831a07059758",
+    "dc:identifier": "2059",
+    "schema:email": [
+      "otdurouillacais@gmail.com"
+    ],
+    "schema:legalName": "Office de Tourisme du Rouillacais",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.rouillac-tourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/2aa16695-d699-332a-8b68-ef576637bffe",
+      "schema:email": [
+        "mediatheque@ccrouillacais.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 96 48 56"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.mediathequedurouillacais.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/c0c5d9a6-9e9c-3d86-9d4f-1d0db7cf7b72",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/204bd8b6-6b49-32cd-b765-a77c79c85b8c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/649be70f-9039-33d5-a722-a9da14ddc82d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/685aa9bf-7d3c-32ab-a5af-aec95e293a32",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/84c1b375-eda0-33e5-8386-dad44976c28a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/adfc91c5-6b3e-398a-adfc-05ae3288e2ab",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Beteiligt sich an der Entwicklung der Lesekompetenz und erleichtert den Zugang zu Multimedia."
+        ],
+        "en": [
+          "Participates in the development of reading and facilitates access to multimedia."
+        ],
+        "it": [
+          "Aiuta a sviluppare la lettura e facilita l'accesso al multimediale."
+        ],
+        "fr": [
+          "Participe au développement de la lecture et facilite l’accès au multimédia."
+        ],
+        "nl": [
+          "Draagt bij tot de ontwikkeling van het lezen en vergemakkelijkt de toegang tot multimedia."
+        ],
+        "es": [
+          "Ayuda a desarrollar la lectura y facilita el acceso a los multimedia."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/015cd4b2-c487-327c-ae9a-4e483fe1938a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        "COVID19SpecialMeasures"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/0b3403c3-f561-3871-8d73-d4ac92ad4a94",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/19ed3c0c-5b74-37e8-bbb6-da3eb0fab328",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        "COVID19SpecialMeasures"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2b00d4c0-8eb8-3989-9b01-3e29bec78626",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        "COVID19SpecialMeasures"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/374a8ca1-b4e1-3804-a453-4921bd9d2efc",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        "COVID19SpecialMeasures"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/52db1cbb-aaf0-3488-9a89-77f4567990f8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        "COVID19SpecialMeasures"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a027b968-eb06-369f-bec5-f5ff4412457d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a031b6a0-098c-34d0-8720-52aaa117d7b6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/bd22e783-41c5-302d-b1e3-49cfaa8e8477",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c36e5830-e053-35ed-8f55-2d1b0e18fa2f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/47d37812-d512-30c3-b773-6902c5fa8370",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/305dd483-7425-3d0d-86d7-a0dbdec51045",
+          "schema:addressLocality": "Rouillac",
+          "schema:postalCode": "16170",
+          "schema:streetAddress": [
+            "139 boulevard d’Encamp"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16286",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Rouillac"
+              ],
+              "pt": [
+                "Rouillac"
+              ],
+              "en": [
+                "Rouillac"
+              ],
+              "it": [
+                "Rouillac"
+              ],
+              "fr": [
+                "Rouillac"
+              ],
+              "nl": [
+                "Rouillac"
+              ],
+              "es": [
+                "Rouillac"
+              ]
+            },
+            "insee": "16286",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/48c80e32-4d67-3c94-af2a-6f39cf4597d5",
+        "schema:latitude": "45.774498",
+        "schema:longitude": "-0.067822",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/be6e555c-1f0d-3d36-8a50-6e4419404c5f",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Dienstag: 14.00 - 18.30 Uhr\r\nMittwoch: 10.00 - 13.00 Uhr / 14.00 - 18.30 Uhr\r\nFreitag: 14.00 - 18.30 Uhr\r\nSamstag: 9.00 - 13.00 Uhr"
+            ],
+            "en": [
+              "Tuesday: 2:00 pm - 6:30 pm\r\nWednesday: 10:00am - 1:00pm / 2:00pm - 6:30pm\r\nFriday: 2:00 pm - 6:30 pm\r\nSaturday: 9am - 1pm"
+            ],
+            "it": [
+              "Martedì: 14:00 - 18:30\r\nMercoledì: 10.00-13.00 / 14.00-18.30\r\nVenerdì: 14:00 - 18:30\r\nSabato: dalle 9.00 alle 13.00"
+            ],
+            "fr": [
+              "Mardi : 14h00 - 18h30\r\nMercredi : 10h00 - 13h00 / 14h00 - 18h30\r\nVendredi : 14h00 - 18h30\r\nSamedi : 9h00 - 13h00"
+            ],
+            "es": [
+              "Martes: 14:00 - 18:30\r\nMiércoles: 10:00 - 13:00 / 14:00 - 18:30\r\nViernes: 14:00 - 18:30\r\nSábado: 9:00 - 13:00"
+            ],
+            "nl": [
+              "Dinsdag: 14:00 - 18:30\r\nWoensdag: 10.00 - 13.00 uur / 14.00 - 18.30 uur\r\nVrijdag: 14:00 - 18:30\r\nZaterdag: 9.00 - 13.00 uur"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/42ac5e67-92a5-3c5a-894b-d319fa78412e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/829a9a16-143c-357a-ac7b-b5bc03f5b988",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/948e884a-0ee0-3fc5-98ca-27fd71aa8e58",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/bd7f9587-d28a-36de-9269-223294e3b07b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d2779a97-8460-37c4-8b7d-5f3a851dc44e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/7a8c6e16-77b8-3c6c-a70f-15d967a89e49",
+      "schema:email": [
+        "otdurouillacais@gmail.com"
+      ],
+      "schema:legalName": "Office de Tourisme du Rouillacais",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.rouillac-tourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-09-20",
+  "lastUpdateDatatourisme": "2023-02-01T18:07:35.695Z"
+}

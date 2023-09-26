@@ -1,0 +1,455 @@
+{
+  "@id": "https://data.datatourisme.fr/13/eccad4e1-1fc8-398f-8828-c7a165e78d1f",
+  "dc:identifier": "5825248",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die romanische Kirche (11.-12. Jh.) nimmt die Form des lateinischen Kreuzes an und wird im Osten von einer Apsis in Form eines tiefen Halbkreises abgeschlossen."
+    ],
+    "en": [
+      "The Romanesque church (11th-12th century) has the shape of a Latin cross and ends on the east side with a deep hemicycle apse."
+    ],
+    "it": [
+      "La chiesa romanica (XI-XII secolo) ha la forma di una croce latina e presenta una profonda abside semicircolare all'estremità orientale."
+    ],
+    "fr": [
+      "L'église romane (XIe-XIIe siècle) adopte la forme de la croix latine et est terminée à l'orient par une abside en hémicycle profond."
+    ],
+    "es": [
+      "La iglesia románica (siglos XI-XII) tiene forma de cruz latina y un profundo ábside semicircular en el extremo oriental."
+    ],
+    "nl": [
+      "De Romaanse kerk (11e-12e eeuw) heeft de vorm van een Latijns kruis en heeft een diepe halfronde apsis aan de oostkant."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Eglise saint pierre"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/2eace51d-8f79-3d04-991c-831a07059758",
+    "dc:identifier": "2059",
+    "schema:email": [
+      "otdurouillacais@gmail.com"
+    ],
+    "schema:legalName": "Office de Tourisme du Rouillacais",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.rouillac-tourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/290b311e-78e4-34ce-a88a-c82b29729313",
+      "schema:telephone": [
+        "+33 5 45 21 70 63"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/29785353-da87-30bd-91d2-41be92ff879e",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/923533b8-a887-33ad-9616-f107011f49ff",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c3f49e0b-67bd-301e-b009-829d78eff175",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cf82375c-76b4-3ec3-8e86-a82511dea65b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e22ecd81-0fa3-3c28-9313-86e950dcd687",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f525d9b4-5994-382d-a3b4-ee583106fe74",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die romanische Kirche (11.-12. Jh.) nimmt die Form des lateinischen Kreuzes an und wird im Osten von einer Apsis in Form eines tiefen Halbkreises abgeschlossen."
+        ],
+        "en": [
+          "The Romanesque church (11th-12th century) has the shape of a Latin cross and ends on the east side with a deep hemicycle apse."
+        ],
+        "it": [
+          "La chiesa romanica (XI-XII secolo) ha la forma di una croce latina e presenta una profonda abside semicircolare all'estremità orientale."
+        ],
+        "fr": [
+          "L'église romane (XIe-XIIe siècle) adopte la forme de la croix latine et est terminée à l'orient par une abside en hémicycle profond."
+        ],
+        "es": [
+          "La iglesia románica (siglos XI-XII) tiene forma de cruz latina y un profundo ábside semicircular en el extremo oriental."
+        ],
+        "nl": [
+          "De Romaanse kerk (11e-12e eeuw) heeft de vorm van een Latijns kruis en heeft een diepe halfronde apsis aan de oostkant."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/3718d5a1-2264-34fe-af51-0b6055bc0537",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/823082ac-7f33-3703-8109-b14d6e55fc40",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/829d07a0-a002-300f-8c43-7f631c82a53a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/85d674f6-25ae-3292-8605-b258c8a44b3a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/88273b26-8b7b-3e66-9315-094d6555a5f6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/249560e0-7e5a-37a8-80d3-9c63a4f9636e",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/5248d892-0255-3b2c-8cc1-df798962733c",
+          "schema:addressLocality": "Rouillac",
+          "schema:postalCode": "16170",
+          "schema:streetAddress": [
+            "1 Place du Marché aux Eaux de Vie"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16286",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Rouillac"
+              ],
+              "pt": [
+                "Rouillac"
+              ],
+              "en": [
+                "Rouillac"
+              ],
+              "it": [
+                "Rouillac"
+              ],
+              "fr": [
+                "Rouillac"
+              ],
+              "nl": [
+                "Rouillac"
+              ],
+              "es": [
+                "Rouillac"
+              ]
+            },
+            "insee": "16286",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/63b89870-03ca-3e97-9e9c-0fc8cd9d4a1c",
+        "schema:latitude": "45.774364",
+        "schema:longitude": "-0.062246",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/7a8c6e16-77b8-3c6c-a70f-15d967a89e49",
+      "schema:email": [
+        "otdurouillacais@gmail.com"
+      ],
+      "schema:legalName": "Office de Tourisme du Rouillacais",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.rouillac-tourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-03-10",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.715Z"
+}

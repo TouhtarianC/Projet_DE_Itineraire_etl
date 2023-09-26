@@ -1,0 +1,898 @@
+{
+  "@id": "https://data.datatourisme.fr/13/cbe4e7d8-eb53-3175-9fa8-db9ce4fcc73e",
+  "dc:identifier": "5706212",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Auf der Île de Ré in Loix, an einem außergewöhnlichen Ort am Ufer des Fier d'Ars: der Prise de la Lasse, bietet Ihnen das Écomusée du Marais Salant die Möglichkeit, die handwerkliche Salzgewinnung anhand von Ausstellungen und Führungen durch einen aktiven Salzgarten zu entdecken"
+    ],
+    "en": [
+      "On the island of Ré in Loix, on an exceptional site on the edge of the Fier d'Ars: the Prise de la Lasse, the Écomusée du Marais Salant (salt marsh museum) offers you the discovery of artisanal salt farming through exhibitions and guided tours of an active salt marsh"
+    ],
+    "it": [
+      "Sull'Ile de Ré, a Loix, in un sito eccezionale ai margini del Fier d'Ars: la Prise de la Lasse, l'Ecomusée du Marais Salant (Ecomuseo della Salina) vi offre l'opportunità di scoprire l'agricoltura tradizionale del sale attraverso mostre e visite guidate in una salina in funzione"
+    ],
+    "fr": [
+      "Dans l’île de Ré à Loix sur un site exceptionnel en bordure du Fier d'Ars : la Prise de la Lasse, l’Écomusée du Marais Salant vous propose la découverte de la saliculture artisanale par des expositions et de visites guidées d'un marais salant en activité"
+    ],
+    "nl": [
+      "Op het Ile de Ré in Loix, op een uitzonderlijke plek aan de rand van de Fier d'Ars: de Prise de la Lasse, biedt het Écomusée du Marais Salant (Ecomuseum van de zoutpannen) u de mogelijkheid kennis te maken met de traditionele zoutwinning door middel van tentoonstellingen en rondleidingen door een werkende zoutpannen"
+    ],
+    "es": [
+      "En la isla de Ré, en Loix, en un lugar excepcional al borde del Fier d'Ars: la Prise de la Lasse, el Écomusée du Marais Salant (Ecomuseo de la Marisma Salada) le ofrece la oportunidad de descubrir la agricultura salina tradicional a través de exposiciones y visitas guiadas a una marisma en funcionamiento"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Écomusée du marais salant"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/169779d3-852b-32ce-8b1a-1724dbf5217d",
+    "dc:identifier": "2178",
+    "schema:email": [
+      "audrey.tapiero@charente-maritime.fr",
+      "ocilia.iturrart@charente-maritime.fr"
+    ],
+    "schema:legalName": "Echappées Nature / Département de la Charente-Maritime",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.charente-maritime.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3ebb086a-9c0d-33dc-b4c9-6c1f688c4558",
+      "schema:email": [
+        "ecomusee@marais-salant.com"
+      ],
+      "schema:telephone": [
+        "+33 5 46 29 06 77"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.marais-salant.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/52fcfb44-f1ea-3d6d-b926-2cdb02bd6356",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/096c133e-6081-3f16-8347-0751c4b720cb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/23b73cce-8c78-31c2-9021-3c3610dfa486",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/28bc5c51-a971-358e-9b8d-dacff12c444b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7fd2394b-7b60-3e53-bb02-045f7106a6dd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c1f2e509-c640-3585-9a99-0128329f0c56",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Auf der Île de Ré in Loix, an einem außergewöhnlichen Ort am Ufer des Fier d'Ars: der Prise de la Lasse, bietet Ihnen das Écomusée du Marais Salant die Möglichkeit, die handwerkliche Salzgewinnung anhand von Ausstellungen und Führungen durch einen aktiven Salzgarten zu entdecken"
+        ],
+        "en": [
+          "On the island of Ré in Loix, on an exceptional site on the edge of the Fier d'Ars: the Prise de la Lasse, the Écomusée du Marais Salant (salt marsh museum) offers you the discovery of artisanal salt farming through exhibitions and guided tours of an active salt marsh"
+        ],
+        "it": [
+          "Sull'Ile de Ré, a Loix, in un sito eccezionale ai margini del Fier d'Ars: la Prise de la Lasse, l'Ecomusée du Marais Salant (Ecomuseo della Salina) vi offre l'opportunità di scoprire l'agricoltura tradizionale del sale attraverso mostre e visite guidate in una salina in funzione"
+        ],
+        "fr": [
+          "Dans l’île de Ré à Loix sur un site exceptionnel en bordure du Fier d'Ars : la Prise de la Lasse, l’Écomusée du Marais Salant vous propose la découverte de la saliculture artisanale par des expositions et de visites guidées d'un marais salant en activité"
+        ],
+        "nl": [
+          "Op het Ile de Ré in Loix, op een uitzonderlijke plek aan de rand van de Fier d'Ars: de Prise de la Lasse, biedt het Écomusée du Marais Salant (Ecomuseum van de zoutpannen) u de mogelijkheid kennis te maken met de traditionele zoutwinning door middel van tentoonstellingen en rondleidingen door een werkende zoutpannen"
+        ],
+        "es": [
+          "En la isla de Ré, en Loix, en un lugar excepcional al borde del Fier d'Ars: la Prise de la Lasse, el Écomusée du Marais Salant (Ecomuseo de la Marisma Salada) le ofrece la oportunidad de descubrir la agricultura salina tradicional a través de exposiciones y visitas guiadas a una marisma en funcionamiento"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/2c3e281f-f8fc-3a6a-8457-686a8d63c168",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4e209e98-a3b4-36f7-9813-c7bc5f940bb8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9c1716c2-24e9-32bb-86f4-ba3b99b1a20c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/aa7b8ea3-67a8-3cf5-91e9-30870e4175cf",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f9fabfda-62ba-3872-8f21-112848d2d0b6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/1e8b8c5f-450b-3103-8785-b1f4baa1a2dd",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/dae0f433-9ecf-3fc6-8568-6cb3717940a2",
+          "schema:addressLocality": "Loix",
+          "schema:postalCode": "17111",
+          "schema:streetAddress": [
+            "2 route de la passe",
+            "BP50021"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17207",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Loix"
+              ],
+              "pt": [
+                "Loix"
+              ],
+              "en": [
+                "Loix"
+              ],
+              "it": [
+                "Loix"
+              ],
+              "fr": [
+                "Loix"
+              ],
+              "nl": [
+                "Loix"
+              ],
+              "es": [
+                "Loix"
+              ]
+            },
+            "insee": "17207",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/a4e2014a-bb5c-3592-92f9-e4eabd7d5b95",
+        "schema:latitude": "46.220108",
+        "schema:longitude": "-1.458942",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/1ba0c5ce-67d5-3a8a-a771-0a8910b2a96e",
+          "schema:validFrom": "2023-10-04T00:00:00",
+          "schema:validThrough": "2023-11-04T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/22d4eba7-91ef-3632-9cd8-cfee98e4d176",
+          "schema:validFrom": "2023-04-25T00:00:00",
+          "schema:validThrough": "2023-07-09T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag: offen"
+            ],
+            "en": [
+              "Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday: open"
+            ],
+            "it": [
+              "Martedì, mercoledì, giovedì, venerdì, sabato, domenica: aperto"
+            ],
+            "fr": [
+              "Mardi, Mercredi, Jeudi, Vendredi, Samedi, Dimanche : ouvert"
+            ],
+            "es": [
+              "Martes, miércoles, jueves, viernes, sábado y domingo: abierto"
+            ],
+            "nl": [
+              "Dinsdag, woensdag, donderdag, vrijdag, zaterdag, zondag: open"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/233b68da-8b69-338b-a102-536b621b9833",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/5df956eb-09b5-39a4-91a7-9d9fa4ca62ac",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/62389cef-cdcc-39ed-aad3-0ef480e80da9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a6aae0e2-3767-39aa-adc8-c38becd3bb86",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/bf5f2519-e045-3143-8d3a-083c1471d312",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2be178ba-36ad-3e64-93c2-be994201ff60",
+          "schema:validFrom": "2023-07-10T00:00:00",
+          "schema:validThrough": "2023-09-03T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag: offen"
+            ],
+            "en": [
+              "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday: open"
+            ],
+            "it": [
+              "Lunedì, martedì, mercoledì, giovedì, venerdì, sabato, domenica: aperto"
+            ],
+            "fr": [
+              "Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi, Dimanche : ouvert"
+            ],
+            "nl": [
+              "Maandag, dinsdag, woensdag, donderdag, vrijdag, zaterdag, zondag: open"
+            ],
+            "es": [
+              "Lunes, martes, miércoles, jueves, viernes, sábado y domingo: abierto"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/044869d5-ffeb-3ddb-9c72-6a4c20d82772",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/17972dab-3a76-383e-a786-9cca3b559d10",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/65635ffa-fe98-3831-a07d-dc7d661eb4ba",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a01232fa-7846-3192-b2c4-eb69b8b04b89",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ed75e750-d056-39b2-9100-0dc00ad40f61",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2ebfb875-2e1a-3791-bd72-9df131ecfe19",
+          "schema:validFrom": "2023-09-06T00:00:00",
+          "schema:validThrough": "2023-10-03T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5044e7e3-020a-388b-954b-2a05c84277ba",
+          "schema:validFrom": "2023-04-26T00:00:00",
+          "schema:validThrough": "2023-07-04T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6a2a0da0-a477-361d-aa89-7e43786aef2a",
+          "schema:validFrom": "2023-09-04T00:00:00",
+          "schema:validThrough": "2023-10-03T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag: offen"
+            ],
+            "en": [
+              "Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday: open"
+            ],
+            "it": [
+              "Martedì, mercoledì, giovedì, venerdì, sabato, domenica: aperto"
+            ],
+            "fr": [
+              "Mardi, Mercredi, Jeudi, Vendredi, Samedi, Dimanche : ouvert"
+            ],
+            "es": [
+              "Martes, miércoles, jueves, viernes, sábado y domingo: abierto"
+            ],
+            "nl": [
+              "Dinsdag, woensdag, donderdag, vrijdag, zaterdag, zondag: open"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/08f1efa6-57ed-36c6-9806-ee99a3d5c427",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/1d04688c-45e9-3c9d-81ba-d0773de47d6b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/31962a53-af83-3d1f-9b76-c04a749aad4b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/4368d8d4-ef23-348a-af1c-f8aa59b5afcc",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/7a60ca37-150c-35d3-acb5-bd06992bed35",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/706a1056-55a4-3510-aaaf-f29957b81cf9",
+          "schema:validFrom": "2023-03-14T00:00:00",
+          "schema:validThrough": "2023-04-24T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Dienstag, Mittwoch, Donnerstag, Freitag, Samstag: offen"
+            ],
+            "en": [
+              "Tuesday, Wednesday, Thursday, Friday, Saturday: open"
+            ],
+            "it": [
+              "Martedì, mercoledì, giovedì, venerdì, sabato: aperto"
+            ],
+            "fr": [
+              "Mardi, Mercredi, Jeudi, Vendredi, Samedi : ouvert"
+            ],
+            "es": [
+              "Martes, miércoles, jueves, viernes y sábado: abierto"
+            ],
+            "nl": [
+              "Dinsdag, woensdag, donderdag, vrijdag, zaterdag: open"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/1738f953-c949-3e77-b4dc-4dc982ab024d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/5039dd82-1c06-30f4-92d1-14b87632db5b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/90d178c8-d527-3c61-94fe-cdba0af929c4",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/dd97adcb-180b-307b-9266-6064c4ff0bdb",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e6202738-3823-33fb-af89-f53df99b7b63",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b3d258a7-6fbe-3191-9bce-97901405856f",
+          "schema:validFrom": "2023-07-05T00:00:00",
+          "schema:validThrough": "2023-09-05T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/eae7c18e-28ad-3d82-96aa-e5382108b3b0",
+          "schema:validFrom": "2023-10-04T00:00:00",
+          "schema:validThrough": "2023-11-05T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b423eca3-3f21-3e47-9e34-3054bd401857",
+      "schema:email": [
+        "audrey.tapiero@charente-maritime.fr",
+        "ocilia.iturrart@charente-maritime.fr"
+      ],
+      "schema:legalName": "Echappées Nature / Département de la Charente-Maritime",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.charente-maritime.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-05-25",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.356Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/af2ad633-904d-34df-be86-66770a2c0e51",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/385ecf31-72a4-32ed-92df-cf2049a2c105",
+          "schema:maxPrice": [
+            "2.4",
+            "3",
+            "5",
+            "6"
+          ],
+          "schema:minPrice": [
+            "2.4",
+            "3",
+            "5",
+            "6"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/8d2ffdf6-6fe6-31c7-a16a-4e8afe9db066",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-11-04",
+              "startDate": "2023-03-14"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

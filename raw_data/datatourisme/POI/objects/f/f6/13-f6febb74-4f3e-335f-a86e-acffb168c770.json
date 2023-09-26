@@ -1,0 +1,917 @@
+{
+  "@id": "https://data.datatourisme.fr/13/f6febb74-4f3e-335f-a86e-acffb168c770",
+  "dc:identifier": "5762133",
+  "@type": [
+    "Castle",
+    "CulturalSite",
+    "DefenceSite",
+    "FortifiedCastle",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RemarkableBuilding"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Wilkommen im Mittelalter ! \r\nErwecken den Ritter oder die Prinzessin, die Sie immer wollte sein und teilen unvergessliche Momente mit ihre Familie für mehr als 3 Stunden."
+    ],
+    "en": [
+      "Welcome to the Middle Ages ! \r\nAwaken the knight or the princess you always wanted to be and share unforgettable moments with your family for more than 3 hours."
+    ],
+    "it": [
+      "Benvenuti nel Medioevo!\r\nRisvegliate il cavaliere che è in voi o la principessa che sognate di essere e per più di 3 ore condividete momenti indimenticabili con la vostra famiglia."
+    ],
+    "fr": [
+      "Bienvenue au Moyen-Âge !\r\nRéveillez le chevalier qui est en vous ou la princesse que vous rêviez d’être et pendant plus de 3h partagez en famille des moments inoubliables."
+    ],
+    "es": [
+      "¡Bienvenido a la Edad Media!\r\nDespierta el caballero que llevas dentro o la princesa que soñaste ser y durante más de 3 horas comparte momentos inolvidables con tu familia."
+    ],
+    "nl": [
+      "Welkom in de middeleeuwen!\r\nMaak de ridder in je wakker of de prinses die je droomde te zijn en deel meer dan 3 uur lang onvergetelijke momenten met je familie."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Der Burg die Fee Mélusine und ihre mittelalterlich Freizeitpark"
+    ],
+    "en": [
+      "The Fortified Castle of the Fairy Mélusine and her medieval amusement parc in Saint-Jean-d'Angle"
+    ],
+    "fr": [
+      "Château Fort de la Fée Mélusine et son parc de loisirs médiéval à St-Jean-d'Angle"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/9afefc52-942c-383c-bc1f-14b2139b09ba",
+    "dc:identifier": "2055",
+    "schema:email": [
+      "chloe.mailler@rochefort-ocean.com",
+      "christine.nourisson@rochefort-ocean.com",
+      "chrystelle.ecale@rochefort-ocean.com",
+      "lea.origlia@rochefort-ocean.com",
+      "sandrine.bouron@rochefort-ocean.com"
+    ],
+    "schema:legalName": "Office de Tourisme Rochefort Océan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.rochefort-ocean.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/329b19e6-f144-3edf-8a37-ea8a07a9db3d",
+      "schema:email": [
+        "chateausaintjeandangle@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 5 46 82 76 03",
+        "+33 6 62 62 54 55"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.chateausaintjeandangle.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/538fef2d-35ff-34e4-a487-852a81819b76",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/98ccad5c-20b8-3bd4-af98-4817831cc4cc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d8cce21e-ec1c-3035-ba5c-bb2fe7e8ef78",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dc0d2f81-ca38-30fd-af3e-c1019375ac20",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Wilkommen im Mittelalter ! \r\nErwecken den Ritter oder die Prinzessin, die Sie immer wollte sein und teilen unvergessliche Momente mit ihre Familie für mehr als 3 Stunden."
+        ],
+        "en": [
+          "Welcome to the Middle Ages ! \r\nAwaken the knight or the princess you always wanted to be and share unforgettable moments with your family for more than 3 hours."
+        ],
+        "it": [
+          "Benvenuti nel Medioevo!\r\nRisvegliate il cavaliere che è in voi o la principessa che sognate di essere e per più di 3 ore condividete momenti indimenticabili con la vostra famiglia."
+        ],
+        "fr": [
+          "Bienvenue au Moyen-Âge !\r\nRéveillez le chevalier qui est en vous ou la princesse que vous rêviez d’être et pendant plus de 3h partagez en famille des moments inoubliables."
+        ],
+        "es": [
+          "¡Bienvenido a la Edad Media!\r\nDespierta el caballero que llevas dentro o la princesa que soñaste ser y durante más de 3 horas comparte momentos inolvidables con tu familia."
+        ],
+        "nl": [
+          "Welkom in de middeleeuwen!\r\nMaak de ridder in je wakker of de prinses die je droomde te zijn en deel meer dan 3 uur lang onvergetelijke momenten met je familie."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/dbbe766e-1f3e-3f74-b992-97cdffaadc5e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e60649a4-d446-3bea-94a4-ec1810669be6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f48eda10-cec3-3948-9cce-94969433d327",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/99561b14-2bde-3943-bfa4-24cba8f2b138",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/b20b9f8d-91b2-3333-a19c-27982ffdafe0",
+          "schema:addressLocality": "Saint-Jean-d'Angle",
+          "schema:postalCode": "17620",
+          "schema:streetAddress": [
+            "2 Route de Marennes"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17348",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Jean-d'Angle"
+              ],
+              "pt": [
+                "Saint-Jean-d'Angle"
+              ],
+              "en": [
+                "Saint-Jean-d'Angle"
+              ],
+              "it": [
+                "Saint-Jean-d'Angle"
+              ],
+              "fr": [
+                "Saint-Jean-d'Angle"
+              ],
+              "nl": [
+                "Saint-Jean-d'Angle"
+              ],
+              "es": [
+                "Saint-Jean-d'Angle"
+              ]
+            },
+            "insee": "17348",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/8789fa40-7fe6-3eea-9068-8a4c455a86e8",
+        "schema:latitude": "45.820605",
+        "schema:longitude": "-0.950827",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/61e1f33d-d820-3af4-aace-ba096b885b12",
+          "schema:closes": "19:00:00",
+          "schema:opens": "10:30:00",
+          "schema:validFrom": "2023-04-08T00:00:00",
+          "schema:validThrough": "2023-05-07T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Schließung des Ticketverkaufs 1 Stunde vor Schließung der Anlage"
+            ],
+            "en": [
+              "Ticketing closes 1 hour before the site closes"
+            ],
+            "it": [
+              "La biglietteria chiude 1 ora prima della chiusura del sito"
+            ],
+            "fr": [
+              "Fermeture de la billetterie 1h avant la fermeture du site"
+            ],
+            "es": [
+              "La taquilla cierra 1 hora antes del cierre del recinto"
+            ],
+            "nl": [
+              "De kassa sluit 1 uur voor de sluiting van het terrein"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/5fb5bfd4-053f-3eb2-9767-132dcf14105c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ba4dd894-0dfb-3f89-8057-356217e32d6b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/cf5e60f8-ddf6-3f13-b484-4bda78f0a6d6",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d025ba33-36ab-3c0f-b6c2-c0b094ad856d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/fe162af2-e4b1-39d4-96b9-2748cd334b85",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/633bd4eb-2884-31e5-ac3e-8ea888ae7c66",
+          "schema:closes": "19:00:00",
+          "schema:opens": "10:30:00",
+          "schema:validFrom": "2023-07-10T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Schließung des Ticketverkaufs 1 Stunde vor Schließung der Anlage"
+            ],
+            "en": [
+              "Ticketing closes 1 hour before the site closes"
+            ],
+            "it": [
+              "La biglietteria chiude 1 ora prima della chiusura del sito"
+            ],
+            "fr": [
+              "Fermeture de la billetterie 1h avant la fermeture du site"
+            ],
+            "es": [
+              "La taquilla cierra 1 hora antes del cierre del recinto"
+            ],
+            "nl": [
+              "De kassa sluit 1 uur voor de sluiting van het terrein"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/160a8fd3-414e-3587-9d6f-be7871900207",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/241a1428-1e46-321c-bf4a-e2ad85b593bb",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6235d16f-ca7a-3554-8d8d-3f8e8d509d10",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ca2d65ef-ecf3-3c69-b1a8-6e3b0ad2e077",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/dc312751-b51f-3bd9-98a6-348046557426",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/73145bd6-56ea-339c-b2e0-4d524e06d621",
+          "schema:closes": "19:00:00",
+          "schema:opens": "10:30:00",
+          "schema:validFrom": "2023-05-08T00:00:00",
+          "schema:validThrough": "2023-07-09T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Schließung des Ticketverkaufs 1 Stunde vor Schließung der Anlage"
+            ],
+            "en": [
+              "Ticketing closes 1 hour before the site closes"
+            ],
+            "it": [
+              "La biglietteria chiude 1 ora prima della chiusura del sito"
+            ],
+            "fr": [
+              "Fermeture de la billetterie 1h avant la fermeture du site"
+            ],
+            "es": [
+              "La taquilla cierra 1 hora antes del cierre del recinto"
+            ],
+            "nl": [
+              "De kassa sluit 1 uur voor de sluiting van het terrein"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/1836ed04-5362-3eab-8c54-c5f2f3a38a34",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/47da3da3-125d-365c-956a-7fc28404b7a5",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/7bbaa6a7-ca06-3fd9-a2e6-abb1e66a45f9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/7da5d6d3-1d78-33bc-b6ea-ed6c80aa1735",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/dd790337-d688-39c7-a63f-0c362005c581",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bce5e87a-698a-39a8-baad-b7ba0d9dec6b",
+          "schema:closes": "19:00:00",
+          "schema:opens": "10:30:00",
+          "schema:validFrom": "2023-09-01T00:00:00",
+          "schema:validThrough": "2023-09-24T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Schließung des Ticketverkaufs 1 Stunde vor Schließung der Anlage"
+            ],
+            "en": [
+              "Ticketing closes 1 hour before the site closes"
+            ],
+            "it": [
+              "La biglietteria chiude 1 ora prima della chiusura del sito"
+            ],
+            "fr": [
+              "Fermeture de la billetterie 1h avant la fermeture du site"
+            ],
+            "es": [
+              "La taquilla cierra 1 hora antes del cierre del recinto"
+            ],
+            "nl": [
+              "De kassa sluit 1 uur voor de sluiting van het terrein"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/61c429ba-5a94-38d9-bf56-4640dbf1ef8c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/74a31d77-15d5-380e-9047-ff52ef1ae25c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/87ab09da-003b-3e4b-b386-1f185ab829a3",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d89161dd-23aa-338b-a367-9fe7b6d6bf11",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d955e09a-1eee-3abe-bbbe-d1b758945001",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c5cf9462-6b82-3fc4-a719-8526682e9ea7",
+          "schema:closes": "18:30:00",
+          "schema:opens": "10:30:00",
+          "schema:validFrom": "2023-10-21T00:00:00",
+          "schema:validThrough": "2023-11-05T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Schließung des Ticketverkaufs 1 Stunde vor Schließung der Anlage"
+            ],
+            "en": [
+              "Ticketing closes 1 hour before the site closes"
+            ],
+            "it": [
+              "La biglietteria chiude 1 ora prima della chiusura del sito"
+            ],
+            "fr": [
+              "Fermeture de la billetterie 1h avant la fermeture du site"
+            ],
+            "es": [
+              "La taquilla cierra 1 hora antes del cierre del recinto"
+            ],
+            "nl": [
+              "De kassa sluit 1 uur voor de sluiting van het terrein"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/0554ef93-1b75-354a-80a4-5c8618fea6ac",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/94c42bb9-f7f7-37a3-b9a3-0facb4f85e08",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/9d99774d-ab89-3955-a52f-5bcc5b15f59d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ce37e496-6068-3195-b6a3-320d36e8d658",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d396a217-1c98-3ba1-ba48-09f8ef2d19aa",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fed90c24-5b4e-374e-b413-9c9ae527b242",
+      "schema:email": [
+        "chloe.mailler@rochefort-ocean.com",
+        "christine.nourisson@rochefort-ocean.com",
+        "chrystelle.ecale@rochefort-ocean.com",
+        "lea.origlia@rochefort-ocean.com",
+        "sandrine.bouron@rochefort-ocean.com"
+      ],
+      "schema:legalName": "Office de Tourisme Rochefort Océan",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.rochefort-ocean.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-11",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.4Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/3069a736-0311-349d-b1a6-54dc84ccc589",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/c2cf809a-5a9b-3da9-82b8-556f8e9eed72",
+          "schema:maxPrice": [
+            "10.5",
+            "11",
+            "12.5",
+            "9.5"
+          ],
+          "schema:minPrice": [
+            "10.5",
+            "9.5"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a72571ee-b0e2-3ea2-9dd2-53d743cf79ac",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-11-05",
+              "startDate": "2023-04-08"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

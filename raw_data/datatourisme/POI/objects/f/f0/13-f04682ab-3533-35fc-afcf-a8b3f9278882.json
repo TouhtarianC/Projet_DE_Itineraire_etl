@@ -1,0 +1,634 @@
+{
+  "@id": "https://data.datatourisme.fr/13/f04682ab-3533-35fc-afcf-a8b3f9278882",
+  "dc:identifier": "5762136",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Im Herzen des Arsenals von Colbert, entdecken Sie die königliche Seilerei, die 1666 im Auftrag von Ludwig XIV. gebaut wurde. Seit zwei Jahrhunderten fertigt die königliche Seilerei die Seile der grossen Segelschiffe der Royal Navy."
+    ],
+    "en": [
+      "In the heart of the  Dockyard of Colbert, discover the Royal Rope-Making Factory  built in 1666 by order of the Sun-King, Louis XIV . For two centuries, the site has made the cordages for the great sailing ships of the Royal Navy."
+    ],
+    "it": [
+      "Nel cuore dell'Arsenale di Colbert, scoprite la Corderie Royale costruita nel 1666 per ordine di Luigi XIV. Per due secoli, la Corderie Royale ha prodotto corde per i grandi velieri della Royal Navy."
+    ],
+    "fr": [
+      "Au cœur de l'Arsenal de Colbert, découvrez la Corderie Royale construite en 1666 sur ordre de Louis XIV. Pendant deux siècles, la Corderie Royale fabrique les cordages des grands voiliers de la Marine royale."
+    ],
+    "nl": [
+      "Ontdek in het hart van het Arsenaal van Colbert de Corderie Royale, gebouwd in 1666 in opdracht van Lodewijk XIV. Twee eeuwen lang vervaardigde de Corderie Royale touwen voor de grote zeilschepen van de Royal Navy."
+    ],
+    "es": [
+      "En el corazón del Arsenal de Colbert, descubra la Cordería Real construida en 1666 por orden de Luis XIV. Durante dos siglos, la Corderie Royale fabricó cuerdas para los grandes veleros de la Royal Navy."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Die königliche Seilerei -  Internationales Martimes Zentrum"
+    ],
+    "en": [
+      "The Royal Rope Making Factory - International Maritime Centre"
+    ],
+    "fr": [
+      "Corderie Royale - Centre International de la Mer"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q2997112"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/9afefc52-942c-383c-bc1f-14b2139b09ba",
+    "dc:identifier": "2055",
+    "schema:email": [
+      "chloe.mailler@rochefort-ocean.com",
+      "christine.nourisson@rochefort-ocean.com",
+      "chrystelle.ecale@rochefort-ocean.com",
+      "lea.origlia@rochefort-ocean.com",
+      "sandrine.bouron@rochefort-ocean.com"
+    ],
+    "schema:legalName": "Office de Tourisme Rochefort Océan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.rochefort-ocean.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/1f729511-a7ce-3296-9ee9-28c4e3a22124",
+      "schema:email": [
+        "contact@corderie-royale.com"
+      ],
+      "schema:telephone": [
+        "+33 5 46 87 01 90"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.corderie-royale.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/933668d2-cffb-33ae-aa46-f74eca85734a",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/4adb48cf-9548-3032-88bd-1b30e33fef20",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9d76a86f-ed0f-3f90-89b6-596d709f223e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c66744cf-afe5-38f1-8ec0-fbb56a8c36dc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Im Herzen des Arsenals von Colbert, entdecken Sie die königliche Seilerei, die 1666 im Auftrag von Ludwig XIV. gebaut wurde. Seit zwei Jahrhunderten fertigt die königliche Seilerei die Seile der grossen Segelschiffe der Royal Navy."
+        ],
+        "en": [
+          "In the heart of the  Dockyard of Colbert, discover the Royal Rope-Making Factory  built in 1666 by order of the Sun-King, Louis XIV . For two centuries, the site has made the cordages for the great sailing ships of the Royal Navy."
+        ],
+        "it": [
+          "Nel cuore dell'Arsenale di Colbert, scoprite la Corderie Royale costruita nel 1666 per ordine di Luigi XIV. Per due secoli, la Corderie Royale ha prodotto corde per i grandi velieri della Royal Navy."
+        ],
+        "fr": [
+          "Au cœur de l'Arsenal de Colbert, découvrez la Corderie Royale construite en 1666 sur ordre de Louis XIV. Pendant deux siècles, la Corderie Royale fabrique les cordages des grands voiliers de la Marine royale."
+        ],
+        "nl": [
+          "Ontdek in het hart van het Arsenaal van Colbert de Corderie Royale, gebouwd in 1666 in opdracht van Lodewijk XIV. Twee eeuwen lang vervaardigde de Corderie Royale touwen voor de grote zeilschepen van de Royal Navy."
+        ],
+        "es": [
+          "En el corazón del Arsenal de Colbert, descubra la Cordería Real construida en 1666 por orden de Luis XIV. Durante dos siglos, la Corderie Royale fabricó cuerdas para los grandes veleros de la Royal Navy."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/bae9a3cb-394c-3f11-966f-e22afd03e89f",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/82a21f01-6e6b-306f-884f-0683c59a1221",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Corderie rochefort"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Berrucomons (https://commons.wikimedia.org/wiki/User:Berrucomons)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/92907121-c718-3572-b64e-e1b317c324ac",
+          "ebucore:fileSize": [
+            6698915
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 2336,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/b/b5/Corderie_rochefort.jpg"
+          ],
+          "ebucore:width": 3704,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/6e866798-cae5-351c-9e8d-963661217e60",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:LabelRating_AccueilVelo",
+        "@type": [
+          "LabelRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "Accueil Vélo"
+          ],
+          "pt": [
+            "Accueil Vélo"
+          ],
+          "en": [
+            "Accueil Vélo"
+          ],
+          "it": [
+            "Accueil Vélo"
+          ],
+          "fr": [
+            "Accueil Vélo"
+          ],
+          "nl": [
+            "Accueil Vélo"
+          ],
+          "es": [
+            "Accueil Vélo"
+          ]
+        },
+        "isCompliantWith": [
+          "PlaceOfInterest"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/00026e46-760b-363f-b405-fec0c0dc0133",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/01b087eb-cfb7-3801-8525-83f31f6e8ee7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a199d560-9bd1-31bf-8841-83d3d1f8edf8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/5932279a-54be-3468-8e5e-521aadfb033f",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/9f7f9214-a55e-39ce-ace7-204f5945d585",
+          "schema:addressLocality": "Rochefort",
+          "schema:postalCode": "17300",
+          "schema:streetAddress": [
+            "BP 50108",
+            "rue Audebert"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17299",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Rochefort"
+              ],
+              "pt": [
+                "Rochefort"
+              ],
+              "en": [
+                "Rochefort"
+              ],
+              "it": [
+                "Rochefort"
+              ],
+              "fr": [
+                "Rochefort"
+              ],
+              "nl": [
+                "Rochefort"
+              ],
+              "es": [
+                "Rochefort"
+              ]
+            },
+            "insee": "17299",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/e04eb556-c6cb-3c58-8bde-086fab083f90",
+        "schema:latitude": "45.937813",
+        "schema:longitude": "-0.955976",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/50b8286c-f964-32c5-8805-0a0b2e60ebab",
+          "schema:validFrom": "2023-04-08T00:00:00",
+          "schema:validThrough": "2023-06-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8c915812-e993-3c2b-ac61-8924093933e3",
+          "schema:validFrom": "2023-11-07T00:00:00",
+          "schema:validThrough": "2023-12-22T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9c3993b8-cb56-3a30-9d97-1a116acb01f3",
+          "schema:closes": "19:00:00",
+          "schema:opens": "10:00:00",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bb824c00-b049-37e3-b439-0d89600a7dd3",
+          "schema:validFrom": "2023-03-06T00:00:00",
+          "schema:validThrough": "2023-04-07T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/de0b5785-c5b2-3a45-8844-a705b3179a7b",
+          "schema:validFrom": "2023-09-01T00:00:00",
+          "schema:validThrough": "2023-11-06T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fed90c24-5b4e-374e-b413-9c9ae527b242",
+      "schema:email": [
+        "chloe.mailler@rochefort-ocean.com",
+        "christine.nourisson@rochefort-ocean.com",
+        "chrystelle.ecale@rochefort-ocean.com",
+        "lea.origlia@rochefort-ocean.com",
+        "sandrine.bouron@rochefort-ocean.com"
+      ],
+      "schema:legalName": "Office de Tourisme Rochefort Océan",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.rochefort-ocean.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-13",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.27Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/c644045a-4db5-38b7-bab2-b25a9cdf7ad1",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/d66a4f26-2d6e-38ad-b95f-4fefea5585f2",
+          "schema:maxPrice": [
+            "10",
+            "6"
+          ],
+          "schema:minPrice": [
+            "5",
+            "9"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/8e25a9a7-536d-3fd5-93d4-8e729dbb697d",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-02-04"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

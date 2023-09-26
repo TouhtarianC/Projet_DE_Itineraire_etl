@@ -1,0 +1,513 @@
+{
+  "@id": "https://data.datatourisme.fr/13/c8a3a1bc-4991-3466-85d8-b63d2858aac5",
+  "dc:identifier": "5695255",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Auf ihrer riesigen Bildschirmfassade bietet die Kirche ein skulpturales Programm, das Sie sich nicht entgehen lassen sollten!"
+    ],
+    "en": [
+      "The facade of the church have a wonderful sculpted program you won't want to miss !"
+    ],
+    "it": [
+      "Sulla sua facciata a schermo gigante, la chiesa offre un programma scolpito da non perdere!"
+    ],
+    "fr": [
+      "Sur sa façade-écran géante, l’église propose un programme sculpté que vous ne zapperez pas !"
+    ],
+    "es": [
+      "La fachada de la iglesia tiene sculturas fantásticas que no puede faltar."
+    ],
+    "nl": [
+      "De kerk biedt op haar reuzenschermgevel een gebeeldhouwd programma dat u niet wilt missen!"
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Saint-Pierre's church - Pont-L'Abbé-d'Arnoult"
+    ],
+    "fr": [
+      "Eglise Saint Pierre de Pont-L'Abbé-d'Arnoult"
+    ],
+    "es": [
+      "Iglesia Saint-Pierre - Pont-L'Abbé-d'Arnoult"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q1666338"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f8363057-9d05-3dc5-843a-e693e7cdafe0",
+    "dc:identifier": "2425",
+    "schema:email": [
+      "administration@coeurdesaintonge.fr",
+      "bergonzoni@coeurdesaintonge.fr",
+      "gaillard@coeurdesaintonge.fr",
+      "tourisme@coeurdesaintonge.fr"
+    ],
+    "schema:legalName": "Communauté de communes Coeur de Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.coeurdesaintonge.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/fd1ca39e-9a11-36f2-8095-2525a46c8db9",
+      "schema:telephone": [
+        "+33 5 46 97 00 19"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/7175449f-49b7-30af-98a3-80eface53775",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/037af310-cb7d-3388-9751-b6d47be43d5b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/0867600f-0901-3a12-8531-d8ff3cee37c8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6ecb6069-28a1-3fbd-b19d-c544f8ce1787",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Auf ihrer riesigen Bildschirmfassade bietet die Kirche ein skulpturales Programm, das Sie sich nicht entgehen lassen sollten!"
+        ],
+        "en": [
+          "The facade of the church have a wonderful sculpted program you won't want to miss !"
+        ],
+        "it": [
+          "Sulla sua facciata a schermo gigante, la chiesa offre un programma scolpito da non perdere!"
+        ],
+        "fr": [
+          "Sur sa façade-écran géante, l’église propose un programme sculpté que vous ne zapperez pas !"
+        ],
+        "es": [
+          "La fachada de la iglesia tiene sculturas fantásticas que no puede faltar."
+        ],
+        "nl": [
+          "De kerk biedt op haar reuzenschermgevel een gebeeldhouwd programma dat u niet wilt missen!"
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/b4e6c723-230f-3d89-b1c5-58a99505f6d9",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/e79bd91b-1fa8-3fc7-a7f0-5a44cca61459",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "2008-07-Pont l'Abbé-Eglise"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Salix (https://commons.wikimedia.org/wiki/User:Salix)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/0a2b4145-f055-385f-ab99-7c811b52d7e1",
+          "ebucore:fileSize": [
+            871326
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1600,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/0/09/2008-07-Pont_l%27Abb%C3%A9-Eglise.JPG"
+          ],
+          "ebucore:width": 1200,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/94aaebff-b002-3c88-9db1-05b835c38cc6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d09b0008-290b-30e6-8adc-2a399368a3dd",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fa85fdac-9981-3ecc-89a7-f550562ad2a1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/bb338af9-671b-334c-ba80-877cb7486909",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/856eb8f6-5012-3a96-b913-db5407ba6232",
+          "schema:addressLocality": "Pont-l'Abbé-d'Arnoult",
+          "schema:postalCode": "17250",
+          "schema:streetAddress": [
+            "2 place du Général De Gaulle"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17284",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Pont-l'Abbé-d'Arnoult"
+              ],
+              "pt": [
+                "Pont-l'Abbé-d'Arnoult"
+              ],
+              "en": [
+                "Pont-l'Abbé-d'Arnoult"
+              ],
+              "it": [
+                "Pont-l'Abbé-d'Arnoult"
+              ],
+              "fr": [
+                "Pont-l'Abbé-d'Arnoult"
+              ],
+              "nl": [
+                "Pont-l'Abbé-d'Arnoult"
+              ],
+              "es": [
+                "Pont-l'Abbé-d'Arnoult"
+              ]
+            },
+            "insee": "17284",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/65322acd-449e-3ed5-bd24-a59e726bdc2b",
+        "schema:latitude": "45.828225",
+        "schema:longitude": "-0.875601",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/f8a2cb15-de5f-358e-97f3-0396b4b0396a",
+      "schema:email": [
+        "administration@coeurdesaintonge.fr",
+        "bergonzoni@coeurdesaintonge.fr",
+        "gaillard@coeurdesaintonge.fr",
+        "tourisme@coeurdesaintonge.fr"
+      ],
+      "schema:legalName": "Communauté de communes Coeur de Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.coeurdesaintonge.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-09",
+  "lastUpdateDatatourisme": "2023-06-23T05:50:54.359Z"
+}

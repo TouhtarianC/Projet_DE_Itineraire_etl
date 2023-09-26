@@ -1,0 +1,680 @@
+{
+  "@id": "https://data.datatourisme.fr/13/e7acc334-311b-3d96-9b4b-53324a9baa21",
+  "dc:identifier": "5656147",
+  "@type": [
+    "Castle",
+    "CulturalSite",
+    "DefenceSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RemarkableBuilding"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das hinter seinem Wassergraben verschanzte Schloss mit seinen vier Ecktürmen (15. Jh.) beherbergt die Erinnerungen an die napoleonischen Feldzüge von General Graf Dupont, dem ehemaligen Besitzer des Ortes."
+    ],
+    "en": [
+      "Tucked away behind its moat, this castle with its four corner towers (15th century) houses the memories of the Napoleonic campaigns of General Count Dupont, the former owner of the place."
+    ],
+    "it": [
+      "Il castello, con le sue quattro torri angolari del XV secolo, è nascosto dietro il suo fossato e ospita i cimeli delle campagne napoleoniche del generale Conte Dupont, ex proprietario del sito."
+    ],
+    "fr": [
+      "Retranché derrière ses douves, ce château avec ses quatre tours d'angle (XVe s.) abrite les souvenirs des campagnes napoléoniennes du Général Comte Dupont, ancien propriétaire des lieux."
+    ],
+    "nl": [
+      "Het kasteel, met zijn vier 15e-eeuwse hoektorens, ligt verscholen achter zijn slotgracht en herbergt de memorabilia van de Napoleontische campagnes van generaal graaf Dupont, de vroegere eigenaar van het terrein."
+    ],
+    "es": [
+      "El castillo, con sus cuatro torres angulares del siglo XV, está escondido detrás de su foso y alberga los recuerdos de las campañas napoleónicas del general Conde Dupont, antiguo propietario del lugar."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Chateau de Rochebrune"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q2970389"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/584b98aa-c2dd-3f59-ae2c-f19ca4ccb75e",
+    "dc:identifier": "2052",
+    "schema:email": [
+      "fatiha.guetarni@charente-limousine.fr",
+      "marc.vachot@charente-limousine.fr"
+    ],
+    "schema:legalName": "Office de Tourisme Charente Limousine",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/6d309623-1905-3f64-acce-ed86151d9de8",
+      "schema:email": [
+        "fatiha.guetarni@charente-limousine.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 84 22 22",
+        "+33 6 48 90 98 71"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/e95be7f2-2953-3b39-bc92-cc3add5c32e7",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/098af32b-def2-3699-a5e3-2ec4f57c46a8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2ae569b6-1d86-3b45-b566-a209636821f6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3d90d7b6-42a9-3c2f-86b4-6718d88c391b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4c900acf-dc7b-3ed0-b1dd-6b7cca6d79f2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e1251bb2-5097-330c-b76c-2e2ace3be757",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das hinter seinem Wassergraben verschanzte Schloss mit seinen vier Ecktürmen (15. Jh.) beherbergt die Erinnerungen an die napoleonischen Feldzüge von General Graf Dupont, dem ehemaligen Besitzer des Ortes."
+        ],
+        "en": [
+          "Tucked away behind its moat, this castle with its four corner towers (15th century) houses the memories of the Napoleonic campaigns of General Count Dupont, the former owner of the place."
+        ],
+        "it": [
+          "Il castello, con le sue quattro torri angolari del XV secolo, è nascosto dietro il suo fossato e ospita i cimeli delle campagne napoleoniche del generale Conte Dupont, ex proprietario del sito."
+        ],
+        "fr": [
+          "Retranché derrière ses douves, ce château avec ses quatre tours d'angle (XVe s.) abrite les souvenirs des campagnes napoléoniennes du Général Comte Dupont, ancien propriétaire des lieux."
+        ],
+        "nl": [
+          "Het kasteel, met zijn vier 15e-eeuwse hoektorens, ligt verscholen achter zijn slotgracht en herbergt de memorabilia van de Napoleontische campagnes van generaal graaf Dupont, de vroegere eigenaar van het terrein."
+        ],
+        "es": [
+          "El castillo, con sus cuatro torres angulares del siglo XV, está escondido detrás de su foso y alberga los recuerdos de las campañas napoleónicas del general Conde Dupont, antiguo propietario del lugar."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/b4ff202b-3943-3cee-a755-435b091cbaeb",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/e47fbfb0-5290-3794-9831-51b67900b082",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Chateau-de-Rochebrune2"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "<table style=\"margin: 1.5em auto; width:80%; background-color:#4F4F4F; border:2px solid #aaaaaa; padding:1px;\" cellspacing=\"10\"><tbody><tr><td align=\"center\">\n</td>\n<td><span style=\"color:#C0C0C0\">This <b>Photo</b> <b>was taken by</b> <i><b><a href=\"//commons.wikimedia.org/wiki/User:Croucrou\" title=\"User:Croucrou\"><span style=\"color:orange;\"><b>croucrou / Sylvain Crouzillat</b></span></a></b></i></span>\n<p><span style=\"color:#C0C0C0\">Cette <b>Photo</b> <b>a été prise par</b> <i><b><a href=\"//commons.wikimedia.org/wiki/User:Croucrou\" title=\"User:Croucrou\"><span style=\"color:orange;\"><b>croucrou / Sylvain Crouzillat</b></span></a></b></i></span>\n</p><p><span style=\"color:#C0C0C0\">More pictures in my <a href=\"//commons.wikimedia.org/wiki/User:Croucrou\" title=\"User:Croucrou\"><span style=\"color:orange;\"> personal gallery </span></a></span>\n</p><p><span style=\"color:#C0C0C0\">Plus de photos dans ma <a href=\"//commons.wikimedia.org/wiki/User:Croucrou\" title=\"User:Croucrou\"><span style=\"color:orange;\"> galerie personnelle</span></a></span>\n</p><p>Plus d'info sur moi sur mon site web <a rel=\"nofollow\" class=\"external text\" href=\"http://www.sylvain-crouzillat.com/\">|<span style=\"color:orange;\"> www.sylvain-crouzillat.com</span></a>\n</p>\n</td></tr></tbody></table>"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/a0dd256f-6f12-362f-a246-0f62dac8fa42",
+          "ebucore:fileSize": [
+            4355441
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 3270,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/4/41/Chateau-de-Rochebrune2.jpg"
+          ],
+          "ebucore:width": 4276,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/23d7681f-e9fd-33a1-b63e-33e550b41fad",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2f218118-9e82-33e8-b412-6b5c164b4f31",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5ddf9277-2a65-3144-a1b2-3f2efe7a8f26",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c97c9ff5-cc73-3898-9338-e19184460a53",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f5c2d2ea-77b9-3cbc-8339-50c713e57171",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/783e0334-8df5-3935-8ea3-16a2c265f25c",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/a0b38bc4-f60b-3375-bc56-c2ad393e17fa",
+          "schema:addressLocality": "Étagnac",
+          "schema:postalCode": "16150",
+          "schema:streetAddress": [
+            "Château de Rochebrune"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16132",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Étagnac"
+              ],
+              "pt": [
+                "Étagnac"
+              ],
+              "en": [
+                "Étagnac"
+              ],
+              "it": [
+                "Étagnac"
+              ],
+              "fr": [
+                "Étagnac"
+              ],
+              "nl": [
+                "Étagnac"
+              ],
+              "es": [
+                "Étagnac"
+              ]
+            },
+            "insee": "16132",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/5da4da03-edf3-3b98-b4ab-e683be68f3ab",
+        "schema:latitude": "45.896452",
+        "schema:longitude": "0.7862",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f239fdca-d776-36a4-ab39-4fc065f362ec",
+          "schema:closes": "18:00:00",
+          "schema:opens": "14:00:00",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Führungen nur mit Reservierung am ...\r\nnur nach vorheriger Reservierung.\r\n möglichkeit zu einem Spaziergang im Park\r\nGeöffnet an den Tagen des Kulturerbes von 14h-18h , Einheitspreis2€"
+            ],
+            "en": [
+              "Guided tour on reservation on ...\r\nonly on reservation.\r\n possibility to walk in the park\r\nOpen during the Heritage Days from 14h-18h, single rate2€"
+            ],
+            "it": [
+              "Visita guidata su prenotazione su ...\r\nsolo su prenotazione.\r\n possibilità di passeggiare nel parco\r\nAperto nei Giorni del Patrimonio dalle 14.00 alle 18.00, prezzo unico2?"
+            ],
+            "fr": [
+              "Visite guidée sur réservation les ...\r\nuniquement sur réservation.\r\n possibilité de se promener dans le parc\r\nOuvert lors des journées du Patrimoine de 14h-18h , tarif  unique2€"
+            ],
+            "es": [
+              "Visita guiada con reserva previa en ...\r\nsólo con reserva.\r\n posibilidad de pasear por el parque\r\nAbierto los Días del Patrimonio de 14 a 18 horas, precio único2?"
+            ],
+            "nl": [
+              "Rondleiding op reservering op ...\r\nalleen op reservering.\r\n mogelijkheid om in het park te wandelen\r\nOpen op Open Monumentendagen van 14.00 tot 18.00 uur, enkele prijs € 2"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/2d7e6a31-ad01-3757-92ac-c720c803d6bb",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/30eab346-f6f2-32a6-b8aa-d9dac3fc9bce",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/33f66b93-1b12-32fb-95c7-72b8aae0108f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/3ebb9976-4ce0-3821-a329-d988aef28ab0",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/84c7c2e6-2c4f-3048-a200-4af2e3f28457",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ca729d9a-b370-39c8-8ff2-ebfbb796dad5",
+      "schema:email": [
+        "fatiha.guetarni@charente-limousine.fr",
+        "marc.vachot@charente-limousine.fr"
+      ],
+      "schema:legalName": "Office de Tourisme Charente Limousine",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-11",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.279Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/e4d58beb-2d92-3ba6-8143-966cb1cbf8db",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/523965bc-2bb0-3bb0-a911-898fe2e199e8",
+          "schema:maxPrice": [
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "schema:minPrice": [
+            "120",
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/7efc8c84-5920-3f85-b414-fa0027bd7fcf",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-08-31",
+              "startDate": "2023-07-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

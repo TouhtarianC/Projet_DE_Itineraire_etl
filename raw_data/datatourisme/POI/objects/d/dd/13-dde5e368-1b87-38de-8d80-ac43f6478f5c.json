@@ -1,0 +1,465 @@
+{
+  "@id": "https://data.datatourisme.fr/13/dde5e368-1b87-38de-8d80-ac43f6478f5c",
+  "dc:identifier": "5777596",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Familie Bodard, die vom Vater zum Sohn Winzer im Herzen der Petite Champagne ist, empfängt Sie im Laufe der Jahreszeiten und lässt Sie an ihrem Know-how teilhaben: Anbau der Reben, Destillation, Reifung der Branntweine..."
+    ],
+    "en": [
+      "Winegrowers from father to son, in the heart of the Petite Champagne region, the Bodard family welcomes you throughout the seasons to share their know-how: vine growing, distillation, ageing of eaux de vie..."
+    ],
+    "it": [
+      "Viticoltori di padre in figlio, nel cuore della Petite Champagne, la famiglia Bodard vi accoglie durante tutte le stagioni per condividere il proprio know-how: coltivazione della vite, distillazione, invecchiamento delle acquaviti..."
+    ],
+    "fr": [
+      "Vignerons de père en fils, au coeur de la Petite Champagne, la famille Bodard vous accueille au fil des saisons pour vous faire partager son savoir-faire :  culture de la vigne, distillation , vieillissement des eaux de vie..."
+    ],
+    "nl": [
+      "Wijnbouwers van vader op zoon, in het hart van de Petite Champagne, de familie Bodard verwelkomt u gedurende het hele seizoen om hun knowhow te delen: wijnbouw, distillatie, rijping van eaux de vie..."
+    ],
+    "es": [
+      "Viticultores de padre a hijo, en el corazón de la región de la Petite Champagne, la familia Bodard le acoge a lo largo de las temporadas para compartir su saber hacer: cultivo de la vid, destilación, envejecimiento de las aguas de vida..."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Pineau Cognac Vin - Famille Bodard"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/20356314-3a3b-3927-a72b-dc4fc7047780",
+      "schema:email": [
+        "arcalis.fr@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 5 46 49 13 97",
+        "+33 6 86 48 82 33"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.domainearcalis.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/e18209f3-dc7e-30a4-b56c-03ce9720f96a",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/444bf141-1f69-38ba-8f90-7211d0a48463",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4ff193c5-898b-323a-8d13-1820d68f499e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7967f626-0334-3651-a714-6fbb377007a4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8aa15dd0-cca0-3328-ace2-e316016f4b7d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cf849c38-fb2f-3c27-ba32-7dd71b24998d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Familie Bodard, die vom Vater zum Sohn Winzer im Herzen der Petite Champagne ist, empfängt Sie im Laufe der Jahreszeiten und lässt Sie an ihrem Know-how teilhaben: Anbau der Reben, Destillation, Reifung der Branntweine..."
+        ],
+        "en": [
+          "Winegrowers from father to son, in the heart of the Petite Champagne region, the Bodard family welcomes you throughout the seasons to share their know-how: vine growing, distillation, ageing of eaux de vie..."
+        ],
+        "it": [
+          "Viticoltori di padre in figlio, nel cuore della Petite Champagne, la famiglia Bodard vi accoglie durante tutte le stagioni per condividere il proprio know-how: coltivazione della vite, distillazione, invecchiamento delle acquaviti..."
+        ],
+        "fr": [
+          "Vignerons de père en fils, au coeur de la Petite Champagne, la famille Bodard vous accueille au fil des saisons pour vous faire partager son savoir-faire :  culture de la vigne, distillation , vieillissement des eaux de vie..."
+        ],
+        "nl": [
+          "Wijnbouwers van vader op zoon, in het hart van de Petite Champagne, de familie Bodard verwelkomt u gedurende het hele seizoen om hun knowhow te delen: wijnbouw, distillatie, rijping van eaux de vie..."
+        ],
+        "es": [
+          "Viticultores de padre a hijo, en el corazón de la región de la Petite Champagne, la familia Bodard le acoge a lo largo de las temporadas para compartir su saber hacer: cultivo de la vid, destilación, envejecimiento de las aguas de vida..."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/17414e17-aa7e-3009-bdf4-36598ab4f495",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/24ecfa9c-c08a-36a4-b647-cc70a181705d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5eadf0f4-d93f-3e04-9fbc-8c3d9173f22a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/dc4dca54-f332-30c7-8bb8-746da2d4d13e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f955f38c-fecc-3ff2-85d4-1a394e8fad3f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/1aeb8b8a-f204-3acc-a123-ff0b61b55fba",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/3726a024-0222-3d50-8125-ca4c8fa0498d",
+          "schema:addressLocality": "Archiac",
+          "schema:postalCode": "17520",
+          "schema:streetAddress": [
+            "Les Chenegards"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17016",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Archiac"
+              ],
+              "pt": [
+                "Archiac"
+              ],
+              "en": [
+                "Archiac"
+              ],
+              "it": [
+                "Archiac"
+              ],
+              "fr": [
+                "Archiac"
+              ],
+              "nl": [
+                "Archiac"
+              ],
+              "es": [
+                "Archiac"
+              ]
+            },
+            "insee": "17016",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/8c6c6efd-0f14-35eb-9675-f3e9c9b5ea3c",
+        "schema:latitude": "45.525709",
+        "schema:longitude": "-0.31204",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-04-09",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.685Z"
+}

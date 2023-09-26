@@ -1,0 +1,587 @@
+{
+  "@id": "https://data.datatourisme.fr/13/febf8dee-47d9-3a06-b56d-c708b1181ef5",
+  "dc:identifier": "4659456",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Lernen Sie den Beruf des Gerbers anhand eines Videos und einer Besichtigung des Maschinenraums kennen."
+    ],
+    "en": [
+      "Come and discover the tanner's trade through a video and a visit of the machine room."
+    ],
+    "it": [
+      "Venite a scoprire il mestiere del conciatore attraverso un video e una visita alla sala macchine."
+    ],
+    "fr": [
+      "Venez découvrir le métier de Tanneur au travers d'une vidéo et d'une visite de la salle des machines."
+    ],
+    "es": [
+      "Venga a descubrir el oficio de curtidor a través de un vídeo y una visita a la sala de máquinas."
+    ],
+    "nl": [
+      "Kom het leerlooiersvak ontdekken aan de hand van een video en een bezoek aan de machinekamer."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Tannery and Leather Museum"
+    ],
+    "fr": [
+      "Musée de la Tannerie et du Cuir"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q38298785"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f4733064-3ae1-34ca-a04b-f6b2481fec47",
+    "dc:identifier": "1182",
+    "schema:email": [
+      "ncaldayroux@cantal-destination.com"
+    ],
+    "schema:legalName": "Cantal Destination",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.auvergne-destination-volcans.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/78f9f505-fc25-308c-b17c-50a59aa83a4d",
+      "schema:email": [
+        "museecuir@wanadoo.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 55 96 85 59"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/9ebcd569-5950-394c-81b3-4bbb5d7e0ce8",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/00b2ce9c-dada-3099-913f-a5a364493fa9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/30b02150-a56d-329d-832e-c2106d2d92b5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8a5d7f07-91fe-3e23-88cd-7e2b564a6c31",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/986acb1a-9e4a-3a6d-aff7-119a942f1840",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c437ad4d-dd90-32af-a79c-e8c5ca5a1502",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Lernen Sie den Beruf des Gerbers anhand eines Videos und einer Besichtigung des Maschinenraums kennen."
+        ],
+        "en": [
+          "Come and discover the tanner's trade through a video and a visit of the machine room."
+        ],
+        "it": [
+          "Venite a scoprire il mestiere del conciatore attraverso un video e una visita alla sala macchine."
+        ],
+        "fr": [
+          "Venez découvrir le métier de Tanneur au travers d'une vidéo et d'une visite de la salle des machines."
+        ],
+        "es": [
+          "Venga a descubrir el oficio de curtidor a través de un vídeo y una visita a la sala de máquinas."
+        ],
+        "nl": [
+          "Kom het leerlooiersvak ontdekken aan de hand van een video en een bezoek aan de machinekamer."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/012860a1-d6cf-38c2-b3fe-e4814a22156a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/308c8dd5-5272-334e-99c1-879b63ec1bd6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3b1ab265-b704-3fbc-9078-b0336189d24e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d29a7d64-24e7-382d-9c82-162cd95e0682",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e4b81945-bcfe-33e4-afa1-4c97291ad341",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/042c7a17-deec-3bc7-9077-bbd4135e96a3",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/0c9b1929-918c-30d9-b31d-23b90a050d33",
+          "schema:addressLocality": "Bort-les-Orgues",
+          "schema:postalCode": "19110",
+          "schema:streetAddress": [
+            "965 avenue de la Gare"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:19028",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Bort-les-Orgues"
+              ],
+              "pt": [
+                "Bort-les-Orgues"
+              ],
+              "en": [
+                "Bort-les-Orgues"
+              ],
+              "it": [
+                "Bort-les-Orgues"
+              ],
+              "fr": [
+                "Bort-les-Orgues"
+              ],
+              "nl": [
+                "Bort-les-Orgues"
+              ],
+              "es": [
+                "Bort-les-Orgues"
+              ]
+            },
+            "insee": "19028",
+            "isPartOfDepartment": {
+              "@id": "kb:France7519",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Corrèze"
+                ],
+                "pt": [
+                  "Corrèze"
+                ],
+                "en": [
+                  "Corrèze"
+                ],
+                "it": [
+                  "Corrèze"
+                ],
+                "fr": [
+                  "Corrèze"
+                ],
+                "nl": [
+                  "Corrèze"
+                ],
+                "es": [
+                  "Corrèze"
+                ]
+              },
+              "insee": "19",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/98ed13e5-4fe5-3e29-8467-85de6d89aeea",
+        "schema:elevation": "430",
+        "schema:latitude": "45.4088",
+        "schema:longitude": "2.502631",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/86c3db13-8155-3277-a757-ad224fc3b356",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "von 10.00 bis 12.00 Uhr und von 14.00 bis 19.00 Uhr\r\nuhr.\r\nvon 10:00 bis 19:00 Uhr im Juli und August\r\nLetzte Abfahrt der Besichtigung: 17:30 Uhr"
+            ],
+            "en": [
+              "from 10 a.m. to 12 noon and from 2 p.m. to 7 p.m\r\nhours.\r\nfrom 10 am to 7 pm in July and August\r\nLast departure of the visit: 5:30 pm"
+            ],
+            "it": [
+              "dalle 10.00 alle 12.00 e dalle 14.00 alle 19.00\r\nore.\r\ndalle 10.00 alle 19.00 in luglio e agosto\r\nUltima partenza della visita: 17.30"
+            ],
+            "fr": [
+              "de 10 heures à 12 heures et de 14 heures à 19\r\nheures.\r\nde 10 heures à 19 heures en Juillet et Août\r\nDernier départ de Visite : 17 heures 30"
+            ],
+            "nl": [
+              "van 10 tot 12 uur en van 14 tot 19 uur\r\nuren.\r\nvan 10 tot 19 uur in juli en augustus\r\nLaatste vertrek van het bezoek: 17.30 uur"
+            ],
+            "es": [
+              "de 10.00 a 12.00 horas y de 14.00 a 19.00 horas\r\nhoras.\r\nde 10 a 19 h en julio y agosto\r\nÚltima salida de la visita: 17.30 h"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/07a2e77c-ee9e-36f2-950d-8438ad57c26d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/4ef7c94a-8954-3f80-b4f2-76e168caf52a",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c16c269c-f95f-3c1c-a5b9-6440e94a2fdf",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e7e4740f-f1f7-38a7-94e6-9f078d911dce",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f0c57143-5f9a-3d09-a91d-9f9eaa1509fc",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/91416cd3-9f10-34ab-8fdc-2b22f474b045",
+      "schema:email": [
+        "ncaldayroux@cantal-destination.com"
+      ],
+      "schema:legalName": "Cantal Destination",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.auvergne-destination-volcans.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-04-25",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.256Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/e6d1f704-20aa-3fda-accd-95440c0796e2",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/c4a36034-f42b-3307-a552-13a837de8e22",
+          "schema:maxPrice": [
+            "4.5",
+            "5.5",
+            "6.5"
+          ],
+          "schema:minPrice": [
+            "4.5",
+            "5.5",
+            "6.5"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

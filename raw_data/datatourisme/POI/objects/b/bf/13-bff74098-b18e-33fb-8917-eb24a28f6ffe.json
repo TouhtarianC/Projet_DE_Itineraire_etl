@@ -1,0 +1,432 @@
+{
+  "@id": "https://data.datatourisme.fr/13/bff74098-b18e-33fb-8917-eb24a28f6ffe",
+  "dc:identifier": "6066175",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Bibliothek ist dienstags (Schulzeit) von 16:30 bis 17:30 Uhr, mittwochs von 14:30 bis 17:30 Uhr und samstags von 10:00 bis 12:00 Uhr geöffnet."
+    ],
+    "en": [
+      "The library is open on Tuesdays (school period) from 4:30 p.m. to 5:30 p.m., Wednesdays from 2:30 p.m. to 5:30 p.m. and Saturdays from 10:00 a.m. to 12:00 p.m."
+    ],
+    "it": [
+      "La biblioteca è aperta il martedì (periodo scolastico) dalle 16.30 alle 17.30, il mercoledì dalle 14.30 alle 17.30 e il sabato dalle 10.00 alle 12.00."
+    ],
+    "fr": [
+      "La bobliothèque est ouverte le mardi (période scolaire) de 16 h 30 à 17 h 30, le mercredi de 14 h 30 à 17 h 30 et le samedi de 10 h 00 à 12 h 00."
+    ],
+    "es": [
+      "La biblioteca está abierta los martes (periodo escolar) de 16.30 a 17.30, los miércoles de 14.30 a 17.30 y los sábados de 10.00 a 12.00."
+    ],
+    "nl": [
+      "De bibliotheek is geopend op dinsdag (schoolperiode) van 16.30 tot 17.30 uur, op woensdag van 14.30 tot 17.30 uur en op zaterdag van 10.00 tot 12.00 uur."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Bibliothèque Au Plaisir de Lire"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/00bba4a1-407b-3b07-9106-b0510d6c88c8",
+      "schema:email": [
+        "bibliotheque-bourcefranc@orange.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 76 18 10"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/158a6d51-b54f-38ca-b057-461593ab7268",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2a395cc4-e692-3241-960f-c3e0f44c33f3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/62aecb81-51fb-3a97-b2ed-f8c1a793cfac",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/67cb288d-752a-30b2-b832-3b565d554e84",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/baf33869-094a-3cc8-99ae-a08157414267",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cf693f29-99c0-3ed2-93dd-bffb3084001a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Bibliothek ist dienstags (Schulzeit) von 16:30 bis 17:30 Uhr, mittwochs von 14:30 bis 17:30 Uhr und samstags von 10:00 bis 12:00 Uhr geöffnet."
+        ],
+        "en": [
+          "The library is open on Tuesdays (school period) from 4:30 p.m. to 5:30 p.m., Wednesdays from 2:30 p.m. to 5:30 p.m. and Saturdays from 10:00 a.m. to 12:00 p.m."
+        ],
+        "it": [
+          "La biblioteca è aperta il martedì (periodo scolastico) dalle 16.30 alle 17.30, il mercoledì dalle 14.30 alle 17.30 e il sabato dalle 10.00 alle 12.00."
+        ],
+        "fr": [
+          "La bobliothèque est ouverte le mardi (période scolaire) de 16 h 30 à 17 h 30, le mercredi de 14 h 30 à 17 h 30 et le samedi de 10 h 00 à 12 h 00."
+        ],
+        "es": [
+          "La biblioteca está abierta los martes (periodo escolar) de 16.30 a 17.30, los miércoles de 14.30 a 17.30 y los sábados de 10.00 a 12.00."
+        ],
+        "nl": [
+          "De bibliotheek is geopend op dinsdag (schoolperiode) van 16.30 tot 17.30 uur, op woensdag van 14.30 tot 17.30 uur en op zaterdag van 10.00 tot 12.00 uur."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/188ffcc9-b7e8-3fa8-baab-ae00a6b8a8fb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6cb3ed61-3232-321f-a958-6bffa9a91a4c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/93c14f6a-ec8a-3da5-8518-7a0580a7c266",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c082cd30-db3f-3857-8942-be1f24248918",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e63a937c-449f-3318-9dab-e8b7fa3429e3",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0a2abc5f-fadd-3bef-9c33-783bd5c68b89",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/a57d606b-8183-3c6b-b7dd-9c3ce2697ecc",
+          "schema:addressLocality": "Bourcefranc-le-Chapus",
+          "schema:postalCode": "17560",
+          "schema:streetAddress": [
+            "22 bis rue Léon Oriou"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17058",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Bourcefranc-le-Chapus"
+              ],
+              "pt": [
+                "Bourcefranc-le-Chapus"
+              ],
+              "en": [
+                "Bourcefranc-le-Chapus"
+              ],
+              "it": [
+                "Bourcefranc-le-Chapus"
+              ],
+              "fr": [
+                "Bourcefranc-le-Chapus"
+              ],
+              "nl": [
+                "Bourcefranc-le-Chapus"
+              ],
+              "es": [
+                "Bourcefranc-le-Chapus"
+              ]
+            },
+            "insee": "17058",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/42d9534a-075f-37d0-87e5-2003c7ef5bcf",
+        "schema:latitude": "45.848248",
+        "schema:longitude": "-1.144426",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/d7f018c3-c1ab-31f8-8901-4d29578edb89",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ile-oleron-marennes.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-04-03",
+  "lastUpdateDatatourisme": "2023-04-04T05:52:39.315Z"
+}

@@ -1,0 +1,463 @@
+{
+  "@id": "https://data.datatourisme.fr/13/bbd1ff27-45a7-3374-b5e7-12475aee4b78",
+  "dc:identifier": "6000763",
+  "@type": [
+    "CoveredMarket",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die 1823 und 1827 erbaute Halle aux Poissons befindet sich an der Stelle des ehemaligen Fischmarkts. Der Marquis d'Aligre, der den Bau der Halle anordnete, machte sie zu einer Getreidehalle."
+    ],
+    "en": [
+      "Built in 1823 and 1827, the Halle aux Poissons is located on the site of the old fish market. The Marquis d'Aligre, who ordered its construction, made it a grain market."
+    ],
+    "it": [
+      "Costruita nel 1823 e nel 1827, la Halle aux Poissons sorge sul sito dell'antico mercato del pesce. Il marchese d'Aligre, che ne ordinò la costruzione, lo utilizzò come mercato del grano."
+    ],
+    "fr": [
+      "Construite en 1823 et 1827, la Halle aux Poissons se situe à l'emplacement de l'ancien marché aux poissons. Le Marquis d'Aligre qui en ordonna la construction en fit une halle aux grains."
+    ],
+    "nl": [
+      "De Halle aux Poissons, gebouwd in 1823 en 1827, bevindt zich op de plaats van de oude vismarkt. De markies d'Aligre, die opdracht gaf tot de bouw, maakte er een graanmarkt van."
+    ],
+    "es": [
+      "Construida en 1823 y 1827, la Halle aux Poissons se encuentra en el emplazamiento del antiguo mercado de pescado. El marqués de Aligre, que ordenó su construcción, lo utilizó como mercado de grano."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Halle aux poissons"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/296472c9-542a-34d4-b88d-543508116cbc",
+    "dc:identifier": "2070",
+    "schema:email": [
+      "aurore.mdc@aunis-maraispoitevin.com",
+      "madeleine.dasilva@aunis-maraispoitevin.com"
+    ],
+    "schema:legalName": "Office de Tourisme Aunis Marais Poitevin",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.aunis-maraispoitevin.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/9927a037-96bb-3179-a291-c346fc7d9cb2",
+      "schema:email": [
+        "mairie@ville-marans.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 01 10 29",
+        "+33 5 46 01 49 37"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ville-marans.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/74bdafde-d9ce-33dd-97b3-dc81e536d99e",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/34d406a2-4d7d-3ef2-b4dd-29db913057b5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/62b38d0f-4514-3198-ae35-cb5ae753c182",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9b07d7c3-53a2-3961-83ea-7ea7606ba7b8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bfbb583e-038e-3172-a80b-b429a74ecb29",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d9184a55-462f-3711-b4d9-d8dff39c8166",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die 1823 und 1827 erbaute Halle aux Poissons befindet sich an der Stelle des ehemaligen Fischmarkts. Der Marquis d'Aligre, der den Bau der Halle anordnete, machte sie zu einer Getreidehalle."
+        ],
+        "en": [
+          "Built in 1823 and 1827, the Halle aux Poissons is located on the site of the old fish market. The Marquis d'Aligre, who ordered its construction, made it a grain market."
+        ],
+        "it": [
+          "Costruita nel 1823 e nel 1827, la Halle aux Poissons sorge sul sito dell'antico mercato del pesce. Il marchese d'Aligre, che ne ordinò la costruzione, lo utilizzò come mercato del grano."
+        ],
+        "fr": [
+          "Construite en 1823 et 1827, la Halle aux Poissons se situe à l'emplacement de l'ancien marché aux poissons. Le Marquis d'Aligre qui en ordonna la construction en fit une halle aux grains."
+        ],
+        "nl": [
+          "De Halle aux Poissons, gebouwd in 1823 en 1827, bevindt zich op de plaats van de oude vismarkt. De markies d'Aligre, die opdracht gaf tot de bouw, maakte er een graanmarkt van."
+        ],
+        "es": [
+          "Construida en 1823 y 1827, la Halle aux Poissons se encuentra en el emplazamiento del antiguo mercado de pescado. El marqués de Aligre, que ordenó su construcción, lo utilizó como mercado de grano."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/42196d00-a465-3a3f-b4dc-d43413219b6f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/78da1c79-c537-3a85-8d56-491b94c68549",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/90f1d243-ebb7-34e0-9df8-e901649b3184",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b5881a12-33ea-3b74-891f-0b98b1649b61",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f5aac42d-5f51-35c8-8491-fa2ed9ec9840",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/cc60781f-90d2-39cd-8ec2-02837ad13cf6",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/653b0e07-6614-3499-9db9-39d1f21f8a79",
+          "schema:addressLocality": "Marans",
+          "schema:postalCode": "17230",
+          "schema:streetAddress": [
+            "Place du Marché"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17218",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Marans"
+              ],
+              "pt": [
+                "Marans"
+              ],
+              "en": [
+                "Marans"
+              ],
+              "it": [
+                "Marans"
+              ],
+              "fr": [
+                "Marans"
+              ],
+              "nl": [
+                "Marans"
+              ],
+              "es": [
+                "Marans"
+              ]
+            },
+            "insee": "17218",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/ed061dff-2a01-351f-86ea-3f5a23626f20",
+        "schema:latitude": "46.311196",
+        "schema:longitude": "-0.993596",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/a31bfa88-8451-397d-9df1-b4fcba0f5590",
+      "schema:email": [
+        "madeleine.dasilva@aunis-maraispoitevin.com"
+      ],
+      "schema:legalName": "Office de Tourisme Aunis Marais Poitevin",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.aunis-maraispoitevin.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-12-28",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.768Z"
+}

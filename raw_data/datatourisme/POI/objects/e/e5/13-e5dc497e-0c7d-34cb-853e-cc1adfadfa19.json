@@ -1,0 +1,469 @@
+{
+  "@id": "https://data.datatourisme.fr/13/e5dc497e-0c7d-34cb-853e-cc1adfadfa19",
+  "dc:identifier": "5740519",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "ein außergewöhnliches und einzigartiges Werk in der Geschichte der französischen Renaissance, das von einem anonymen Meister in den 1555er Jahren erdacht wurde. Achtung, kann nicht besichtigt werden. Nur der Hof ist zugänglich."
+    ],
+    "en": [
+      "an exceptional and unique work in the history of the French Renaissance, designed by an anonymous master in the years 1555. Please note that it cannot be visited. Only the courtyard is accessible."
+    ],
+    "it": [
+      "si tratta di un'opera eccezionale e unica nella storia del Rinascimento francese, progettata da un maestro anonimo nel 1555. Si prega di notare che non può essere visitato. Solo il cortile è accessibile."
+    ],
+    "fr": [
+      "une œuvre exceptionnelle et unique dans l’histoire de la Renaissance française, imaginée par un maître anonyme dans les années 1555 . Attention, ne se visite pas. Seule la cour est accessible."
+    ],
+    "es": [
+      "una obra excepcional y única en la historia del Renacimiento francés, diseñada por un maestro anónimo en 1555. Tenga en cuenta que no se puede visitar. Sólo se puede acceder al patio."
+    ],
+    "nl": [
+      "een uitzonderlijk en uniek werk in de geschiedenis van de Franse Renaissance, ontworpen door een anonieme meester in 1555. Het kan niet bezocht worden. Alleen de binnenplaats is toegankelijk."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Maison Henri II"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q22955150"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/1359aa93-3b48-3754-a2f5-4adb688bfa77",
+    "dc:identifier": "2058",
+    "schema:email": [
+      "a.lefeuvre@larochelle-tourisme-evenements.com",
+      "c.collot@larochelle-tourisme-evenements.com",
+      "m.farre@larochelle-tourisme-evenements.com",
+      "maxime.vossier@otipass.com",
+      "s.nogues@larochelle-tourisme-evenements.com"
+    ],
+    "schema:legalName": "La Rochelle Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.larochelle-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/0c7a5920-0d42-3ef5-81e6-ffe90e1d7dc2",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/120679cb-baea-3c78-8cfb-9087341939df",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/50f60c13-7ae2-333e-8cc5-2ac573d72e19",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "ein außergewöhnliches und einzigartiges Werk in der Geschichte der französischen Renaissance, das von einem anonymen Meister in den 1555er Jahren erdacht wurde. Achtung, kann nicht besichtigt werden. Nur der Hof ist zugänglich."
+        ],
+        "en": [
+          "an exceptional and unique work in the history of the French Renaissance, designed by an anonymous master in the years 1555. Please note that it cannot be visited. Only the courtyard is accessible."
+        ],
+        "it": [
+          "si tratta di un'opera eccezionale e unica nella storia del Rinascimento francese, progettata da un maestro anonimo nel 1555. Si prega di notare che non può essere visitato. Solo il cortile è accessibile."
+        ],
+        "fr": [
+          "une œuvre exceptionnelle et unique dans l’histoire de la Renaissance française, imaginée par un maître anonyme dans les années 1555 . Attention, ne se visite pas. Seule la cour est accessible."
+        ],
+        "es": [
+          "una obra excepcional y única en la historia del Renacimiento francés, diseñada por un maestro anónimo en 1555. Tenga en cuenta que no se puede visitar. Sólo se puede acceder al patio."
+        ],
+        "nl": [
+          "een uitzonderlijk en uniek werk in de geschiedenis van de Franse Renaissance, ontworpen door een anonieme meester in 1555. Het kan niet bezocht worden. Alleen de binnenplaats is toegankelijk."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/adf53cfe-270f-3b8e-b13b-ab2b2a0133d6",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/49048342-2e0d-3e5a-b2b3-e5c6ae9d1c1b",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Mansion de Henri y Diana"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Gestoso (https://commons.wikimedia.org/w/index.php?title=User:Gestoso&amp;action=edit&amp;redlink=1)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/968fcd23-5c87-36df-a331-85e26b6ec793",
+          "ebucore:fileSize": [
+            7187003
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 3264,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/8/86/Mansion_de_Henri_y_Diana.JPG"
+          ],
+          "ebucore:width": 4928,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/13612426-5312-3147-9246-696843ecb0e8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c24b7172-9817-305c-9929-41b0688a332a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/283b5c20-95cd-3572-a78e-7b332c32e896",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/af3d5025-915c-316b-908f-2a2cbfa7605f",
+          "schema:addressLocality": "La Rochelle",
+          "schema:postalCode": "17000",
+          "schema:streetAddress": [
+            "11 bis rue des Augustins"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17300",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "La Rochelle"
+              ],
+              "pt": [
+                "La Rochelle"
+              ],
+              "en": [
+                "La Rochelle"
+              ],
+              "it": [
+                "La Rochelle"
+              ],
+              "fr": [
+                "La Rochelle"
+              ],
+              "nl": [
+                "La Rochelle"
+              ],
+              "es": [
+                "La Rochelle"
+              ]
+            },
+            "insee": "17300",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/0839666a-adc1-327e-aa88-2eb04c86ac0e",
+        "schema:latitude": "46.16067",
+        "schema:longitude": "-1.152892",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8da8ffa9-cdd8-3b7a-a8c5-edb456104fe0",
+      "schema:email": [
+        "a.lefeuvre@larochelle-tourisme-evenements.com",
+        "c.collot@larochelle-tourisme-evenements.com",
+        "m.farre@larochelle-tourisme-evenements.com",
+        "maxime.vossier@otipass.com",
+        "s.nogues@larochelle-tourisme-evenements.com"
+      ],
+      "schema:legalName": "La Rochelle Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.larochelle-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-11-30",
+  "lastUpdateDatatourisme": "2023-05-26T05:53:38.356Z"
+}

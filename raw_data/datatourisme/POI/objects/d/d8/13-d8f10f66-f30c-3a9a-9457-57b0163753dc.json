@@ -1,0 +1,446 @@
+{
+  "@id": "https://data.datatourisme.fr/13/d8f10f66-f30c-3a9a-9457-57b0163753dc",
+  "dc:identifier": "5750106",
+  "@type": [
+    "schema:Landform",
+    "Beach",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Dieser Sandstrand an der Westküste der Insel Oléron ist ein idealer Ort zum Wandern, Running und Angeln bei Ebbe."
+    ],
+    "en": [
+      "Located on the west coast of the island of Oleron, this sandy beach is an ideal place for walking, running and fishing at low tide."
+    ],
+    "it": [
+      "Situata sulla costa occidentale dell'isola di Oleron, questa spiaggia sabbiosa è un luogo ideale per passeggiare, correre e pescare durante la bassa marea."
+    ],
+    "fr": [
+      "Située sur la côte ouest de l'île d'Oléron, cette plage de sable est un lieu idéal pour la balade, running et la pêche à pied à marée basse."
+    ],
+    "es": [
+      "Situada en la costa oeste de la isla de Oleron, esta playa de arena es un lugar ideal para pasear, correr y pescar con la marea baja."
+    ],
+    "nl": [
+      "Dit zandstrand, gelegen aan de westkust van het eiland Oleron, is een ideale plek om te wandelen, hard te lopen en te vissen bij eb."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Plage de l'écuissière"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/1fd121fc-d138-3bd2-a09e-712d8c370e43",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1ac9d27e-ee9c-3107-9d67-2030fd83a268",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2b3641c5-a02b-39fb-9717-338b3a14bda5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/58627716-bfe4-3b16-979a-a02fe84c22a0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7cf6e430-d35a-3adc-8866-b1147e4b8361",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a7390e7a-5d12-38a3-8158-2b436facc296",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Dieser Sandstrand an der Westküste der Insel Oléron ist ein idealer Ort zum Wandern, Running und Angeln bei Ebbe."
+        ],
+        "en": [
+          "Located on the west coast of the island of Oleron, this sandy beach is an ideal place for walking, running and fishing at low tide."
+        ],
+        "it": [
+          "Situata sulla costa occidentale dell'isola di Oleron, questa spiaggia sabbiosa è un luogo ideale per passeggiare, correre e pescare durante la bassa marea."
+        ],
+        "fr": [
+          "Située sur la côte ouest de l'île d'Oléron, cette plage de sable est un lieu idéal pour la balade, running et la pêche à pied à marée basse."
+        ],
+        "es": [
+          "Situada en la costa oeste de la isla de Oleron, esta playa de arena es un lugar ideal para pasear, correr y pescar con la marea baja."
+        ],
+        "nl": [
+          "Dit zandstrand, gelegen aan de westkust van het eiland Oleron, is een ideale plek om te wandelen, hard te lopen en te vissen bij eb."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Bathing",
+      "@type": [
+        "AccommodationAmenity",
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Baden"
+        ],
+        "pt": [
+          "Banho"
+        ],
+        "en": [
+          "Bathing"
+        ],
+        "it": [
+          "Bagno"
+        ],
+        "fr": [
+          "Baignade"
+        ],
+        "nl": [
+          "Zwemmen"
+        ],
+        "es": [
+          "Baño"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/083dee7e-a39b-39da-a004-aa80df6197fa",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/398fb55c-0dfc-330c-8354-811553d1b593",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b445feb1-0e50-3dc2-aef4-766978ce8833",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/de0751d9-645f-35bf-a3ad-68e13f239804",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e94efd32-a929-3b41-99fc-63e3cec3b74b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/816f1579-59ae-3752-837d-001c616fd092",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/90d4f28d-3212-36bf-a349-8f3355e23a24",
+          "schema:addressLocality": "Dolus-d'Oléron",
+          "schema:postalCode": "17550",
+          "schema:streetAddress": [
+            "Passe de l'écuissière"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17140",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Dolus-d'Oléron"
+              ],
+              "pt": [
+                "Dolus-d'Oléron"
+              ],
+              "en": [
+                "Dolus-d'Oléron"
+              ],
+              "it": [
+                "Dolus-d'Oléron"
+              ],
+              "fr": [
+                "Dolus-d'Oléron"
+              ],
+              "nl": [
+                "Dolus-d'Oléron"
+              ],
+              "es": [
+                "Dolus-d'Oléron"
+              ]
+            },
+            "insee": "17140",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/5380b897-ad97-30b7-bdc1-a219ef245709",
+        "schema:latitude": "45.885929",
+        "schema:longitude": "-1.276795",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/80009736-71af-3484-9792-2b3de63306d1",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-07-06",
+  "lastUpdateDatatourisme": "2023-06-01T05:41:13.963Z"
+}

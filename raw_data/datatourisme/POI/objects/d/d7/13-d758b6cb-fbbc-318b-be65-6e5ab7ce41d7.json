@@ -1,0 +1,441 @@
+{
+  "@id": "https://data.datatourisme.fr/13/d758b6cb-fbbc-318b-be65-6e5ab7ce41d7",
+  "dc:identifier": "5736774",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das Arboretum ist sowohl ein landschaftlicher Zierraum als auch ein pädagogisches Medium mit der Identifizierung der verschiedenen Baumarten."
+    ],
+    "en": [
+      "L'arboretum est à la fois un espace paysager d'agrément et également un support pédagogique avec l'identification des différentes essences arborées."
+    ],
+    "it": [
+      "L'arboreto è sia un'area paesaggistica che uno strumento educativo con l'identificazione di diverse specie arboree."
+    ],
+    "fr": [
+      "L'arboretum est à la fois un espace paysager d'agrément et également un support pédagogique avec l'identification des différentes essences arborées."
+    ],
+    "nl": [
+      "Het arboretum is zowel een landschapspark als een educatief instrument met de identificatie van verschillende boomsoorten."
+    ],
+    "es": [
+      "El arboreto es a la vez una zona de ocio paisajístico y una herramienta educativa con la identificación de diferentes especies de árboles."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Arboretum Irène Urbain"
+    ],
+    "fr": [
+      "Arboretum Irène Urbain"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/16ba7217-2e6a-3f1d-a54d-11ab6967e371",
+    "dc:identifier": "2063",
+    "schema:email": [
+      "direction@sudcharentetourisme.fr",
+      "noemie@sudcharentetourisme.fr"
+    ],
+    "schema:legalName": "Office de tourisme du Sud Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.sudcharentetourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/f33e3d58-f350-3d68-88ee-0981f7644643",
+      "schema:email": [
+        "contact@mairie-barbezieux.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 78 10 63",
+        "+33 5 45 78 20 22"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.mairie-barbezieux.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/01852ac8-5af9-3b8c-ab35-5f2eeaee73a4",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/11b1f45f-ade0-3a11-a0c8-178cd65a35b3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9aad37c3-1ee8-325a-a790-fc4221f3f94f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a48ad111-0283-3afe-b78c-d58fc2aa86b2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/df65086c-7087-3716-bc2c-bd030a991f43",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das Arboretum ist sowohl ein landschaftlicher Zierraum als auch ein pädagogisches Medium mit der Identifizierung der verschiedenen Baumarten."
+        ],
+        "en": [
+          "L'arboretum est à la fois un espace paysager d'agrément et également un support pédagogique avec l'identification des différentes essences arborées."
+        ],
+        "it": [
+          "L'arboreto è sia un'area paesaggistica che uno strumento educativo con l'identificazione di diverse specie arboree."
+        ],
+        "fr": [
+          "L'arboretum est à la fois un espace paysager d'agrément et également un support pédagogique avec l'identification des différentes essences arborées."
+        ],
+        "nl": [
+          "Het arboretum is zowel een landschapspark als een educatief instrument met de identificatie van verschillende boomsoorten."
+        ],
+        "es": [
+          "El arboreto es a la vez una zona de ocio paisajístico y una herramienta educativa con la identificación de diferentes especies de árboles."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/77909a69-7861-3964-9fa0-4a8f18c84a5b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9506aa1e-bcf4-32aa-9b07-9e93521b3a77",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e4ec6655-23da-3d15-8eed-a8d89d69f080",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f4d150df-2ab6-37a7-9efc-0e899df25b31",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f479eb29-9b11-3064-8834-e526da5cacff",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/fb3f4634-579a-3161-b024-ab7c186f2317",
+          "schema:addressLocality": "Barbezieux-Saint-Hilaire",
+          "schema:postalCode": "16300",
+          "schema:streetAddress": [
+            "Avenue Nelson Mandela"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16028",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Barbezieux-Saint-Hilaire"
+              ],
+              "pt": [
+                "Barbezieux-Saint-Hilaire"
+              ],
+              "en": [
+                "Barbezieux-Saint-Hilaire"
+              ],
+              "it": [
+                "Barbezieux-Saint-Hilaire"
+              ],
+              "fr": [
+                "Barbezieux-Saint-Hilaire"
+              ],
+              "nl": [
+                "Barbezieux-Saint-Hilaire"
+              ],
+              "es": [
+                "Barbezieux-Saint-Hilaire"
+              ]
+            },
+            "insee": "16028",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/e149de81-496a-36df-a8aa-db71b92201ca",
+        "schema:latitude": "45.466503",
+        "schema:longitude": "-0.156916",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/17ccf9a1-6b41-3eb9-a1e1-edf0fbbf90c5",
+      "schema:email": [
+        "direction@sudcharentetourisme.fr",
+        "noemie@sudcharentetourisme.fr"
+      ],
+      "schema:legalName": "Office de tourisme du Sud-Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.sudcharentetourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-06-04",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.762Z"
+}
