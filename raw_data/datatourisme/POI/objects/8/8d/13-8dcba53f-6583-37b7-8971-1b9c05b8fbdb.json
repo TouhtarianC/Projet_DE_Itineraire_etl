@@ -1,0 +1,556 @@
+{
+  "@id": "https://data.datatourisme.fr/13/8dcba53f-6583-37b7-8971-1b9c05b8fbdb",
+  "dc:identifier": "5732249",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Kirche von Nonac weist eine für die romanische Bauweise der Saintonge typische Architektur auf. Sie zeichnet sich durch ein schönes Ensemble von Wandmalereien aus gotischer Zeit und eine besonders gut erhaltene Krypta mit Wandmalereien aus."
+    ],
+    "en": [
+      "The church of Nonac presents an architecture characteristic of the Saintongeaise Romanesque construction. It is characterized by  a beautiful collection of Gothic murals and a particularly well-preserved crypt decorated with mural paintings."
+    ],
+    "it": [
+      "La chiesa di Nonac è tipica dello stile romanico della Saintonge. È caratterizzata da un bellissimo insieme di pitture murali di epoca gotica e da una cripta particolarmente ben conservata, decorata con pitture murali."
+    ],
+    "fr": [
+      "L'église de Nonac présente une architecture caractéristique de la construction romane saintongeaise. Elle se caractérise par un bel ensemble de peintures murales d'époque gothique et une crypte particulièrement bien conservée, ornée de peintures murales."
+    ],
+    "es": [
+      "La iglesia de Nonac es típica del estilo de construcción románico de Saintonge. Se caracteriza por un bello conjunto de pinturas murales de la época gótica y una cripta especialmente bien conservada, decorada con pinturas murales."
+    ],
+    "nl": [
+      "De kerk van Nonac is typisch voor de Romaanse bouwstijl in Saintonge. Het wordt gekenmerkt door een prachtige reeks muurschilderingen uit de gotische periode en een bijzonder goed bewaarde crypte, versierd met muurschilderingen."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Église Saint-Hilaire"
+    ],
+    "ru": [
+      "Église Saint-Hilaire"
+    ],
+    "en": [
+      "Saint-Hilaire Church"
+    ],
+    "it": [
+      "Église Saint-Hilaire"
+    ],
+    "fr": [
+      "Église Saint-Hilaire"
+    ],
+    "zh": [
+      "Église Saint-Hilaire"
+    ],
+    "nl": [
+      "Église Saint-Hilaire"
+    ],
+    "es": [
+      "Église Saint-Hilaire"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q3581787"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/16ba7217-2e6a-3f1d-a54d-11ab6967e371",
+    "dc:identifier": "2063",
+    "schema:email": [
+      "direction@sudcharentetourisme.fr",
+      "noemie@sudcharentetourisme.fr"
+    ],
+    "schema:legalName": "Office de tourisme du Sud Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.sudcharentetourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/4d5971db-6697-340c-b28f-0ba8a4447ed5",
+      "schema:email": [
+        "mairie.nonac@wanadoo.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 64 16 10"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.nonac.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/03ff1b1d-56e8-3362-bc6e-1adf706ebd8b",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0f6a0728-1172-3320-8516-396bbc758644",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3b9e0781-9309-3d70-bf66-e826a4eef5c1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/851f9407-6887-32d1-83e1-30dc6a8084cf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e98d8dc6-a30a-38b6-ba6a-6e117dc8cdf8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Kirche von Nonac weist eine für die romanische Bauweise der Saintonge typische Architektur auf. Sie zeichnet sich durch ein schönes Ensemble von Wandmalereien aus gotischer Zeit und eine besonders gut erhaltene Krypta mit Wandmalereien aus."
+        ],
+        "en": [
+          "The church of Nonac presents an architecture characteristic of the Saintongeaise Romanesque construction. It is characterized by  a beautiful collection of Gothic murals and a particularly well-preserved crypt decorated with mural paintings."
+        ],
+        "it": [
+          "La chiesa di Nonac è tipica dello stile romanico della Saintonge. È caratterizzata da un bellissimo insieme di pitture murali di epoca gotica e da una cripta particolarmente ben conservata, decorata con pitture murali."
+        ],
+        "fr": [
+          "L'église de Nonac présente une architecture caractéristique de la construction romane saintongeaise. Elle se caractérise par un bel ensemble de peintures murales d'époque gothique et une crypte particulièrement bien conservée, ornée de peintures murales."
+        ],
+        "es": [
+          "La iglesia de Nonac es típica del estilo de construcción románico de Saintonge. Se caracteriza por un bello conjunto de pinturas murales de la época gótica y una cripta especialmente bien conservada, decorada con pinturas murales."
+        ],
+        "nl": [
+          "De kerk van Nonac is typisch voor de Romaanse bouwstijl in Saintonge. Het wordt gekenmerkt door een prachtige reeks muurschilderingen uit de gotische periode en een bijzonder goed bewaarde crypte, versierd met muurschilderingen."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/cc3797c8-2829-37ff-9475-c97c6a9e99dc",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/160d68a3-4b1a-3634-97f2-7bfce5b7cba4",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Nonac eg1"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Jack ma (https://commons.wikimedia.org/wiki/User:Jack_ma)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/53e60115-c82f-3b08-804d-16bb53f3a25f",
+          "ebucore:fileSize": [
+            269427
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1200,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/f/f9/Nonac_eg1.JPG"
+          ],
+          "ebucore:width": 1600,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0641d95a-f499-3332-a896-977a47c0a605",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/0c78ae1b-a715-3c06-8e5d-edcbc400a6cc",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2e835573-79b3-38d4-9ecc-ead5741c8e96",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/83f3b85f-1595-321c-b83d-e048c4eff989",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/dda69c46-fbd8-3fcc-9f4f-6459e4099c19",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/e2267a8b-b66e-3367-b6a4-270e628aefa9",
+          "schema:addressLocality": "Nonac",
+          "schema:postalCode": "16190",
+          "schema:streetAddress": [
+            "Place de l'Eglise"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16246",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Nonac"
+              ],
+              "pt": [
+                "Nonac"
+              ],
+              "en": [
+                "Nonac"
+              ],
+              "it": [
+                "Nonac"
+              ],
+              "fr": [
+                "Nonac"
+              ],
+              "nl": [
+                "Nonac"
+              ],
+              "es": [
+                "Nonac"
+              ]
+            },
+            "insee": "16246",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/8518827d-a1df-329b-90ff-3d7da4bb736b",
+        "schema:latitude": "45.420596",
+        "schema:longitude": "0.057195",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/e33a98e6-55c7-32e4-aa37-07109796a493",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-29T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/17ccf9a1-6b41-3eb9-a1e1-edf0fbbf90c5",
+      "schema:email": [
+        "direction@sudcharentetourisme.fr",
+        "noemie@sudcharentetourisme.fr"
+      ],
+      "schema:legalName": "Office de tourisme du Sud-Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.sudcharentetourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-03-23",
+  "lastUpdateDatatourisme": "2023-03-24T06:39:42.363Z"
+}

@@ -1,0 +1,520 @@
+{
+  "@id": "https://data.datatourisme.fr/13/5c10c861-c512-3823-884f-5ff3530bf715",
+  "dc:identifier": "5761216",
+  "@type": [
+    "schema:Landform",
+    "Beach",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Idealer Strand für ein Sonnenbad oder ein Bad im Meer."
+    ],
+    "en": [
+      "Ideal beach for sunbathing or swimming in the sea."
+    ],
+    "it": [
+      "La spiaggia è ideale per prendere il sole o fare il bagno in mare."
+    ],
+    "fr": [
+      "Plage idéale pour un bain de soleil ou bain de mer."
+    ],
+    "es": [
+      "La playa es ideal para tomar el sol o bañarse en el mar."
+    ],
+    "nl": [
+      "Het strand is ideaal om te zonnebaden of in zee te zwemmen."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Strand Anse de la Croix"
+    ],
+    "en": [
+      "Beach of Anse de la Croix"
+    ],
+    "fr": [
+      "Plage de l'Anse de la Croix"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/9afefc52-942c-383c-bc1f-14b2139b09ba",
+    "dc:identifier": "2055",
+    "schema:email": [
+      "chloe.mailler@rochefort-ocean.com",
+      "christine.nourisson@rochefort-ocean.com",
+      "chrystelle.ecale@rochefort-ocean.com",
+      "lea.origlia@rochefort-ocean.com",
+      "sandrine.bouron@rochefort-ocean.com"
+    ],
+    "schema:legalName": "Office de Tourisme Rochefort Océan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.rochefort-ocean.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/b883a77c-b7ba-3c90-9da3-ce3252b59933",
+      "schema:email": [
+        "mairie@iledaix.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 84 66 09"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/eb26105b-160b-3fd0-ba7d-e4e1ef7cde81",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0bb7120d-c97f-3a21-94fe-b84e2560ee13",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4fda6dfc-f634-3ac7-a541-48e378b99471",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f5e951ff-667a-3e17-8001-78a2cdb5a2c4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Idealer Strand für ein Sonnenbad oder ein Bad im Meer."
+        ],
+        "en": [
+          "Ideal beach for sunbathing or swimming in the sea."
+        ],
+        "it": [
+          "La spiaggia è ideale per prendere il sole o fare il bagno in mare."
+        ],
+        "fr": [
+          "Plage idéale pour un bain de soleil ou bain de mer."
+        ],
+        "es": [
+          "La playa es ideal para tomar el sol o bañarse en el mar."
+        ],
+        "nl": [
+          "Het strand is ideaal om te zonnebaden of in zee te zwemmen."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Bathing",
+      "@type": [
+        "AccommodationAmenity",
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Baden"
+        ],
+        "pt": [
+          "Banho"
+        ],
+        "en": [
+          "Bathing"
+        ],
+        "it": [
+          "Bagno"
+        ],
+        "fr": [
+          "Baignade"
+        ],
+        "nl": [
+          "Zwemmen"
+        ],
+        "es": [
+          "Baño"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/3f0fec76-ef4b-359e-ac48-eb3826e31160",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ba4d57d8-0243-3ec4-8977-971a292f83fd",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ed392b37-54c2-3b9d-9f37-ef1c7c70e8d8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/5276d234-6ef0-37eb-9acf-22c75376991c",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/5e913a93-9492-3401-8710-aed50f6f8f4b",
+          "schema:addressLocality": "Île-d'Aix",
+          "schema:postalCode": "17123",
+          "schema:streetAddress": [
+            "Anse de la Croix"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17004",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Île-d'Aix"
+              ],
+              "pt": [
+                "Île-d'Aix"
+              ],
+              "en": [
+                "Île-d'Aix"
+              ],
+              "it": [
+                "Île-d'Aix"
+              ],
+              "fr": [
+                "Île-d'Aix"
+              ],
+              "nl": [
+                "Île-d'Aix"
+              ],
+              "es": [
+                "Île-d'Aix"
+              ]
+            },
+            "insee": "17004",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/5a7f92e3-95af-35ad-8978-b139942b1736",
+        "schema:latitude": "46.011112",
+        "schema:longitude": "-1.177312",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/318f0fc7-6262-3feb-925b-9bd4be2814cc",
+          "schema:validFrom": "2023-09-04T00:00:00",
+          "schema:validThrough": "2023-06-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6cf0e4c1-d386-30ae-b246-6285d360a3a1",
+          "schema:validFrom": "2023-07-08T00:00:00",
+          "schema:validThrough": "2023-09-03T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Beaufsichtigtes Baden jeden Tag von 11:00 bis 19:00 Uhr."
+            ],
+            "en": [
+              "Supervised swimming every day from 11am to 7pm."
+            ],
+            "it": [
+              "Nuoto assistito tutti i giorni dalle 11.00 alle 19.00."
+            ],
+            "fr": [
+              "Baignade surveillée tous les jours de 11h à 19h."
+            ],
+            "es": [
+              "Natación supervisada todos los días de 11.00 a 19.00 horas."
+            ],
+            "nl": [
+              "Elke dag zwemmen onder toezicht van 11.00 tot 19.00 uur."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/61871c99-72a4-3341-9436-0c78b9f64f1b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a4efda5c-5319-351d-861e-f045b2b819a6",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ac404830-94bf-3197-889b-da3e09947d8e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d298ed4b-196c-383b-9560-f4b1c2e3523e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/dc891811-5b53-3e49-aa53-3059caf7a1c2",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d2e007f3-60e5-3f6e-a98d-3e8610984c0a",
+          "schema:validFrom": "2023-08-29T00:00:00",
+          "schema:validThrough": "2023-07-07T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fed90c24-5b4e-374e-b413-9c9ae527b242",
+      "schema:email": [
+        "chloe.mailler@rochefort-ocean.com",
+        "christine.nourisson@rochefort-ocean.com",
+        "chrystelle.ecale@rochefort-ocean.com",
+        "lea.origlia@rochefort-ocean.com",
+        "sandrine.bouron@rochefort-ocean.com"
+      ],
+      "schema:legalName": "Office de Tourisme Rochefort Océan",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.rochefort-ocean.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-21",
+  "lastUpdateDatatourisme": "2023-07-22T05:42:05.875Z"
+}

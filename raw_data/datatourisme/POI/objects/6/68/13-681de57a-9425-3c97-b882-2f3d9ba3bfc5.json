@@ -1,0 +1,250 @@
+{
+  "@id": "https://data.datatourisme.fr/13/681de57a-9425-3c97-b882-2f3d9ba3bfc5",
+  "dc:identifier": "5717383",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Bibliothèque d'Orignolles"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/157b2ca4-690b-3bb7-b0a7-a018f8284f99",
+      "schema:email": [
+        "bibliotheque.orignolles@orange.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 70 05 72"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/d624f60a-6165-3288-a356-eb81e9770a93",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/7a3fefb0-a573-39f2-814d-c1db28cd73fe",
+          "schema:addressLocality": "Orignolles",
+          "schema:postalCode": "17210",
+          "schema:streetAddress": [
+            "Place Madeleine Fouché"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17269",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Orignolles"
+              ],
+              "pt": [
+                "Orignolles"
+              ],
+              "en": [
+                "Orignolles"
+              ],
+              "it": [
+                "Orignolles"
+              ],
+              "fr": [
+                "Orignolles"
+              ],
+              "nl": [
+                "Orignolles"
+              ],
+              "es": [
+                "Orignolles"
+              ]
+            },
+            "insee": "17269",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/e6aa7025-e927-382c-b633-187b7225a77d",
+        "schema:latitude": "45.231133",
+        "schema:longitude": "-0.235417",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-03-17",
+  "lastUpdateDatatourisme": "2023-02-01T18:07:35.688Z"
+}

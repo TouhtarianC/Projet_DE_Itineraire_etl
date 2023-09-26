@@ -1,0 +1,459 @@
+{
+  "@id": "https://data.datatourisme.fr/13/79a37d70-6704-3253-9ccd-60d0d3ccc3d1",
+  "dc:identifier": "5773592",
+  "@type": [
+    "CivilCemetery",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RemembranceSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Kommunaler Friedhof der Gemeinde Arvert.\r\nAnzahl der Gräber: 328"
+    ],
+    "en": [
+      "Communal cemetery of the commune of Arvert.\r\nNumber of graves : 328"
+    ],
+    "it": [
+      "Cimitero comunale del comune di Arvert.\r\nNumero di tombe: 328"
+    ],
+    "fr": [
+      "Cimetière communal de la commune d'Arvert.\r\nNombre de tombes : 328"
+    ],
+    "nl": [
+      "Gemeenschappelijke begraafplaats van de gemeente Arvert.\r\nAantal graven : 328"
+    ],
+    "es": [
+      "Cementerio comunal del municipio de Arvert.\r\nNúmero de tumbas : 328"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Cimetière Communal d'Arvert"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/db993b88-c321-340e-8af1-fb32bef5c6a2",
+      "schema:telephone": [
+        "+33 5 46 36 40 36"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/7f150c58-85cb-3d58-9eb0-add0c17515c7",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/05b4ced2-948c-3b7c-b220-30e34a246c9b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7ea0b6bc-d54f-36fd-b5a3-8d6c673aef12",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a8dc79b1-9637-3d95-b317-f206d172a23b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a9861b4b-31da-3fbc-a1f2-026f62806391",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/adaf658e-3207-32c0-b5f9-5e1459bf40dc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Kommunaler Friedhof der Gemeinde Arvert.\r\nAnzahl der Gräber: 328"
+        ],
+        "en": [
+          "Communal cemetery of the commune of Arvert.\r\nNumber of graves : 328"
+        ],
+        "it": [
+          "Cimitero comunale del comune di Arvert.\r\nNumero di tombe: 328"
+        ],
+        "fr": [
+          "Cimetière communal de la commune d'Arvert.\r\nNombre de tombes : 328"
+        ],
+        "nl": [
+          "Gemeenschappelijke begraafplaats van de gemeente Arvert.\r\nAantal graven : 328"
+        ],
+        "es": [
+          "Cementerio comunal del municipio de Arvert.\r\nNúmero de tumbas : 328"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/31058556-d565-373e-b713-4afc3da02ac2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3c8ca104-dccb-3db0-ab44-254641b4899c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/707c732a-6e2c-3dcc-abfd-84fdcd721885",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9be75ab7-5377-3cea-9e56-adc34ce53ad6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e37b5f86-775a-341b-9459-16d671af6f5d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/7a30b6f3-11bb-37aa-91d7-fea63c96e035",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/c96caaa7-8e84-3d67-90c5-697e7a0c4de1",
+          "schema:addressLocality": "Arvert",
+          "schema:postalCode": "17530",
+          "schema:streetAddress": [
+            "5 rue des Pierrières"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17021",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Arvert"
+              ],
+              "pt": [
+                "Arvert"
+              ],
+              "en": [
+                "Arvert"
+              ],
+              "it": [
+                "Arvert"
+              ],
+              "fr": [
+                "Arvert"
+              ],
+              "nl": [
+                "Arvert"
+              ],
+              "es": [
+                "Arvert"
+              ]
+            },
+            "insee": "17021",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/279b04d3-3e2b-3e88-9f31-7d1f2c2b9569",
+        "schema:latitude": "45.74023",
+        "schema:longitude": "-1.122101",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-08-09",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.777Z"
+}

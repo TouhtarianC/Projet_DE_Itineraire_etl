@@ -1,0 +1,396 @@
+{
+  "@id": "https://data.datatourisme.fr/13/91abb927-70c6-348c-9337-21f49b597d8b",
+  "dc:identifier": "5761127",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Bibliothek verfügt über 1400 frei zugängliche Bücher."
+    ],
+    "en": [
+      "The library has 1400 books available for free access."
+    ],
+    "it": [
+      "La biblioteca dispone di 1.400 libri ad accesso gratuito."
+    ],
+    "fr": [
+      "La bibliothèque compte 1400 ouvrages en libre accès."
+    ],
+    "es": [
+      "La biblioteca cuenta con 1.400 libros de libre acceso."
+    ],
+    "nl": [
+      "De bibliotheek heeft 1.400 boeken die gratis toegankelijk zijn."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Bibliothek in Champagne"
+    ],
+    "en": [
+      "Library of Champagne"
+    ],
+    "fr": [
+      "Bibliothèque de Champagne"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/9afefc52-942c-383c-bc1f-14b2139b09ba",
+    "dc:identifier": "2055",
+    "schema:email": [
+      "chloe.mailler@rochefort-ocean.com",
+      "christine.nourisson@rochefort-ocean.com",
+      "chrystelle.ecale@rochefort-ocean.com",
+      "lea.origlia@rochefort-ocean.com",
+      "sandrine.bouron@rochefort-ocean.com"
+    ],
+    "schema:legalName": "Office de Tourisme Rochefort Océan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.rochefort-ocean.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/c753582b-6720-3eaa-82ef-d2b0ba2c2777",
+      "schema:email": [
+        "mairie@champagne17.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 97 02 61"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://bridelance1.wixsite.com/bibliochampagne",
+        "https://mediatheques.agglo-rochefortocean.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/274d71a7-ad77-3a58-b20e-1a8edaf67c57",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0a5ec1e5-8928-3798-b0ad-375e33e4c1ec",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/783f0a23-334d-3020-979c-37c6b444eae6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f9b261e7-0d03-37a6-8903-40141c672175",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Bibliothek verfügt über 1400 frei zugängliche Bücher."
+        ],
+        "en": [
+          "The library has 1400 books available for free access."
+        ],
+        "it": [
+          "La biblioteca dispone di 1.400 libri ad accesso gratuito."
+        ],
+        "fr": [
+          "La bibliothèque compte 1400 ouvrages en libre accès."
+        ],
+        "es": [
+          "La biblioteca cuenta con 1.400 libros de libre acceso."
+        ],
+        "nl": [
+          "De bibliotheek heeft 1.400 boeken die gratis toegankelijk zijn."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/b5684745-9889-3d65-9654-4921c7a47281",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cce2f4c6-6412-3e62-acaf-2c2eb479cb79",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f149e9f4-1691-3ca8-b21d-9db7f3e20388",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/e9a4f17f-6454-3c76-bf47-f4bcf76b5755",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/b875ee64-2644-30f4-b32a-11182c2d53e9",
+          "schema:addressLocality": "Champagne",
+          "schema:postalCode": "17620",
+          "schema:streetAddress": [
+            "59 avenue René Caillé"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17083",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Champagne"
+              ],
+              "pt": [
+                "Champagne"
+              ],
+              "en": [
+                "Champagne"
+              ],
+              "it": [
+                "Champagne"
+              ],
+              "fr": [
+                "Champagne"
+              ],
+              "nl": [
+                "Champagne"
+              ],
+              "es": [
+                "Champagne"
+              ]
+            },
+            "insee": "17083",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/68ec3e0e-1af9-3d38-817b-9765a8413059",
+        "schema:latitude": "45.831944",
+        "schema:longitude": "-0.910375",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/1d9d026f-70db-3ec9-aae0-ea7f45a63634",
+          "schema:closes": "19:00:00",
+          "schema:opens": "16:00:00",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fed90c24-5b4e-374e-b413-9c9ae527b242",
+      "schema:email": [
+        "chloe.mailler@rochefort-ocean.com",
+        "christine.nourisson@rochefort-ocean.com",
+        "chrystelle.ecale@rochefort-ocean.com",
+        "lea.origlia@rochefort-ocean.com",
+        "sandrine.bouron@rochefort-ocean.com"
+      ],
+      "schema:legalName": "Office de Tourisme Rochefort Océan",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.rochefort-ocean.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-04-08",
+  "lastUpdateDatatourisme": "2023-04-09T07:21:14.461Z"
+}

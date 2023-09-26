@@ -1,0 +1,426 @@
+{
+  "@id": "https://data.datatourisme.fr/13/ae5177d9-1bdc-3a17-a9bf-2115eabcb098",
+  "dc:identifier": "6185988",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Ausleihe von Büchern ist kostenlos; Sie können 4 Bücher für 3 Wochen ausleihen."
+    ],
+    "en": [
+      "The loan of books is free; you can borrow 4 books for 3 weeks."
+    ],
+    "it": [
+      "Il prestito dei libri è gratuito; si possono prendere in prestito 4 libri per 3 settimane."
+    ],
+    "fr": [
+      "Le prêt de livres est gratuit ; vous pouvez emprunter 4 livres pour 3 semaines."
+    ],
+    "nl": [
+      "Het lenen van boeken is gratis; u kunt 4 boeken lenen voor 3 weken."
+    ],
+    "es": [
+      "El préstamo de libros es gratuito; puedes tomar prestados 4 libros durante 3 semanas."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Bibliothèque de Trois Palis"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f3e52c30-0b82-3a81-a3e7-ace55fe15c08",
+    "dc:identifier": "2053",
+    "schema:email": [
+      "snebout@angouleme-tourisme.com"
+    ],
+    "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.angouleme-tourisme.com/"
+    ],
+    "lastUpdateDatatourisme": "2022-12-19T06:44:07.571Z"
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/b07274ab-e2dc-348d-98bc-77e99997ee9a",
+      "schema:telephone": [
+        "+33 5 45 24 96 16"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/387c6e6d-3ab2-364c-8871-146b605fa2c7",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/05060529-d1a1-3d6a-8148-b0aa0a7fc4a5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4ad8d677-e5ff-3f68-a738-9735d66b2c13",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dacd9000-bf7d-32d5-a506-dcb30d14efc7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e09ecfaf-8515-3c9c-8912-d47aeaa10f9c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/eef47c02-1581-3bca-a445-368938c93b49",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Ausleihe von Büchern ist kostenlos; Sie können 4 Bücher für 3 Wochen ausleihen."
+        ],
+        "en": [
+          "The loan of books is free; you can borrow 4 books for 3 weeks."
+        ],
+        "it": [
+          "Il prestito dei libri è gratuito; si possono prendere in prestito 4 libri per 3 settimane."
+        ],
+        "fr": [
+          "Le prêt de livres est gratuit ; vous pouvez emprunter 4 livres pour 3 semaines."
+        ],
+        "nl": [
+          "Het lenen van boeken is gratis; u kunt 4 boeken lenen voor 3 weken."
+        ],
+        "es": [
+          "El préstamo de libros es gratuito; puedes tomar prestados 4 libros durante 3 semanas."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/3e5f5689-082f-3044-8e02-0943e76e386f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/45fabbff-341d-359b-bdb0-b04e61010cdf",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5a86bfd6-6a2f-369c-83e1-563222f390b9",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d49c6467-2269-3d3e-932f-fc0070eaad67",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/dffaab3d-24ef-3128-a276-6aeae86292a4",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/02beac57-aca8-3302-97a7-6ff0679d410a",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/66627275-44ac-3c33-a8d0-d467ca74e461",
+          "schema:addressLocality": "Trois-Palis",
+          "schema:postalCode": "16730",
+          "schema:streetAddress": [
+            "1 route de l'école"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16388",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Trois-Palis"
+              ],
+              "pt": [
+                "Trois-Palis"
+              ],
+              "en": [
+                "Trois-Palis"
+              ],
+              "it": [
+                "Trois-Palis"
+              ],
+              "fr": [
+                "Trois-Palis"
+              ],
+              "nl": [
+                "Trois-Palis"
+              ],
+              "es": [
+                "Trois-Palis"
+              ]
+            },
+            "insee": "16388",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/c5816af2-c414-3cff-b0ff-6f406c19eb24",
+        "schema:latitude": "45.642879",
+        "schema:longitude": "0.05311",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/65c93456-0984-3a13-aac5-3ae5946a15d8",
+      "schema:email": [
+        "snebout@angouleme-tourisme.com"
+      ],
+      "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.angouleme-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-06-27",
+  "lastUpdateDatatourisme": "2023-05-26T05:53:38.348Z"
+}

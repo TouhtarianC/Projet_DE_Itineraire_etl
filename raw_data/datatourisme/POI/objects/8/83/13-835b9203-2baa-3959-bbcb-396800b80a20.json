@@ -1,0 +1,554 @@
+{
+  "@id": "https://data.datatourisme.fr/13/835b9203-2baa-3959-bbcb-396800b80a20",
+  "dc:identifier": "5670415",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "In La Couronne gab es 2 Kirchen, eine Abteikirche und eine Pfarrkirche. Die Kirche Saint-Jean Baptiste ging dem Bau der Abtei Notre-Dame de La Couronne voraus.\r\nSie wurde am 26. September 1903 als historisches Monument klassifiziert.\r\nTäglich von 9:00 bis 18:00 Uhr geöffnet."
+    ],
+    "en": [
+      "There were two churches in La Couronne, one abbey and one parish church. The church of Saint-Jean Baptiste preceded the construction of the abbey of Notre-Dame de La Couronne.\r\nClassified as a Historic Monument on September 26, 1903.\r\nOpen every day from 9am to 6pm."
+    ],
+    "it": [
+      "A La Couronne c'erano due chiese, una abbaziale e una parrocchiale. La chiesa di Saint-Jean Baptiste precede la costruzione dell'abbazia di Notre-Dame de La Couronne.\r\nClassificato come monumento storico il 26 settembre 1903.\r\nAperto tutti i giorni dalle 9.00 alle 18.00."
+    ],
+    "fr": [
+      "Il existait  2 églises à La Couronne, l’une abbatiale, l’autre paroissiale. L’église Saint-Jean Baptiste a précédé la construction de l’abbaye Notre-Dame de La Couronne.\r\nClassée Monument Historique le 26 septembre 1903.\r\nOuverte tous les jours de 9h à 18h."
+    ],
+    "nl": [
+      "Er waren twee kerken in La Couronne, een abdij, de andere parochie. De kerk Saint-Jean Baptiste ging vooraf aan de bouw van de abdij Notre-Dame de La Couronne.\r\nGeclassificeerd als Historisch Monument op 26 september 1903.\r\nDagelijks geopend van 9 tot 18 uur."
+    ],
+    "es": [
+      "En La Couronne había dos iglesias, una abacial y otra parroquial. La iglesia Saint-Jean Baptiste precedió a la construcción de la abadía de Notre-Dame de La Couronne.\r\nClasificado como monumento histórico el 26 de septiembre de 1903.\r\nAbierto todos los días de 9 a 18 horas."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Eglise Saint-Jean-Baptiste de La Couronne"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q3581961"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f3e52c30-0b82-3a81-a3e7-ace55fe15c08",
+    "dc:identifier": "2053",
+    "schema:email": [
+      "snebout@angouleme-tourisme.com"
+    ],
+    "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.angouleme-tourisme.com/"
+    ],
+    "lastUpdateDatatourisme": "2022-12-19T06:44:07.571Z"
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/cb564ad9-e00c-3c9f-bdf6-2a96e2ae838a",
+      "schema:telephone": [
+        "+33 5 45 67 28 11"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/af4293c3-1c48-30c1-bd3b-9dc5423a70eb",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/175963e3-1118-355d-bce9-7f4272cec734",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/49a5a8aa-6b9c-35f0-8886-45b40656f535",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7542ea79-813b-33d0-ba32-5b862f2569d5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7bd13513-8a13-3305-9092-69ba5682309a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/96f88d06-4344-3d6c-b29f-3f63e7c939e0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "In La Couronne gab es 2 Kirchen, eine Abteikirche und eine Pfarrkirche. Die Kirche Saint-Jean Baptiste ging dem Bau der Abtei Notre-Dame de La Couronne voraus.\r\nSie wurde am 26. September 1903 als historisches Monument klassifiziert.\r\nTäglich von 9:00 bis 18:00 Uhr geöffnet."
+        ],
+        "en": [
+          "There were two churches in La Couronne, one abbey and one parish church. The church of Saint-Jean Baptiste preceded the construction of the abbey of Notre-Dame de La Couronne.\r\nClassified as a Historic Monument on September 26, 1903.\r\nOpen every day from 9am to 6pm."
+        ],
+        "it": [
+          "A La Couronne c'erano due chiese, una abbaziale e una parrocchiale. La chiesa di Saint-Jean Baptiste precede la costruzione dell'abbazia di Notre-Dame de La Couronne.\r\nClassificato come monumento storico il 26 settembre 1903.\r\nAperto tutti i giorni dalle 9.00 alle 18.00."
+        ],
+        "fr": [
+          "Il existait  2 églises à La Couronne, l’une abbatiale, l’autre paroissiale. L’église Saint-Jean Baptiste a précédé la construction de l’abbaye Notre-Dame de La Couronne.\r\nClassée Monument Historique le 26 septembre 1903.\r\nOuverte tous les jours de 9h à 18h."
+        ],
+        "nl": [
+          "Er waren twee kerken in La Couronne, een abdij, de andere parochie. De kerk Saint-Jean Baptiste ging vooraf aan de bouw van de abdij Notre-Dame de La Couronne.\r\nGeclassificeerd als Historisch Monument op 26 september 1903.\r\nDagelijks geopend van 9 tot 18 uur."
+        ],
+        "es": [
+          "En La Couronne había dos iglesias, una abacial y otra parroquial. La iglesia Saint-Jean Baptiste precedió a la construcción de la abadía de Notre-Dame de La Couronne.\r\nClasificado como monumento histórico el 26 de septiembre de 1903.\r\nAbierto todos los días de 9 a 18 horas."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/1dfdfbe5-8de5-3708-abae-9f74b3ab5567",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/ae47b472-86c9-3294-82bd-c83a42e2f3ef",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "LaCouronne12"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "rosier"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/97451b65-a5ea-3f9d-8a47-bee43047c4a3",
+          "ebucore:fileSize": [
+            604075
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1536,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/0/0a/LaCouronne12.JPG"
+          ],
+          "ebucore:width": 2048,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/1a3c142c-b156-32af-a69c-848deaa8876f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3ca0f5e1-a4ae-3aaf-98c8-2ed6bb626ea5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3f3c1da5-6e7a-3927-bb25-453b12ce2cef",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6819794a-4e99-37ae-8abc-f729f3fea8f3",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8a1eb7f2-0d4e-306f-9393-a151fc5b292f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/e44ab7ed-5eb1-3e32-a7d3-c6036eafb52f",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d36929e3-cd57-326c-8982-201c1affa9f7",
+          "schema:addressLocality": "La Couronne",
+          "schema:postalCode": "16400",
+          "schema:streetAddress": [
+            "Rue Léonard Jarraud"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16113",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "La Couronne"
+              ],
+              "pt": [
+                "La Couronne"
+              ],
+              "en": [
+                "La Couronne"
+              ],
+              "it": [
+                "La Couronne"
+              ],
+              "fr": [
+                "La Couronne"
+              ],
+              "nl": [
+                "La Couronne"
+              ],
+              "es": [
+                "La Couronne"
+              ]
+            },
+            "insee": "16113",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/1a6caf63-84be-34e1-abab-0528db15bf90",
+        "schema:latitude": "45.612195",
+        "schema:longitude": "0.101541",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/65c93456-0984-3a13-aac5-3ae5946a15d8",
+      "schema:email": [
+        "snebout@angouleme-tourisme.com"
+      ],
+      "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.angouleme-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-02-02",
+  "lastUpdateDatatourisme": "2023-05-04T06:05:15.72Z"
+}

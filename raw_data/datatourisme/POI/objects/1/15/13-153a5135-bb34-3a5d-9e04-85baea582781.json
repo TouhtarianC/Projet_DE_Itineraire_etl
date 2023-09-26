@@ -1,0 +1,432 @@
+{
+  "@id": "https://data.datatourisme.fr/13/153a5135-bb34-3a5d-9e04-85baea582781",
+  "dc:identifier": "5917196",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Entdecken Sie für Erwachsene und Kinder: Romane, Krimis / Thriller, Dokumentarfilme, lokale Bestände, Alben, Märchen, Comics / Mangas, CDs, DVDs, Hörbücher, Bücher in Fremdsprachen..."
+    ],
+    "en": [
+      "Come and discover for adults as well as the youngest : Novels, detective stories / thrillers, documentaries, local funds, albums, tales, comics / Mangas, CDs, DVDs, audio books, books in foreign languages..."
+    ],
+    "it": [
+      "Venite a scoprire per gli adulti e per i più giovani: romanzi, gialli / thriller, documentari, raccolte locali, album, racconti, fumetti / manga, CD, DVD, audiolibri, libri in lingua straniera..."
+    ],
+    "fr": [
+      "Venez découvrir pour les adultes ainsi que les plus jeunes : Les romans, policiers / thrillers, documentaires, fonds local, albums, contes,bandes dessinées / Mangas, CD, DVD, livres audio, livres en langues étrangères..."
+    ],
+    "es": [
+      "Venga a descubrir tanto para los adultos como para los más pequeños : Novelas, novelas policíacas / thrillers, documentales, colección local, álbumes, cuentos, cómics / mangas, CDs, DVDs, audiolibros, libros en idiomas extranjeros..."
+    ],
+    "nl": [
+      "Kom en ontdek zowel voor volwassenen als voor de allerkleinsten : romans, detectiveverhalen / thrillers, documentaires, lokale collectie, albums, verhalen, strips / manga's, cd's, dvd's, luisterboeken, boeken in vreemde talen..."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Bibliothèque municipale de Saint Jean de Liversay"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/296472c9-542a-34d4-b88d-543508116cbc",
+    "dc:identifier": "2070",
+    "schema:email": [
+      "aurore.mdc@aunis-maraispoitevin.com",
+      "madeleine.dasilva@aunis-maraispoitevin.com"
+    ],
+    "schema:legalName": "Office de Tourisme Aunis Marais Poitevin",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.aunis-maraispoitevin.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/ff59dae3-5386-3edc-b3a7-f130e0590ca1",
+      "schema:email": [
+        "bibliotheque@saintjeandeliversay.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 01 62 87"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://st-jean-de-liversay-pom.c3rb.org/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/7d91c7c7-fda5-3b5a-ab03-41def312889c",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/5c4dfd81-f4e5-3b03-9dd6-87d946e4031b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/836b92f2-6f73-312d-bc79-bffb4d1fd9ec",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8e9af0ee-f90b-3988-99a4-6b3059e7f88d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b6983246-473d-32d4-9ab1-9e3cf389d8fe",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/deb5bc37-0e5c-3adb-b411-31e1033e7ce9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Entdecken Sie für Erwachsene und Kinder: Romane, Krimis / Thriller, Dokumentarfilme, lokale Bestände, Alben, Märchen, Comics / Mangas, CDs, DVDs, Hörbücher, Bücher in Fremdsprachen..."
+        ],
+        "en": [
+          "Come and discover for adults as well as the youngest : Novels, detective stories / thrillers, documentaries, local funds, albums, tales, comics / Mangas, CDs, DVDs, audio books, books in foreign languages..."
+        ],
+        "it": [
+          "Venite a scoprire per gli adulti e per i più giovani: romanzi, gialli / thriller, documentari, raccolte locali, album, racconti, fumetti / manga, CD, DVD, audiolibri, libri in lingua straniera..."
+        ],
+        "fr": [
+          "Venez découvrir pour les adultes ainsi que les plus jeunes : Les romans, policiers / thrillers, documentaires, fonds local, albums, contes,bandes dessinées / Mangas, CD, DVD, livres audio, livres en langues étrangères..."
+        ],
+        "es": [
+          "Venga a descubrir tanto para los adultos como para los más pequeños : Novelas, novelas policíacas / thrillers, documentales, colección local, álbumes, cuentos, cómics / mangas, CDs, DVDs, audiolibros, libros en idiomas extranjeros..."
+        ],
+        "nl": [
+          "Kom en ontdek zowel voor volwassenen als voor de allerkleinsten : romans, detectiveverhalen / thrillers, documentaires, lokale collectie, albums, verhalen, strips / manga's, cd's, dvd's, luisterboeken, boeken in vreemde talen..."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0a6df0e7-4636-3463-a4aa-1a3c7a43c017",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/14fe4cf4-d090-3053-89e7-f37056ff4636",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5326f92d-9057-3fbc-a006-8def016adf03",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/96387e79-ccb9-3071-a22c-bcdad83eee8a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/aefde660-0464-3a8c-9a28-918374151b63",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/215f2468-c630-3f08-8bc3-46d059bf4372",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/a7f6c674-7d12-3fd4-9564-a61055215286",
+          "schema:addressLocality": "Saint-Jean-de-Liversay",
+          "schema:postalCode": "17170",
+          "schema:streetAddress": [
+            "14 rue du Dr Quoy"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17349",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Jean-de-Liversay"
+              ],
+              "pt": [
+                "Saint-Jean-de-Liversay"
+              ],
+              "en": [
+                "Saint-Jean-de-Liversay"
+              ],
+              "it": [
+                "Saint-Jean-de-Liversay"
+              ],
+              "fr": [
+                "Saint-Jean-de-Liversay"
+              ],
+              "nl": [
+                "Saint-Jean-de-Liversay"
+              ],
+              "es": [
+                "Saint-Jean-de-Liversay"
+              ]
+            },
+            "insee": "17349",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/7c7b8d8d-5f15-3d3a-b04c-407d0ca8b9ad",
+        "schema:latitude": "46.270019",
+        "schema:longitude": "-0.874552",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/a31bfa88-8451-397d-9df1-b4fcba0f5590",
+      "schema:email": [
+        "madeleine.dasilva@aunis-maraispoitevin.com"
+      ],
+      "schema:legalName": "Office de Tourisme Aunis Marais Poitevin",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.aunis-maraispoitevin.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-01-23",
+  "lastUpdateDatatourisme": "2023-02-01T18:07:36.087Z"
+}

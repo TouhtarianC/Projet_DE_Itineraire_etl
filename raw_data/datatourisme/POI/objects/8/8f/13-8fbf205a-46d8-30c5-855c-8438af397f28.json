@@ -1,0 +1,635 @@
+{
+  "@id": "https://data.datatourisme.fr/13/8fbf205a-46d8-30c5-855c-8438af397f28",
+  "dc:identifier": "5774474",
+  "@type": [
+    "CivilCemetery",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RemembranceSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Kommunaler Friedhof der Gemeinde Saujon.\r\nAnzahl der Gräber: 46"
+    ],
+    "en": [
+      "Communal cemetery of the commune of Saujon.\r\nNumber of graves : 46"
+    ],
+    "it": [
+      "Cimitero comunale del comune di Saujon.\r\nNumero di tombe: 46"
+    ],
+    "fr": [
+      "Cimetière communal de la commune de Saujon.\r\nNombre de tombes : 46"
+    ],
+    "nl": [
+      "Gemeenschappelijke begraafplaats van de gemeente Saujon.\r\nAantal graven : 46"
+    ],
+    "es": [
+      "Cementerio comunal del municipio de Saujon.\r\nNúmero de tumbas : 46"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Cimetière Communal de Saujon"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/02304c69-c5e5-3491-8811-1f6f86278069",
+      "schema:telephone": [
+        "+33 5 46 02 80 07"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/1b97f7a5-cdcc-3266-90b6-3e942c250bd1",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0584463b-bcde-3ed2-b4b9-e031c6992822",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/40487026-b020-39bd-b020-0e8f5f070c9e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8beaf3ff-d1ae-3221-b5bc-ad27483fe56a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ac0bb7cc-cbec-3f9e-89ea-cc4ae09b84c0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ad217d23-e835-3472-8a6a-8c06d92dd7d7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Kommunaler Friedhof der Gemeinde Saujon.\r\nAnzahl der Gräber: 46"
+        ],
+        "en": [
+          "Communal cemetery of the commune of Saujon.\r\nNumber of graves : 46"
+        ],
+        "it": [
+          "Cimitero comunale del comune di Saujon.\r\nNumero di tombe: 46"
+        ],
+        "fr": [
+          "Cimetière communal de la commune de Saujon.\r\nNombre de tombes : 46"
+        ],
+        "nl": [
+          "Gemeenschappelijke begraafplaats van de gemeente Saujon.\r\nAantal graven : 46"
+        ],
+        "es": [
+          "Cementerio comunal del municipio de Saujon.\r\nNúmero de tumbas : 46"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/1648a050-3774-335b-b9e0-c3b7b522a77d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5648cde9-c11c-339a-827d-36fe8a9214d6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/685820c7-8ac2-328b-b6d2-bccf59bc7367",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a2906f1c-8191-3424-8f0a-47399b54897e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e125062d-c928-352d-8e2a-a766627a524e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/c0e0c733-5585-36b5-80e1-56bdd0b3065f",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/b2a8733d-24d5-3d8e-a812-6b3440c276af",
+          "schema:addressLocality": "Saujon",
+          "schema:postalCode": "17600",
+          "schema:streetAddress": [
+            "Route de Saintes"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17421",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saujon"
+              ],
+              "pt": [
+                "Saujon"
+              ],
+              "en": [
+                "Saujon"
+              ],
+              "it": [
+                "Saujon"
+              ],
+              "fr": [
+                "Saujon"
+              ],
+              "nl": [
+                "Saujon"
+              ],
+              "es": [
+                "Saujon"
+              ]
+            },
+            "insee": "17421",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/61527a40-9c5b-3c8d-9403-379e02275d16",
+        "schema:latitude": "45.677116",
+        "schema:longitude": "-0.919939",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/b2b3d4e3-d64e-377b-8f78-a830bcd133a3",
+          "schema:closes": "20:00:00",
+          "schema:opens": "09:00:00",
+          "schema:validFrom": "2023-04-01T00:00:00",
+          "schema:validThrough": "2023-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "An zivilen oder religiösen Feiertagen: 9 bis 18 Uhr"
+            ],
+            "en": [
+              "Civil and religious holidays: 9am to 6pm"
+            ],
+            "it": [
+              "Festività civili e religiose: dalle 9.00 alle 18.00"
+            ],
+            "fr": [
+              "Jours de fêtes civiles ou religieuses : 9h à 18h"
+            ],
+            "es": [
+              "Fiestas civiles y religiosas: de 9 a 18 horas"
+            ],
+            "nl": [
+              "Burgerlijke en religieuze feestdagen: 9u tot 18u"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/3cef4b19-e840-3fa4-8c97-4454fc7329ab",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6b64a13e-b120-3ea0-a12e-4ecfa9df51d3",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ac40ecc6-b0aa-389f-93a9-0885be0cd162",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d1b83722-b77b-3c71-b96e-08d3a35397bb",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/df890234-0437-3870-9ce9-9f2f0e8c8891",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fec00a76-950f-30d9-aaf1-df52e73c4eda",
+          "schema:closes": "18:00:00",
+          "schema:opens": "09:00:00",
+          "schema:validFrom": "2023-10-01T00:00:00",
+          "schema:validThrough": "2023-03-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "An zivilen oder religiösen Feiertagen: 9 bis 18 Uhr"
+            ],
+            "en": [
+              "Civil and religious holidays: 9am to 6pm"
+            ],
+            "it": [
+              "Festività civili e religiose: dalle 9.00 alle 18.00"
+            ],
+            "fr": [
+              "Jours de fêtes civiles ou religieuses : 9h à 18h"
+            ],
+            "es": [
+              "Fiestas civiles y religiosas: de 9 a 18 horas"
+            ],
+            "nl": [
+              "Burgerlijke en religieuze feestdagen: 9u tot 18u"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/2b042fba-e779-3407-9e2d-2fc36af68352",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/35809af0-5180-3563-abc6-06ad6428efa3",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/4efd4160-5541-38ec-839a-4d50ef537511",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6eda7b46-e702-3dab-a4de-2011b90a8ae8",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/796e5e5e-9113-3e9c-b0f8-c9c497620107",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-08-09",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.825Z"
+}

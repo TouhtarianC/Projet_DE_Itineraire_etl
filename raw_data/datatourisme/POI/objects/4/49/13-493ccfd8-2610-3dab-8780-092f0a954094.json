@@ -1,0 +1,434 @@
+{
+  "@id": "https://data.datatourisme.fr/13/493ccfd8-2610-3dab-8780-092f0a954094",
+  "dc:identifier": "6250635",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Gemeindebibliothek der Gemeinde Cozes."
+    ],
+    "en": [
+      "Municipal library of the town of Cozes."
+    ],
+    "it": [
+      "Biblioteca comunale del comune di Cozes."
+    ],
+    "fr": [
+      "Bibliothèque municipale de la commune de Cozes."
+    ],
+    "nl": [
+      "Gemeentelijke bibliotheek van de gemeente Cozes."
+    ],
+    "es": [
+      "Biblioteca municipal del municipio de Cozes."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Bibliothèque Municipale"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/24beabbe-e1f6-3214-8978-09e05a46f55a",
+      "schema:email": [
+        "bibliothequecozes@laposte.net"
+      ],
+      "schema:telephone": [
+        "+33 6 08 05 10 88",
+        "+33 7 86 11 72 70"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/3c84e1f9-7b0f-3bb2-b002-14b51f8af851",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/03263f93-7d1a-30b7-9297-a300fb6c5d73",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2b422999-0c6f-3df4-85d3-82e32c7d9336",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/67415dbf-f68e-37f2-a616-170f92259b7c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7983c308-49ef-3bcf-a63a-9c890f0a5507",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a600f783-761a-3ebc-9e49-cf65f0ed6b41",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Gemeindebibliothek der Gemeinde Cozes."
+        ],
+        "en": [
+          "Municipal library of the town of Cozes."
+        ],
+        "it": [
+          "Biblioteca comunale del comune di Cozes."
+        ],
+        "fr": [
+          "Bibliothèque municipale de la commune de Cozes."
+        ],
+        "nl": [
+          "Gemeentelijke bibliotheek van de gemeente Cozes."
+        ],
+        "es": [
+          "Biblioteca municipal del municipio de Cozes."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/161e6ae8-51f2-34fc-b92a-43991d68ab6b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/1f31e7a8-a935-3bb8-9aae-136290a51524",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/231aed35-ece0-3f7e-bb1b-1d100794eb68",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9058234f-ed50-37e6-99ee-1e2e45067d6a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d3f44472-3ab8-3bc2-92f2-a891401409cd",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/3c1eeccc-8223-354e-91f1-5cd39e5b4976",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/33314df3-0f23-3c30-90bd-737afec67780",
+          "schema:addressLocality": "Cozes",
+          "schema:postalCode": "17120",
+          "schema:streetAddress": [
+            "1 allée des Soupirs",
+            "Jardin Public"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17131",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Cozes"
+              ],
+              "pt": [
+                "Cozes"
+              ],
+              "en": [
+                "Cozes"
+              ],
+              "it": [
+                "Cozes"
+              ],
+              "fr": [
+                "Cozes"
+              ],
+              "nl": [
+                "Cozes"
+              ],
+              "es": [
+                "Cozes"
+              ]
+            },
+            "insee": "17131",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/1ba138a4-dc84-3403-ba5a-f2ba4f52c016",
+        "schema:latitude": "45.583402",
+        "schema:longitude": "-0.830967",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-09-02",
+  "lastUpdateDatatourisme": "2023-02-07T06:39:35.012Z"
+}

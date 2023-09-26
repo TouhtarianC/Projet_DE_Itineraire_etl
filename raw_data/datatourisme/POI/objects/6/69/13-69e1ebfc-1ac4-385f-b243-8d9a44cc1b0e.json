@@ -1,0 +1,571 @@
+{
+  "@id": "https://data.datatourisme.fr/13/69e1ebfc-1ac4-385f-b243-8d9a44cc1b0e",
+  "dc:identifier": "5731679",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Auf dem Gelände der Ziegelei befindet sich der einzige Hoffmann-Ofen der Region. In einer einfachen, aber präzisen Museographie werden Sie in die Geheimnisse der Herstellung von Dachziegeln und Backsteinen eingeweiht, wie sie bis 1960 im Marais gebrannt wurden."
+    ],
+    "en": [
+      "The site of the brick factory houses the only Hoffmann oven in the region. Through a simple but precise museography, it will give you the secrets of the manufacture of tiles and bricks as they were fired in the Marais until 1960."
+    ],
+    "it": [
+      "Il sito della fornace ospita l'unico forno Hoffmann della regione. Attraverso una museografia semplice ma precisa, si sveleranno i segreti della produzione di piastrelle e mattoni così come venivano cotti nel Marais fino al 1960."
+    ],
+    "fr": [
+      "Le site de la briqueterie abrite le seul four Hoffmann  de la Région. Il vous livrera à travers une muséographie simple mais précise les secrets de la fabrication des tuiles et briques telles qu’elles se cuisaient dans le Marais jusqu’en 1960."
+    ],
+    "nl": [
+      "Op het terrein van de steenfabriek staat de enige Hoffmann-oven in de regio. Via een eenvoudige maar nauwkeurige museografie worden de geheimen onthuld van de tegel- en baksteenproductie zoals die tot 1960 in de Marais werd gebakken."
+    ],
+    "es": [
+      "El emplazamiento de la fábrica de ladrillos alberga el único horno Hoffmann de la región. A través de una museografía sencilla pero precisa, revelará los secretos de la fabricación de azulejos y ladrillos tal y como se cocieron en el Marais hasta 1960."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "La Briqueterie"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/296472c9-542a-34d4-b88d-543508116cbc",
+    "dc:identifier": "2070",
+    "schema:email": [
+      "aurore.mdc@aunis-maraispoitevin.com",
+      "madeleine.dasilva@aunis-maraispoitevin.com"
+    ],
+    "schema:legalName": "Office de Tourisme Aunis Marais Poitevin",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.aunis-maraispoitevin.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/00c5e2b7-aec7-32b1-8f97-9fd72587859e",
+      "schema:email": [
+        "mairie.grevesurmignon@wanadoo.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 01 63 66"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/cd89203f-e2a6-3e37-ad96-78e7bf394e8d",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/239abeab-0c4a-3a8c-866c-f16e8a6169e0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/28c1fef4-2da0-363e-a11d-66862ca982ec",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c8d30052-403d-3c24-8111-af504bfc286d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d737a6de-4fe4-3a01-9b88-6c16ffde72dc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e78a2c92-55cd-383b-9769-107fcf35cd53",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Auf dem Gelände der Ziegelei befindet sich der einzige Hoffmann-Ofen der Region. In einer einfachen, aber präzisen Museographie werden Sie in die Geheimnisse der Herstellung von Dachziegeln und Backsteinen eingeweiht, wie sie bis 1960 im Marais gebrannt wurden."
+        ],
+        "en": [
+          "The site of the brick factory houses the only Hoffmann oven in the region. Through a simple but precise museography, it will give you the secrets of the manufacture of tiles and bricks as they were fired in the Marais until 1960."
+        ],
+        "it": [
+          "Il sito della fornace ospita l'unico forno Hoffmann della regione. Attraverso una museografia semplice ma precisa, si sveleranno i segreti della produzione di piastrelle e mattoni così come venivano cotti nel Marais fino al 1960."
+        ],
+        "fr": [
+          "Le site de la briqueterie abrite le seul four Hoffmann  de la Région. Il vous livrera à travers une muséographie simple mais précise les secrets de la fabrication des tuiles et briques telles qu’elles se cuisaient dans le Marais jusqu’en 1960."
+        ],
+        "nl": [
+          "Op het terrein van de steenfabriek staat de enige Hoffmann-oven in de regio. Via een eenvoudige maar nauwkeurige museografie worden de geheimen onthuld van de tegel- en baksteenproductie zoals die tot 1960 in de Marais werd gebakken."
+        ],
+        "es": [
+          "El emplazamiento de la fábrica de ladrillos alberga el único horno Hoffmann de la región. A través de una museografía sencilla pero precisa, revelará los secretos de la fabricación de azulejos y ladrillos tal y como se cocieron en el Marais hasta 1960."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/46a086f1-7afa-3713-b3fb-8070bb713cc7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/524dd9bc-269d-3ed9-bdfd-e254ff944c2b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/54f7f8f8-919d-36d4-80a4-ec5117dccfbe",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/72c0dce4-98d4-3a78-a386-268bc25326ed",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8df1514a-807a-3701-bba8-bc73ff3a527a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b4624153-b844-34f4-8114-168e01e5672e",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/4c0ed681-104f-3415-b68f-f163bd56136a",
+          "schema:addressLocality": "La Grève-sur-Mignon",
+          "schema:postalCode": "17170",
+          "schema:streetAddress": [
+            "Rue de la Briqueterie",
+            "Site de la Briqueterie"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17182",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "La Grève-sur-Mignon"
+              ],
+              "pt": [
+                "La Grève-sur-Mignon"
+              ],
+              "en": [
+                "La Grève-sur-Mignon"
+              ],
+              "it": [
+                "La Grève-sur-Mignon"
+              ],
+              "fr": [
+                "La Grève-sur-Mignon"
+              ],
+              "nl": [
+                "La Grève-sur-Mignon"
+              ],
+              "es": [
+                "La Grève-sur-Mignon"
+              ]
+            },
+            "insee": "17182",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/5569ce81-9c48-3d5e-8752-d21e62fd1d44",
+        "schema:latitude": "46.250152",
+        "schema:longitude": "-0.761239",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/6b5ba5f3-cbe5-3901-831f-93cb7e795134",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Freie Besichtigung mittwochs bis sonntags von 17:00 bis 20:00 Uhr.\r\nGeführte Besichtigungen jeden Dienstag und Donnerstag zwischen 14:00 und 17:30 Uhr."
+            ],
+            "en": [
+              "Open Wednesday to Sunday, 5pm to 8pm.\r\nGuided tours every Tuesday and Thursday from 2pm to 5:30pm."
+            ],
+            "it": [
+              "Apertura dal mercoledì alla domenica, dalle 17.00 alle 20.00.\r\nVisite guidate ogni martedì e giovedì dalle 14.00 alle 17.30."
+            ],
+            "fr": [
+              "Visite libre du mercredi au dimanche de 17h à 20h.\r\nVisite guidée tous les mardis et jeudis entre 14h et 17h30."
+            ],
+            "nl": [
+              "Open huis van woensdag tot zondag, 17.00 tot 20.00 uur.\r\nRondleidingen elke dinsdag en donderdag tussen 14.00 en 17.30 uur."
+            ],
+            "es": [
+              "Jornadas de puertas abiertas de miércoles a domingo, de 17.00 a 20.00 h.\r\nVisitas guiadas todos los martes y jueves de 14:00 a 17:30."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/00e31b53-4aa3-32d5-bc49-a52a74c6681e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/3db3f783-5c85-3941-9678-afcb712188bb",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/45312268-872b-367d-b28d-798124271298",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/55c7eb00-480d-3f2f-baf5-cbe5feb58fbd",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/cb3afeaa-e7f0-3a14-9ab7-e56d8fba5559",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/a31bfa88-8451-397d-9df1-b4fcba0f5590",
+      "schema:email": [
+        "madeleine.dasilva@aunis-maraispoitevin.com"
+      ],
+      "schema:legalName": "Office de Tourisme Aunis Marais Poitevin",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.aunis-maraispoitevin.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-16",
+  "lastUpdateDatatourisme": "2023-06-17T05:50:09.933Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/9dd952ac-a1d7-3e41-af9c-747ce53b9b30",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/351e2dc7-00f5-310b-af7f-89328531711b",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/aa0c4f87-acea-31cc-8e5e-b5d4ee940a3c",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-08-31",
+              "startDate": "2023-06-30"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

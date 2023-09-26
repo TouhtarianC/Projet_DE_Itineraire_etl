@@ -1,0 +1,543 @@
+{
+  "@id": "https://data.datatourisme.fr/13/0b54a0be-3cd5-3bd4-b2aa-a5369e549c2f",
+  "dc:identifier": "5675020",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Romanische Kirche und ihr alter Friedhof aus dem 19."
+    ],
+    "en": [
+      "Romanesque church and its old 19th century cemetery."
+    ],
+    "it": [
+      "Chiesa romanica e antico cimitero del XIX secolo."
+    ],
+    "fr": [
+      "Église romane et son vieux cimetière XIXe."
+    ],
+    "nl": [
+      "Romaanse kerk en het oude 19e eeuwse kerkhof."
+    ],
+    "es": [
+      "Iglesia románica y su antiguo cementerio del siglo XIX."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Église Saint-Cybard de Rivières et son vieux cimetière"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/2d405b36-7158-33f1-ad7c-1e31a96b3af3",
+    "dc:identifier": "2062",
+    "schema:email": [
+      "a.bucciero@rochefoucauld-perigord.fr",
+      "j.aksahin@rochefoucauld-perigord.fr"
+    ],
+    "schema:legalName": "Office de Tourisme La Rochefoucauld Porte du Périgord",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://tourisme.rochefoucauld-perigord.fr/",
+      "https://tourisme.rochefoucauld-perigord.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/949a80b1-3914-3f1a-991c-6344b02b4ce2",
+      "schema:telephone": [
+        "+33 5 45 62 05 01",
+        "+33 5 45 70 71 82"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://paroisse-staugustin16.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/3afe03bd-b5c5-39ce-837e-34c03760d2b3",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/471db396-3004-39df-aa3c-104606ee669b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/813830ee-a0c4-3c23-a557-8af35f7e1635",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/97e44faa-6525-3e44-8842-0d1c8d31076e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e3263d5b-885d-3f3a-b48f-0da353c53e94",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/efee8234-7659-3a9b-92b1-1c9c6a1ed988",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Romanische Kirche und ihr alter Friedhof aus dem 19."
+        ],
+        "en": [
+          "Romanesque church and its old 19th century cemetery."
+        ],
+        "it": [
+          "Chiesa romanica e antico cimitero del XIX secolo."
+        ],
+        "fr": [
+          "Église romane et son vieux cimetière XIXe."
+        ],
+        "nl": [
+          "Romaanse kerk en het oude 19e eeuwse kerkhof."
+        ],
+        "es": [
+          "Iglesia románica y su antiguo cementerio del siglo XIX."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/168ad0a2-244f-3c26-b69a-6cd44597d9ef",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4dec8c18-ffa6-3052-ab1f-0fb23e19c83c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6a9c0dd8-5f8f-3eaa-bdae-2943d9f0e170",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9a0710c6-537a-35f5-9985-527c82f2645c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a60e1e43-959a-307f-a96e-89511749238f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/5e44cdf1-b5ed-33a3-b495-5f26a27df7ab",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/e5be5151-610e-3bdc-849f-09986ed4878e",
+          "schema:addressLocality": "Rivières",
+          "schema:postalCode": "16110",
+          "schema:streetAddress": [
+            "Allée de l'église"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16280",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Rivières"
+              ],
+              "pt": [
+                "Rivières"
+              ],
+              "en": [
+                "Rivières"
+              ],
+              "it": [
+                "Rivières"
+              ],
+              "fr": [
+                "Rivières"
+              ],
+              "nl": [
+                "Rivières"
+              ],
+              "es": [
+                "Rivières"
+              ]
+            },
+            "insee": "16280",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/d3099059-977c-32a0-9b6c-65085ca55e71",
+        "schema:latitude": "45.753536",
+        "schema:longitude": "0.362327",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/cabbe569-51df-332f-9925-ada8ef52b87d",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Lassen Sie sich den Schlüssel im Sekretariat des Rathauses geben, wenn die Kirche geschlossen ist."
+            ],
+            "en": [
+              "Ask for the key from the Town Hall office if the church is locked."
+            ],
+            "it": [
+              "Chiedete la chiave alla segreteria della Mairie se la chiesa è chiusa."
+            ],
+            "fr": [
+              "Demandez la clé au secrétariat de la Mairie si l'église est fermée."
+            ],
+            "nl": [
+              "Vraag de sleutel bij het secretariaat van het stadhuis als de kerk gesloten is."
+            ],
+            "es": [
+              "Pida la llave en la secretaría de la Mairie si la iglesia está cerrada."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/1cdb7fc4-35e7-3828-ab5a-f7f71fc95445",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/1d4f57f3-ba28-37e7-9096-5e5b08ed8b65",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/26ebccc2-9c5b-36d2-96f4-d9ddf2bb4d32",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/668d910b-fb99-39e9-ac96-850e56335038",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/b94258b0-0643-3177-8b74-3605cde4416f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/d8487018-17a3-3a77-bf06-0a8864ca0573",
+      "schema:email": [
+        "j.aksahin@rochefoucauld-perigord.fr"
+      ],
+      "schema:legalName": "Office de Tourisme La Rochefoucauld Porte du Périgord",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://tourisme.rochefoucauld-perigord.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2020-11-18",
+  "lastUpdateDatatourisme": "2023-05-26T05:53:38.373Z"
+}

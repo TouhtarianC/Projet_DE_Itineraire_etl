@@ -1,0 +1,483 @@
+{
+  "@id": "https://data.datatourisme.fr/13/3b932c67-2295-3acb-9f48-fabd1b8c30ee",
+  "dc:identifier": "5758375",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Der Charentaise-Saal zeigt das Alltagsleben einer Familie in ländlichen Gebieten im 19. Wie eine Momentaufnahme wird dieses traditionelle Mobiliar in Ihnen Erinnerungen an vergangene Zeiten wachrufen."
+    ],
+    "en": [
+      "The Charentaise room shows the daily life of a family in a rural environment in the 19th century. Like a snapshot, this traditional furniture will evoke memories of the past."
+    ],
+    "it": [
+      "La sala Charentaise mostra la vita quotidiana di una famiglia rurale del XIX secolo. Come un'istantanea, questi mobili tradizionali evocano ricordi del passato."
+    ],
+    "fr": [
+      "La salle charentaise donne à voir la vie quotidienne d’une famille en milieu rural au XIXème siècle. Tel un instantané, ce mobilier traditionnel évoquera en vous les souvenirs du temps passé."
+    ],
+    "es": [
+      "La sala Charentaise muestra la vida cotidiana de una familia rural en el siglo XIX. Como una instantánea, estos muebles tradicionales evocarán recuerdos del pasado."
+    ],
+    "nl": [
+      "De Charentaise kamer toont het dagelijks leven van een plattelandsfamilie in de 19e eeuw. Als een momentopname zullen deze traditionele meubels herinneringen aan het verleden oproepen."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "La salle charentaise"
+    ],
+    "ru": [
+      "La salle charentaise"
+    ],
+    "en": [
+      "La salle charentaise"
+    ],
+    "it": [
+      "La salle charentaise"
+    ],
+    "fr": [
+      "La salle charentaise"
+    ],
+    "zh": [
+      "La salle charentaise"
+    ],
+    "nl": [
+      "La salle charentaise"
+    ],
+    "es": [
+      "La salle charentaise"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/16ba7217-2e6a-3f1d-a54d-11ab6967e371",
+    "dc:identifier": "2063",
+    "schema:email": [
+      "direction@sudcharentetourisme.fr",
+      "noemie@sudcharentetourisme.fr"
+    ],
+    "schema:legalName": "Office de tourisme du Sud Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.sudcharentetourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/fdc290ca-8074-3933-aebf-23654fc1eec9",
+      "schema:email": [
+        "patrimoinetourisme@cdc4b.com"
+      ],
+      "schema:telephone": [
+        "+33 5 45 78 32 02",
+        "+33 5 45 78 91 04"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/081fbf2d-9a1e-3b9b-94fe-5a4115bbced4",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/7c7e6aeb-471f-3ed6-b7a7-f0dd6d2903f0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/98c5443e-8d47-32ff-b625-bc124a406168",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bae1391e-ee81-303c-8caf-d5ed5b9fa505",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ce634d91-4a43-3381-a405-7946b43f5fae",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f1009c60-f7ce-30c0-acff-7ba923187551",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Der Charentaise-Saal zeigt das Alltagsleben einer Familie in ländlichen Gebieten im 19. Wie eine Momentaufnahme wird dieses traditionelle Mobiliar in Ihnen Erinnerungen an vergangene Zeiten wachrufen."
+        ],
+        "en": [
+          "The Charentaise room shows the daily life of a family in a rural environment in the 19th century. Like a snapshot, this traditional furniture will evoke memories of the past."
+        ],
+        "it": [
+          "La sala Charentaise mostra la vita quotidiana di una famiglia rurale del XIX secolo. Come un'istantanea, questi mobili tradizionali evocano ricordi del passato."
+        ],
+        "fr": [
+          "La salle charentaise donne à voir la vie quotidienne d’une famille en milieu rural au XIXème siècle. Tel un instantané, ce mobilier traditionnel évoquera en vous les souvenirs du temps passé."
+        ],
+        "es": [
+          "La sala Charentaise muestra la vida cotidiana de una familia rural en el siglo XIX. Como una instantánea, estos muebles tradicionales evocarán recuerdos del pasado."
+        ],
+        "nl": [
+          "De Charentaise kamer toont het dagelijks leven van een plattelandsfamilie in de 19e eeuw. Als een momentopname zullen deze traditionele meubels herinneringen aan het verleden oproepen."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/51fec02f-13f6-3212-adda-98ceabf9930c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/62cf746c-bee0-3d86-ae00-d5b22eecf883",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/68f2e808-dd4d-30ab-81e9-0fb9cd934987",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a1aa119a-f3a9-3460-88f5-038a43e017ac",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/aefbfedb-e07c-32f4-8653-0bab4a096f3a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/51e68cd5-fb47-375d-9859-0cb41458b6c1",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/b5954cb0-d22d-3088-a35f-d76c50684bfc",
+          "schema:addressLocality": "Barbezieux-Saint-Hilaire",
+          "schema:postalCode": "16300",
+          "schema:streetAddress": [
+            "Châteaux de Barbezieux",
+            "Place de Verdun"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16028",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Barbezieux-Saint-Hilaire"
+              ],
+              "pt": [
+                "Barbezieux-Saint-Hilaire"
+              ],
+              "en": [
+                "Barbezieux-Saint-Hilaire"
+              ],
+              "it": [
+                "Barbezieux-Saint-Hilaire"
+              ],
+              "fr": [
+                "Barbezieux-Saint-Hilaire"
+              ],
+              "nl": [
+                "Barbezieux-Saint-Hilaire"
+              ],
+              "es": [
+                "Barbezieux-Saint-Hilaire"
+              ]
+            },
+            "insee": "16028",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/50f0958b-d974-3228-aa74-fb1dce761b6a",
+        "schema:latitude": "45.473007",
+        "schema:longitude": "-0.157528",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/2c0e07c0-58d0-33a6-a3dd-8764a03978c4",
+          "schema:closes": "16:00:00",
+          "schema:opens": "15:00:00",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/a5a35655-de13-3062-b61c-7cbc3e16c2c5",
+      "schema:email": [
+        "direction@sudcharentetourisme.fr",
+        "noemie@sudcharentetourisme.fr"
+      ],
+      "schema:legalName": "Office de tourisme du Sud Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.sudcharentetourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-05-26",
+  "lastUpdateDatatourisme": "2023-07-01T05:49:48.774Z"
+}

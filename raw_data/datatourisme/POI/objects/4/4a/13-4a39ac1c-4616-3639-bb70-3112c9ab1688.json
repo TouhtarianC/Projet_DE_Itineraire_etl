@@ -1,0 +1,511 @@
+{
+  "@id": "https://data.datatourisme.fr/13/4a39ac1c-4616-3639-bb70-3112c9ab1688",
+  "dc:identifier": "5772312",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "70 m² Ausstellungsfläche auf zwei Ebenen.\r\nEine Auswahl für Kinder, Jugendliche und Erwachsene aus 7000 Büchern in verschiedenen Rubriken und Genres, zu denen regelmäßig Neuheiten hinzukommen, sowie die Bücher aus dem Bibliobus."
+    ],
+    "en": [
+      "70 m² of exhibition space on two levels.\r\nA choice for children, teenagers and adults among 7000 books in various categories and genres, to which new books are regularly added, plus books from the Bibliobus."
+    ],
+    "it": [
+      "70 m² di spazio espositivo su due livelli.\r\nUna scelta per bambini, ragazzi e adulti tra 7000 libri di varie categorie e generi, a cui si aggiungono regolarmente nuovi libri, oltre ai libri del Bibliobus."
+    ],
+    "fr": [
+      "70 m² d'exposition sur deux niveaux.\r\nUn choix pour enfants, adolescents et adultes parmi 7000 ouvrages dans des rubriques et genres diversifiés, auxquels se rajoutent régulièrement des nouveautés, plus les livres du Bibliobus."
+    ],
+    "nl": [
+      "70 m² tentoonstellingsruimte op twee niveaus.\r\nEen keuze voor kinderen, tieners en volwassenen uit 7000 boeken in verschillende categorieën en genres, waaraan regelmatig nieuwe boeken worden toegevoegd, plus de boeken van de Bibliobus."
+    ],
+    "es": [
+      "70 m² de espacio de exposición en dos niveles.\r\nUna selección para niños, adolescentes y adultos entre 7000 libros de diversas categorías y géneros, a los que se añaden regularmente nuevos libros, además de los libros del Bibliobús."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Bibliothèque Municipale de Semussac"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/4c50d456-e127-3ce6-b6f1-95c27a01ae12",
+      "schema:telephone": [
+        "+33 5 46 05 18 05"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/7fcfbda9-eb92-34de-8f9e-1346e471ecd9",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/00a09815-c629-36aa-af2f-be4df5a6f49f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/0bfdb833-a3fc-3721-930d-c59b245425f2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3584489d-7f3e-3e04-80d0-d77dac228179",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4cf4d233-be5e-3726-9f84-8fcf9ab809a7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9c2cb71e-5203-3ecf-8eea-36aba8624ba8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "70 m² Ausstellungsfläche auf zwei Ebenen.\r\nEine Auswahl für Kinder, Jugendliche und Erwachsene aus 7000 Büchern in verschiedenen Rubriken und Genres, zu denen regelmäßig Neuheiten hinzukommen, sowie die Bücher aus dem Bibliobus."
+        ],
+        "en": [
+          "70 m² of exhibition space on two levels.\r\nA choice for children, teenagers and adults among 7000 books in various categories and genres, to which new books are regularly added, plus books from the Bibliobus."
+        ],
+        "it": [
+          "70 m² di spazio espositivo su due livelli.\r\nUna scelta per bambini, ragazzi e adulti tra 7000 libri di varie categorie e generi, a cui si aggiungono regolarmente nuovi libri, oltre ai libri del Bibliobus."
+        ],
+        "fr": [
+          "70 m² d'exposition sur deux niveaux.\r\nUn choix pour enfants, adolescents et adultes parmi 7000 ouvrages dans des rubriques et genres diversifiés, auxquels se rajoutent régulièrement des nouveautés, plus les livres du Bibliobus."
+        ],
+        "nl": [
+          "70 m² tentoonstellingsruimte op twee niveaus.\r\nEen keuze voor kinderen, tieners en volwassenen uit 7000 boeken in verschillende categorieën en genres, waaraan regelmatig nieuwe boeken worden toegevoegd, plus de boeken van de Bibliobus."
+        ],
+        "es": [
+          "70 m² de espacio de exposición en dos niveles.\r\nUna selección para niños, adolescentes y adultos entre 7000 libros de diversas categorías y géneros, a los que se añaden regularmente nuevos libros, además de los libros del Bibliobús."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/05ee7730-4cf1-390d-a719-c6cc6bbf7852",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9e9b059d-e645-36f1-b0ed-33e3fde0da38",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ef50ce2f-e35b-3c51-8387-3b5ea640a896",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f196203b-8ceb-3de2-b5d7-8e99fa8209d6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f6520fad-06df-3096-946b-68ecd3e4fc87",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/c355c89f-2121-3c92-9336-0a1972b5c386",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/2f67ac54-16b6-3770-b108-9d6dea520d98",
+          "schema:addressLocality": "Semussac",
+          "schema:postalCode": "17120",
+          "schema:streetAddress": [
+            "Place de l'Église"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17425",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Semussac"
+              ],
+              "pt": [
+                "Semussac"
+              ],
+              "en": [
+                "Semussac"
+              ],
+              "it": [
+                "Semussac"
+              ],
+              "fr": [
+                "Semussac"
+              ],
+              "nl": [
+                "Semussac"
+              ],
+              "es": [
+                "Semussac"
+              ]
+            },
+            "insee": "17425",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/67e6397d-b50a-39ee-95db-047e1609d6e4",
+        "schema:latitude": "45.5994",
+        "schema:longitude": "-0.913166",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/744f2cdc-346c-349e-b00f-7fd80e66e22e",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Geöffnet während der Schulferien\r\nAn Feiertagen geschlossen"
+            ],
+            "en": [
+              "Open during school vacations\r\nClosed on public holidays"
+            ],
+            "it": [
+              "Aperto durante le vacanze scolastiche\r\nChiuso nei giorni festivi"
+            ],
+            "fr": [
+              "Ouvert pendant les vacances scolaires\r\nFermé les jours fériés"
+            ],
+            "nl": [
+              "Open tijdens schoolvakanties\r\nGesloten op feestdagen"
+            ],
+            "es": [
+              "Abierto durante las vacaciones escolares\r\nCerrado los días festivos"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/1a34ebcc-2de5-3a44-9540-c41fc2b11939",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/2f936051-a549-3d6e-baf5-e84dd4e6c5d8",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/4511670a-9ffb-3517-a766-68fa45e164cd",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a4a90d9a-d0ed-3a83-933c-d7f30b9df49b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/dd016b8b-6757-369d-8dff-75ec5e922d9c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-08-05",
+  "lastUpdateDatatourisme": "2023-02-01T18:07:35.794Z"
+}

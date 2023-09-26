@@ -1,0 +1,477 @@
+{
+  "@id": "https://data.datatourisme.fr/13/554008df-4be6-393f-9e8b-ea785bdfc7ab",
+  "dc:identifier": "5700444",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Schöner Park mit Bäumen im Stadtzentrum gelegen, in der Nähe des Bahnhofs."
+    ],
+    "en": [
+      "Nice park with trees located in the city center, close to the station."
+    ],
+    "it": [
+      "Bellissimo parco alberato situato nel centro della città, vicino alla stazione."
+    ],
+    "fr": [
+      "Joli parc arboré situé en plein centre ville, à deux pas de la gare."
+    ],
+    "nl": [
+      "Mooi bebost park gelegen in het centrum van de stad, dicht bij het station."
+    ],
+    "es": [
+      "Bonito parque con árboles situado en el centro de la ciudad, cerca de la estación."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Bahnhofspark"
+    ],
+    "en": [
+      "Station Park"
+    ],
+    "fr": [
+      "Parc de la Gare"
+    ],
+    "es": [
+      "parque de la Estación"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/1359aa93-3b48-3754-a2f5-4adb688bfa77",
+    "dc:identifier": "2058",
+    "schema:email": [
+      "a.lefeuvre@larochelle-tourisme-evenements.com",
+      "c.collot@larochelle-tourisme-evenements.com",
+      "m.farre@larochelle-tourisme-evenements.com",
+      "maxime.vossier@otipass.com",
+      "s.nogues@larochelle-tourisme-evenements.com"
+    ],
+    "schema:legalName": "La Rochelle Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.larochelle-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/d600403d-d2c5-39d6-89e6-ce6037a1e0f7",
+      "schema:telephone": [
+        "+33 5 46 51 11 66"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/317bbbf7-fe75-3ee6-afdc-ba144937c3cd",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1fd157b1-2971-355f-9f08-9e8112417af3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4eae68f8-0870-3bbf-966f-e5410ce32f63",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Schöner Park mit Bäumen im Stadtzentrum gelegen, in der Nähe des Bahnhofs."
+        ],
+        "en": [
+          "Nice park with trees located in the city center, close to the station."
+        ],
+        "it": [
+          "Bellissimo parco alberato situato nel centro della città, vicino alla stazione."
+        ],
+        "fr": [
+          "Joli parc arboré situé en plein centre ville, à deux pas de la gare."
+        ],
+        "nl": [
+          "Mooi bebost park gelegen in het centrum van de stad, dicht bij het station."
+        ],
+        "es": [
+          "Bonito parque con árboles situado en el centro de la ciudad, cerca de la estación."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/1386839a-1fbf-3c2a-afb8-f797402c8e24",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f3534050-c251-3c13-b21f-787d58efa62f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/c13486a2-fa8b-318e-b1cb-1c3fd5135541",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/08dfe3ba-b575-3e0c-8882-813c45e37333",
+          "schema:addressLocality": "La Rochelle",
+          "schema:postalCode": "17000",
+          "schema:streetAddress": [
+            "Avenue du 123ème régiment d'infanterie",
+            "Boulevard Joffre"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17300",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "La Rochelle"
+              ],
+              "pt": [
+                "La Rochelle"
+              ],
+              "en": [
+                "La Rochelle"
+              ],
+              "it": [
+                "La Rochelle"
+              ],
+              "fr": [
+                "La Rochelle"
+              ],
+              "nl": [
+                "La Rochelle"
+              ],
+              "es": [
+                "La Rochelle"
+              ]
+            },
+            "insee": "17300",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/c32301e1-780f-3c16-967d-4fe1399d1333",
+        "schema:latitude": "46.152837",
+        "schema:longitude": "-1.147922",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/fd47bfba-448f-3e79-9f18-c5a32b916b8c",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Ständig freie Besuche"
+            ],
+            "en": [
+              "Permanent open house"
+            ],
+            "it": [
+              "Visite gratuite in ogni momento"
+            ],
+            "fr": [
+              "Visites libres en permanence"
+            ],
+            "es": [
+              "Visitas gratuitas en todo momento"
+            ],
+            "nl": [
+              "Altijd gratis bezoek"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/210181ea-4997-3267-9723-36f8df6f603f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/362ffbde-8646-3721-8ce5-d0c0324ff6f8",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/4547fce1-9383-3997-b88b-f098b594fa7d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/50dce178-db17-30b8-a2ed-57061e40ebf2",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/768bcba5-16b6-397f-9930-d83240299abc",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8da8ffa9-cdd8-3b7a-a8c5-edb456104fe0",
+      "schema:email": [
+        "a.lefeuvre@larochelle-tourisme-evenements.com",
+        "c.collot@larochelle-tourisme-evenements.com",
+        "m.farre@larochelle-tourisme-evenements.com",
+        "maxime.vossier@otipass.com",
+        "s.nogues@larochelle-tourisme-evenements.com"
+      ],
+      "schema:legalName": "La Rochelle Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.larochelle-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-12-07",
+  "lastUpdateDatatourisme": "2023-05-26T05:53:38.41Z"
+}

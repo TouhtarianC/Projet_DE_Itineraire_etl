@@ -1,0 +1,448 @@
+{
+  "@id": "https://data.datatourisme.fr/13/121bf703-274e-341d-b78b-14314e479f0b",
+  "dc:identifier": "5702092",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "L'Alpha ist das Herzstück eines Netzwerks von 22 Mediatheken in der Nähe des Ballungsraums GrandAngoulême."
+    ],
+    "en": [
+      "The Alpha is at the heart of a network of 22 local media libraries in the Greater Angoulême area."
+    ],
+    "it": [
+      "L'Alpha è al centro di una rete di 22 mediateche locali nell'area della Grande Angoulême."
+    ],
+    "fr": [
+      "L'Alpha est au coeur d'un réseau de 22 médiathèques de proximité sur l'agglomération du GrandAngoulême."
+    ],
+    "es": [
+      "La Alpha está en el centro de una red de 22 mediatecas locales de la región de Angulema."
+    ],
+    "nl": [
+      "De Alpha staat centraal in een netwerk van 22 lokale mediatheken in de regio Groot-Angoulême."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "L'Alpha - Médiathèque du Grand Angoulême"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f3e52c30-0b82-3a81-a3e7-ace55fe15c08",
+    "dc:identifier": "2053",
+    "schema:email": [
+      "snebout@angouleme-tourisme.com"
+    ],
+    "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.angouleme-tourisme.com/"
+    ],
+    "lastUpdateDatatourisme": "2022-12-19T06:44:07.571Z"
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/d1c79638-2a0e-309b-a9cf-7efecde11f1b",
+      "schema:email": [
+        "mediatheque@grandangouleme.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 94 56 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lalpha.org/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/e333052a-a5d4-3cee-80b1-276a052da054",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/118e1aff-755c-3409-9639-fd6efb77f8b6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/46c86b0d-c8a2-3a8b-a6ec-6386596e4599",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/49b255f3-8306-37b5-8df3-d1be7b918c6a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bea22e5d-b7d3-38dd-aee5-aca56d02eacb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e0f96433-9881-3c8f-a1fb-3b8f68af8148",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "L'Alpha ist das Herzstück eines Netzwerks von 22 Mediatheken in der Nähe des Ballungsraums GrandAngoulême."
+        ],
+        "en": [
+          "The Alpha is at the heart of a network of 22 local media libraries in the Greater Angoulême area."
+        ],
+        "it": [
+          "L'Alpha è al centro di una rete di 22 mediateche locali nell'area della Grande Angoulême."
+        ],
+        "fr": [
+          "L'Alpha est au coeur d'un réseau de 22 médiathèques de proximité sur l'agglomération du GrandAngoulême."
+        ],
+        "es": [
+          "La Alpha está en el centro de una red de 22 mediatecas locales de la región de Angulema."
+        ],
+        "nl": [
+          "De Alpha staat centraal in een netwerk van 22 lokale mediatheken in de regio Groot-Angoulême."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/09d87996-2133-3178-abbe-837e9ea0040e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/360e1543-dd98-3050-bb2a-0ac237dfb201",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9fd45e1d-71c1-3095-be7d-958e1973c686",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a27314ff-baaf-33da-9fb1-c337aaf95256",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a358f936-df60-31d6-98fa-14cbba1b76d8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/9be9ee19-6963-39f5-9b5c-fca9399a2ded",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/ef73d2d3-c001-33af-a272-e2cdaab7ac03",
+          "schema:addressLocality": "Angoulême",
+          "schema:postalCode": "16000",
+          "schema:streetAddress": [
+            "1 rue Coulomb"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16015",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Angoulême"
+              ],
+              "pt": [
+                "Angoulême"
+              ],
+              "en": [
+                "Angoulême"
+              ],
+              "it": [
+                "Angoulême"
+              ],
+              "fr": [
+                "Angoulême"
+              ],
+              "nl": [
+                "Angoulême"
+              ],
+              "es": [
+                "Angoulême"
+              ]
+            },
+            "insee": "16015",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/8febbcfd-f5d2-3fdc-b3bc-b7434590f8cb",
+        "schema:latitude": "45.65435",
+        "schema:longitude": "0.162609",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/46e35faa-5be7-32e2-ac6a-dd757e4d91f2",
+          "schema:validFrom": "2023-09-05T00:00:00",
+          "schema:validThrough": "2023-06-26T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5d7b1e3f-ea02-39bb-b847-58a698c46eff",
+          "schema:validFrom": "2023-06-27T00:00:00",
+          "schema:validThrough": "2023-09-02T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b2930cb6-5585-3571-99be-aaae5180e6f2",
+          "schema:validFrom": "2023-12-31T00:00:00",
+          "schema:validThrough": "2023-06-25T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/65c93456-0984-3a13-aac5-3ae5946a15d8",
+      "schema:email": [
+        "snebout@angouleme-tourisme.com"
+      ],
+      "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.angouleme-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-03",
+  "lastUpdateDatatourisme": "2023-07-04T05:52:44.478Z"
+}

@@ -1,0 +1,600 @@
+{
+  "@id": "https://data.datatourisme.fr/13/0be49f2c-5da3-3596-a157-acef5974835e",
+  "dc:identifier": "5762140",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Kirche Saint-Froult mit ihrer schlichten und sehr einfachen Architektur befindet sich in der Ortschaft."
+    ],
+    "en": [
+      "The church of Saint-Froult, with its sober and very simple architecture, is located in the village."
+    ],
+    "it": [
+      "La chiesa di Saint-Froult, dall'architettura sobria e molto semplice, si trova nel villaggio."
+    ],
+    "fr": [
+      "L'église de Saint-Froult, à l'architecture sobre et très simple est située dans le bourg."
+    ],
+    "es": [
+      "En el pueblo se encuentra la iglesia de Saint-Froult, de arquitectura sobria y muy sencilla."
+    ],
+    "nl": [
+      "De kerk van Saint-Froult, met zijn sobere en zeer eenvoudige architectuur, ligt in het dorp."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Kirche von Saint-Froult"
+    ],
+    "en": [
+      "Church of Saint-Froult"
+    ],
+    "fr": [
+      "Église de Saint-Froult"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q38583168"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/9afefc52-942c-383c-bc1f-14b2139b09ba",
+    "dc:identifier": "2055",
+    "schema:email": [
+      "chloe.mailler@rochefort-ocean.com",
+      "christine.nourisson@rochefort-ocean.com",
+      "chrystelle.ecale@rochefort-ocean.com",
+      "lea.origlia@rochefort-ocean.com",
+      "sandrine.bouron@rochefort-ocean.com"
+    ],
+    "schema:legalName": "Office de Tourisme Rochefort Océan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.rochefort-ocean.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3837b61f-b218-31b2-913d-50c09eccd08c",
+      "schema:email": [
+        "mairie@stfroult.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 84 92 44"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/9e5db570-9494-3ab8-b7e9-138c14cbb9ea",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/8f78675c-80c3-382c-a294-e604b9225711",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a7b9ec7b-4900-3886-9897-dc5545cab657",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f2ebe5e0-45c9-3d61-b0c1-907c55633997",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Kirche Saint-Froult mit ihrer schlichten und sehr einfachen Architektur befindet sich in der Ortschaft."
+        ],
+        "en": [
+          "The church of Saint-Froult, with its sober and very simple architecture, is located in the village."
+        ],
+        "it": [
+          "La chiesa di Saint-Froult, dall'architettura sobria e molto semplice, si trova nel villaggio."
+        ],
+        "fr": [
+          "L'église de Saint-Froult, à l'architecture sobre et très simple est située dans le bourg."
+        ],
+        "es": [
+          "En el pueblo se encuentra la iglesia de Saint-Froult, de arquitectura sobria y muy sencilla."
+        ],
+        "nl": [
+          "De kerk van Saint-Froult, met zijn sobere en zeer eenvoudige architectuur, ligt in het dorp."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/1acfe154-6b3f-3b7b-abd5-bd1b99da4148",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/0d289fb5-18ec-3fb5-bbab-042b36c51f98",
+          "ebucore:isCoveredBy": "CC BY-SA 4.0",
+          "ebucore:title": {
+            "fr": [
+              "France - 17 - Saint-Froult - Église"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "KiwiNeko14 (https://commons.wikimedia.org/wiki/User:KiwiNeko14)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/c073a316-4ae5-350e-9714-bdb59f66f2f9",
+          "ebucore:fileSize": [
+            3522536
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 3456,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/5/58/France_-_17_-_Saint-Froult_-_%C3%89glise.JPG"
+          ],
+          "ebucore:width": 4608,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/21e22bc4-b7b6-34b6-8d4f-b8a0f429a942",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/553c7225-40bb-3aac-b6ea-4c6bd632c1b1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/99c1ef97-edfc-3503-9921-3fe16966a9a3",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/a8935ac4-1077-308f-9eb0-edee7cbf7e4c",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/6f4004df-15f8-36b5-88af-f1f358b9f202",
+          "schema:addressLocality": "Saint-Froult",
+          "schema:postalCode": "17780",
+          "schema:streetAddress": [
+            "route de Plaisance"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17329",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Froult"
+              ],
+              "pt": [
+                "Saint-Froult"
+              ],
+              "en": [
+                "Saint-Froult"
+              ],
+              "it": [
+                "Saint-Froult"
+              ],
+              "fr": [
+                "Saint-Froult"
+              ],
+              "nl": [
+                "Saint-Froult"
+              ],
+              "es": [
+                "Saint-Froult"
+              ]
+            },
+            "insee": "17329",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/eab3ff40-497e-390a-b01f-7bc6e2cd36b1",
+        "schema:latitude": "45.917426",
+        "schema:longitude": "-1.060648",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/cfb73935-eea9-3750-88ef-e7b7d62e7139",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Auf Anfrage öffnen."
+            ],
+            "en": [
+              "Open on demand."
+            ],
+            "it": [
+              "Aperto su richiesta."
+            ],
+            "fr": [
+              "Ouverture à la demande."
+            ],
+            "nl": [
+              "Open op verzoek."
+            ],
+            "es": [
+              "Abierto a petición."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/0f5b7676-cfaf-32eb-b122-5dd59bc9ed30",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/25259146-4cc6-3708-b5b9-b7a50a85f2c0",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/74da6326-e191-352d-8fec-67c585a6d869",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/aec03e90-259a-38e2-b042-c72bbbb50f27",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/fa644c82-b703-357d-a4a5-2fe9ba21123b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fed90c24-5b4e-374e-b413-9c9ae527b242",
+      "schema:email": [
+        "chloe.mailler@rochefort-ocean.com",
+        "christine.nourisson@rochefort-ocean.com",
+        "chrystelle.ecale@rochefort-ocean.com",
+        "lea.origlia@rochefort-ocean.com",
+        "sandrine.bouron@rochefort-ocean.com"
+      ],
+      "schema:legalName": "Office de Tourisme Rochefort Océan",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.rochefort-ocean.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-24",
+  "lastUpdateDatatourisme": "2023-06-25T05:33:01.076Z"
+}

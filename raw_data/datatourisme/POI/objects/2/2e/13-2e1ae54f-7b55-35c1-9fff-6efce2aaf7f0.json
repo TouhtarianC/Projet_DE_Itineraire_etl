@@ -1,0 +1,585 @@
+{
+  "@id": "https://data.datatourisme.fr/13/2e1ae54f-7b55-35c1-9fff-6efce2aaf7f0",
+  "dc:identifier": "5689433",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Entdecken Sie die Geschichte des Velozipeds im Laufe der Zeit. Eine in Frankreich einzigartige Sammlung mit über 135 sehr seltenen Fahrrädern und 50 Schaufensterpuppen in historischen Kostümen!"
+    ],
+    "en": [
+      "Discover the history of the velocipede through the ages. A unique collection in France with more than 135 very rare bikes and 50 mannequins in period costumes!"
+    ],
+    "it": [
+      "Scoprite la storia del velocipede attraverso i secoli. Una collezione unica in Francia con oltre 135 biciclette rarissime e 50 manichini in costumi d'epoca!"
+    ],
+    "fr": [
+      "Découvrez l'histoire du vélocipède à travers les âges. Une collection unique en France avec plus de 135 vélos très rares et 50 mannequins en costumes d'époque !"
+    ],
+    "nl": [
+      "Ontdek de geschiedenis van de velocipède door de eeuwen heen. Een unieke collectie in Frankrijk met meer dan 135 zeer zeldzame fietsen en 50 mannequins in historische kostuums!"
+    ],
+    "es": [
+      "Descubra la historia del velocípedo a través de los tiempos. Una colección única en Francia con más de 135 bicicletas muy raras y 50 maniquíes vestidos de época"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Musée du Vélo"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8879a3c0-c873-3da0-8e1b-941991a2cf3c",
+      "schema:email": [
+        "musee-du-velo@wanadoo.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 76 04 80",
+        "+33 6 08 58 90 31"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.musee-du-velo.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/7925a362-70a6-3608-ac66-65d08d781d42",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/4dd070e1-75f8-349f-b70d-84f6464cd924",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/786085ef-bbc9-30cb-a432-6d1bf00ba160",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/aa74f4e5-83dc-3240-95ca-23b103b40369",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bd5fa7fd-0acd-3454-a84b-813893e1e44b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d21b3be6-47d3-3ac1-a405-7dec7c7ff775",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Entdecken Sie die Geschichte des Velozipeds im Laufe der Zeit. Eine in Frankreich einzigartige Sammlung mit über 135 sehr seltenen Fahrrädern und 50 Schaufensterpuppen in historischen Kostümen!"
+        ],
+        "en": [
+          "Discover the history of the velocipede through the ages. A unique collection in France with more than 135 very rare bikes and 50 mannequins in period costumes!"
+        ],
+        "it": [
+          "Scoprite la storia del velocipede attraverso i secoli. Una collezione unica in Francia con oltre 135 biciclette rarissime e 50 manichini in costumi d'epoca!"
+        ],
+        "fr": [
+          "Découvrez l'histoire du vélocipède à travers les âges. Une collection unique en France avec plus de 135 vélos très rares et 50 mannequins en costumes d'époque !"
+        ],
+        "nl": [
+          "Ontdek de geschiedenis van de velocipède door de eeuwen heen. Een unieke collectie in Frankrijk met meer dan 135 zeer zeldzame fietsen en 50 mannequins in historische kostuums!"
+        ],
+        "es": [
+          "Descubra la historia del velocípedo a través de los tiempos. Una colección única en Francia con más de 135 bicicletas muy raras y 50 maniquíes vestidos de época"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/4aaaca7b-3c02-36e1-98d4-97bf1d9a1625",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/55dd9fe8-1ecb-36f4-bb9d-2d3859707f9f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/79ef5c4d-6fc2-3dcb-b869-1e45e009fb77",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/bae6ab02-38d8-39b5-836b-e83dc9067f08",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/bf653e79-28bb-34e6-86bf-314352498686",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b3958d91-2c2f-3447-852c-8e399a44f27b",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/26251dd9-36a0-331e-a269-03a5f0a92cfd",
+          "schema:addressLocality": "Marennes-Hiers-Brouage",
+          "schema:postalCode": "17320",
+          "schema:streetAddress": [
+            "15 rue du Québec",
+            "Brouage"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17219",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "pt": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "en": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "it": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "fr": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "nl": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "es": [
+                "Marennes-Hiers-Brouage"
+              ]
+            },
+            "insee": "17219",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/fc297a9e-dff9-31ef-96c3-6de4c09a6cab",
+        "schema:latitude": "45.86728",
+        "schema:longitude": "-1.06987",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/5205567b-d885-38c2-9dc0-b57a5699fb72",
+          "schema:validFrom": "2023-05-01T00:00:00",
+          "schema:validThrough": "2023-09-15T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Vormittags nach Vereinbarung"
+            ],
+            "en": [
+              "Mornings by appointment"
+            ],
+            "it": [
+              "Al mattino su appuntamento"
+            ],
+            "fr": [
+              "Le matin sur rendez-vous"
+            ],
+            "es": [
+              "Por la mañana con cita previa"
+            ],
+            "nl": [
+              "In de ochtend op afspraak"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/77dbfe31-525d-389f-b5b0-b4e84b9851dd",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/8b08d8ba-f30d-3fec-b8e0-603fdf1e1f21",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a8084e7d-541d-3bdb-9fc6-88ff5cdb681d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/cfcf2024-8890-3cd3-84eb-05cdbcbe9713",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e772740d-f752-3449-82c3-b3a2831b5608",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/d7f018c3-c1ab-31f8-8901-4d29578edb89",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ile-oleron-marennes.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-12-05",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.756Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/53fd041d-87a8-3e70-aa77-5ef3c76d9556",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/bbd6fb6a-4940-392c-9f3e-9fca02ecc2d5",
+          "schema:maxPrice": [
+            "7"
+          ],
+          "schema:minPrice": [
+            "7"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/66dce41a-d1eb-39e4-aa0a-66a8c720e011",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-09-15",
+              "startDate": "2023-05-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

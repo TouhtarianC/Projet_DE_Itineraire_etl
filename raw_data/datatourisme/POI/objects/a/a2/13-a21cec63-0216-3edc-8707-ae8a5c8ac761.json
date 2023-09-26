@@ -1,0 +1,430 @@
+{
+  "@id": "https://data.datatourisme.fr/13/a21cec63-0216-3edc-8707-ae8a5c8ac761",
+  "dc:identifier": "6066953",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Bibliothek ist montags 16-19 Uhr, mittwochs 10-12 Uhr und 14-17 Uhr, freitags 18-20 Uhr, samstags 10-12 Uhr geöffnet"
+    ],
+    "en": [
+      "The library is open Monday 4-7pm, Wednesday 10am-12pm and 2-5pm, Friday 6-8pm, Saturday 10am-12pm"
+    ],
+    "it": [
+      "La biblioteca è aperta il lunedì dalle 16.00 alle 19.00, il mercoledì dalle 10.00 alle 12.00 e dalle 14.00 alle 17.00, il venerdì dalle 18.00 alle 20.00, il sabato dalle 10.00 alle 12.00"
+    ],
+    "fr": [
+      "La bibliothèque est ouverte lundi 16h-19h, mercredi 10h-12h et 14h-17h, vendredi 18h-20h, samedi 10h-12h"
+    ],
+    "es": [
+      "La biblioteca está abierta los lunes de 4 a 7 de la tarde, los miércoles de 10 a 12 y de 2 a 5 de la tarde, los viernes de 6 a 8 de la tarde y los sábados de 10 a 12 de la tarde"
+    ],
+    "nl": [
+      "De bibliotheek is open van maandag 16-19 uur, woensdag 10-12 uur en 14-5 uur, vrijdag 18-18 uur, zaterdag 10-12 uur"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Bibliothèque"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/f485adfc-dedd-38f6-a06b-20e08b155f32",
+      "schema:telephone": [
+        "+33 5 46 22 80 08",
+        "+33 9 79 73 32 55"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.le-gua.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/8d08ab22-c016-3348-95ce-d05de69372b1",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2744d902-0531-360e-b38b-dff66a5d2365",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/59e3306b-56f7-3db4-8b54-7026de1ca146",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7dff69b0-c405-3e86-9300-1f28df851c4e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8b136da5-665b-3711-868f-37bf4b129420",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/960cbf8b-ae46-3c9a-8bd5-e3357ba27837",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Bibliothek ist montags 16-19 Uhr, mittwochs 10-12 Uhr und 14-17 Uhr, freitags 18-20 Uhr, samstags 10-12 Uhr geöffnet"
+        ],
+        "en": [
+          "The library is open Monday 4-7pm, Wednesday 10am-12pm and 2-5pm, Friday 6-8pm, Saturday 10am-12pm"
+        ],
+        "it": [
+          "La biblioteca è aperta il lunedì dalle 16.00 alle 19.00, il mercoledì dalle 10.00 alle 12.00 e dalle 14.00 alle 17.00, il venerdì dalle 18.00 alle 20.00, il sabato dalle 10.00 alle 12.00"
+        ],
+        "fr": [
+          "La bibliothèque est ouverte lundi 16h-19h, mercredi 10h-12h et 14h-17h, vendredi 18h-20h, samedi 10h-12h"
+        ],
+        "es": [
+          "La biblioteca está abierta los lunes de 4 a 7 de la tarde, los miércoles de 10 a 12 y de 2 a 5 de la tarde, los viernes de 6 a 8 de la tarde y los sábados de 10 a 12 de la tarde"
+        ],
+        "nl": [
+          "De bibliotheek is open van maandag 16-19 uur, woensdag 10-12 uur en 14-5 uur, vrijdag 18-18 uur, zaterdag 10-12 uur"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/12def044-6e2f-3c3c-8157-7fbedca62799",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5db2e19a-b1ab-3fa9-ab4c-e83eee585322",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8e49c249-6ebe-396f-b50a-5acff086310b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d1de0526-e020-3cb6-906f-66f3b86d5b4b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f03debc5-8d0b-3288-96be-84bbdc624115",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/9c469eac-83d8-3285-a132-625f4d0adfab",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/5ee32214-4bbc-349b-85a5-e5db4accf746",
+          "schema:addressLocality": "Le Gua",
+          "schema:postalCode": "17600",
+          "schema:streetAddress": [
+            "-13/15 rue Samuel Champlain"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17185",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Le Gua"
+              ],
+              "pt": [
+                "Le Gua"
+              ],
+              "en": [
+                "Le Gua"
+              ],
+              "it": [
+                "Le Gua"
+              ],
+              "fr": [
+                "Le Gua"
+              ],
+              "nl": [
+                "Le Gua"
+              ],
+              "es": [
+                "Le Gua"
+              ]
+            },
+            "insee": "17185",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/3c8bafe4-c45e-3897-b023-04e05e74e520",
+        "schema:latitude": "45.726439",
+        "schema:longitude": "-0.945056",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/80009736-71af-3484-9792-2b3de63306d1",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-03-23",
+  "lastUpdateDatatourisme": "2023-07-03T05:50:13.302Z"
+}

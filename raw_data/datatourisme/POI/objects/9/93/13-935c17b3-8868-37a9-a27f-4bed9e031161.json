@@ -1,0 +1,518 @@
+{
+  "@id": "https://data.datatourisme.fr/13/935c17b3-8868-37a9-a27f-4bed9e031161",
+  "dc:identifier": "5758384",
+  "@type": [
+    "CulturalSite",
+    "Mill",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Im Süden der Charente, an der Grenze zur Dordogne gelegen, befindet sich eine Ölmühle und eine Mehlmühle, die noch in Betrieb sind."
+    ],
+    "en": [
+      "Located in the southern Charente on the edge of the Dordogne, this beautiful ensemble of an oil mill and a flour mill is still in operation. Set in bucolic surroundings, the mill is a magnificent and ingenious tool from the early 20th century."
+    ],
+    "it": [
+      "Situato nel sud della Charente, ai margini della Dordogna, questo splendido gruppo di un frantoio e di un mulino è ancora in funzione. Immerso in un ambiente bucolico, il mulino è un magnifico e ingegnoso strumento dell'inizio del XX secolo."
+    ],
+    "fr": [
+      "Situé au Sud Charente en limite de la Dordogne, bel ensemble d'un moulin à huile et d'un moulin à farine toujours en activité Ce moulin dans un environnement bucolique donne à voir un outil magnifique et ingénieux du début du XXe siècle."
+    ],
+    "es": [
+      "Situado en el sur de la Charente, al borde de la Dordoña, este bello conjunto de molino de aceite y molino harinero sigue en funcionamiento. Situado en un entorno bucólico, el molino es una magnífica e ingeniosa herramienta de principios del siglo XX."
+    ],
+    "nl": [
+      "Gelegen in het zuiden van de Charente, aan de rand van de Dordogne, is dit prachtige geheel van een oliemolen en een bloemmolen nog steeds in bedrijf. De molen ligt in een landelijke omgeving en is een prachtig en ingenieus werktuig uit het begin van de 20e eeuw."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Moulin sartier"
+    ],
+    "ru": [
+      "Moulin sartier"
+    ],
+    "en": [
+      "Moulin sartier"
+    ],
+    "it": [
+      "Moulin sartier"
+    ],
+    "fr": [
+      "Moulin sartier"
+    ],
+    "zh": [
+      "Moulin sartier"
+    ],
+    "nl": [
+      "Moulin sartier"
+    ],
+    "es": [
+      "Moulin sartier"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/16ba7217-2e6a-3f1d-a54d-11ab6967e371",
+    "dc:identifier": "2063",
+    "schema:email": [
+      "direction@sudcharentetourisme.fr",
+      "noemie@sudcharentetourisme.fr"
+    ],
+    "schema:legalName": "Office de tourisme du Sud Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.sudcharentetourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/771b086a-d9a8-3800-9a85-59881e801d6b",
+      "schema:email": [
+        "goyau.chantal@orange.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 60 35 23",
+        "+33 6 78 95 91 19",
+        "+33 7 70 02 73 39"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/06a3028e-72f5-3a55-823f-e5727b3b3e20",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0000f575-5b6f-3b89-9231-43c1b9c3ffac",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/04dafc80-4acd-31c9-acee-29a5e108f609",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/12cbe08d-a1f2-307e-ac69-aaeb21efe35f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/936bad88-e81c-30ea-9c82-9ed30e3d47a5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/baeed7cc-79e0-31e5-ae18-694449ff22f6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Im Süden der Charente, an der Grenze zur Dordogne gelegen, befindet sich eine Ölmühle und eine Mehlmühle, die noch in Betrieb sind."
+        ],
+        "en": [
+          "Located in the southern Charente on the edge of the Dordogne, this beautiful ensemble of an oil mill and a flour mill is still in operation. Set in bucolic surroundings, the mill is a magnificent and ingenious tool from the early 20th century."
+        ],
+        "it": [
+          "Situato nel sud della Charente, ai margini della Dordogna, questo splendido gruppo di un frantoio e di un mulino è ancora in funzione. Immerso in un ambiente bucolico, il mulino è un magnifico e ingegnoso strumento dell'inizio del XX secolo."
+        ],
+        "fr": [
+          "Situé au Sud Charente en limite de la Dordogne, bel ensemble d'un moulin à huile et d'un moulin à farine toujours en activité Ce moulin dans un environnement bucolique donne à voir un outil magnifique et ingénieux du début du XXe siècle."
+        ],
+        "es": [
+          "Situado en el sur de la Charente, al borde de la Dordoña, este bello conjunto de molino de aceite y molino harinero sigue en funcionamiento. Situado en un entorno bucólico, el molino es una magnífica e ingeniosa herramienta de principios del siglo XX."
+        ],
+        "nl": [
+          "Gelegen in het zuiden van de Charente, aan de rand van de Dordogne, is dit prachtige geheel van een oliemolen en een bloemmolen nog steeds in bedrijf. De molen ligt in een landelijke omgeving en is een prachtig en ingenieus werktuig uit het begin van de 20e eeuw."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/2f6fef95-0b62-3b0d-b3bf-9ebeb285e1e3",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/75780d18-f217-3eea-a9fc-f149d23762f9",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7d393dea-d5c1-363f-9516-a1431ed83d90",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8b8c055b-b76a-37a2-a3f0-6d4381129bd8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ac66b787-a7d2-3f64-bcec-6c74b04f2f64",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/ee007e67-e8d1-3c16-9293-9e0e94e71801",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/2c38b2b5-931d-3070-b682-a7cbe8ec6237",
+          "schema:addressLocality": "Salles-Lavalette",
+          "schema:postalCode": "16190",
+          "schema:streetAddress": [
+            "Moulin Sartier"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16362",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Salles-Lavalette"
+              ],
+              "pt": [
+                "Salles-Lavalette"
+              ],
+              "en": [
+                "Salles-Lavalette"
+              ],
+              "it": [
+                "Salles-Lavalette"
+              ],
+              "fr": [
+                "Salles-Lavalette"
+              ],
+              "nl": [
+                "Salles-Lavalette"
+              ],
+              "es": [
+                "Salles-Lavalette"
+              ]
+            },
+            "insee": "16362",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/d941c89c-19a4-382a-928a-658d40dcc0a8",
+        "schema:latitude": "45.396168",
+        "schema:longitude": "0.255983",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/17ccf9a1-6b41-3eb9-a1e1-edf0fbbf90c5",
+      "schema:email": [
+        "direction@sudcharentetourisme.fr",
+        "noemie@sudcharentetourisme.fr"
+      ],
+      "schema:legalName": "Office de tourisme du Sud-Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.sudcharentetourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-03",
+  "lastUpdateDatatourisme": "2023-06-04T05:40:15.962Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/3ba235a0-1618-3237-9da8-38d2b5172755",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/31776d84-4f59-39e4-a530-ba6f031ce80c",
+          "schema:maxPrice": [
+            "3"
+          ],
+          "schema:minPrice": [
+            "3"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

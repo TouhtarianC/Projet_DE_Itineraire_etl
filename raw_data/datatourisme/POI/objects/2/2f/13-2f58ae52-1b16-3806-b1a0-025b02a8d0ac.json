@@ -1,0 +1,563 @@
+{
+  "@id": "https://data.datatourisme.fr/13/2f58ae52-1b16-3806-b1a0-025b02a8d0ac",
+  "dc:identifier": "5718424",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Wie ein Wachturm markiert die Spitze der Kirche Saint-Martial den Ort Douhet.\r\nDer quadratische Glockenturm wurde wahrscheinlich im 15."
+    ],
+    "en": [
+      "Like a lookout, the spire of the church of Saint-Martial marks the village of Le Douhet.\r\nThe square bell tower, certainly rebuilt in the 15th century, carries, at each of its corners, a small bell tower."
+    ],
+    "it": [
+      "Come una vedetta, la guglia della chiesa di Saint-Martial segnala la città di Le Douhet.\r\nIl campanile quadrato, certamente ricostruito nel XV secolo, ha un piccolo campanile ad ogni angolo."
+    ],
+    "fr": [
+      "Tel une vigie, la flèche de l’église Saint-Martial signale le bourg du Douhet.\r\nLe clocher carré, certainement reconstruit au 15ème siècle, porte, à chacun de ses angles, un petit clocheton."
+    ],
+    "es": [
+      "Como un vigía, la aguja de la iglesia de Saint-Martial señala la ciudad de Le Douhet.\r\nEl campanario cuadrado, seguramente reconstruido en el siglo XV, tiene un pequeño campanario en cada una de sus esquinas."
+    ],
+    "nl": [
+      "Als een uitkijkpost geeft de spits van de kerk Saint-Martial de stad Le Douhet aan.\r\nDe vierkante klokkentoren, zeker herbouwd in de 15e eeuw, heeft op elk van de hoeken een kleine klokkentoren."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Eglise Saint-Martial"
+    ],
+    "fr": [
+      "Eglise Saint-Martial - Le Douhet"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q3582553"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f8c0c968-6328-35cd-9333-08b1a494967f",
+    "dc:identifier": "2060",
+    "schema:email": [
+      "a.tonin@saintes-tourisme.fr",
+      "f.herbec@saintes-tourisme.fr",
+      "l.conan@saintes-tourisme.fr"
+    ],
+    "schema:legalName": "Office de Tourisme de Saintes & la Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.saintes-tourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/9ba328b5-dcb7-3e50-9f51-99e31f1ceb60",
+      "schema:email": [
+        "accueil@ledouhet.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 97 77 74"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/1e171cd2-5dba-322c-b6cc-0e860ec3de6d",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/080e59ae-53da-3ea9-9584-0606e582ac2a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2946e9b4-ecfb-3d31-b5a5-f164ce99b704",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/38d8a8bb-a025-33b7-8e22-3f849ee668f3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4ebf81e5-36a5-330c-a70a-389af56ae18f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ad96d67b-d61b-39ad-9f2a-35052302dfac",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Wie ein Wachturm markiert die Spitze der Kirche Saint-Martial den Ort Douhet.\r\nDer quadratische Glockenturm wurde wahrscheinlich im 15."
+        ],
+        "en": [
+          "Like a lookout, the spire of the church of Saint-Martial marks the village of Le Douhet.\r\nThe square bell tower, certainly rebuilt in the 15th century, carries, at each of its corners, a small bell tower."
+        ],
+        "it": [
+          "Come una vedetta, la guglia della chiesa di Saint-Martial segnala la città di Le Douhet.\r\nIl campanile quadrato, certamente ricostruito nel XV secolo, ha un piccolo campanile ad ogni angolo."
+        ],
+        "fr": [
+          "Tel une vigie, la flèche de l’église Saint-Martial signale le bourg du Douhet.\r\nLe clocher carré, certainement reconstruit au 15ème siècle, porte, à chacun de ses angles, un petit clocheton."
+        ],
+        "es": [
+          "Como un vigía, la aguja de la iglesia de Saint-Martial señala la ciudad de Le Douhet.\r\nEl campanario cuadrado, seguramente reconstruido en el siglo XV, tiene un pequeño campanario en cada una de sus esquinas."
+        ],
+        "nl": [
+          "Als een uitkijkpost geeft de spits van de kerk Saint-Martial de stad Le Douhet aan.\r\nDe vierkante klokkentoren, zeker herbouwd in de 15e eeuw, heeft op elk van de hoeken een kleine klokkentoren."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/3fa9e965-16d0-381d-99ff-d1af09d50642",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/6967d11f-3325-35ee-9b01-4905b02ca7b6",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "W1039-Douhet StMartial 75984"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Llann Wé² (https://commons.wikimedia.org/wiki/User:Llann_W%C3%A9%C2%B2)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/c9cf23ae-fa71-3ccb-a246-0b8b58a96657",
+          "ebucore:fileSize": [
+            6963133
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 3168,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/a/aa/W1039-Douhet_StMartial_75984.JPG"
+          ],
+          "ebucore:width": 4752,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/192dee10-c287-3602-beb9-b094f2ac6984",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/21bd0b66-32f0-3bc4-a298-0f0d79b51d29",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/36a4710f-57ed-38de-9c20-aee794840f28",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/514df558-917c-3572-baac-a6efdabc80cd",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b5374dfd-8eec-35b2-9987-1060379a7672",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/c792a44c-1288-35f1-9099-5e421d185d94",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/8c53ce15-0bc6-3f23-b41d-fdf5f5067408",
+          "schema:addressLocality": "Le Douhet",
+          "schema:postalCode": "17100",
+          "schema:streetAddress": [
+            "Route de la Mairie"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17143",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Le Douhet"
+              ],
+              "pt": [
+                "Le Douhet"
+              ],
+              "en": [
+                "Le Douhet"
+              ],
+              "it": [
+                "Le Douhet"
+              ],
+              "fr": [
+                "Le Douhet"
+              ],
+              "nl": [
+                "Le Douhet"
+              ],
+              "es": [
+                "Le Douhet"
+              ]
+            },
+            "insee": "17143",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/27fdfabe-b21f-3958-9701-3fa80965ef5e",
+        "schema:latitude": "45.818296",
+        "schema:longitude": "-0.568878",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/6788b742-800e-3e07-a704-c6181e0a8dd1",
+      "schema:email": [
+        "a.tonin@saintes-tourisme.fr",
+        "f.herbec@saintes-tourisme.fr",
+        "l.conan@saintes-tourisme.fr"
+      ],
+      "schema:legalName": "Office de Tourisme de Saintes & la Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.saintes-tourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-12-13",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.826Z"
+}

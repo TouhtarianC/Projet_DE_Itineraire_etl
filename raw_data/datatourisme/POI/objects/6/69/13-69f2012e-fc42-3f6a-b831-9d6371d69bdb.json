@@ -1,0 +1,409 @@
+{
+  "@id": "https://data.datatourisme.fr/13/69f2012e-fc42-3f6a-b831-9d6371d69bdb",
+  "dc:identifier": "5705491",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Dieser natürliche Ort am Ufer der Charente wurde zu einem echten Erholungsgebiet für einen ruhigen Spaziergang in einem Dorf aus Stein und Wasser umgestaltet."
+    ],
+    "en": [
+      "This natural site on the banks of the Charente is ideal for a peaceful walk in a village classified de Pierre et d'Eau (stone and water)."
+    ],
+    "it": [
+      "Questo sito naturale sulle rive della Charente è stato trasformato in una vera e propria area relax per una tranquilla passeggiata in un villaggio di pietra e acqua."
+    ],
+    "fr": [
+      "Ce site naturel au bord de la Charente a été aménagé en véritable zone de détente pour une promenade au calme dans un village de Pierre et d'Eau."
+    ],
+    "es": [
+      "Este sitio natural en las orillas del río Charente fue organizado en zona de descanso para un paseo agradable en un pueblo clasificado de Pierre et d'Eau (piedra y agua)."
+    ],
+    "nl": [
+      "Deze natuurlijke site aan de oevers van de Charente is omgebouwd tot een echte ontspanningsruimte voor een rustige wandeling in een dorp van steen en water."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Le Pré Valade"
+    ],
+    "fr": [
+      "Le Pré Valade"
+    ],
+    "es": [
+      "Le Pré Valade"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f8363057-9d05-3dc5-843a-e693e7cdafe0",
+    "dc:identifier": "2425",
+    "schema:email": [
+      "administration@coeurdesaintonge.fr",
+      "bergonzoni@coeurdesaintonge.fr",
+      "gaillard@coeurdesaintonge.fr",
+      "tourisme@coeurdesaintonge.fr"
+    ],
+    "schema:legalName": "Communauté de communes Coeur de Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.coeurdesaintonge.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/d488c8c3-f73f-38c7-bb79-2115e775bbe1",
+      "schema:telephone": [
+        "+33 5 46 91 73 31"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/2310750c-5e1e-3039-aba9-0f76492c1ddd",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2f6c1b3b-dee8-31cd-97cb-1b5b558207a7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6e615be8-d48a-3a2f-9ef9-460a1795996f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9dfd5a1d-a4a4-3ecc-837b-c4650d8be547",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Dieser natürliche Ort am Ufer der Charente wurde zu einem echten Erholungsgebiet für einen ruhigen Spaziergang in einem Dorf aus Stein und Wasser umgestaltet."
+        ],
+        "en": [
+          "This natural site on the banks of the Charente is ideal for a peaceful walk in a village classified de Pierre et d'Eau (stone and water)."
+        ],
+        "it": [
+          "Questo sito naturale sulle rive della Charente è stato trasformato in una vera e propria area relax per una tranquilla passeggiata in un villaggio di pietra e acqua."
+        ],
+        "fr": [
+          "Ce site naturel au bord de la Charente a été aménagé en véritable zone de détente pour une promenade au calme dans un village de Pierre et d'Eau."
+        ],
+        "es": [
+          "Este sitio natural en las orillas del río Charente fue organizado en zona de descanso para un paseo agradable en un pueblo clasificado de Pierre et d'Eau (piedra y agua)."
+        ],
+        "nl": [
+          "Deze natuurlijke site aan de oevers van de Charente is omgebouwd tot een echte ontspanningsruimte voor een rustige wandeling in een dorp van steen en water."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/168550dd-ab0e-3b08-840c-d60bcb83c7df",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2754de54-6972-3fb6-b918-726ef6a4dbe6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b67c6ad6-855f-31dd-a4ae-bce31b61096f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/7150c9ee-ffab-3f7b-9efd-6195611938a3",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/4c9d1511-4145-3e97-9022-54d2e70df32e",
+          "schema:addressLocality": "Port-d'Envaux",
+          "schema:postalCode": "17350",
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17285",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Port-d'Envaux"
+              ],
+              "pt": [
+                "Port-d'Envaux"
+              ],
+              "en": [
+                "Port-d'Envaux"
+              ],
+              "it": [
+                "Port-d'Envaux"
+              ],
+              "fr": [
+                "Port-d'Envaux"
+              ],
+              "nl": [
+                "Port-d'Envaux"
+              ],
+              "es": [
+                "Port-d'Envaux"
+              ]
+            },
+            "insee": "17285",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/1f14672e-23b8-3e3f-8b1f-c614924023e2",
+        "schema:latitude": "45.834886",
+        "schema:longitude": "-0.676795",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/d75d0bf4-2ed8-3cb6-bd49-6f7486ac4789",
+      "schema:email": [
+        "bergonzoni@coeurdesaintonge.fr"
+      ],
+      "schema:legalName": "Communauté de communes Coeur de Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.coeurdesaintonge.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-09",
+  "lastUpdateDatatourisme": "2023-06-10T05:54:46.6Z"
+}

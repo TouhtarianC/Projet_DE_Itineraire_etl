@@ -1,0 +1,496 @@
+{
+  "@id": "https://data.datatourisme.fr/13/56b04228-9fab-3b03-9bba-2a8f0a7aa605",
+  "dc:identifier": "5677933",
+  "@type": [
+    "schema:LocalBusiness",
+    "CulturalSite",
+    "InterpretationCentre",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Architektur und Design in der Natur ? Ausstellungen, Ausbildung und Veranstaltungen. Workshops und Konferenzen.\r\nFührungen durch einen Architekturpark und eine Ausstellung, Bio-Café am Ufer der Vienne und Design-Boutique."
+    ],
+    "en": [
+      "Architecture and design in nature - exhibitions, training and events. Workshops and conferences.\r\nGuided tours of an architectural park and an exhibition, organic café on the banks of the Vienne river and a design boutique."
+    ],
+    "it": [
+      "Architettura e design in natura? Mostre, formazione ed eventi. Workshop e conferenze.\r\nVisite guidate a un parco architettonico e a una mostra, un caffè biologico sulle rive della Vienne e un negozio di design."
+    ],
+    "fr": [
+      "Architecture et design en pleine nature – expositions, formation et événements. Ateliers et conférences.\r\nVisites guidées d'un parc architectural et d'une exposition, café bio au bord de la Vienne et boutique design."
+    ],
+    "es": [
+      "Arquitectura y diseño en la naturaleza: exposiciones, formación y eventos. Talleres y conferencias.\r\nVisitas guiadas a un parque arquitectónico y a una exposición, café ecológico a orillas del Vienne y tienda de diseño."
+    ],
+    "nl": [
+      "Architectuur en design in de natuur ? tentoonstellingen, opleidingen en evenementen. Workshops en conferenties.\r\nRondleidingen in een architectuurpark en een tentoonstelling, biologisch café aan de oevers van de Vienne en een designwinkel."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Domaine de Boisbuchet"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/584b98aa-c2dd-3f59-ae2c-f19ca4ccb75e",
+    "dc:identifier": "2052",
+    "schema:email": [
+      "fatiha.guetarni@charente-limousine.fr",
+      "marc.vachot@charente-limousine.fr"
+    ],
+    "schema:legalName": "Office de Tourisme Charente Limousine",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/764e440f-6ee2-3a0e-954b-90ca45cc8d41",
+      "schema:email": [
+        "info@boisbuchet.org"
+      ],
+      "schema:telephone": [
+        "+33 5 45 89 67 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.boisbuchet.org/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/bca27a61-97cf-3057-9d1c-6befd2b9e9c2",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/049cbc7a-bf7d-33e0-afbc-c62eed5fa45b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5d33a969-8a18-3d33-ae14-ffa36df6d409",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7b9e0696-cd76-3772-97b0-d68a30d2e2ad",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/82939ab3-5006-34bf-880a-b07cda2f2b13",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b0eeb293-cb28-3117-9927-332a5fa3232b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Architektur und Design in der Natur ? Ausstellungen, Ausbildung und Veranstaltungen. Workshops und Konferenzen.\r\nFührungen durch einen Architekturpark und eine Ausstellung, Bio-Café am Ufer der Vienne und Design-Boutique."
+        ],
+        "en": [
+          "Architecture and design in nature - exhibitions, training and events. Workshops and conferences.\r\nGuided tours of an architectural park and an exhibition, organic café on the banks of the Vienne river and a design boutique."
+        ],
+        "it": [
+          "Architettura e design in natura? Mostre, formazione ed eventi. Workshop e conferenze.\r\nVisite guidate a un parco architettonico e a una mostra, un caffè biologico sulle rive della Vienne e un negozio di design."
+        ],
+        "fr": [
+          "Architecture et design en pleine nature – expositions, formation et événements. Ateliers et conférences.\r\nVisites guidées d'un parc architectural et d'une exposition, café bio au bord de la Vienne et boutique design."
+        ],
+        "es": [
+          "Arquitectura y diseño en la naturaleza: exposiciones, formación y eventos. Talleres y conferencias.\r\nVisitas guiadas a un parque arquitectónico y a una exposición, café ecológico a orillas del Vienne y tienda de diseño."
+        ],
+        "nl": [
+          "Architectuur en design in de natuur ? tentoonstellingen, opleidingen en evenementen. Workshops en conferenties.\r\nRondleidingen in een architectuurpark en een tentoonstelling, biologisch café aan de oevers van de Vienne en een designwinkel."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/2244f870-98d4-3fbc-b7b5-2c60edd193fd",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5fc5eec8-0336-31fc-8455-998693c568e6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ac824caa-19dd-3090-8b6d-50e8d72be44e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ec3538d7-a4ec-3ef1-bab8-a37cf90f593b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f4fd211e-f62b-3245-8b20-6800bc83b138",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/c628adfe-ea2a-3b76-b94b-e778d72b8643",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/c26276cd-d26a-357d-beed-4ea83585bd5a",
+          "schema:addressLocality": "Lessac",
+          "schema:postalCode": "16500",
+          "schema:streetAddress": [
+            "Domaine de Boisbuchet"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16181",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lessac"
+              ],
+              "pt": [
+                "Lessac"
+              ],
+              "en": [
+                "Lessac"
+              ],
+              "it": [
+                "Lessac"
+              ],
+              "fr": [
+                "Lessac"
+              ],
+              "nl": [
+                "Lessac"
+              ],
+              "es": [
+                "Lessac"
+              ]
+            },
+            "insee": "16181",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/ef8afdee-c936-3262-ba3d-7e0108d402ea",
+        "schema:latitude": "46.086124",
+        "schema:longitude": "0.68477",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/64af9044-b8d9-33e8-91c3-257298397080",
+          "schema:validFrom": "2023-06-19T00:00:00",
+          "schema:validThrough": "2023-09-18T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ca729d9a-b370-39c8-8ff2-ebfbb796dad5",
+      "schema:email": [
+        "fatiha.guetarni@charente-limousine.fr",
+        "marc.vachot@charente-limousine.fr"
+      ],
+      "schema:legalName": "Office de Tourisme Charente Limousine",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-02-10",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.316Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/5579af6d-fb99-3402-bf7d-4c610a0b939e",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3bf97af7-8831-3d9f-b0dd-0f3042d02e5c",
+          "schema:maxPrice": [
+            "10",
+            "15",
+            "8"
+          ],
+          "schema:minPrice": [
+            "10",
+            "15",
+            "8"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/881bc845-c052-3006-8fb1-3f91e30a8e58",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-09-18",
+              "startDate": "2023-06-19"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,465 @@
+{
+  "@id": "https://data.datatourisme.fr/13/3f95eea1-7299-3bab-8bf9-fc595d370c26",
+  "dc:identifier": "5996390",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Besuch einer Produktionsstätte für Spirulina"
+    ],
+    "en": [
+      "Visit of a Spirulina production site"
+    ],
+    "it": [
+      "Visita a un sito di produzione di Spirulina"
+    ],
+    "fr": [
+      "Visite d'un site de production de Spiruline"
+    ],
+    "es": [
+      "Visita a un centro de producción de espirulina"
+    ],
+    "nl": [
+      "Bezoek aan een Spirulina-productielocatie"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Spiruline de Haute-Saintonge"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/80284c77-080a-3a3f-83d0-42efe9c46047",
+      "schema:email": [
+        "info@spiruline-fr.com"
+      ],
+      "schema:telephone": [
+        "+33 5 46 49 62 02",
+        "+33 6 67 31 47 60"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.spiruline-fr.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/3f40c0f4-f4ed-33b7-8c11-c17f42719ea4",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/4893e3e1-4df4-36a4-8e27-ef865c652883",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8ad0aff2-ffab-3448-a399-f89e01ea1b49",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a944f13e-5105-3700-bc42-e98a89a83924",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/eae1fe53-d5a1-3af3-9755-01c6efa287a7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fde9c741-91d4-3bf0-ba4e-3d8dd32625bb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Besuch einer Produktionsstätte für Spirulina"
+        ],
+        "en": [
+          "Visit of a Spirulina production site"
+        ],
+        "it": [
+          "Visita a un sito di produzione di Spirulina"
+        ],
+        "fr": [
+          "Visite d'un site de production de Spiruline"
+        ],
+        "es": [
+          "Visita a un centro de producción de espirulina"
+        ],
+        "nl": [
+          "Bezoek aan een Spirulina-productielocatie"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/3b30ec64-e013-3c6a-b605-89d52f96de02",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7b9e5274-50bf-34c6-bbbe-f8f7c087ba95",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9953a2ea-ea17-323f-b083-8877034a89a9",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/da2c770f-c6e0-3b9e-983d-94c20149ef90",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ee386053-f4ea-326f-8b52-32ab5fc926a2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/5ec09aca-592e-3eab-8fb6-6450b6bf0b86",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/a08f235f-b8a5-3ce5-9990-a43f01bf46d9",
+          "schema:addressLocality": "Consac",
+          "schema:postalCode": "17150",
+          "schema:streetAddress": [
+            "Le bois des Servants"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17116",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Consac"
+              ],
+              "pt": [
+                "Consac"
+              ],
+              "en": [
+                "Consac"
+              ],
+              "it": [
+                "Consac"
+              ],
+              "fr": [
+                "Consac"
+              ],
+              "nl": [
+                "Consac"
+              ],
+              "es": [
+                "Consac"
+              ]
+            },
+            "insee": "17116",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/7712af30-0ea0-3d49-9090-c533db7303a7",
+        "schema:latitude": "45.412615",
+        "schema:longitude": "-0.569267",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-03-28",
+  "lastUpdateDatatourisme": "2023-03-29T07:10:47.635Z"
+}

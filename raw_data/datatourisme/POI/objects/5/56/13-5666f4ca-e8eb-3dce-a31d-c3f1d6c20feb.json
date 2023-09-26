@@ -1,0 +1,462 @@
+{
+  "@id": "https://data.datatourisme.fr/13/5666f4ca-e8eb-3dce-a31d-c3f1d6c20feb",
+  "dc:identifier": "5697517",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Dieser Rundgang befindet sich im \"Champ de Piton\" in Richtung Fontaines d'Ozillac unterhalb des Ortes \"La Comté\". Er erklärt, die Fauna des Waldes mit ihren entsprechenden Fußabdrücken sowie die Namen der Bäume, denen man auf dem Spaziergang begegnet."
+    ],
+    "en": [
+      "This course is located at the \"Champ de Piton\" in the direction of Fontaines d'Ozillac below the place called \"La Comté\". It explains the fauna of the woods with their corresponding footprints as well as the names of the trees encountered during the walk."
+    ],
+    "it": [
+      "Questo sentiero si trova a \"Champ de Piton\" in direzione di Fontaines d'Ozillac, sotto la località chiamata \"La Comté\". Spiega la fauna del bosco con le relative impronte e i nomi degli alberi incontrati durante la passeggiata."
+    ],
+    "fr": [
+      "Ce parcours est situé au \"Champ de Piton\" en direction de Fontaines d'Ozillac en contrebas du lieu-dit \"La Comté\". Il explique, la faune des bois avec leurs empreintes correspondantes ainsi que le nom des arbres rencontrés au cours de la promenade."
+    ],
+    "es": [
+      "Este sendero se encuentra en el \"Champ de Piton\" en dirección a Fontaines d'Ozillac por debajo del lugar llamado \"La Comté\". Explica la fauna del bosque con sus correspondientes huellas, así como los nombres de los árboles encontrados durante el paseo."
+    ],
+    "nl": [
+      "Dit pad bevindt zich bij \"Champ de Piton\" in de richting van Fontaines d'Ozillac onder de plaats \"La Comté\". Het verklaart de fauna van het bos met de bijbehorende voetafdrukken en de namen van de bomen die je tijdens de wandeling tegenkomt."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Sentier Découverte"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/358a28e2-766f-31b1-b262-21a077180220",
+      "schema:email": [
+        "fontaines-ozillac@wanadoo.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 70 67 45"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/8c3c4fde-3870-3c8f-aff8-7403614be908",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/08f5163c-1868-36be-b328-11c3346a24b1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/0c731e1f-d669-3033-971a-ee7a999dc0cb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/36fcaba5-42fd-39b1-9691-f7ba58e73beb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bd6370f6-50b0-34d7-a659-75d5bfaa46af",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fa5d2ee9-273c-36c9-aa5d-62f8089e690b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Dieser Rundgang befindet sich im \"Champ de Piton\" in Richtung Fontaines d'Ozillac unterhalb des Ortes \"La Comté\". Er erklärt, die Fauna des Waldes mit ihren entsprechenden Fußabdrücken sowie die Namen der Bäume, denen man auf dem Spaziergang begegnet."
+        ],
+        "en": [
+          "This course is located at the \"Champ de Piton\" in the direction of Fontaines d'Ozillac below the place called \"La Comté\". It explains the fauna of the woods with their corresponding footprints as well as the names of the trees encountered during the walk."
+        ],
+        "it": [
+          "Questo sentiero si trova a \"Champ de Piton\" in direzione di Fontaines d'Ozillac, sotto la località chiamata \"La Comté\". Spiega la fauna del bosco con le relative impronte e i nomi degli alberi incontrati durante la passeggiata."
+        ],
+        "fr": [
+          "Ce parcours est situé au \"Champ de Piton\" en direction de Fontaines d'Ozillac en contrebas du lieu-dit \"La Comté\". Il explique, la faune des bois avec leurs empreintes correspondantes ainsi que le nom des arbres rencontrés au cours de la promenade."
+        ],
+        "es": [
+          "Este sendero se encuentra en el \"Champ de Piton\" en dirección a Fontaines d'Ozillac por debajo del lugar llamado \"La Comté\". Explica la fauna del bosque con sus correspondientes huellas, así como los nombres de los árboles encontrados durante el paseo."
+        ],
+        "nl": [
+          "Dit pad bevindt zich bij \"Champ de Piton\" in de richting van Fontaines d'Ozillac onder de plaats \"La Comté\". Het verklaart de fauna van het bos met de bijbehorende voetafdrukken en de namen van de bomen die je tijdens de wandeling tegenkomt."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/1c740797-8c26-3e14-a87c-98e7432868cb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c4dd5b4f-e795-310b-9e9a-5f0bf585f1bb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c649ecf1-e34d-3d4a-ac23-220b96cf9503",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cf10b3b8-e183-3f3c-b773-52e8a4546ad5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f62ebf39-6357-36d4-b506-09ca0296be37",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/866e4a12-e7bd-32b4-b1ce-f711b65fed93",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1fe79aec-294b-341e-a1c8-91e218500828",
+          "schema:addressLocality": "Fontaines-d'Ozillac",
+          "schema:postalCode": "17500",
+          "schema:streetAddress": [
+            "Champ de Piton"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17163",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Fontaines-d'Ozillac"
+              ],
+              "pt": [
+                "Fontaines-d'Ozillac"
+              ],
+              "en": [
+                "Fontaines-d'Ozillac"
+              ],
+              "it": [
+                "Fontaines-d'Ozillac"
+              ],
+              "fr": [
+                "Fontaines-d'Ozillac"
+              ],
+              "nl": [
+                "Fontaines-d'Ozillac"
+              ],
+              "es": [
+                "Fontaines-d'Ozillac"
+              ]
+            },
+            "insee": "17163",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/36caf0d4-a730-37f6-a3da-2f49ac9a466f",
+        "schema:latitude": "45.382967",
+        "schema:longitude": "-0.4162",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-03-02",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.857Z"
+}

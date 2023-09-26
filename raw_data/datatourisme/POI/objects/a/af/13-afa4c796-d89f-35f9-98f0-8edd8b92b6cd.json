@@ -1,0 +1,281 @@
+{
+  "@id": "https://data.datatourisme.fr/13/afa4c796-d89f-35f9-98f0-8edd8b92b6cd",
+  "dc:identifier": "5758376",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Le musée de la poupée de montmérac"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/16ba7217-2e6a-3f1d-a54d-11ab6967e371",
+    "dc:identifier": "2063",
+    "schema:email": [
+      "direction@sudcharentetourisme.fr",
+      "noemie@sudcharentetourisme.fr"
+    ],
+    "schema:legalName": "Office de tourisme du Sud Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.sudcharentetourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/ea2694a7-2e1a-3993-a212-fe876de7517d",
+      "schema:email": [
+        "jean-luc.decome@srf.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 78 95 67",
+        "+33 6 87 43 56 75"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/80c8d372-3be4-3b93-be40-62836a10fc45",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/cbc765e7-d289-338f-ae6e-b6616ed84a4b",
+          "schema:addressLocality": "Montmérac",
+          "schema:postalCode": "16300",
+          "schema:streetAddress": [
+            "Chez Desse",
+            "Montchaude"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16224",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Montmérac"
+              ],
+              "pt": [
+                "Montmérac"
+              ],
+              "en": [
+                "Montmérac"
+              ],
+              "it": [
+                "Montmérac"
+              ],
+              "fr": [
+                "Montmérac"
+              ],
+              "nl": [
+                "Montmérac"
+              ],
+              "es": [
+                "Montmérac"
+              ]
+            },
+            "insee": "16224",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/04ac0c3e-1421-3d8c-9253-a7faab423080",
+        "schema:latitude": "45.43531",
+        "schema:longitude": "-0.222374",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/17ccf9a1-6b41-3eb9-a1e1-edf0fbbf90c5",
+      "schema:email": [
+        "direction@sudcharentetourisme.fr",
+        "noemie@sudcharentetourisme.fr"
+      ],
+      "schema:legalName": "Office de tourisme du Sud-Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.sudcharentetourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-03-29",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.716Z"
+}

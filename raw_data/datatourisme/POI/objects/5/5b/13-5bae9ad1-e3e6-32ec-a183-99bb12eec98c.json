@@ -1,0 +1,462 @@
+{
+  "@id": "https://data.datatourisme.fr/13/5bae9ad1-e3e6-32ec-a183-99bb12eec98c",
+  "dc:identifier": "5697943",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Jahrhundert errichtete Kirche, deren Hauptinteresse vor allem in ihrer Fassade liegt."
+    ],
+    "en": [
+      "Church built in the 12th century, whose main interest lies mainly in its facade."
+    ],
+    "it": [
+      "Chiesa costruita nel XII secolo, il cui interesse principale risiede nella sua facciata."
+    ],
+    "fr": [
+      "Eglise édifiée au XIIème siècle, dont l'intérêt principal réside essentiellement dans sa façade."
+    ],
+    "nl": [
+      "Kerk gebouwd in de 12e eeuw, waarvan de voorgevel het meest interessant is."
+    ],
+    "es": [
+      "Iglesia construida en el siglo XII, cuyo principal interés reside en su fachada."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Eglise de St Denis d'Oléron"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3bcf02ca-b9c8-3698-a347-79225d9a1f6f",
+      "schema:email": [
+        "contact@paroisse-oleron.com"
+      ],
+      "schema:telephone": [
+        "+33 5 46 47 11 14"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.catholiques17.fr/oleron"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/3568ba62-bab2-3f9d-bd8b-719e2ea06100",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3636ae76-13da-3489-b0e9-f121829d67e7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/67a9cf86-4715-3d89-911b-b5b9fcaab296",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/711a22f6-6775-3d89-9576-d8d5784e9976",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a32127d6-0858-32e7-8ac9-73af8ca9136e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c7b1abcb-f638-3e5f-8f17-4386f006a45a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Jahrhundert errichtete Kirche, deren Hauptinteresse vor allem in ihrer Fassade liegt."
+        ],
+        "en": [
+          "Church built in the 12th century, whose main interest lies mainly in its facade."
+        ],
+        "it": [
+          "Chiesa costruita nel XII secolo, il cui interesse principale risiede nella sua facciata."
+        ],
+        "fr": [
+          "Eglise édifiée au XIIème siècle, dont l'intérêt principal réside essentiellement dans sa façade."
+        ],
+        "nl": [
+          "Kerk gebouwd in de 12e eeuw, waarvan de voorgevel het meest interessant is."
+        ],
+        "es": [
+          "Iglesia construida en el siglo XII, cuyo principal interés reside en su fachada."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/36ff1af3-15da-3021-9298-58bacedae583",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4b6a5686-397a-34e9-88b6-3a7b075a8523",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/728ed03c-7034-36f4-8fd1-c754fa05b4b6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8d7a77f7-ac54-3755-9386-6cee9dfcdf32",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f373c987-db29-3549-9546-ba53d04b3add",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f32acf00-9377-327b-a287-69e1368ba24f",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/47607a11-6250-3747-82a7-4de2515a5788",
+          "schema:addressLocality": "Saint-Denis-d'Oléron",
+          "schema:postalCode": "17650",
+          "schema:streetAddress": [
+            "Rue Ernest Maurisset"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17323",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "pt": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "en": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "it": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "fr": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "nl": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "es": [
+                "Saint-Denis-d'Oléron"
+              ]
+            },
+            "insee": "17323",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/a92e37c4-3bf1-3110-81b6-5193abf858bc",
+        "schema:latitude": "46.03224",
+        "schema:longitude": "-1.377841",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/80009736-71af-3484-9792-2b3de63306d1",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-08-24",
+  "lastUpdateDatatourisme": "2023-06-01T05:41:13.915Z"
+}

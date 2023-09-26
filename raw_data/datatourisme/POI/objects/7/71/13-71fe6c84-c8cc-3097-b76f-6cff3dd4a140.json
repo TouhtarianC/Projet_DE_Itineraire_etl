@@ -1,0 +1,459 @@
+{
+  "@id": "https://data.datatourisme.fr/13/71fe6c84-c8cc-3097-b76f-6cff3dd4a140",
+  "dc:identifier": "5774539",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Protestantische Kirche in der Gemeinde Mescher-sur-Gironde."
+    ],
+    "en": [
+      "Protestant church located in the commune of Mescher-sur-Gironde."
+    ],
+    "it": [
+      "Chiesa protestante situata nel comune di Mescher-sur-Gironde."
+    ],
+    "fr": [
+      "Église protestante située sur la commune de Mescher-sur-Gironde."
+    ],
+    "nl": [
+      "Protestantse kerk in de gemeente Mescher-sur-Gironde."
+    ],
+    "es": [
+      "Iglesia protestante situada en el municipio de Mescher-sur-Gironde."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Église Réformée"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/f7a313bf-42c0-3cbb-a27a-f111ebc9a363",
+      "schema:telephone": [
+        "+33 5 46 38 76 89"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/28b967ea-a56b-3126-8702-ca7b80ba82b0",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3e62500a-d2b9-3386-81d4-f6574eee62cf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/558a6575-b6b3-39d6-aff6-680393c7561b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/94b6a62d-b803-3fab-8e5f-d54975b9f637",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d4912187-03ef-37bb-8bc2-ac5eee0fa319",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e33c57c1-83a5-37ae-8462-09e41f09d4c3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Protestantische Kirche in der Gemeinde Mescher-sur-Gironde."
+        ],
+        "en": [
+          "Protestant church located in the commune of Mescher-sur-Gironde."
+        ],
+        "it": [
+          "Chiesa protestante situata nel comune di Mescher-sur-Gironde."
+        ],
+        "fr": [
+          "Église protestante située sur la commune de Mescher-sur-Gironde."
+        ],
+        "nl": [
+          "Protestantse kerk in de gemeente Mescher-sur-Gironde."
+        ],
+        "es": [
+          "Iglesia protestante situada en el municipio de Mescher-sur-Gironde."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/2dd4a6b4-30ac-311c-9607-136a343c38d8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/67733f4d-540d-3120-b410-4e616b3ce609",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6c59a821-8003-30a6-9afc-3dd447e75651",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c9ee1508-2c99-33b1-ae66-fa1ce9b10959",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d13d96ae-826e-3a8d-a3fa-5b0e596306f5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f36890b0-638f-3ca7-843b-e97a4b5163c2",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/52cb497c-b710-37b2-ab20-34792c7b40a4",
+          "schema:addressLocality": "Meschers-sur-Gironde",
+          "schema:postalCode": "17132",
+          "schema:streetAddress": [
+            "Rue du Temple"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17230",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Meschers-sur-Gironde"
+              ],
+              "pt": [
+                "Meschers-sur-Gironde"
+              ],
+              "en": [
+                "Meschers-sur-Gironde"
+              ],
+              "it": [
+                "Meschers-sur-Gironde"
+              ],
+              "fr": [
+                "Meschers-sur-Gironde"
+              ],
+              "nl": [
+                "Meschers-sur-Gironde"
+              ],
+              "es": [
+                "Meschers-sur-Gironde"
+              ]
+            },
+            "insee": "17230",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/3048cc44-c162-354b-b940-2406e55212fa",
+        "schema:latitude": "45.56048",
+        "schema:longitude": "-0.953987",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-05-24",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.835Z"
+}

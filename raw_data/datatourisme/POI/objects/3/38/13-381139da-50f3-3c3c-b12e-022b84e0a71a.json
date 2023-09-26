@@ -1,0 +1,562 @@
+{
+  "@id": "https://data.datatourisme.fr/13/381139da-50f3-3c3c-b12e-022b84e0a71a",
+  "dc:identifier": "5694048",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Dorfkirche in der Landschaft der Charente."
+    ],
+    "en": [
+      "Village church, in the Charente countryside."
+    ],
+    "it": [
+      "Chiesa di villaggio nella campagna della Charente."
+    ],
+    "fr": [
+      "Église de village, dans la campagne charentaise."
+    ],
+    "es": [
+      "Iglesia de pueblo en la campiña de la Charente."
+    ],
+    "nl": [
+      "Dorpskerk op het platteland van de Charente."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Église Sainte-Eugénie"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q29551208"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/2d405b36-7158-33f1-ad7c-1e31a96b3af3",
+    "dc:identifier": "2062",
+    "schema:email": [
+      "a.bucciero@rochefoucauld-perigord.fr",
+      "j.aksahin@rochefoucauld-perigord.fr"
+    ],
+    "schema:legalName": "Office de Tourisme La Rochefoucauld Porte du Périgord",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://tourisme.rochefoucauld-perigord.fr/",
+      "https://tourisme.rochefoucauld-perigord.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/030662d2-ca4a-3264-845f-55f113efd8d8",
+      "schema:email": [
+        "paroissedemontbron@orange.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 70 71 82"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://paroisse-staugustin16.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/d49185b2-3849-35f1-b1c1-f33c40a623a2",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2a59a1a0-8ee3-38c3-86b7-fed84e523491",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/52446602-988e-320a-822a-08a926452806",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/538421df-e695-3fad-acd5-97543875e35e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/78c4f1f7-586b-3617-9834-0abb000012ee",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/82f8af03-3d44-3c61-8702-285b90a07d34",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Dorfkirche in der Landschaft der Charente."
+        ],
+        "en": [
+          "Village church, in the Charente countryside."
+        ],
+        "it": [
+          "Chiesa di villaggio nella campagna della Charente."
+        ],
+        "fr": [
+          "Église de village, dans la campagne charentaise."
+        ],
+        "es": [
+          "Iglesia de pueblo en la campiña de la Charente."
+        ],
+        "nl": [
+          "Dorpskerk op het platteland van de Charente."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/440970e2-c554-3972-b249-6ec42ff0d0b6",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/428fc842-2c70-3ee7-8cc6-2762235e572a",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Orgedeuil eg2"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Jack ma (https://commons.wikimedia.org/wiki/User:Jack_ma)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/3a71e189-7328-3552-97a0-80104c275edc",
+          "ebucore:fileSize": [
+            155198
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1200,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/d/d7/Orgedeuil_eg2.JPG"
+          ],
+          "ebucore:width": 1600,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/6f13998d-da7e-3b17-91ab-ed1080c4d6c8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/75c097cc-3af1-3352-bf23-ac76cac9b993",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8b439603-cb4b-373b-9d54-508440617308",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d5764053-68de-3f2d-a5b2-1e983c278185",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ee8fb66e-8816-3bbc-80de-924c32c6fae5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/c6b169b2-f5b8-31ab-a665-0d1cfe8e098d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/ac45f4b2-d0d4-3254-a12f-7a0e815feca8",
+          "schema:addressLocality": "Orgedeuil",
+          "schema:postalCode": "16220",
+          "schema:streetAddress": [
+            "Le Bourg"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16250",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Orgedeuil"
+              ],
+              "pt": [
+                "Orgedeuil"
+              ],
+              "en": [
+                "Orgedeuil"
+              ],
+              "it": [
+                "Orgedeuil"
+              ],
+              "fr": [
+                "Orgedeuil"
+              ],
+              "nl": [
+                "Orgedeuil"
+              ],
+              "es": [
+                "Orgedeuil"
+              ]
+            },
+            "insee": "16250",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/e8dcb97f-4fff-3f2e-af67-bcd64ac038c7",
+        "schema:latitude": "45.690356",
+        "schema:longitude": "0.496139",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/6c2d0e2f-11ef-3a7e-a27e-8252b13e7c06",
+      "schema:email": [
+        "a.bucciero@rochefoucauld-perigord.fr",
+        "j.aksahin@rochefoucauld-perigord.fr"
+      ],
+      "schema:legalName": "Office de Tourisme La Rochefoucauld Porte du Périgord",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://tourisme.rochefoucauld-perigord.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2020-12-18",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.871Z"
+}

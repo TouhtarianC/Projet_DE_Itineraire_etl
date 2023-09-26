@@ -1,0 +1,563 @@
+{
+  "@id": "https://data.datatourisme.fr/13/4c8d8603-5e9c-3f54-9c70-8c914222a7b3",
+  "dc:identifier": "5687438",
+  "@type": [
+    "Bridge",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RemarkableBuilding"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Wenn Sie von Château d'Oléron aus der Austernstraße folgen, sollten Sie sich die Zeit nehmen, auf der Höhe von La Brande einen kleinen Halt zu machen, um eine kleine Steinbrücke aus dem späten 18."
+    ],
+    "en": [
+      "Leaving the Château d'Oléron, following the oyster route, take the time to make a short stop at the Brande, to discover a small stone bridge dating from the end of the 18th century."
+    ],
+    "it": [
+      "Da Château d'Oléron, seguendo il percorso delle ostriche, fate una breve sosta a La Brande, per scoprire un piccolo ponte in pietra della fine del XVIII secolo."
+    ],
+    "fr": [
+      "Au départ du Château d'Oléron, en suivant la route des huîtres, prenez le temps de faire une petite halte à hauteur de la Brande, pour découvrir un petit pont de pierre datant de la fin du XVIIIe siècle."
+    ],
+    "nl": [
+      "Neem vanuit Château d'Oléron, langs de oesterroute, de tijd voor een korte stop bij La Brande, om een stenen bruggetje uit het einde van de 18e eeuw te ontdekken."
+    ],
+    "es": [
+      "Desde el Château d'Oléron, siguiendo la ruta de las ostras, tómese el tiempo de hacer una breve parada en La Brande, para descubrir un pequeño puente de piedra de finales del siglo XVIII."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Pont Napoléon"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q22954795"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/1314d78c-18e5-3f1b-96f7-31eb0da93f95",
+      "schema:email": [
+        "accueil@marennes-oleron.com"
+      ],
+      "schema:telephone": [
+        "+33 5 46 85 65 23"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.ile-oleron-marennes.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/a75dea15-bac7-37b4-a17e-de7fff587ec5",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0a6a80ec-eb8f-34cd-9415-4c8b7d57217d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5e22d226-604d-3c4a-bf26-9694c014e968",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c1a73675-6be2-3fb8-a80e-4b597dddfc52",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d3d188dc-cbca-39b3-a22a-ac5bd49c9f57",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ff8b332e-d60d-3cf6-b4c6-8be80d5a9ae5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Wenn Sie von Château d'Oléron aus der Austernstraße folgen, sollten Sie sich die Zeit nehmen, auf der Höhe von La Brande einen kleinen Halt zu machen, um eine kleine Steinbrücke aus dem späten 18."
+        ],
+        "en": [
+          "Leaving the Château d'Oléron, following the oyster route, take the time to make a short stop at the Brande, to discover a small stone bridge dating from the end of the 18th century."
+        ],
+        "it": [
+          "Da Château d'Oléron, seguendo il percorso delle ostriche, fate una breve sosta a La Brande, per scoprire un piccolo ponte in pietra della fine del XVIII secolo."
+        ],
+        "fr": [
+          "Au départ du Château d'Oléron, en suivant la route des huîtres, prenez le temps de faire une petite halte à hauteur de la Brande, pour découvrir un petit pont de pierre datant de la fin du XVIIIe siècle."
+        ],
+        "nl": [
+          "Neem vanuit Château d'Oléron, langs de oesterroute, de tijd voor een korte stop bij La Brande, om een stenen bruggetje uit het einde van de 18e eeuw te ontdekken."
+        ],
+        "es": [
+          "Desde el Château d'Oléron, siguiendo la ruta de las ostras, tómese el tiempo de hacer una breve parada en La Brande, para descubrir un pequeño puente de piedra de finales del siglo XVIII."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/60cd9cab-55db-39f7-ae3c-0292041b2e46",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/1abc243e-c7c7-3b54-832a-db3a4eaf0455",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Pont Napoleon, Le Chateau d'Oléron"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "SoGladia (https://commons.wikimedia.org/w/index.php?title=User:SoGladia&amp;action=edit&amp;redlink=1)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/acbdd1fc-5084-3544-81c3-6af89aee7b98",
+          "ebucore:fileSize": [
+            559595
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 933,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/8/8c/Pont_Napoleon%2C_Le_Chateau_d%27Ol%C3%A9ron.jpg"
+          ],
+          "ebucore:width": 1400,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/05cc9354-9f05-363c-a12d-9eed9e9095a3",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/139fec8e-6db4-325d-9429-837a07121f73",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/1efcbd94-6a7a-36f0-9e3d-9c1f05d65dcc",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/aef6bcd4-e76f-3a0f-8596-c5471f678630",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d4df1364-fd5b-3d28-aac0-2795352f52e2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/945194f8-6ef9-3f3e-8cc9-d82b61afd4fa",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/53fd4ec0-0b07-3b31-a36d-6b4130c7a918",
+          "schema:addressLocality": "Le Château-d'Oléron",
+          "schema:postalCode": "17480",
+          "schema:streetAddress": [
+            "Route des huîtres"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17093",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Le Château-d'Oléron"
+              ],
+              "pt": [
+                "Le Château-d'Oléron"
+              ],
+              "en": [
+                "Le Château-d'Oléron"
+              ],
+              "it": [
+                "Le Château-d'Oléron"
+              ],
+              "fr": [
+                "Le Château-d'Oléron"
+              ],
+              "nl": [
+                "Le Château-d'Oléron"
+              ],
+              "es": [
+                "Le Château-d'Oléron"
+              ]
+            },
+            "insee": "17093",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/7662b931-ba40-37ec-b09d-37488d9c993e",
+        "schema:latitude": "45.905362",
+        "schema:longitude": "-1.219228",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/d7f018c3-c1ab-31f8-8901-4d29578edb89",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ile-oleron-marennes.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-08-24",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.694Z"
+}

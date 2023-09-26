@@ -1,0 +1,970 @@
+{
+  "@id": "https://data.datatourisme.fr/13/5259753f-1187-3c2e-a593-80d1c66ca476",
+  "dc:identifier": "5696320",
+  "@type": [
+    "Abbey",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Abbaye aux Dames in Saintes ist ein Juwel der romanischen Architektur und bietet mit Musicaventure spielerische und vernetzte Erlebnisse, um die Stätte, ihre Geschichte und ihre Musik zu erkunden.\r\n\r\n5 außergewöhnliche Module für ein totales Eintauchen in die Welt der Abtei:"
+    ],
+    "en": [
+      "The Abbaye aux Dames is the Cité musicale of Saintes. The Festival de Saintes, the Jeune Orchestre de l’Abbaye (an artisitic educational programme) and the historical site on which it is set are the fundamental pillars of the Abbaye aux Dames."
+    ],
+    "it": [
+      "Gioiello dell'architettura romanica di Saintes, l'Abbaye aux Dames offre con Musicaventure esperienze divertenti e collegate per esplorare il sito, la sua storia e la sua musica.\r\n\r\n5 moduli eccezionali per un'immersione totale nel mondo dell'Abbazia:"
+    ],
+    "fr": [
+      "Joyau d’architecture romane à Saintes, l’Abbaye aux Dames offre avec Musicaventure, des expériences ludiques et connectées pour explorer le site, son histoire et sa musique.\r\n\r\n5 modules exceptionnels pour une immersion totale dans l’univers de l’Abbaye :"
+    ],
+    "es": [
+      "Joya de la arquitectura románica en Saintes, la Abbaye aux Dames ofrece con Musicaventure, experiencias divertidas y conectadas para explorar el lugar, su historia y su música.\r\n\r\n5 módulos excepcionales para una inmersión total en el mundo de la Abadía:"
+    ],
+    "nl": [
+      "De Abbaye aux Dames, een juweel van romaanse architectuur in Saintes, biedt met Musicaventure leuke en verbonden ervaringen om de site, de geschiedenis en de muziek te ontdekken.\r\n\r\n5 uitzonderlijke modules voor een totale onderdompeling in de wereld van de Abdij:"
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Abbaye aux Dames, la cité musicale"
+    ],
+    "fr": [
+      "Abbaye aux Dames"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q306128"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f8c0c968-6328-35cd-9333-08b1a494967f",
+    "dc:identifier": "2060",
+    "schema:email": [
+      "a.tonin@saintes-tourisme.fr",
+      "f.herbec@saintes-tourisme.fr",
+      "l.conan@saintes-tourisme.fr"
+    ],
+    "schema:legalName": "Office de Tourisme de Saintes & la Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.saintes-tourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/0329c219-b543-35a2-84b0-1986e8f3a1a1",
+      "schema:email": [
+        "info@abbayeauxdames.org"
+      ],
+      "schema:telephone": [
+        "+33 5 46 97 48 48"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.abbayeauxdames.org/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b907fc58-6588-37f4-b054-c0452450933c",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/77bd93e9-91bc-3aa6-b1e3-c0ed97e878ef",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/882eeba9-34bc-315e-a905-0c6d69b6e9b9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a75be4f2-7c5c-3876-bf8d-8267769870ba",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bba7f53a-63d8-39f9-bfe3-3ba0aaf1f30e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Abbaye aux Dames in Saintes ist ein Juwel der romanischen Architektur und bietet mit Musicaventure spielerische und vernetzte Erlebnisse, um die Stätte, ihre Geschichte und ihre Musik zu erkunden.\r\n\r\n5 außergewöhnliche Module für ein totales Eintauchen in die Welt der Abtei:"
+        ],
+        "en": [
+          "The Abbaye aux Dames is the Cité musicale of Saintes. The Festival de Saintes, the Jeune Orchestre de l’Abbaye (an artisitic educational programme) and the historical site on which it is set are the fundamental pillars of the Abbaye aux Dames."
+        ],
+        "it": [
+          "Gioiello dell'architettura romanica di Saintes, l'Abbaye aux Dames offre con Musicaventure esperienze divertenti e collegate per esplorare il sito, la sua storia e la sua musica.\r\n\r\n5 moduli eccezionali per un'immersione totale nel mondo dell'Abbazia:"
+        ],
+        "fr": [
+          "Joyau d’architecture romane à Saintes, l’Abbaye aux Dames offre avec Musicaventure, des expériences ludiques et connectées pour explorer le site, son histoire et sa musique.\r\n\r\n5 modules exceptionnels pour une immersion totale dans l’univers de l’Abbaye :"
+        ],
+        "es": [
+          "Joya de la arquitectura románica en Saintes, la Abbaye aux Dames ofrece con Musicaventure, experiencias divertidas y conectadas para explorar el lugar, su historia y su música.\r\n\r\n5 módulos excepcionales para una inmersión total en el mundo de la Abadía:"
+        ],
+        "nl": [
+          "De Abbaye aux Dames, een juweel van romaanse architectuur in Saintes, biedt met Musicaventure leuke en verbonden ervaringen om de site, de geschiedenis en de muziek te ontdekken.\r\n\r\n5 uitzonderlijke modules voor een totale onderdompeling in de wereld van de Abdij:"
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/f0648b92-9a68-3ead-8233-c6a2be6172c2",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/0f6f000f-6b1b-34f4-9acc-47f7fb673c46",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Saintes Abbaye-aux-Dames chevet et clocher"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Myrabella (https://commons.wikimedia.org/wiki/User:Myrabella)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/94dd8e0e-aa61-3057-ab01-f21e1c694b78",
+          "ebucore:fileSize": [
+            1630093
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 2440,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/d/d3/Saintes_Abbaye-aux-Dames_chevet_et_clocher.jpg"
+          ],
+          "ebucore:width": 3146,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/6e866798-cae5-351c-9e8d-963661217e60",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:LabelRating_AccueilVelo",
+        "@type": [
+          "LabelRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "Accueil Vélo"
+          ],
+          "pt": [
+            "Accueil Vélo"
+          ],
+          "en": [
+            "Accueil Vélo"
+          ],
+          "it": [
+            "Accueil Vélo"
+          ],
+          "fr": [
+            "Accueil Vélo"
+          ],
+          "nl": [
+            "Accueil Vélo"
+          ],
+          "es": [
+            "Accueil Vélo"
+          ]
+        },
+        "isCompliantWith": [
+          "PlaceOfInterest"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/3b761a97-24cf-32fb-a3f2-1e715deb4cb9",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/806e9793-eb32-3f81-be46-8e7d0b39221c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b8183995-a914-3bfc-a292-e46ce837e9ea",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/beb00ff9-f9a9-379b-9255-3303c56a23c5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/2c9cb7a3-d439-3e48-8f65-69bcdc5279e0",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d0015044-e453-39e3-b895-1c8bfa8357b6",
+          "schema:addressLocality": "Saintes",
+          "schema:postalCode": "17100",
+          "schema:streetAddress": [
+            "11 place de l'Abbaye"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17415",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saintes"
+              ],
+              "pt": [
+                "Saintes"
+              ],
+              "en": [
+                "Saintes"
+              ],
+              "it": [
+                "Saintes"
+              ],
+              "fr": [
+                "Saintes"
+              ],
+              "nl": [
+                "Saintes"
+              ],
+              "es": [
+                "Saintes"
+              ]
+            },
+            "insee": "17415",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/29e23bfd-1223-3a9e-9265-fe485b825ebe",
+        "schema:latitude": "45.744677",
+        "schema:longitude": "-0.624772",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/0087568c-9897-38d2-9197-ef6714509a7a",
+          "schema:validFrom": "2023-04-01T00:00:00",
+          "schema:validThrough": "2023-06-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Der Shop/Ticketverkauf ist je nach Veranstaltung ausnahmsweise geöffnet, an Konzertabenden bis 23 Uhr.\r\n\r\nAufgrund der vielfältigen Nutzung des Geländes der Abbaye aux Dames (religiöse Veranstaltungen, Konzerte usw.) können wir nicht garantieren, dass der Ort immer zugänglich ist.\r\nZögern Sie nicht, uns vor Ihrem Besuch zu kontaktieren."
+            ],
+            "en": [
+              "The shop/ticket office is exceptionally open on concert evenings until 11 pm.\r\n\r\nDue to the multiple uses of the site of the Abbaye aux Dames (religious, concerts?), we cannot guarantee permanent accessibility to the place.\r\nDo not hesitate to contact us before your visit."
+            ],
+            "it": [
+              "Il negozio/biglietteria è eccezionalmente aperto nelle serate dei concerti fino alle 23.00.\r\n\r\nConsiderati i molteplici utilizzi del sito dell'Abbaye aux Dames (religiosi, concerti, ecc.), non possiamo garantire l'accesso permanente al sito.\r\nNon esitate a contattarci prima della vostra visita."
+            ],
+            "fr": [
+              "La boutique/billetterie est ouverte exceptionnellement selon les événements, les soirs de concerts jusqu’à 23h.\r\n\r\nCompte-tenu des multiples usages du site de l’Abbaye aux Dames (religieux, concerts…), nous ne pouvons garantir l’accessibilité permanente au lieu.\r\nN’hésitez pas à nous contacter avant votre venue."
+            ],
+            "es": [
+              "La tienda/taquilla abre excepcionalmente las noches de concierto hasta las 23.00 horas.\r\n\r\nDados los múltiples usos del recinto de la Abbaye aux Dames (religioso, conciertos, etc.), no podemos garantizar el acceso permanente al recinto.\r\nNo dude en ponerse en contacto con nosotros antes de su visita."
+            ],
+            "nl": [
+              "De winkel/kassa is op concertavonden uitzonderlijk geopend tot 23.00 uur.\r\n\r\nWegens het veelvuldig gebruik van de site van de Abbaye aux Dames (religieus, concerten, enz.) kunnen wij geen permanente toegang tot de site garanderen.\r\nAarzel niet om contact met ons op te nemen voor uw bezoek."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/044285c6-538f-30ab-a81c-1ae020bb1b79",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/0581608b-6cbe-345f-89a4-e06476cb1dde",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/22e0bfd8-b92c-37f7-8409-aa07d2e9d528",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/3e0902e8-afab-375b-8755-6a23dae2f4bd",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d796fac5-64f3-34db-8617-3e9b6f1ce932",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/12252229-1526-3419-bce3-d6da8bd3abb8",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Der Shop/Ticketverkauf ist je nach Veranstaltung ausnahmsweise geöffnet, an Konzertabenden bis 23 Uhr.\r\n\r\nAufgrund der vielfältigen Nutzung des Geländes der Abbaye aux Dames (religiöse Veranstaltungen, Konzerte usw.) können wir nicht garantieren, dass der Ort immer zugänglich ist.\r\nZögern Sie nicht, uns vor Ihrem Besuch zu kontaktieren."
+            ],
+            "en": [
+              "The shop/ticket office is exceptionally open on concert evenings until 11 pm.\r\n\r\nDue to the multiple uses of the site of the Abbaye aux Dames (religious, concerts?), we cannot guarantee permanent accessibility to the place.\r\nDo not hesitate to contact us before your visit."
+            ],
+            "it": [
+              "Il negozio/biglietteria è eccezionalmente aperto nelle serate dei concerti fino alle 23.00.\r\n\r\nConsiderati i molteplici utilizzi del sito dell'Abbaye aux Dames (religiosi, concerti, ecc.), non possiamo garantire l'accesso permanente al sito.\r\nNon esitate a contattarci prima della vostra visita."
+            ],
+            "fr": [
+              "La boutique/billetterie est ouverte exceptionnellement selon les événements, les soirs de concerts jusqu’à 23h.\r\n\r\nCompte-tenu des multiples usages du site de l’Abbaye aux Dames (religieux, concerts…), nous ne pouvons garantir l’accessibilité permanente au lieu.\r\nN’hésitez pas à nous contacter avant votre venue."
+            ],
+            "es": [
+              "La tienda/taquilla abre excepcionalmente las noches de concierto hasta las 23.00 horas.\r\n\r\nDados los múltiples usos del recinto de la Abbaye aux Dames (religioso, conciertos, etc.), no podemos garantizar el acceso permanente al recinto.\r\nNo dude en ponerse en contacto con nosotros antes de su visita."
+            ],
+            "nl": [
+              "De winkel/kassa is op concertavonden uitzonderlijk geopend tot 23.00 uur.\r\n\r\nWegens het veelvuldig gebruik van de site van de Abbaye aux Dames (religieus, concerten, enz.) kunnen wij geen permanente toegang tot de site garanderen.\r\nAarzel niet om contact met ons op te nemen voor uw bezoek."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/2bbf5a97-87bd-3f98-a608-58e68693e0f4",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/51ad7404-eeee-3825-9f4f-bdaa30cc4d14",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/913b7547-434f-352c-ad01-cdfbc52ce3b4",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/cee72322-d34f-3b6e-93d3-b20faf665a9b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e6fc21a3-2abc-3bb7-bc5c-aebdbd445243",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a8863199-0164-327b-9d00-f2887505dadb",
+          "schema:validFrom": "2023-01-23T00:00:00",
+          "schema:validThrough": "2023-03-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Der Shop/Ticketverkauf ist je nach Veranstaltung ausnahmsweise geöffnet, an Konzertabenden bis 23 Uhr.\r\n\r\nAufgrund der vielfältigen Nutzung des Geländes der Abbaye aux Dames (religiöse Veranstaltungen, Konzerte usw.) können wir nicht garantieren, dass der Ort immer zugänglich ist.\r\nZögern Sie nicht, uns vor Ihrem Besuch zu kontaktieren."
+            ],
+            "en": [
+              "The shop/ticket office is exceptionally open on concert evenings until 11 pm.\r\n\r\nDue to the multiple uses of the site of the Abbaye aux Dames (religious, concerts?), we cannot guarantee permanent accessibility to the place.\r\nDo not hesitate to contact us before your visit."
+            ],
+            "it": [
+              "Il negozio/biglietteria è eccezionalmente aperto nelle serate dei concerti fino alle 23.00.\r\n\r\nConsiderati i molteplici utilizzi del sito dell'Abbaye aux Dames (religiosi, concerti, ecc.), non possiamo garantire l'accesso permanente al sito.\r\nNon esitate a contattarci prima della vostra visita."
+            ],
+            "fr": [
+              "La boutique/billetterie est ouverte exceptionnellement selon les événements, les soirs de concerts jusqu’à 23h.\r\n\r\nCompte-tenu des multiples usages du site de l’Abbaye aux Dames (religieux, concerts…), nous ne pouvons garantir l’accessibilité permanente au lieu.\r\nN’hésitez pas à nous contacter avant votre venue."
+            ],
+            "es": [
+              "La tienda/taquilla abre excepcionalmente las noches de concierto hasta las 23.00 horas.\r\n\r\nDados los múltiples usos del recinto de la Abbaye aux Dames (religioso, conciertos, etc.), no podemos garantizar el acceso permanente al recinto.\r\nNo dude en ponerse en contacto con nosotros antes de su visita."
+            ],
+            "nl": [
+              "De winkel/kassa is op concertavonden uitzonderlijk geopend tot 23.00 uur.\r\n\r\nWegens het veelvuldig gebruik van de site van de Abbaye aux Dames (religieus, concerten, enz.) kunnen wij geen permanente toegang tot de site garanderen.\r\nAarzel niet om contact met ons op te nemen voor uw bezoek."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/1a00785c-ba88-3143-9700-bf5b30a986cd",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/34e7425c-b384-3b95-9003-6e053c8dccff",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/53200d29-f9d2-3d1e-a47c-6e64e96c3730",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/7ac30e39-880f-394c-ba73-34f1ebe8d693",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/82aa6bca-fbdb-3b4f-8a0f-2d2b927c3fbb",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ae25400c-1681-3760-9079-f7396ae0ec36",
+          "schema:validFrom": "2023-10-02T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Der Shop/Ticketverkauf ist je nach Veranstaltung ausnahmsweise geöffnet, an Konzertabenden bis 23 Uhr.\r\n\r\nAufgrund der vielfältigen Nutzung des Geländes der Abbaye aux Dames (religiöse Veranstaltungen, Konzerte usw.) können wir nicht garantieren, dass der Ort immer zugänglich ist.\r\nZögern Sie nicht, uns vor Ihrem Besuch zu kontaktieren."
+            ],
+            "en": [
+              "The shop/ticket office is exceptionally open on concert evenings until 11 pm.\r\n\r\nDue to the multiple uses of the site of the Abbaye aux Dames (religious, concerts?), we cannot guarantee permanent accessibility to the place.\r\nDo not hesitate to contact us before your visit."
+            ],
+            "it": [
+              "Il negozio/biglietteria è eccezionalmente aperto nelle serate dei concerti fino alle 23.00.\r\n\r\nConsiderati i molteplici utilizzi del sito dell'Abbaye aux Dames (religiosi, concerti, ecc.), non possiamo garantire l'accesso permanente al sito.\r\nNon esitate a contattarci prima della vostra visita."
+            ],
+            "fr": [
+              "La boutique/billetterie est ouverte exceptionnellement selon les événements, les soirs de concerts jusqu’à 23h.\r\n\r\nCompte-tenu des multiples usages du site de l’Abbaye aux Dames (religieux, concerts…), nous ne pouvons garantir l’accessibilité permanente au lieu.\r\nN’hésitez pas à nous contacter avant votre venue."
+            ],
+            "es": [
+              "La tienda/taquilla abre excepcionalmente las noches de concierto hasta las 23.00 horas.\r\n\r\nDados los múltiples usos del recinto de la Abbaye aux Dames (religioso, conciertos, etc.), no podemos garantizar el acceso permanente al recinto.\r\nNo dude en ponerse en contacto con nosotros antes de su visita."
+            ],
+            "nl": [
+              "De winkel/kassa is op concertavonden uitzonderlijk geopend tot 23.00 uur.\r\n\r\nWegens het veelvuldig gebruik van de site van de Abbaye aux Dames (religieus, concerten, enz.) kunnen wij geen permanente toegang tot de site garanderen.\r\nAarzel niet om contact met ons op te nemen voor uw bezoek."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/69bd4b06-47d5-366b-9cd9-514730d3e029",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/afbfe8b9-5ab5-381d-a4d9-5a480c7bfcf4",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/b094461b-bdc9-307f-b7dd-8225d9c25fad",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d89c4bb3-1cde-3437-89f4-86903d8126a1",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e869400f-6802-3d8e-adbd-116f64306068",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/6788b742-800e-3e07-a704-c6181e0a8dd1",
+      "schema:email": [
+        "a.tonin@saintes-tourisme.fr",
+        "f.herbec@saintes-tourisme.fr",
+        "l.conan@saintes-tourisme.fr"
+      ],
+      "schema:legalName": "Office de Tourisme de Saintes & la Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.saintes-tourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-11",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.314Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/01dfc943-439c-3f70-91ca-f1bc8b98c77d",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/e3cd0248-2638-31e3-a91b-977e231a82d8",
+          "schema:maxPrice": [
+            "10",
+            "9"
+          ],
+          "schema:minPrice": [
+            "10",
+            "3",
+            "9"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/68c413df-f4d4-3144-bb1f-67cb3899f054",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-23"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

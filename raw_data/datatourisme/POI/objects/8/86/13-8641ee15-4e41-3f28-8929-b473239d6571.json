@@ -1,0 +1,458 @@
+{
+  "@id": "https://data.datatourisme.fr/13/8641ee15-4e41-3f28-8929-b473239d6571",
+  "dc:identifier": "5705874",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Der im Herzen der Stadt gelegene öffentliche Garten ist ein Ort des Lebens für die Einwohner von Saintais und ein reizvoller Ort, den es für Spaziergänger zu entdecken gilt\r\nDer Kiosk, die Orangerie, die Tiere oder auch die Spielgeräte - Sie werden bestimmt einen guten Grund haben, durch den Garten zu gehen."
+    ],
+    "en": [
+      "Located in the town centre, the public garden is a lively place for Saintes's inhabitants and a lovely place to discover.\r\nThe pavilion, l'Orangerie, animals or playgrounds, you always find a reason to stop by the garden."
+    ],
+    "it": [
+      "Situato nel cuore della città, il giardino pubblico è un luogo di vita per gli abitanti di Saint-Etienne e un luogo affascinante da scoprire per gli escursionisti\r\nIl chiosco, l'aranciera, gli animali o i giochi, avrete inevitabilmente un buon motivo per passare dal giardino."
+    ],
+    "fr": [
+      "Situé au cœur de ville, le jardin public est un lieu de vie pour les Saintais et un endroit charmant à découvrir pour les promeneurs. \r\nLe kiosque, l'Orangerie, les animaux ou encore les jeux, vous aurez forcément une bonne raison de passer par le jardin."
+    ],
+    "es": [
+      "Ubicado en el centro de la ciudad, el jardín público es un punto de encuentro para los habitantes y también un lugar agradable para transeúnte.\r\nEl kiosco, l'Orangerie, los animales o las areas de juegos, siempre hay una razón de pasar en el jardín."
+    ],
+    "nl": [
+      "De openbare tuin, gelegen in het hart van de stad, is een plek van leven voor de inwoners van Saint-Etienne en een charmante plek om te ontdekken voor wandelaars\r\nDe kiosk, de Oranjerie, de dieren of de spelletjes, u hebt onvermijdelijk een goede reden om langs de tuin te gaan."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Public garden"
+    ],
+    "fr": [
+      "Jardin public de Saintes"
+    ],
+    "es": [
+      "Jardín público"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f8c0c968-6328-35cd-9333-08b1a494967f",
+    "dc:identifier": "2060",
+    "schema:email": [
+      "a.tonin@saintes-tourisme.fr",
+      "f.herbec@saintes-tourisme.fr",
+      "l.conan@saintes-tourisme.fr"
+    ],
+    "schema:legalName": "Office de Tourisme de Saintes & la Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.saintes-tourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a7210ec0-b48a-374d-92d6-77442e9537cd",
+      "schema:email": [
+        "info@ville-saintes.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 92 59 50"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/2884ca20-e418-370f-a1bc-34177b779273",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0a15d586-db1f-32bd-8842-6c9bdf66a27c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5b1c937c-1770-3dd8-b0df-1f11732194a8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/755a8813-ce87-3c57-aa90-7874f84d9537",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Der im Herzen der Stadt gelegene öffentliche Garten ist ein Ort des Lebens für die Einwohner von Saintais und ein reizvoller Ort, den es für Spaziergänger zu entdecken gilt\r\nDer Kiosk, die Orangerie, die Tiere oder auch die Spielgeräte - Sie werden bestimmt einen guten Grund haben, durch den Garten zu gehen."
+        ],
+        "en": [
+          "Located in the town centre, the public garden is a lively place for Saintes's inhabitants and a lovely place to discover.\r\nThe pavilion, l'Orangerie, animals or playgrounds, you always find a reason to stop by the garden."
+        ],
+        "it": [
+          "Situato nel cuore della città, il giardino pubblico è un luogo di vita per gli abitanti di Saint-Etienne e un luogo affascinante da scoprire per gli escursionisti\r\nIl chiosco, l'aranciera, gli animali o i giochi, avrete inevitabilmente un buon motivo per passare dal giardino."
+        ],
+        "fr": [
+          "Situé au cœur de ville, le jardin public est un lieu de vie pour les Saintais et un endroit charmant à découvrir pour les promeneurs. \r\nLe kiosque, l'Orangerie, les animaux ou encore les jeux, vous aurez forcément une bonne raison de passer par le jardin."
+        ],
+        "es": [
+          "Ubicado en el centro de la ciudad, el jardín público es un punto de encuentro para los habitantes y también un lugar agradable para transeúnte.\r\nEl kiosco, l'Orangerie, los animales o las areas de juegos, siempre hay una razón de pasar en el jardín."
+        ],
+        "nl": [
+          "De openbare tuin, gelegen in het hart van de stad, is een plek van leven voor de inwoners van Saint-Etienne en een charmante plek om te ontdekken voor wandelaars\r\nDe kiosk, de Oranjerie, de dieren of de spelletjes, u hebt onvermijdelijk een goede reden om langs de tuin te gaan."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/664730d5-0fd0-39bd-9d4b-283f75772592",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a037d479-11f3-3ad9-86d1-950085e19be9",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e90876a5-5121-380f-89ec-a3175d29a196",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/c1c0ef3f-5554-33e5-94db-6a4ab1d76f6f",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/bf81bd74-3711-33e4-b67f-62c523dc6651",
+          "schema:addressLocality": "Saintes",
+          "schema:postalCode": "17100",
+          "schema:streetAddress": [
+            "Rue du jardin public"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17415",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saintes"
+              ],
+              "pt": [
+                "Saintes"
+              ],
+              "en": [
+                "Saintes"
+              ],
+              "it": [
+                "Saintes"
+              ],
+              "fr": [
+                "Saintes"
+              ],
+              "nl": [
+                "Saintes"
+              ],
+              "es": [
+                "Saintes"
+              ]
+            },
+            "insee": "17415",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/ad7bf1e1-f107-3ad7-a443-e011ca72d75e",
+        "schema:latitude": "45.74365",
+        "schema:longitude": "-0.628569",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/20e94aa8-cad6-3d74-b1f6-99423d329f50",
+          "schema:closes": "17:30:00",
+          "schema:opens": "09:00:00",
+          "schema:validFrom": "2023-11-01T00:00:00",
+          "schema:validThrough": "2023-01-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/28356388-27fc-3a64-8146-fb7332a5b135",
+          "schema:closes": "19:00:00",
+          "schema:opens": "09:00:00",
+          "schema:validFrom": "2023-03-01T00:00:00",
+          "schema:validThrough": "2023-05-15T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5a771cf2-d10e-3949-8a53-73742f1a052c",
+          "schema:closes": "21:00:00",
+          "schema:opens": "09:00:00",
+          "schema:validFrom": "2023-05-16T00:00:00",
+          "schema:validThrough": "2023-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/74a4f11c-ce26-3f31-8705-a58a4d3c9ea2",
+          "schema:closes": "18:30:00",
+          "schema:opens": "09:00:00",
+          "schema:validFrom": "2023-10-01T00:00:00",
+          "schema:validThrough": "2023-10-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/901a89aa-7610-39ec-902c-1ecfa8c8e1b8",
+          "schema:closes": "18:30:00",
+          "schema:opens": "09:00:00",
+          "schema:validFrom": "2023-02-01T00:00:00",
+          "schema:validThrough": "2023-03-01T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/6788b742-800e-3e07-a704-c6181e0a8dd1",
+      "schema:email": [
+        "a.tonin@saintes-tourisme.fr",
+        "f.herbec@saintes-tourisme.fr",
+        "l.conan@saintes-tourisme.fr"
+      ],
+      "schema:legalName": "Office de Tourisme de Saintes & la Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.saintes-tourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-23",
+  "lastUpdateDatatourisme": "2023-06-24T05:41:46.108Z"
+}

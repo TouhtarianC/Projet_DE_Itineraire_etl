@@ -1,0 +1,394 @@
+{
+  "@id": "https://data.datatourisme.fr/13/13b92152-ae82-3a52-88fe-7e5660e8ee97",
+  "dc:identifier": "5761172",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Mediathek stellt Bücher, Zeitschriften, Audio-CDs sowie DVDs zur Verfügung. Ohne Abonnement kann man alle Dokumente vor Ort konsultieren."
+    ],
+    "en": [
+      "The Media Library provides books, magazines, audio CDs and DVDs. Without a subscription, it is possible to consult all the documents on site."
+    ],
+    "it": [
+      "La mediateca mette a disposizione libri, riviste, CD audio e DVD. Senza abbonamento, è possibile consultare tutti i documenti sul sito."
+    ],
+    "fr": [
+      "La médiathèque met à disposition des livres, revues, CD audio ainsi que des DVD. Sans abonnement, il est possible de consulter sur place l'ensemble des documents."
+    ],
+    "es": [
+      "La mediateca ofrece libros, revistas, CDs de audio y DVDs. Sin necesidad de suscripción, es posible consultar todos los documentos in situ."
+    ],
+    "nl": [
+      "De mediatheek biedt boeken, tijdschriften, audio-cd's en dvd's. Zonder abonnement kunnen alle documenten ter plaatse worden geraadpleegd."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Bibliothek Mediathek in Fouras"
+    ],
+    "en": [
+      "Library Mediatheque in Fouras"
+    ],
+    "fr": [
+      "Bibliothèque Médiathèque de Fouras"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/9afefc52-942c-383c-bc1f-14b2139b09ba",
+    "dc:identifier": "2055",
+    "schema:email": [
+      "chloe.mailler@rochefort-ocean.com",
+      "christine.nourisson@rochefort-ocean.com",
+      "chrystelle.ecale@rochefort-ocean.com",
+      "lea.origlia@rochefort-ocean.com",
+      "sandrine.bouron@rochefort-ocean.com"
+    ],
+    "schema:legalName": "Office de Tourisme Rochefort Océan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.rochefort-ocean.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/f834501b-063d-3406-81f3-fd9f0e770c44",
+      "schema:email": [
+        "mediatheque@fouras-les-bains.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 84 29 31"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://mediatheque-fouras.c3rb.org/",
+        "https://mediatheques.agglo-rochefortocean.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/acec9309-c2c4-3046-8645-7d3ca6357294",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/11cf8a0d-34a4-3937-b4b5-f87d5819fbec",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/39cb97c3-8ca3-38d5-8e62-b0887b5b6f42",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bc839588-07ab-3284-aa7b-00dbd7ebfb1d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Mediathek stellt Bücher, Zeitschriften, Audio-CDs sowie DVDs zur Verfügung. Ohne Abonnement kann man alle Dokumente vor Ort konsultieren."
+        ],
+        "en": [
+          "The Media Library provides books, magazines, audio CDs and DVDs. Without a subscription, it is possible to consult all the documents on site."
+        ],
+        "it": [
+          "La mediateca mette a disposizione libri, riviste, CD audio e DVD. Senza abbonamento, è possibile consultare tutti i documenti sul sito."
+        ],
+        "fr": [
+          "La médiathèque met à disposition des livres, revues, CD audio ainsi que des DVD. Sans abonnement, il est possible de consulter sur place l'ensemble des documents."
+        ],
+        "es": [
+          "La mediateca ofrece libros, revistas, CDs de audio y DVDs. Sin necesidad de suscripción, es posible consultar todos los documentos in situ."
+        ],
+        "nl": [
+          "De mediatheek biedt boeken, tijdschriften, audio-cd's en dvd's. Zonder abonnement kunnen alle documenten ter plaatse worden geraadpleegd."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/2b47c4bf-eebe-3af4-9216-c9b05684c3cb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5e09fb89-d227-3f81-85b9-d452b9405e71",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6dec0185-af88-385d-bcdc-7f95953f6035",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/2572fe8a-461b-3857-9210-00f52148ca70",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1e14f674-c127-38f3-ac06-b6219e53433b",
+          "schema:addressLocality": "Fouras",
+          "schema:postalCode": "17450",
+          "schema:streetAddress": [
+            "rue du Général Bruncher"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17168",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Fouras"
+              ],
+              "pt": [
+                "Fouras"
+              ],
+              "en": [
+                "Fouras"
+              ],
+              "it": [
+                "Fouras"
+              ],
+              "fr": [
+                "Fouras"
+              ],
+              "nl": [
+                "Fouras"
+              ],
+              "es": [
+                "Fouras"
+              ]
+            },
+            "insee": "17168",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/57d35898-e530-3b24-a225-6f46e2d0e50c",
+        "schema:latitude": "45.986727",
+        "schema:longitude": "-1.0967",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fed90c24-5b4e-374e-b413-9c9ae527b242",
+      "schema:email": [
+        "chloe.mailler@rochefort-ocean.com",
+        "christine.nourisson@rochefort-ocean.com",
+        "chrystelle.ecale@rochefort-ocean.com",
+        "lea.origlia@rochefort-ocean.com",
+        "sandrine.bouron@rochefort-ocean.com"
+      ],
+      "schema:legalName": "Office de Tourisme Rochefort Océan",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.rochefort-ocean.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-04-08",
+  "lastUpdateDatatourisme": "2023-04-09T07:21:14.391Z"
+}

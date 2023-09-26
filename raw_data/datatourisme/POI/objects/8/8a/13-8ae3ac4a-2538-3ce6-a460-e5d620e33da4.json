@@ -1,0 +1,678 @@
+{
+  "@id": "https://data.datatourisme.fr/13/8ae3ac4a-2538-3ce6-a460-e5d620e33da4",
+  "dc:identifier": "5740534",
+  "@type": [
+    "CulturalSite",
+    "DefenceSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RemarkableBuilding",
+    "Tower"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Türme, die dem Atlantik zugewandt sind, sind die Überreste eines großen Festungsprogramms, das ab dem 12."
+    ],
+    "en": [
+      "Facing the Atlantic Ocean, the towers are the remains of a large program of fortifications built from the 12th century by the City of La Rochelle."
+    ],
+    "it": [
+      "Affacciate sull'Oceano Atlantico, le torri sono i resti di un importante programma di fortificazione costruito a partire dal XII secolo dalla città di La Rochelle."
+    ],
+    "fr": [
+      "Dressées face à l’Atlantique, les tours sont les vestiges d’un grand programme de fortifications édifié à partir du XIIe s. par la Ville de La Rochelle."
+    ],
+    "nl": [
+      "Met uitzicht op de Atlantische Oceaan zijn de torens de overblijfselen van een groot fortificatieprogramma dat vanaf de 12e eeuw door de stad La Rochelle werd gebouwd."
+    ],
+    "es": [
+      "Frente al océano Atlántico, las torres son los restos de un amplio programa de fortificaciones construidas a partir del siglo XII por la ciudad de La Rochelle."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Tours de La Rochelle"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q3533595"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/1359aa93-3b48-3754-a2f5-4adb688bfa77",
+    "dc:identifier": "2058",
+    "schema:email": [
+      "a.lefeuvre@larochelle-tourisme-evenements.com",
+      "c.collot@larochelle-tourisme-evenements.com",
+      "m.farre@larochelle-tourisme-evenements.com",
+      "maxime.vossier@otipass.com",
+      "s.nogues@larochelle-tourisme-evenements.com"
+    ],
+    "schema:legalName": "La Rochelle Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.larochelle-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/54b8340d-8227-3470-addb-1576256456d8",
+      "schema:telephone": [
+        "+33 5 46 34 11 81"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.tours-la-rochelle.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/01c371fc-7a00-3675-8328-d3736b77d183",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/518bded7-9755-3ad7-a558-9c61f463ded1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/69580838-fe3f-3e6c-be8d-972cd10b398b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Türme, die dem Atlantik zugewandt sind, sind die Überreste eines großen Festungsprogramms, das ab dem 12."
+        ],
+        "en": [
+          "Facing the Atlantic Ocean, the towers are the remains of a large program of fortifications built from the 12th century by the City of La Rochelle."
+        ],
+        "it": [
+          "Affacciate sull'Oceano Atlantico, le torri sono i resti di un importante programma di fortificazione costruito a partire dal XII secolo dalla città di La Rochelle."
+        ],
+        "fr": [
+          "Dressées face à l’Atlantique, les tours sont les vestiges d’un grand programme de fortifications édifié à partir du XIIe s. par la Ville de La Rochelle."
+        ],
+        "nl": [
+          "Met uitzicht op de Atlantische Oceaan zijn de torens de overblijfselen van een groot fortificatieprogramma dat vanaf de 12e eeuw door de stad La Rochelle werd gebouwd."
+        ],
+        "es": [
+          "Frente al océano Atlántico, las torres son los restos de un amplio programa de fortificaciones construidas a partir del siglo XII por la ciudad de La Rochelle."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/b95c058e-40f7-3207-b2f8-6d0dc982942a",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/1188ecfb-ca9d-324f-9daf-8fdcd80478dd",
+          "ebucore:isCoveredBy": "CC0",
+          "ebucore:title": {
+            "fr": [
+              "Tour Lanterne août 2015 La Rochelle Charente Maritime"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Jebulon (https://commons.wikimedia.org/wiki/User:Jebulon)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/405884b2-aef7-32cd-97d8-bb7b4351babc",
+          "ebucore:fileSize": [
+            9756894
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 4592,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/b/b8/Tour_Lanterne_ao%C3%BBt_2015_La_Rochelle_Charente_Maritime.jpg"
+          ],
+          "ebucore:width": 3056,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/6e866798-cae5-351c-9e8d-963661217e60",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:LabelRating_AccueilVelo",
+        "@type": [
+          "LabelRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "Accueil Vélo"
+          ],
+          "pt": [
+            "Accueil Vélo"
+          ],
+          "en": [
+            "Accueil Vélo"
+          ],
+          "it": [
+            "Accueil Vélo"
+          ],
+          "fr": [
+            "Accueil Vélo"
+          ],
+          "nl": [
+            "Accueil Vélo"
+          ],
+          "es": [
+            "Accueil Vélo"
+          ]
+        },
+        "isCompliantWith": [
+          "PlaceOfInterest"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/35214ea4-c40b-3ab1-920e-080f1b740648",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5996b26b-c627-3ce2-a3f6-7931c5abe126",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/fba52d20-4f19-3bad-90d4-540d27fe3ff8",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/ef0d1318-e79d-3196-84d6-00774a91932b",
+          "schema:addressLocality": "La Rochelle",
+          "schema:postalCode": "17000",
+          "schema:streetAddress": [
+            "Vieux Port"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17300",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "La Rochelle"
+              ],
+              "pt": [
+                "La Rochelle"
+              ],
+              "en": [
+                "La Rochelle"
+              ],
+              "it": [
+                "La Rochelle"
+              ],
+              "fr": [
+                "La Rochelle"
+              ],
+              "nl": [
+                "La Rochelle"
+              ],
+              "es": [
+                "La Rochelle"
+              ]
+            },
+            "insee": "17300",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/37adea07-feab-3ae3-b26c-a9bf55ce7e72",
+        "schema:latitude": "46.155876",
+        "schema:longitude": "-1.153306",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3c026453-97b0-32aa-bf1a-9dfe864b3546",
+          "schema:validFrom": "2023-04-01T00:00:00",
+          "schema:validThrough": "2023-06-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/401680a5-4d34-33da-9fb7-f90bec4233ff",
+          "schema:validFrom": "2023-09-01T00:00:00",
+          "schema:validThrough": "2023-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5357bf72-5134-31c8-8b8b-a908a13bc424",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/63cf579c-93ea-3a40-99f7-d6df66267a6c",
+          "schema:validFrom": "2023-10-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e042c3ee-0597-3f4f-8735-66b624dd4fca",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-03-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "geschlossen am 1. Montag des Monats"
+            ],
+            "en": [
+              "closed on the 1st Monday of the month"
+            ],
+            "it": [
+              "chiuso il 1° lunedì del mese"
+            ],
+            "fr": [
+              "fermé le 1er lundi du mois"
+            ],
+            "nl": [
+              "gesloten op de 1e maandag van de maand"
+            ],
+            "es": [
+              "cerrado el primer lunes de cada mes"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/3dc9ac97-9cce-36da-9e1d-2ad8d8158b21",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/892185e1-7e62-3b7a-84a1-bb8e676ec4a5",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/96d639e3-ca6b-31d2-b547-3a876287741d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c20537a8-778f-3a08-92cb-561f1a334417",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ce598d32-3dc3-3050-b474-5d438d8b0d6f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8da8ffa9-cdd8-3b7a-a8c5-edb456104fe0",
+      "schema:email": [
+        "a.lefeuvre@larochelle-tourisme-evenements.com",
+        "c.collot@larochelle-tourisme-evenements.com",
+        "m.farre@larochelle-tourisme-evenements.com",
+        "maxime.vossier@otipass.com",
+        "s.nogues@larochelle-tourisme-evenements.com"
+      ],
+      "schema:legalName": "La Rochelle Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.larochelle-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-02-10",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.386Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/9753b1dd-2cdb-30e4-9d22-51da468fb50c",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/584333ce-b5d4-3e51-a184-8ee6a45d0191",
+          "schema:maxPrice": [
+            "7.5",
+            "9.5"
+          ],
+          "schema:minPrice": [
+            "7.5",
+            "9.5"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

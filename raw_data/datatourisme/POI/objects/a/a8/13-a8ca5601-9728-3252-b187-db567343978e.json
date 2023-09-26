@@ -1,0 +1,460 @@
+{
+  "@id": "https://data.datatourisme.fr/13/a8ca5601-9728-3252-b187-db567343978e",
+  "dc:identifier": "5773180",
+  "@type": [
+    "CivilCemetery",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RemembranceSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Gemeindefriedhof der Gemeinde Saint-Romain-sur-Gironde, Floirac."
+    ],
+    "en": [
+      "Communal cemetery of the commune of Saint-Romain-sur-Gironde, Floirac."
+    ],
+    "it": [
+      "Cimitero comunale del comune di Saint-Romain-sur-Gironde, Floirac."
+    ],
+    "fr": [
+      "Cimetière communal de la commune de Saint-Romain-sur-Gironde, Floirac."
+    ],
+    "nl": [
+      "Gemeentelijke begraafplaats van de gemeente Saint-Romain-sur-Gironde, Floirac."
+    ],
+    "es": [
+      "Cementerio comunal del municipio de Saint-Romain-sur-Gironde, Floirac."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Cimetière Communal de Saint-Romain-sur-Gironde"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/9f743646-cd90-3652-a0f5-87a0afd5eb5e",
+      "schema:telephone": [
+        "+33 5 46 90 63 61"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/0a877e10-c518-3ae7-b99c-36b74408145d",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/230f80f8-0829-38e2-bfb7-923c248c03a0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2dfd58d9-4e0d-3c1a-a2ee-504366cab402",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/31f88beb-5e16-3132-8e0e-fae4ed2f7950",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/36b7a6f8-4576-3762-bbb3-e4f9cc0f8bec",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e84d3e65-85f7-31b7-b7bd-bb0be1c148b1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Gemeindefriedhof der Gemeinde Saint-Romain-sur-Gironde, Floirac."
+        ],
+        "en": [
+          "Communal cemetery of the commune of Saint-Romain-sur-Gironde, Floirac."
+        ],
+        "it": [
+          "Cimitero comunale del comune di Saint-Romain-sur-Gironde, Floirac."
+        ],
+        "fr": [
+          "Cimetière communal de la commune de Saint-Romain-sur-Gironde, Floirac."
+        ],
+        "nl": [
+          "Gemeentelijke begraafplaats van de gemeente Saint-Romain-sur-Gironde, Floirac."
+        ],
+        "es": [
+          "Cementerio comunal del municipio de Saint-Romain-sur-Gironde, Floirac."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/198a2636-d8ad-3d7e-82ad-8841066b789e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/429d17a8-58b6-3c6d-a82e-61779383fe28",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7652a8f5-b22e-3ec7-b818-34968159bfd1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9571cd8a-d9a8-3fe5-8d0a-5a15fe114f72",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c7a6a86a-eda8-3b88-8a6d-b7470608174b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/9491395d-775f-3bca-ab77-69901530d78f",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/b6498b4c-2e34-39ae-89f0-81dbae065cc6",
+          "schema:addressLocality": "Floirac",
+          "schema:postalCode": "17240",
+          "schema:streetAddress": [
+            "Rue de l'église",
+            "Saint-Romain-sur-Gironde"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17160",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Floirac"
+              ],
+              "pt": [
+                "Floirac"
+              ],
+              "en": [
+                "Floirac"
+              ],
+              "it": [
+                "Floirac"
+              ],
+              "fr": [
+                "Floirac"
+              ],
+              "nl": [
+                "Floirac"
+              ],
+              "es": [
+                "Floirac"
+              ]
+            },
+            "insee": "17160",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/d80f3136-1e6c-35b9-8c75-bf0869be5e70",
+        "schema:latitude": "45.44954",
+        "schema:longitude": "-0.758473",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-01-06",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.812Z"
+}

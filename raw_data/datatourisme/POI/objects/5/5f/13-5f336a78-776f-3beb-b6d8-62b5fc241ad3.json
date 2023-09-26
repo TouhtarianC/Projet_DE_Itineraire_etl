@@ -1,0 +1,556 @@
+{
+  "@id": "https://data.datatourisme.fr/13/5f336a78-776f-3beb-b6d8-62b5fc241ad3",
+  "dc:identifier": "5672106",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Romanische Kirche Sainte Eulalie in der Ortschaft Champniers."
+    ],
+    "en": [
+      "Romanesque church Sainte Eulalie in the village of Champniers."
+    ],
+    "it": [
+      "Chiesa romanica di Sainte Eulalie nel villaggio di Champniers."
+    ],
+    "fr": [
+      "Eglise romane Sainte Eulalie dans le bourg de Champniers."
+    ],
+    "nl": [
+      "Romaanse kerk van Sainte Eulalie in het dorp Champniers."
+    ],
+    "es": [
+      "Iglesia románica de Sainte Eulalie en el pueblo de Champniers."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Eglise Sainte Eulalie"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q3585031"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f3e52c30-0b82-3a81-a3e7-ace55fe15c08",
+    "dc:identifier": "2053",
+    "schema:email": [
+      "snebout@angouleme-tourisme.com"
+    ],
+    "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.angouleme-tourisme.com/"
+    ],
+    "lastUpdateDatatourisme": "2022-12-19T06:44:07.571Z"
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3a6cffd9-1062-3df1-a444-066f8316416e",
+      "schema:telephone": [
+        "+33 5 45 69 88 98"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/13002089-4b63-3469-9b38-e6df741221a8",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/18836667-ba6b-3ba9-92d0-62de864f91ce",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9171e8ab-6287-3309-a8dc-dde55bae4187",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e9b1a160-04b1-3170-95fa-d44901a55dec",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f63bfe1c-853d-3e3e-86cb-127fa77437e4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fdd047cb-c39f-34ca-8d02-eadcf51c6aa9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Romanische Kirche Sainte Eulalie in der Ortschaft Champniers."
+        ],
+        "en": [
+          "Romanesque church Sainte Eulalie in the village of Champniers."
+        ],
+        "it": [
+          "Chiesa romanica di Sainte Eulalie nel villaggio di Champniers."
+        ],
+        "fr": [
+          "Eglise romane Sainte Eulalie dans le bourg de Champniers."
+        ],
+        "nl": [
+          "Romaanse kerk van Sainte Eulalie in het dorp Champniers."
+        ],
+        "es": [
+          "Iglesia románica de Sainte Eulalie en el pueblo de Champniers."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/8cc1c9a0-6c16-33f8-be9b-f6c3dda5d0ba",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/558ec6fc-25a5-3a2b-a66a-6cb5cb606220",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Champniers eg3"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Jack ma (https://commons.wikimedia.org/wiki/User:Jack_ma)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/f3277f7b-d788-3056-a38d-10c9db4657ad",
+          "ebucore:fileSize": [
+            249413
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1200,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/3/38/Champniers_eg3.JPG"
+          ],
+          "ebucore:width": 1600,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/5bad5955-ce13-3e5a-9198-7d04d36239c8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/87e074e4-a9f7-34a5-bc73-3530a89e7adf",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a65ef947-cf82-32bc-860c-d93dcc74a44b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b8e29e8c-18a3-3bc8-a13c-a1010aa86f7a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cb556431-5838-3830-86c9-7aa5ec0b0813",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/765e31e6-5a06-3540-a489-19ed749d1d67",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1b282e42-7a53-3e68-87b3-509e84889050",
+          "schema:addressLocality": "Champniers",
+          "schema:postalCode": "16430",
+          "schema:streetAddress": [
+            "le Bourg"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16078",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Champniers"
+              ],
+              "pt": [
+                "Champniers"
+              ],
+              "en": [
+                "Champniers"
+              ],
+              "it": [
+                "Champniers"
+              ],
+              "fr": [
+                "Champniers"
+              ],
+              "nl": [
+                "Champniers"
+              ],
+              "es": [
+                "Champniers"
+              ]
+            },
+            "insee": "16078",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/a0806dfe-683a-38fa-917e-2dec9ff5d448",
+        "schema:latitude": "45.715161",
+        "schema:longitude": "0.205511",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/68f1f6a6-decb-3d2e-9ec2-e0d8af72979a",
+          "schema:closes": "18:00:00",
+          "schema:opens": "09:00:00",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/65c93456-0984-3a13-aac5-3ae5946a15d8",
+      "schema:email": [
+        "snebout@angouleme-tourisme.com"
+      ],
+      "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.angouleme-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-20",
+  "lastUpdateDatatourisme": "2023-06-21T05:51:34.436Z"
+}

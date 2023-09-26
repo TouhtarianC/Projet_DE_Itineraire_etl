@@ -1,0 +1,618 @@
+{
+  "@id": "https://data.datatourisme.fr/13/1f5da93a-abbe-3ece-b2ef-f237f6fa6639",
+  "dc:identifier": "5737489",
+  "@type": [
+    "Castle",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RemarkableBuilding"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Geschichte hält uns mitten im 13. Jahrhundert fest. Jahrhundert. Hier stehen wir vor dem Château de Bonnes."
+    ],
+    "en": [
+      "History keeps us in the heart of the 13th century. Here we are in front of the Château de Bonnes."
+    ],
+    "it": [
+      "La storia ci porta nel cuore del XIII secolo. Qui siamo di fronte allo Château de Bonnes."
+    ],
+    "fr": [
+      "L’histoire nous maintient au cœur du XIIIe siècle. Nous voici devant le Château de Bonnes."
+    ],
+    "es": [
+      "La historia nos mantiene en el corazón del siglo XIII. Aquí estamos frente al Château de Bonnes."
+    ],
+    "nl": [
+      "De geschiedenis houdt ons in het hart van de 13e eeuw. Hier staan we voor het Château de Bonnes."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Bonnes's castle"
+    ],
+    "fr": [
+      "Château de Bonnes"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q2968595"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/16ba7217-2e6a-3f1d-a54d-11ab6967e371",
+    "dc:identifier": "2063",
+    "schema:email": [
+      "direction@sudcharentetourisme.fr",
+      "noemie@sudcharentetourisme.fr"
+    ],
+    "schema:legalName": "Office de tourisme du Sud Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.sudcharentetourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/bd61073f-685e-32a2-9ba5-8cf191356dfd",
+      "schema:email": [
+        "ma.delmond@yahoo.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 98 51 62",
+        "+33 6 77 56 34 82"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/218927e5-18a1-3c95-b784-96b617d2bec0",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1186c9c4-07bc-35cd-a2d3-b3037a29c486",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6cb9a1f8-610d-31f5-a8f0-6995d6c78984",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8ce8420c-1480-3f64-a355-8282fed523ec",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9d9f03f5-46b0-3fdc-bd3f-e45f8c1d9672",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Geschichte hält uns mitten im 13. Jahrhundert fest. Jahrhundert. Hier stehen wir vor dem Château de Bonnes."
+        ],
+        "en": [
+          "History keeps us in the heart of the 13th century. Here we are in front of the Château de Bonnes."
+        ],
+        "it": [
+          "La storia ci porta nel cuore del XIII secolo. Qui siamo di fronte allo Château de Bonnes."
+        ],
+        "fr": [
+          "L’histoire nous maintient au cœur du XIIIe siècle. Nous voici devant le Château de Bonnes."
+        ],
+        "es": [
+          "La historia nos mantiene en el corazón del siglo XIII. Aquí estamos frente al Château de Bonnes."
+        ],
+        "nl": [
+          "De geschiedenis houdt ons in het hart van de 13e eeuw. Hier staan we voor het Château de Bonnes."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/7c144d78-a61f-3766-8989-e11beb3b4c4b",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/3c0d76c3-59d0-3b43-830c-446306ce3321",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Bonnes chat4"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Jack ma (https://commons.wikimedia.org/wiki/User:Jack_ma)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/0ae9d2e1-e03a-37a2-91fb-1886c623fb72",
+          "ebucore:fileSize": [
+            352293
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1200,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/7/7e/Bonnes_chat4.JPG"
+          ],
+          "ebucore:width": 1600,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/258f4b4d-2c20-36ec-9850-fd2355aab70f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3f3e9c45-d604-37c2-9f8c-2e3be6e17e7a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6260750f-be4c-389b-b65c-4ce5e77b01bd",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/98627978-8d8b-3b94-84b5-c84f0ab523d1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/ff8e14b1-212d-3183-8f2f-0ad76c47a08d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/2a8dd3ce-6510-36f0-81f9-7fd2f1ec1410",
+          "schema:addressLocality": "Bonnes",
+          "schema:postalCode": "16390",
+          "schema:streetAddress": [
+            "Le bourg"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16049",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Bonnes"
+              ],
+              "pt": [
+                "Bonnes"
+              ],
+              "en": [
+                "Bonnes"
+              ],
+              "it": [
+                "Bonnes"
+              ],
+              "fr": [
+                "Bonnes"
+              ],
+              "nl": [
+                "Bonnes"
+              ],
+              "es": [
+                "Bonnes"
+              ]
+            },
+            "insee": "16049",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/04078798-22a1-304b-b75a-304a3a0ed906",
+        "schema:latitude": "45.239323",
+        "schema:longitude": "0.149507",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f70ee745-2008-3c4b-a732-66923a3b2767",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Auf Reservierung"
+            ],
+            "en": [
+              "On reservation"
+            ],
+            "it": [
+              "Per prenotazione"
+            ],
+            "fr": [
+              "Sur réservation"
+            ],
+            "es": [
+              "Por reserva"
+            ],
+            "nl": [
+              "Door reservering"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/273d56b3-4f65-3012-9f86-880ae582c355",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/8d1cc669-dd9f-37ef-89fb-1099656d7772",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/947809ea-65ce-334a-acde-21528a71fa36",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ee6a7967-3a90-3b9d-9c08-e06c83e2d403",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f93cf892-e3d3-3843-9dc7-2180ae95085e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/17ccf9a1-6b41-3eb9-a1e1-edf0fbbf90c5",
+      "schema:email": [
+        "direction@sudcharentetourisme.fr",
+        "noemie@sudcharentetourisme.fr"
+      ],
+      "schema:legalName": "Office de tourisme du Sud-Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.sudcharentetourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-11-03",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.807Z"
+}

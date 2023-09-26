@@ -1,0 +1,557 @@
+{
+  "@id": "https://data.datatourisme.fr/13/75aa8860-3ede-3be2-9726-1be9fa1f2b55",
+  "dc:identifier": "5774545",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Kirche Notre-Dame ist eine Kirche im Stil der saintonesischen Romanik in Corme-Écluse."
+    ],
+    "en": [
+      "The church Notre-Dame is a church of saintongeais Romanesque style located at Corme-Écluse."
+    ],
+    "it": [
+      "La chiesa di Notre-Dame è una chiesa romanica Saintongean a Corme-Écluse."
+    ],
+    "fr": [
+      "L'église Notre-Dame est une église de style roman saintongeais située à Corme-Écluse."
+    ],
+    "es": [
+      "La iglesia de Notre-Dame es una iglesia románica santoniana en Corme-Écluse."
+    ],
+    "nl": [
+      "De kerk Notre-Dame is een Romaanse Saintongean kerk in Corme-Écluse."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Église Notre-Dame de Corme-Écluse"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q3580547"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/4d6832c6-243a-3f81-be15-53cbc9ad1b80",
+      "schema:telephone": [
+        "+33 5 46 02 34 31"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/89661e6c-d894-3516-bbf2-32855eaf0ec8",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1de05fb2-dbb0-38f0-bc5a-3acb2d2d998f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a0502aed-a486-36e3-99f2-5db2c1987a2f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ea740441-b576-32fc-be9d-315debd27f10",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/efc1c7b4-fc31-3922-a748-5dcc121eb40d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f8437cf4-b681-3f8b-ab7d-711fc7586940",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Kirche Notre-Dame ist eine Kirche im Stil der saintonesischen Romanik in Corme-Écluse."
+        ],
+        "en": [
+          "The church Notre-Dame is a church of saintongeais Romanesque style located at Corme-Écluse."
+        ],
+        "it": [
+          "La chiesa di Notre-Dame è una chiesa romanica Saintongean a Corme-Écluse."
+        ],
+        "fr": [
+          "L'église Notre-Dame est une église de style roman saintongeais située à Corme-Écluse."
+        ],
+        "es": [
+          "La iglesia de Notre-Dame es una iglesia románica santoniana en Corme-Écluse."
+        ],
+        "nl": [
+          "De kerk Notre-Dame is een Romaanse Saintongean kerk in Corme-Écluse."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/5b88588f-4793-334d-a41b-2cab7dde78b9",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/294d20ae-4696-361c-b224-611f02ceec46",
+          "ebucore:isCoveredBy": "CC BY 3.0",
+          "ebucore:title": {
+            "fr": [
+              "L'église de Corme-Ecluse (2)"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Cobber17 (https://commons.wikimedia.org/wiki/User:Cobber17)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/8849bd86-6542-31b5-913b-dba25523a3e5",
+          "ebucore:fileSize": [
+            4231032
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 2736,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/7/78/L%27%C3%A9glise_de_Corme-Ecluse_%282%29.JPG"
+          ],
+          "ebucore:width": 3648,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/8729545b-21a0-3d91-8cff-0f61039a4f83",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8e335468-566e-301d-97f5-c31d20faf77b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9469a31c-7317-39be-b083-7b3dcd98102c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d0c0ac54-42ce-3ea5-b15e-7008899e977b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d500befb-9cdc-36b3-94a5-30b733440820",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/be084898-87ea-36f9-bce1-1dc6c3af7821",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/a2a9cf90-09c0-31f2-8e08-a97066d7aa9d",
+          "schema:addressLocality": "Corme-Écluse",
+          "schema:postalCode": "17600",
+          "schema:streetAddress": [
+            "24 place de l'Église"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17119",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Corme-Écluse"
+              ],
+              "pt": [
+                "Corme-Écluse"
+              ],
+              "en": [
+                "Corme-Écluse"
+              ],
+              "it": [
+                "Corme-Écluse"
+              ],
+              "fr": [
+                "Corme-Écluse"
+              ],
+              "nl": [
+                "Corme-Écluse"
+              ],
+              "es": [
+                "Corme-Écluse"
+              ]
+            },
+            "insee": "17119",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/0fb1bd32-c939-3960-a940-1e4fc8821093",
+        "schema:latitude": "45.630547",
+        "schema:longitude": "-0.852856",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-08-05",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.781Z"
+}

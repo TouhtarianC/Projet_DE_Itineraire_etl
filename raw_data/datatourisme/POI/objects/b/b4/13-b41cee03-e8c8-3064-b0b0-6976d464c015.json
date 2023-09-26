@@ -1,0 +1,400 @@
+{
+  "@id": "https://data.datatourisme.fr/13/b41cee03-e8c8-3064-b0b0-6976d464c015",
+  "dc:identifier": "5702084",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Innerstädtischer Garten neben dem Naturhistorischen Museum"
+    ],
+    "en": [
+      "Downtown garden adjacent to the Natural History Museum"
+    ],
+    "it": [
+      "Giardino nel centro della città adiacente al Museo di Storia Naturale"
+    ],
+    "fr": [
+      "Jardin en centre-ville attenant au Muséum d'Histoire Naturelle"
+    ],
+    "nl": [
+      "Tuin in het stadscentrum naast het Natuurhistorisch Museum"
+    ],
+    "es": [
+      "Jardín del centro de la ciudad junto al Museo de Historia Natural"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Le Jardin des Plantes"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/1359aa93-3b48-3754-a2f5-4adb688bfa77",
+    "dc:identifier": "2058",
+    "schema:email": [
+      "a.lefeuvre@larochelle-tourisme-evenements.com",
+      "c.collot@larochelle-tourisme-evenements.com",
+      "m.farre@larochelle-tourisme-evenements.com",
+      "maxime.vossier@otipass.com",
+      "s.nogues@larochelle-tourisme-evenements.com"
+    ],
+    "schema:legalName": "La Rochelle Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.larochelle-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/e1c05fcb-9684-3584-ad5e-253e961fffb7",
+      "schema:telephone": [
+        "+33 5 46 51 51 51"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.larochelle.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/60628433-096f-36fc-937c-85796126f428",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/6e505853-0918-366f-b478-c96163beb175",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/eef40164-a07c-3a35-8261-7d8fc7710540",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Innerstädtischer Garten neben dem Naturhistorischen Museum"
+        ],
+        "en": [
+          "Downtown garden adjacent to the Natural History Museum"
+        ],
+        "it": [
+          "Giardino nel centro della città adiacente al Museo di Storia Naturale"
+        ],
+        "fr": [
+          "Jardin en centre-ville attenant au Muséum d'Histoire Naturelle"
+        ],
+        "nl": [
+          "Tuin in het stadscentrum naast het Natuurhistorisch Museum"
+        ],
+        "es": [
+          "Jardín del centro de la ciudad junto al Museo de Historia Natural"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/2712d146-a461-38ff-b0c2-a18b78550ee2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/43c76234-3bc7-3b63-b006-34207d167e7c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/54952b75-f0c6-37e4-a940-5709d222f096",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/fc2e58f2-4648-3a69-b042-3db7e4595b0d",
+          "schema:addressLocality": "La Rochelle",
+          "schema:postalCode": "17000",
+          "schema:streetAddress": [
+            "28 rue Albert 1er"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17300",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "La Rochelle"
+              ],
+              "pt": [
+                "La Rochelle"
+              ],
+              "en": [
+                "La Rochelle"
+              ],
+              "it": [
+                "La Rochelle"
+              ],
+              "fr": [
+                "La Rochelle"
+              ],
+              "nl": [
+                "La Rochelle"
+              ],
+              "es": [
+                "La Rochelle"
+              ]
+            },
+            "insee": "17300",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/e2b0a209-2e39-315f-b14e-26d0440b48d4",
+        "schema:latitude": "46.164936",
+        "schema:longitude": "-1.15124",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/63ea5513-0450-3c22-a72b-5e2ceccacdcc",
+          "schema:closes": "20:15:00",
+          "schema:opens": "07:00:00",
+          "schema:validFrom": "2023-04-01T00:00:00",
+          "schema:validThrough": "2023-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/eb17badb-bda0-3b7b-84d2-ff7606e5a3d2",
+          "schema:closes": "19:00:00",
+          "schema:opens": "07:00:00",
+          "schema:validFrom": "2023-10-01T00:00:00",
+          "schema:validThrough": "2023-03-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8da8ffa9-cdd8-3b7a-a8c5-edb456104fe0",
+      "schema:email": [
+        "a.lefeuvre@larochelle-tourisme-evenements.com",
+        "c.collot@larochelle-tourisme-evenements.com",
+        "m.farre@larochelle-tourisme-evenements.com",
+        "maxime.vossier@otipass.com",
+        "s.nogues@larochelle-tourisme-evenements.com"
+      ],
+      "schema:legalName": "La Rochelle Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.larochelle-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-11-30",
+  "lastUpdateDatatourisme": "2023-05-26T05:53:38.346Z"
+}

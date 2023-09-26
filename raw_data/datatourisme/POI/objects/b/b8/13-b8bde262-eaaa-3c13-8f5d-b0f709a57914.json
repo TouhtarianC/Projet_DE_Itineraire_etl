@@ -1,0 +1,562 @@
+{
+  "@id": "https://data.datatourisme.fr/13/b8bde262-eaaa-3c13-8f5d-b0f709a57914",
+  "dc:identifier": "5703261",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Romanische Kirche aus dem Ende des 12. Jahrhunderts."
+    ],
+    "en": [
+      "Romanesque church from the end of the 12th century."
+    ],
+    "it": [
+      "Chiesa romanica della fine del XII secolo."
+    ],
+    "fr": [
+      "Église romane de la fin du XIIe siècle."
+    ],
+    "nl": [
+      "Romaanse kerk uit het einde van de 12e eeuw."
+    ],
+    "es": [
+      "Iglesia románica de finales del siglo XII."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Église Saint-Vivien"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q29577880"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/2d405b36-7158-33f1-ad7c-1e31a96b3af3",
+    "dc:identifier": "2062",
+    "schema:email": [
+      "a.bucciero@rochefoucauld-perigord.fr",
+      "j.aksahin@rochefoucauld-perigord.fr"
+    ],
+    "schema:legalName": "Office de Tourisme La Rochefoucauld Porte du Périgord",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://tourisme.rochefoucauld-perigord.fr/",
+      "https://tourisme.rochefoucauld-perigord.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/030662d2-ca4a-3264-845f-55f113efd8d8",
+      "schema:email": [
+        "paroissedemontbron@orange.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 70 71 82"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://paroisse-staugustin16.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/09c8f0e3-9f07-35c2-abd3-9a8d2ef07301",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/240e3ade-14cc-336d-9e04-48640725174b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c08c22e2-e96b-3dd6-ac6f-4213208ef349",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c4e8a625-18b9-3bce-bff6-badb14191e3e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cdeadcdb-d9cb-3cb0-ae6f-9fd6d5b8058b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d9ff98e5-596a-3657-89bb-0ff4bbc684b1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Romanische Kirche aus dem Ende des 12. Jahrhunderts."
+        ],
+        "en": [
+          "Romanesque church from the end of the 12th century."
+        ],
+        "it": [
+          "Chiesa romanica della fine del XII secolo."
+        ],
+        "fr": [
+          "Église romane de la fin du XIIe siècle."
+        ],
+        "nl": [
+          "Romaanse kerk uit het einde van de 12e eeuw."
+        ],
+        "es": [
+          "Iglesia románica de finales del siglo XII."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/d0afb8f9-7738-31bb-b57c-cbe8e9c6cd8d",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/b643db8a-48bc-36ca-a9a8-efafef75a3f7",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Yvracm eg6"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Jack ma (https://commons.wikimedia.org/wiki/User:Jack_ma)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/5b5ee674-a3ca-3320-a7d0-fb114fa42dff",
+          "ebucore:fileSize": [
+            289693
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1200,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/3/37/Yvracm_eg6.JPG"
+          ],
+          "ebucore:width": 1600,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0708d995-e10d-3ad8-b619-3002ee0bdaf7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/264c4cc2-3c44-325b-8c87-3f8fb388f6b2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9827417f-4f6d-312d-8706-003434552371",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/dd6f04ae-edf8-310d-ab80-8b33e9cb5c99",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/dd757ffd-fe4b-37d0-93ef-3f875f5e812d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/1e843a77-0114-394b-9eb2-9b9e18aa4b27",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/903975a0-5f31-3e0c-8ff2-4bcd1726a49b",
+          "schema:addressLocality": "Yvrac-et-Malleyrand",
+          "schema:postalCode": "16110",
+          "schema:streetAddress": [
+            "Le Bourg"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16425",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Yvrac-et-Malleyrand"
+              ],
+              "pt": [
+                "Yvrac-et-Malleyrand"
+              ],
+              "en": [
+                "Yvrac-et-Malleyrand"
+              ],
+              "it": [
+                "Yvrac-et-Malleyrand"
+              ],
+              "fr": [
+                "Yvrac-et-Malleyrand"
+              ],
+              "nl": [
+                "Yvrac-et-Malleyrand"
+              ],
+              "es": [
+                "Yvrac-et-Malleyrand"
+              ]
+            },
+            "insee": "16425",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/cd7f4346-d574-34a5-8349-88e7e2c19b1a",
+        "schema:latitude": "45.750309",
+        "schema:longitude": "0.447524",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/6c2d0e2f-11ef-3a7e-a27e-8252b13e7c06",
+      "schema:email": [
+        "a.bucciero@rochefoucauld-perigord.fr",
+        "j.aksahin@rochefoucauld-perigord.fr"
+      ],
+      "schema:legalName": "Office de Tourisme La Rochefoucauld Porte du Périgord",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://tourisme.rochefoucauld-perigord.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-01-15",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.72Z"
+}

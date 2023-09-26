@@ -1,0 +1,540 @@
+{
+  "@id": "https://data.datatourisme.fr/13/858bc409-aeda-3a1e-a6e5-eb1c7eca9dd2",
+  "dc:identifier": "5758361",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die sehr schöne Kirche Notre-Dame aus dem 12. und 15. Jahrhundert besitzt einen quadratischen romanischen Glockenturm mit drei Arkadenetagen, der von einer Tannenzapfenpyramide gekrönt wird, sowie ein bemerkenswertes Tor im Stil der Flamboyant-Gotik. Es handelt sich um eine ehemalige Prioratskirche."
+    ],
+    "en": [
+      "The beautiful church of Notre Dame from the 12th and 15th century is famous for its three storey square Roman bell tower with a steeple surmounted by a pyramid in pine cones, and a notable flamboyant gothic entrance door. It is an old priory church."
+    ],
+    "it": [
+      "La bella chiesa di Notre-Dame, risalente al XII e XV secolo, ha un campanile romanico quadrato con tre ordini di archi sormontati da una piramide di pigne e un notevole portale gotico fiammeggiante. Si tratta di un ex priorato."
+    ],
+    "fr": [
+      "La très belle église Notre-Dame des XIIe et XVe présente un clocher roman carré à trois étages d'arcades surmonté d'une pyramide en pomme de pin, et une porte remarquable dans un gothique flamboyant. Il s'agit d'une ancienne prieurale."
+    ],
+    "es": [
+      "La hermosa iglesia de Notre-Dame, de los siglos XII y XV, tiene un campanario románico cuadrado con tres pisos de arcos rematados por una pirámide de piñas, y una notable portada gótica flamígera. Es un antiguo priorato."
+    ],
+    "nl": [
+      "De prachtige kerk Notre-Dame uit de 12e en 15e eeuw heeft een vierkante romaanse klokkentoren met drie lagen bogen, bekroond door een piramide van dennenappels, en een opmerkelijke flamboyante gotische deur. Het is een voormalige priorij."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Notre-Dame Church of Gardes-Le-Pontaroux"
+    ],
+    "fr": [
+      "Eglise Notre-Dame de Gardes-Le-Pontaroux"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q22954533"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/16ba7217-2e6a-3f1d-a54d-11ab6967e371",
+    "dc:identifier": "2063",
+    "schema:email": [
+      "direction@sudcharentetourisme.fr",
+      "noemie@sudcharentetourisme.fr"
+    ],
+    "schema:legalName": "Office de tourisme du Sud Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.sudcharentetourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/57578692-0e56-360b-b68d-a02346b1c54e",
+      "schema:email": [
+        "gardeslepontaroux@wanadoo.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 64 91 78"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://notredamedegardes.fr/leglise/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/7d2f21a4-ac94-3012-bded-a8ab722725fc",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0be9d33e-1a12-3b1b-8813-f98a75771f1e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/24daf886-cc0f-39ec-a046-117e7a3b8ec2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5b98ea95-4afd-3e75-be25-affba24a3182",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/68de9e23-bb4c-367c-bf60-542e04588f6d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die sehr schöne Kirche Notre-Dame aus dem 12. und 15. Jahrhundert besitzt einen quadratischen romanischen Glockenturm mit drei Arkadenetagen, der von einer Tannenzapfenpyramide gekrönt wird, sowie ein bemerkenswertes Tor im Stil der Flamboyant-Gotik. Es handelt sich um eine ehemalige Prioratskirche."
+        ],
+        "en": [
+          "The beautiful church of Notre Dame from the 12th and 15th century is famous for its three storey square Roman bell tower with a steeple surmounted by a pyramid in pine cones, and a notable flamboyant gothic entrance door. It is an old priory church."
+        ],
+        "it": [
+          "La bella chiesa di Notre-Dame, risalente al XII e XV secolo, ha un campanile romanico quadrato con tre ordini di archi sormontati da una piramide di pigne e un notevole portale gotico fiammeggiante. Si tratta di un ex priorato."
+        ],
+        "fr": [
+          "La très belle église Notre-Dame des XIIe et XVe présente un clocher roman carré à trois étages d'arcades surmonté d'une pyramide en pomme de pin, et une porte remarquable dans un gothique flamboyant. Il s'agit d'une ancienne prieurale."
+        ],
+        "es": [
+          "La hermosa iglesia de Notre-Dame, de los siglos XII y XV, tiene un campanario románico cuadrado con tres pisos de arcos rematados por una pirámide de piñas, y una notable portada gótica flamígera. Es un antiguo priorato."
+        ],
+        "nl": [
+          "De prachtige kerk Notre-Dame uit de 12e en 15e eeuw heeft een vierkante romaanse klokkentoren met drie lagen bogen, bekroond door een piramide van dennenappels, en een opmerkelijke flamboyante gotische deur. Het is een voormalige priorij."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/917f9fe1-d002-3904-ac06-655266480c16",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/409e260d-e6fa-32db-bd67-fb58484bde06",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Gardes - Eglise"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "2Passage (https://commons.wikimedia.org/w/index.php?title=User:2Passage&amp;action=edit&amp;redlink=1)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/0fec3cf5-005b-3454-b710-1b6352927115",
+          "ebucore:fileSize": [
+            3167645
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1952,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/e/e7/Gardes_-_Eglise.JPG"
+          ],
+          "ebucore:width": 2592,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/3432b475-f591-3950-b402-f82624c13535",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6f832b9f-9186-3c53-b7f8-8462e1d18f6e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/77da3aa6-e86d-3023-91e2-a922c3ff22e6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fbcbfd9e-d24b-3936-a85d-7dbb4bb2c9a6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/5f91b0fa-283c-3eac-8b64-1e37b9dd7afe",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/f2eaf1e7-1582-376b-8e30-35626baf8ed5",
+          "schema:addressLocality": "Gardes-le-Pontaroux",
+          "schema:postalCode": "16320",
+          "schema:streetAddress": [
+            "5 Rue Notre Dame"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16147",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Gardes-le-Pontaroux"
+              ],
+              "pt": [
+                "Gardes-le-Pontaroux"
+              ],
+              "en": [
+                "Gardes-le-Pontaroux"
+              ],
+              "it": [
+                "Gardes-le-Pontaroux"
+              ],
+              "fr": [
+                "Gardes-le-Pontaroux"
+              ],
+              "nl": [
+                "Gardes-le-Pontaroux"
+              ],
+              "es": [
+                "Gardes-le-Pontaroux"
+              ]
+            },
+            "insee": "16147",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/624bd63d-28d5-3c82-9e10-8df31dc211c9",
+        "schema:latitude": "45.49812",
+        "schema:longitude": "0.322339",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3596fe11-6367-37e6-b740-404b84cb68c6",
+          "schema:closes": "16:00:00",
+          "schema:opens": "10:00:00",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/17ccf9a1-6b41-3eb9-a1e1-edf0fbbf90c5",
+      "schema:email": [
+        "direction@sudcharentetourisme.fr",
+        "noemie@sudcharentetourisme.fr"
+      ],
+      "schema:legalName": "Office de tourisme du Sud-Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.sudcharentetourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-05-05",
+  "lastUpdateDatatourisme": "2023-05-06T05:52:42.996Z"
+}

@@ -1,0 +1,614 @@
+{
+  "@id": "https://data.datatourisme.fr/13/621bd430-0be8-36b6-ae5a-b4ba6740d077",
+  "dc:identifier": "5707302",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das Papiermuseum befindet sich seit 1988 in den ehemaligen Lacroix-Papierfabriken, die zu Joseph-Bardou-Papierfabriken \"Le Nil\" wurden und 1972 geschlossen wurden. Die Gebäude sind über den Fluss gebaut und bilden eine Brücke zwischen der Rue de Bordeaux und der Île St Cybard."
+    ],
+    "en": [
+      "The Paper Museum has been installed since 1988 in the former Lacroix paper mills which became Joseph-Bardou \"Le Nil\" paper mills closed in 1972. The buildings are built on the river and form a bridge between rue de Bordeaux and Ile St Cybard."
+    ],
+    "it": [
+      "Dal 1988, il Musée du Papier è ospitato nelle ex cartiere Lacroix, diventate le cartiere Joseph-Bardou \"Le Nil\" e chiuse nel 1972. Gli edifici sono costruiti sul fiume e formano un ponte tra la rue de Bordeaux e l'isola St Cybard."
+    ],
+    "fr": [
+      "Le Musée du Papier est installé depuis 1988 dans les anciennes papeteries Lacroix devenues papeteries Joseph-Bardou \"Le Nil\"  fermées en 1972. Les bâtiments sont construits sur le fleuve et forment un pont entre la rue de Bordeaux et l'île St Cybard."
+    ],
+    "nl": [
+      "Sinds 1988 is het Musée du Papier ondergebracht in de voormalige papierfabrieken van Lacroix, die de papierfabrieken Joseph-Bardou \"Le Nil\" werden en in 1972 werden gesloten. De gebouwen zijn aan de rivier gebouwd en vormen een brug tussen de rue de Bordeaux en het île St Cybard."
+    ],
+    "es": [
+      "Desde 1988, el Museo del Papel se encuentra en las antiguas fábricas de papel Lacroix, que se convirtieron en las fábricas de papel Joseph-Bardou \"Le Nil\" y cerraron en 1972. Los edificios están construidos sobre el río y forman un puente entre la rue de Bordeaux y la île St Cybard."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Musée du Papier"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q3330456"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f3e52c30-0b82-3a81-a3e7-ace55fe15c08",
+    "dc:identifier": "2053",
+    "schema:email": [
+      "snebout@angouleme-tourisme.com"
+    ],
+    "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.angouleme-tourisme.com/"
+    ],
+    "lastUpdateDatatourisme": "2022-12-19T06:44:07.571Z"
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5e26a7ee-2282-362b-8676-1509ad581117",
+      "schema:email": [
+        "museepapier@mairie-angouleme.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 38 71 61"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://maam.angouleme.fr/musee-du-papier/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/77e878bf-dc4c-3e65-9b3c-3cd9bce2acae",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2124df2d-e2d8-389d-ac8e-7dbceb82de7d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2a25aa75-64c8-3241-aa92-dcdce9841f27",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/665d5391-83b7-332c-995b-046d39a8a863",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b88c0348-d69e-3c34-8434-70210e90ec1d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c381937c-6b22-3225-8dd3-102005d23ff2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das Papiermuseum befindet sich seit 1988 in den ehemaligen Lacroix-Papierfabriken, die zu Joseph-Bardou-Papierfabriken \"Le Nil\" wurden und 1972 geschlossen wurden. Die Gebäude sind über den Fluss gebaut und bilden eine Brücke zwischen der Rue de Bordeaux und der Île St Cybard."
+        ],
+        "en": [
+          "The Paper Museum has been installed since 1988 in the former Lacroix paper mills which became Joseph-Bardou \"Le Nil\" paper mills closed in 1972. The buildings are built on the river and form a bridge between rue de Bordeaux and Ile St Cybard."
+        ],
+        "it": [
+          "Dal 1988, il Musée du Papier è ospitato nelle ex cartiere Lacroix, diventate le cartiere Joseph-Bardou \"Le Nil\" e chiuse nel 1972. Gli edifici sono costruiti sul fiume e formano un ponte tra la rue de Bordeaux e l'isola St Cybard."
+        ],
+        "fr": [
+          "Le Musée du Papier est installé depuis 1988 dans les anciennes papeteries Lacroix devenues papeteries Joseph-Bardou \"Le Nil\"  fermées en 1972. Les bâtiments sont construits sur le fleuve et forment un pont entre la rue de Bordeaux et l'île St Cybard."
+        ],
+        "nl": [
+          "Sinds 1988 is het Musée du Papier ondergebracht in de voormalige papierfabrieken van Lacroix, die de papierfabrieken Joseph-Bardou \"Le Nil\" werden en in 1972 werden gesloten. De gebouwen zijn aan de rivier gebouwd en vormen een brug tussen de rue de Bordeaux en het île St Cybard."
+        ],
+        "es": [
+          "Desde 1988, el Museo del Papel se encuentra en las antiguas fábricas de papel Lacroix, que se convirtieron en las fábricas de papel Joseph-Bardou \"Le Nil\" y cerraron en 1972. Los edificios están construidos sobre el río y forman un puente entre la rue de Bordeaux y la île St Cybard."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/22840dc6-bd86-363b-bedc-ac771612c318",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/9672c1ff-265d-3b03-ae32-c00fd792616b",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Angoulême 16 Musée du papier 2013"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "<p><a href=\"//commons.wikimedia.org/wiki/User:JLPC\" title=\"User:JLPC\">JLPC</a>\n</p>"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/f7e62134-6332-35ce-a4ec-019c81ca2073",
+          "ebucore:fileSize": [
+            15339254
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 3264,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/9/92/Angoul%C3%AAme_16_Mus%C3%A9e_du_papier_2013.jpg"
+          ],
+          "ebucore:width": 4928,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/021ac9f2-4f56-348b-855f-3bedf937af65",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/45849ec1-3b63-33a9-9b0e-0ae1c0e82a3c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b6d2a3d5-4632-3dc2-b1d7-77f18b435f77",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/dd6cd149-cb45-34d6-aaf0-f741459f7e86",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e1cb07e7-6405-3e84-bb22-116d99bd99ad",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/99f815f1-95a3-367a-8fd8-1520307da156",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/2fbe41ff-1eaa-3cb4-98cb-b883efe2b33f",
+          "schema:addressLocality": "Angoulême",
+          "schema:postalCode": "16000",
+          "schema:streetAddress": [
+            "134, rue de Bordeaux"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16015",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Angoulême"
+              ],
+              "pt": [
+                "Angoulême"
+              ],
+              "en": [
+                "Angoulême"
+              ],
+              "it": [
+                "Angoulême"
+              ],
+              "fr": [
+                "Angoulême"
+              ],
+              "nl": [
+                "Angoulême"
+              ],
+              "es": [
+                "Angoulême"
+              ]
+            },
+            "insee": "16015",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/a528176f-f7a0-3dd2-bf22-972f836fa0e8",
+        "schema:latitude": "45.65365",
+        "schema:longitude": "0.150008",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/0de4af0a-b5f8-3f92-8db0-2f102220bbcb",
+          "schema:validFrom": "2023-09-30T00:00:00",
+          "schema:validThrough": "2023-05-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2f690421-a54f-39b5-bc49-3d949f6eccb8",
+          "schema:validFrom": "2023-10-01T00:00:00",
+          "schema:validThrough": "2023-07-03T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/85103c8e-41a2-36ae-b796-1339e2fcd202",
+          "schema:validFrom": "2023-06-01T00:00:00",
+          "schema:validThrough": "2023-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/65c93456-0984-3a13-aac5-3ae5946a15d8",
+      "schema:email": [
+        "snebout@angouleme-tourisme.com"
+      ],
+      "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.angouleme-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-03",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.305Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/91d44c0a-8c7d-339d-b8d4-b51c8e0df396",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/700eba4c-a9e3-3cb6-bc3a-e9e947e24ec0",
+          "schema:maxPrice": [
+            "2.1",
+            "3.2"
+          ],
+          "schema:minPrice": [
+            "2.1",
+            "3.2"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/aed086e6-9e6f-3904-bc99-fca0baed4162",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2025-07-03",
+              "startDate": "2022-09-30"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

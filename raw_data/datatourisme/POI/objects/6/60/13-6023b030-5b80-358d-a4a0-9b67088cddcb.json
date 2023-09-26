@@ -1,0 +1,332 @@
+{
+  "@id": "https://data.datatourisme.fr/13/6023b030-5b80-358d-a4a0-9b67088cddcb",
+  "dc:identifier": "6485590",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Bibliothèque"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/7d337098-5a8f-3d57-851e-40ea3b1c63c2",
+      "schema:email": [
+        "bibliclion@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 5 46 70 45 83"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/d22926cc-14d6-386c-8ad2-4d56044efcbf",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/a82700ab-866c-3c2e-97e3-566cdf01a79c",
+          "schema:addressLocality": "Clion",
+          "schema:postalCode": "17240",
+          "schema:streetAddress": [
+            "4 place Jean Moulin"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17111",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Clion"
+              ],
+              "pt": [
+                "Clion"
+              ],
+              "en": [
+                "Clion"
+              ],
+              "it": [
+                "Clion"
+              ],
+              "fr": [
+                "Clion"
+              ],
+              "nl": [
+                "Clion"
+              ],
+              "es": [
+                "Clion"
+              ]
+            },
+            "insee": "17111",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/ac450fca-0065-32b0-80e3-41cf51a1151d",
+        "schema:latitude": "45.478072",
+        "schema:longitude": "-0.502432",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f751b6b6-76de-3c1c-8b2e-1aef4665f0ea",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Geöffnet am 1. Samstag im Monat von 11:00 bis 12:00 Uhr"
+            ],
+            "en": [
+              "Open the 1st Saturday of each month from 11:00 am to 12:00 pm"
+            ],
+            "it": [
+              "Aperto il 1° sabato di ogni mese dalle 11:00 alle 12:00"
+            ],
+            "fr": [
+              "Ouvert le 1er samedi de chaque mois de 11h00 à 12h00"
+            ],
+            "nl": [
+              "Geopend de 1e zaterdag van elke maand van 11:00 tot 12:00 uur"
+            ],
+            "es": [
+              "Abierto el 1er sábado de cada mes de 11:00 a 12:00"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/5153312d-b9d7-3d2c-a5c0-c36d7cc6d107",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/8c5bae7e-fcc6-3f02-a330-2bf59bc6c226",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e9e10c84-aeb8-34ea-a05f-bb981a02c690",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ebc72c0d-bbde-363c-adb0-701ce8b1e48c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f5cf141e-bc0d-316b-830e-512b2c99e8d6",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-04-12",
+  "lastUpdateDatatourisme": "2023-04-13T06:46:38.92Z"
+}

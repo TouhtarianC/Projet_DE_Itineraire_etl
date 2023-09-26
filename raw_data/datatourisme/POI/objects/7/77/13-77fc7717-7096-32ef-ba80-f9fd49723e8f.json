@@ -1,0 +1,432 @@
+{
+  "@id": "https://data.datatourisme.fr/13/77fc7717-7096-32ef-ba80-f9fd49723e8f",
+  "dc:identifier": "5772292",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Gemeindebibliothek bietet zahlreiche Bücher für Jugendliche und Erwachsene an. Sie bietet Veranstaltungen an, zu denen Autoren oder Schriftsteller eingeladen werden.\r\nAuch Ausstellungen werden von den Mitarbeitern der Stadt organisiert."
+    ],
+    "en": [
+      "The municipal library offers many books for young people and adults. It proposes animations during which authors or writers are invited.\r\nExhibitions are also organized by the municipal team."
+    ],
+    "it": [
+      "La biblioteca comunale offre una vasta gamma di libri per giovani e adulti. Offre eventi durante i quali vengono invitati autori o scrittori.\r\nAnche le mostre sono organizzate dal team comunale."
+    ],
+    "fr": [
+      "La bibliothèque municipale propose de nombreux ouvrages jeune public et adulte. Elle propose des animations au cours desquelles sont invités des auteurs ou des écrivains.\r\nDes expositions sont également organisées par l'équipe municipale."
+    ],
+    "es": [
+      "La biblioteca municipal ofrece una amplia gama de libros para jóvenes y adultos. Ofrece actos en los que se invita a autores o escritores.\r\nEl equipo municipal también organiza exposiciones."
+    ],
+    "nl": [
+      "De gemeentelijke bibliotheek biedt een breed scala aan boeken voor jongeren en volwassenen. Het biedt evenementen aan waarbij auteurs of schrijvers worden uitgenodigd.\r\nHet gemeentelijk team organiseert ook tentoonstellingen."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Bibliothèque Municipale de Médis"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/659cde1f-482c-33ef-a41a-05e825082707",
+      "schema:telephone": [
+        "+33 5 46 05 16 01"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.mairie-medis.fr/bibliotheque/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/9f1d2963-4ddf-3cde-a2b6-14af4e31e1f6",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1bc0c207-2b14-3b05-8632-2ca9883e7e3b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/669a6cfc-b856-3d74-899d-b75ba913be4c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a0e42932-2a06-3c34-b2f8-b9a1371f2c09",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cf69b20e-c883-3edb-8634-836b42f03caa",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d21446b5-68b5-33bf-a6a8-395370ecc362",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Gemeindebibliothek bietet zahlreiche Bücher für Jugendliche und Erwachsene an. Sie bietet Veranstaltungen an, zu denen Autoren oder Schriftsteller eingeladen werden.\r\nAuch Ausstellungen werden von den Mitarbeitern der Stadt organisiert."
+        ],
+        "en": [
+          "The municipal library offers many books for young people and adults. It proposes animations during which authors or writers are invited.\r\nExhibitions are also organized by the municipal team."
+        ],
+        "it": [
+          "La biblioteca comunale offre una vasta gamma di libri per giovani e adulti. Offre eventi durante i quali vengono invitati autori o scrittori.\r\nAnche le mostre sono organizzate dal team comunale."
+        ],
+        "fr": [
+          "La bibliothèque municipale propose de nombreux ouvrages jeune public et adulte. Elle propose des animations au cours desquelles sont invités des auteurs ou des écrivains.\r\nDes expositions sont également organisées par l'équipe municipale."
+        ],
+        "es": [
+          "La biblioteca municipal ofrece una amplia gama de libros para jóvenes y adultos. Ofrece actos en los que se invita a autores o escritores.\r\nEl equipo municipal también organiza exposiciones."
+        ],
+        "nl": [
+          "De gemeentelijke bibliotheek biedt een breed scala aan boeken voor jongeren en volwassenen. Het biedt evenementen aan waarbij auteurs of schrijvers worden uitgenodigd.\r\nHet gemeentelijk team organiseert ook tentoonstellingen."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0c52a1c9-a2f5-33f8-ba92-c7a71c170378",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/436dcdc5-5044-3e71-bb80-0f823b026ce3",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7826d4f2-1295-3cd2-a2fa-ef5d72e751e8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c8f1b39a-1848-3c08-9408-795aa61ec7c0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ea3ec3b1-ea12-3085-818a-7c0116b72a06",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/1369dd16-9737-3e18-88da-b515c6e0d3c6",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/574b9ba1-fce4-3136-a621-6cf3d9af5e72",
+          "schema:addressLocality": "Médis",
+          "schema:postalCode": "17600",
+          "schema:streetAddress": [
+            "1 place Paul Beau"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17228",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Médis"
+              ],
+              "pt": [
+                "Médis"
+              ],
+              "en": [
+                "Médis"
+              ],
+              "it": [
+                "Médis"
+              ],
+              "fr": [
+                "Médis"
+              ],
+              "nl": [
+                "Médis"
+              ],
+              "es": [
+                "Médis"
+              ]
+            },
+            "insee": "17228",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/4d51af3c-7e75-325e-8208-ac2df0ff5761",
+        "schema:latitude": "45.642532",
+        "schema:longitude": "-0.965454",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-08-05",
+  "lastUpdateDatatourisme": "2023-02-01T18:07:35.649Z"
+}

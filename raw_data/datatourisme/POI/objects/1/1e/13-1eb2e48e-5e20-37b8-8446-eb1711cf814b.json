@@ -1,0 +1,474 @@
+{
+  "@id": "https://data.datatourisme.fr/13/1eb2e48e-5e20-37b8-8446-eb1711cf814b",
+  "dc:identifier": "5773705",
+  "@type": [
+    "CivilCemetery",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RemembranceSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Friedhof Les Tilleurs, in der Gemeinde Royan."
+    ],
+    "en": [
+      "Cemetery Les Tilleurs, in the commune of Royan."
+    ],
+    "it": [
+      "Cimitero di Les Tilleurs, nel comune di Royan."
+    ],
+    "fr": [
+      "Cimetière Les Tilleurs, sur la commune de Royan."
+    ],
+    "es": [
+      "Cementerio de Les Tilleurs, en el municipio de Royan."
+    ],
+    "nl": [
+      "Begraafplaats Les Tilleurs, in de gemeente Royan."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Cimetière Les Tilleuls"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8f82911b-02b0-392c-9f7c-7898293d16ff",
+      "schema:telephone": [
+        "+33 5 46 39 56 58"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://cimetiere.gescime.com/Cimetiere/royan-cimetiere-17200/CimetiereLesTilleuls"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/a53d51e4-aa8a-3cba-a306-675adc5fce1d",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0beb5109-48b4-3d87-9cc3-443577d916cf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/702dfb37-f0f3-3cc6-aaf8-8c386c58165a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a0a2f2b0-c2cf-330f-a56b-fee342ea13b0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a5fbef6c-c70c-3d1f-809e-ab8608091ff0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d04e6acd-852d-3181-bd01-cb655f4d7ba2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Friedhof Les Tilleurs, in der Gemeinde Royan."
+        ],
+        "en": [
+          "Cemetery Les Tilleurs, in the commune of Royan."
+        ],
+        "it": [
+          "Cimitero di Les Tilleurs, nel comune di Royan."
+        ],
+        "fr": [
+          "Cimetière Les Tilleurs, sur la commune de Royan."
+        ],
+        "es": [
+          "Cementerio de Les Tilleurs, en el municipio de Royan."
+        ],
+        "nl": [
+          "Begraafplaats Les Tilleurs, in de gemeente Royan."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/2150dcda-1cbc-3857-939f-5ad3c09d39a4",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/445129d6-18cf-3049-85fd-dcfb2edc140a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/608b1164-d8ad-33b2-b4dc-13998bfe810f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/686e9e9c-0550-3c5b-9a9d-60141426f7ba",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/693ed1ad-521e-3eb8-9899-fb99d750afcf",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/6c88f1b6-2523-36bc-a294-4c55ed6c0db0",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/cb941594-95a1-39c9-8af8-54f9f1839146",
+          "schema:addressLocality": "Royan",
+          "schema:postalCode": "17200",
+          "schema:streetAddress": [
+            "55 boulevard Clemenceau"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17306",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Royan"
+              ],
+              "pt": [
+                "Royan"
+              ],
+              "en": [
+                "Royan"
+              ],
+              "it": [
+                "Royan"
+              ],
+              "fr": [
+                "Royan"
+              ],
+              "nl": [
+                "Royan"
+              ],
+              "es": [
+                "Royan"
+              ]
+            },
+            "insee": "17306",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/5ed16ed6-4f49-3923-8f73-846c9b358536",
+        "schema:latitude": "45.629883",
+        "schema:longitude": "-1.02184",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/32cc4cd9-8d32-3a4d-ad39-3950327339ff",
+          "schema:closes": "18:00:00",
+          "schema:opens": "08:00:00",
+          "schema:validFrom": "2023-04-01T00:00:00",
+          "schema:validThrough": "2023-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6b3d499e-2d20-37b7-8f48-6e8b7bd9d570",
+          "schema:closes": "17:30:00",
+          "schema:opens": "08:30:00",
+          "schema:validFrom": "2023-10-01T00:00:00",
+          "schema:validThrough": "2023-03-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-04-12",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.834Z"
+}

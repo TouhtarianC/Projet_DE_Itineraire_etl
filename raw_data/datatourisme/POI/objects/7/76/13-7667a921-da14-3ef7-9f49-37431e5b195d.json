@@ -1,0 +1,481 @@
+{
+  "@id": "https://data.datatourisme.fr/13/7667a921-da14-3ef7-9f49-37431e5b195d",
+  "dc:identifier": "5677653",
+  "@type": [
+    "schema:Landform",
+    "Beach",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Am Ende der Promenade du Mail, in der Nähe des Casinos, der Türme und des Alten Hafens, liegt dieser urbane Strand ganz in der Nähe des Stadtzentrums."
+    ],
+    "en": [
+      "At the bottom of the promenade du Mail, near the Casino, the Towers and the Old Port, this urban beach is very close to the city centre."
+    ],
+    "it": [
+      "In fondo alla promenade du Mail, vicino al Casinò, alle Torri e al Porto Vecchio, questa spiaggia urbana è molto vicina al centro della città."
+    ],
+    "fr": [
+      "Au bas de la promenade du Mail, à proximité du Casino, des Tours et du Vieux-Port, cette plage urbaine est toute proche du centre-ville."
+    ],
+    "nl": [
+      "Dit stadsstrand ligt onderaan de promenade du Mail, vlakbij het Casino, de Torens en de Oude Haven."
+    ],
+    "es": [
+      "Al pie del paseo del Correo, cerca del Casino, las Torres y el Puerto Viejo, esta playa urbana está muy cerca del centro de la ciudad."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "La Concurrence-Strand"
+    ],
+    "en": [
+      "La Concurrence Beach"
+    ],
+    "fr": [
+      "Plage de la Concurrence"
+    ],
+    "es": [
+      "Playa de La Concurrence"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/1359aa93-3b48-3754-a2f5-4adb688bfa77",
+    "dc:identifier": "2058",
+    "schema:email": [
+      "a.lefeuvre@larochelle-tourisme-evenements.com",
+      "c.collot@larochelle-tourisme-evenements.com",
+      "m.farre@larochelle-tourisme-evenements.com",
+      "maxime.vossier@otipass.com",
+      "s.nogues@larochelle-tourisme-evenements.com"
+    ],
+    "schema:legalName": "La Rochelle Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.larochelle-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/e1c05fcb-9684-3584-ad5e-253e961fffb7",
+      "schema:telephone": [
+        "+33 5 46 51 51 51"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.larochelle.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/f459888f-b748-3ace-b705-c3119cff353b",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1fbeb3ba-b371-3b2d-8243-6cf62a960c5d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4d8adca4-c373-3031-8824-16bcc9a40621",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Am Ende der Promenade du Mail, in der Nähe des Casinos, der Türme und des Alten Hafens, liegt dieser urbane Strand ganz in der Nähe des Stadtzentrums."
+        ],
+        "en": [
+          "At the bottom of the promenade du Mail, near the Casino, the Towers and the Old Port, this urban beach is very close to the city centre."
+        ],
+        "it": [
+          "In fondo alla promenade du Mail, vicino al Casinò, alle Torri e al Porto Vecchio, questa spiaggia urbana è molto vicina al centro della città."
+        ],
+        "fr": [
+          "Au bas de la promenade du Mail, à proximité du Casino, des Tours et du Vieux-Port, cette plage urbaine est toute proche du centre-ville."
+        ],
+        "nl": [
+          "Dit stadsstrand ligt onderaan de promenade du Mail, vlakbij het Casino, de Torens en de Oude Haven."
+        ],
+        "es": [
+          "Al pie del paseo del Correo, cerca del Casino, las Torres y el Puerto Viejo, esta playa urbana está muy cerca del centro de la ciudad."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Bathing",
+      "@type": [
+        "AccommodationAmenity",
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Baden"
+        ],
+        "pt": [
+          "Banho"
+        ],
+        "en": [
+          "Bathing"
+        ],
+        "it": [
+          "Bagno"
+        ],
+        "fr": [
+          "Baignade"
+        ],
+        "nl": [
+          "Zwemmen"
+        ],
+        "es": [
+          "Baño"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/251ff577-2829-3675-8b4e-fba21f169812",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/dd30d8f9-fe03-3e7f-8862-65d5e3a109ff",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/01c9f039-1224-3bde-ade5-1936e6d168c7",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/313a3b05-f877-3463-bbc8-315794ddeab3",
+          "schema:addressLocality": "La Rochelle",
+          "schema:postalCode": "17000",
+          "schema:streetAddress": [
+            "Allées du Mail"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17300",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "La Rochelle"
+              ],
+              "pt": [
+                "La Rochelle"
+              ],
+              "en": [
+                "La Rochelle"
+              ],
+              "it": [
+                "La Rochelle"
+              ],
+              "fr": [
+                "La Rochelle"
+              ],
+              "nl": [
+                "La Rochelle"
+              ],
+              "es": [
+                "La Rochelle"
+              ]
+            },
+            "insee": "17300",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/4023987c-75a2-32a0-b972-a7c7cc64e2bb",
+        "schema:latitude": "46.155362",
+        "schema:longitude": "-1.160955",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/0fe2ae90-7933-3bbf-82fc-da94bed06593",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Unbewachter Strand"
+            ],
+            "en": [
+              "Unguarded beach"
+            ],
+            "it": [
+              "Spiaggia non sorvegliata"
+            ],
+            "fr": [
+              "Plage non surveillée"
+            ],
+            "es": [
+              "Playa sin vigilancia"
+            ],
+            "nl": [
+              "Onbewaakt strand"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/0f7d26e1-fe81-3aaa-9c9d-2538b623cd5f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/1031e484-d8d5-30f0-86a8-e4b8066aa2aa",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6f89d357-9432-37f0-ad0d-343f886f5b26",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a923df8c-ff61-3e92-8693-7e2f3dd2dbb9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f8f77e94-cfa4-3ed0-afa3-724072efa423",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8da8ffa9-cdd8-3b7a-a8c5-edb456104fe0",
+      "schema:email": [
+        "a.lefeuvre@larochelle-tourisme-evenements.com",
+        "c.collot@larochelle-tourisme-evenements.com",
+        "m.farre@larochelle-tourisme-evenements.com",
+        "maxime.vossier@otipass.com",
+        "s.nogues@larochelle-tourisme-evenements.com"
+      ],
+      "schema:legalName": "La Rochelle Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.larochelle-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-10",
+  "lastUpdateDatatourisme": "2023-06-11T05:50:25.285Z"
+}

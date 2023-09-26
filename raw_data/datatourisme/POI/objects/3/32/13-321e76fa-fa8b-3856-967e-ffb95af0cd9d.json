@@ -1,0 +1,603 @@
+{
+  "@id": "https://data.datatourisme.fr/13/321e76fa-fa8b-3856-967e-ffb95af0cd9d",
+  "dc:identifier": "5762159",
+  "@type": [
+    "CulturalSite",
+    "DefenceSite",
+    "Fort",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Bereits im 11. Jahrhundert wurde die Burg von Fouras errichtet, um die Mündung der Charente zu kontrollieren und eine Maut einzuführen."
+    ],
+    "en": [
+      "In the 11th century, the castle of Fouras was erected to control the estuary of the Charente and to introduce a toll."
+    ],
+    "it": [
+      "Già nell'XI secolo fu eretto il castello di Fouras per controllare l'estuario della Charente e istituire un pedaggio."
+    ],
+    "fr": [
+      "Dès le XIème siècle, le château de Fouras est érigé pour contrôler l’estuaire de la Charente et instituer un péage."
+    ],
+    "es": [
+      "Ya en el siglo XI se erigió el castillo de Fouras para controlar el estuario de la Charente e instituir un peaje."
+    ],
+    "nl": [
+      "Al in de 11e eeuw werd het kasteel van Fouras opgericht om de monding van de Charente te controleren en tol te heffen."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Fort Vauban"
+    ],
+    "en": [
+      "Fort Vauban"
+    ],
+    "fr": [
+      "Fort Vauban"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q3078175"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/9afefc52-942c-383c-bc1f-14b2139b09ba",
+    "dc:identifier": "2055",
+    "schema:email": [
+      "chloe.mailler@rochefort-ocean.com",
+      "christine.nourisson@rochefort-ocean.com",
+      "chrystelle.ecale@rochefort-ocean.com",
+      "lea.origlia@rochefort-ocean.com",
+      "sandrine.bouron@rochefort-ocean.com"
+    ],
+    "schema:legalName": "Office de Tourisme Rochefort Océan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.rochefort-ocean.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/851e9db1-ea6c-3e78-af69-d63ead3d927e",
+      "schema:email": [
+        "musee@fouras-les-bains.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 84 15 23"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://musee-fouras.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/bbbba4f2-e2d1-3b66-9aa0-3e60c89cb446",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/032cab6e-799c-39d3-b348-e576756bd4fd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/20ae315a-d9af-3f5b-98e7-04f55088573c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6e53c5ce-e194-38ba-9a54-cd03512fed0e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Bereits im 11. Jahrhundert wurde die Burg von Fouras errichtet, um die Mündung der Charente zu kontrollieren und eine Maut einzuführen."
+        ],
+        "en": [
+          "In the 11th century, the castle of Fouras was erected to control the estuary of the Charente and to introduce a toll."
+        ],
+        "it": [
+          "Già nell'XI secolo fu eretto il castello di Fouras per controllare l'estuario della Charente e istituire un pedaggio."
+        ],
+        "fr": [
+          "Dès le XIème siècle, le château de Fouras est érigé pour contrôler l’estuaire de la Charente et instituer un péage."
+        ],
+        "es": [
+          "Ya en el siglo XI se erigió el castillo de Fouras para controlar el estuario de la Charente e instituir un peaje."
+        ],
+        "nl": [
+          "Al in de 11e eeuw werd het kasteel van Fouras opgericht om de monding van de Charente te controleren en tol te heffen."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/e40cc87b-03d5-38b6-9aa9-3346d2e18c63",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/05f5ce61-209f-3f22-ad2f-75ee4a521829",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "003 - Sémaphore - Fouras"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Patrick Despoix (https://commons.wikimedia.org/wiki/User:Piso17)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/bfe23e86-5bad-38cc-80a2-2079e9a3fd9d",
+          "ebucore:fileSize": [
+            3356935
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1920,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/9/93/003_-_S%C3%A9maphore_-_Fouras.jpg"
+          ],
+          "ebucore:width": 2560,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0e9a0ef2-6334-32cc-aba9-8b216251c852",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3960a9b1-84e0-34a2-ac13-170d0b5305fc",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b32af57c-e024-3207-bdb3-3611ab453233",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/d638d823-a9bc-37cd-8e43-2f7ed054bdf8",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/77f364ef-61da-389b-a4cc-0e8b69553825",
+          "schema:addressLocality": "Fouras",
+          "schema:postalCode": "17450",
+          "schema:streetAddress": [
+            "Esplanade de la Légion d'Honneur"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17168",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Fouras"
+              ],
+              "pt": [
+                "Fouras"
+              ],
+              "en": [
+                "Fouras"
+              ],
+              "it": [
+                "Fouras"
+              ],
+              "fr": [
+                "Fouras"
+              ],
+              "nl": [
+                "Fouras"
+              ],
+              "es": [
+                "Fouras"
+              ]
+            },
+            "insee": "17168",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/685e3785-9a5b-3e44-ae8a-ed63c82d55b6",
+        "schema:latitude": "45.985706",
+        "schema:longitude": "-1.09709",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/75ffafc4-b012-32f3-8bb2-07313eb15705",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Von 9 bis 18 Uhr"
+            ],
+            "en": [
+              "From 9am to 6pm"
+            ],
+            "it": [
+              "Dalle 9.00 alle 18.00"
+            ],
+            "fr": [
+              "De 9h à 18h"
+            ],
+            "nl": [
+              "Van 9 tot 18 uur"
+            ],
+            "es": [
+              "De 9 a 18 horas"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/148299d6-f3a9-3a88-8606-968b3d29930e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a33ec416-112d-34bf-ade6-a896914ee88c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ba800051-42a1-3701-b0be-fc63afeb46e5",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d0a2f21a-721a-34c2-8c4b-a33159b4ced8",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/fe1a2c10-ca9b-3858-b8df-1425e3514322",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fed90c24-5b4e-374e-b413-9c9ae527b242",
+      "schema:email": [
+        "chloe.mailler@rochefort-ocean.com",
+        "christine.nourisson@rochefort-ocean.com",
+        "chrystelle.ecale@rochefort-ocean.com",
+        "lea.origlia@rochefort-ocean.com",
+        "sandrine.bouron@rochefort-ocean.com"
+      ],
+      "schema:legalName": "Office de Tourisme Rochefort Océan",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.rochefort-ocean.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-24",
+  "lastUpdateDatatourisme": "2023-06-25T05:33:01.082Z"
+}

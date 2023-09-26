@@ -1,0 +1,565 @@
+{
+  "@id": "https://data.datatourisme.fr/13/9ebd56f0-3744-31a0-8966-c2705947a0cf",
+  "dc:identifier": "5774290",
+  "@type": [
+    "schema:Landform",
+    "Beach",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Gegenüber dem Wohnviertel Pontaillac bietet dieser Familienstrand Surfern, Bodyboardern und Windsurfern einen bekannten Spot zum Gleiten.\r\nZahlreiche Restaurants, Eisdielen und Cafés empfangen Sie gegenüber dem Strand."
+    ],
+    "en": [
+      "Facing the residential area of Pontaillac, this family beach offers surfing, bodyboarding and windsurfing enthusiasts a renowned spot for surfing.\r\nNumerous restaurants, ice cream parlors and cafés welcome you in front of the beach."
+    ],
+    "it": [
+      "Di fronte alla zona residenziale di Pontaillac, questa spiaggia per famiglie offre agli appassionati di surf, bodyboard e windsurf un luogo rinomato per praticare il loro sport.\r\nNumerosi ristoranti, gelaterie e caffè vi accolgono di fronte alla spiaggia."
+    ],
+    "fr": [
+      "Face au quartier résidentiel de Pontaillac, cette plage familiale offre aux amateurs de surf, bodyboard, planche à voile, un spot réputé pour pratiquer la glisse.\r\nDe nombreux restaurants, glaciers et cafés vous accueillent face à la plage."
+    ],
+    "nl": [
+      "Tegenover de woonwijk Pontaillac biedt dit familiestrand liefhebbers van surfen, bodyboarden en windsurfen een gerenommeerde plek om hun sport te beoefenen.\r\nTalrijke restaurants, ijssalons en cafés verwelkomen u voor het strand."
+    ],
+    "es": [
+      "Frente a la zona residencial de Pontaillac, esta playa familiar ofrece a los aficionados al surf, al bodyboard y al windsurf un lugar de renombre para practicar su deporte.\r\nNumerosos restaurantes, heladerías y cafés le dan la bienvenida frente a la playa."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Plage de Pontaillac"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q117157467"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5ad963eb-13cd-3729-bba0-2de859b1a01f",
+      "schema:email": [
+        "contact@royanatlantique.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 08 21 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.royanatlantique.fr/sur-place/plages-charente-maritime/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/e73ecbef-b09d-310d-848c-b63c89066cd9",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/273e2738-49ed-3876-b6ba-ca5f774a10c5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/64da2fb4-e2a8-3637-b127-13cdb5825000",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a7d0d7fb-ad34-340a-b7f7-c2329916a523",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a9004001-2db1-320e-9683-59cabc4f8528",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b45a5b1c-3f12-31c8-a112-f713f84c52af",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Gegenüber dem Wohnviertel Pontaillac bietet dieser Familienstrand Surfern, Bodyboardern und Windsurfern einen bekannten Spot zum Gleiten.\r\nZahlreiche Restaurants, Eisdielen und Cafés empfangen Sie gegenüber dem Strand."
+        ],
+        "en": [
+          "Facing the residential area of Pontaillac, this family beach offers surfing, bodyboarding and windsurfing enthusiasts a renowned spot for surfing.\r\nNumerous restaurants, ice cream parlors and cafés welcome you in front of the beach."
+        ],
+        "it": [
+          "Di fronte alla zona residenziale di Pontaillac, questa spiaggia per famiglie offre agli appassionati di surf, bodyboard e windsurf un luogo rinomato per praticare il loro sport.\r\nNumerosi ristoranti, gelaterie e caffè vi accolgono di fronte alla spiaggia."
+        ],
+        "fr": [
+          "Face au quartier résidentiel de Pontaillac, cette plage familiale offre aux amateurs de surf, bodyboard, planche à voile, un spot réputé pour pratiquer la glisse.\r\nDe nombreux restaurants, glaciers et cafés vous accueillent face à la plage."
+        ],
+        "nl": [
+          "Tegenover de woonwijk Pontaillac biedt dit familiestrand liefhebbers van surfen, bodyboarden en windsurfen een gerenommeerde plek om hun sport te beoefenen.\r\nTalrijke restaurants, ijssalons en cafés verwelkomen u voor het strand."
+        ],
+        "es": [
+          "Frente a la zona residencial de Pontaillac, esta playa familiar ofrece a los aficionados al surf, al bodyboard y al windsurf un lugar de renombre para practicar su deporte.\r\nNumerosos restaurantes, heladerías y cafés le dan la bienvenida frente a la playa."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/c6ac78c5-943d-36c9-8015-81611ac7799f",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/dd765259-6764-3d55-99c0-75a7ebca4dd5",
+          "ebucore:isCoveredBy": "CC BY-SA 4.0",
+          "ebucore:title": {
+            "fr": [
+              "Plage de Pontaillac"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Patrice78500 (https://commons.wikimedia.org/wiki/User:Patrice78500)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/2861cdb4-fe71-353b-8814-7bc44b3ea6bc",
+          "ebucore:fileSize": [
+            3222768
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 2016,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/f/f9/Plage_de_Pontaillac.jpg"
+          ],
+          "ebucore:width": 4032,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Bathing",
+      "@type": [
+        "AccommodationAmenity",
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Baden"
+        ],
+        "pt": [
+          "Banho"
+        ],
+        "en": [
+          "Bathing"
+        ],
+        "it": [
+          "Bagno"
+        ],
+        "fr": [
+          "Baignade"
+        ],
+        "nl": [
+          "Zwemmen"
+        ],
+        "es": [
+          "Baño"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/455a1140-d500-33de-80ea-c0c25afd652c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/50cf407b-5682-316f-ab5f-07de830240dc",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/693710ed-7f0d-31d5-aab4-a9d4e3180075",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/952576a4-aa55-356a-ac49-075904b72c45",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b47e0c1b-2f47-3b22-ad9b-982b3f19a463",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/81d29aa5-e4c5-3818-8a2f-ccd5944ab0e1",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/4712d26f-aa8f-30f1-ba7f-c6479303fcca",
+          "schema:addressLocality": "Royan",
+          "schema:postalCode": "17200",
+          "schema:streetAddress": [
+            "Avenue de Pontaillac"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17306",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Royan"
+              ],
+              "pt": [
+                "Royan"
+              ],
+              "en": [
+                "Royan"
+              ],
+              "it": [
+                "Royan"
+              ],
+              "fr": [
+                "Royan"
+              ],
+              "nl": [
+                "Royan"
+              ],
+              "es": [
+                "Royan"
+              ]
+            },
+            "insee": "17306",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/430978aa-ce55-3c10-8628-9f1522658f0f",
+        "schema:latitude": "45.626553",
+        "schema:longitude": "-1.052198",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-05-31",
+  "lastUpdateDatatourisme": "2023-06-01T05:41:13.978Z"
+}

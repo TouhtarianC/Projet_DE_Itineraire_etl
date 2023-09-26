@@ -1,0 +1,396 @@
+{
+  "@id": "https://data.datatourisme.fr/13/87c6df75-5d93-3b4e-8798-5d77b9676376",
+  "dc:identifier": "5710983",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite",
+    "Temple"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die reformierte kirche gehörte früher zum schloss wurde von den ehemaligen besitzern, der de La Rochefoucauld familie der stadt hinterlassen."
+    ],
+    "en": [
+      "The protestant church used to be part of Montendre castle and was left to the town by its former proprietors, the de La Rochefoucauld family."
+    ],
+    "it": [
+      "È probabilmente alla famiglia La Rochefoucauld che si deve lo sviluppo della religione riformata a Montendre, una delle tre roccaforti concesse ai protestanti nel 1598 dall'Editto di Nantes."
+    ],
+    "fr": [
+      "C'est probablement à la famille des La Rochefoucauld que l'on doit le développement de la religion réformée à Montendre, l'une des 3 places fortes accordées aux protestants en 1598 par l'édit de Nantes."
+    ],
+    "nl": [
+      "Het is waarschijnlijk aan de familie La Rochefoucauld te danken dat in Montendre, een van de drie bolwerken die in 1598 bij het Edict van Nantes aan de protestanten werden toegekend, de gereformeerde godsdienst zich heeft ontwikkeld."
+    ],
+    "es": [
+      "Herencia dejada por la familia de la Rochefoucauld. Formaba parte antes del castillo."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Der protestantische Tempel"
+    ],
+    "en": [
+      "The protestant temple"
+    ],
+    "fr": [
+      "Le temple protestant"
+    ],
+    "es": [
+      "El templo protestante"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5ee2ff12-f40f-310f-bcd6-6e3e9941c94e",
+      "schema:email": [
+        "mairie@ville-montendre.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 49 20 84"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ville-montendre.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/4973cc45-ea67-31cf-95d7-ceec64c95504",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/bd6faf06-07b8-383a-a630-b9f4f11e496d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cb559aeb-f42d-353d-bbbb-227e01cc47c9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die reformierte kirche gehörte früher zum schloss wurde von den ehemaligen besitzern, der de La Rochefoucauld familie der stadt hinterlassen."
+        ],
+        "en": [
+          "The protestant church used to be part of Montendre castle and was left to the town by its former proprietors, the de La Rochefoucauld family."
+        ],
+        "it": [
+          "È probabilmente alla famiglia La Rochefoucauld che si deve lo sviluppo della religione riformata a Montendre, una delle tre roccaforti concesse ai protestanti nel 1598 dall'Editto di Nantes."
+        ],
+        "fr": [
+          "C'est probablement à la famille des La Rochefoucauld que l'on doit le développement de la religion réformée à Montendre, l'une des 3 places fortes accordées aux protestants en 1598 par l'édit de Nantes."
+        ],
+        "nl": [
+          "Het is waarschijnlijk aan de familie La Rochefoucauld te danken dat in Montendre, een van de drie bolwerken die in 1598 bij het Edict van Nantes aan de protestanten werden toegekend, de gereformeerde godsdienst zich heeft ontwikkeld."
+        ],
+        "es": [
+          "Herencia dejada por la familia de la Rochefoucauld. Formaba parte antes del castillo."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/3e918884-3d4d-3aaf-a0e1-4cc94794a7c5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/475bd7d9-c0da-3a87-8361-83a7f757a6a1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/1663b0d0-7c54-3f39-a07c-5897a63318d9",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/378e8625-ea69-32a3-98fc-dba623760950",
+          "schema:addressLocality": "Montendre",
+          "schema:postalCode": "17130",
+          "schema:streetAddress": [
+            "Centre ville"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17240",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Montendre"
+              ],
+              "pt": [
+                "Montendre"
+              ],
+              "en": [
+                "Montendre"
+              ],
+              "it": [
+                "Montendre"
+              ],
+              "fr": [
+                "Montendre"
+              ],
+              "nl": [
+                "Montendre"
+              ],
+              "es": [
+                "Montendre"
+              ]
+            },
+            "insee": "17240",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/23bae8a0-46cf-3002-b34a-a4a6ad37d32c",
+        "schema:latitude": "45.283726",
+        "schema:longitude": "-0.409691",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-03-01",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.909Z"
+}

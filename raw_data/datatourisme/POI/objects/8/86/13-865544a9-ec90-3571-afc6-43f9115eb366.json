@@ -1,0 +1,463 @@
+{
+  "@id": "https://data.datatourisme.fr/13/865544a9-ec90-3571-afc6-43f9115eb366",
+  "dc:identifier": "6001574",
+  "@type": [
+    "CulturalSite",
+    "LevyOrDike",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RemarkableBuilding"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Dieses Schleusensystem soll aus dem Jahr 1849 stammen. Ursprünglich aus Holz gebaut, markiert es die Verbindung zwischen der Sèvre Niortaise und dem Mignon. Der Damm wird von einer Schleuse mit Schleusenkammern verdoppelt, die die Durchfahrt von Schiffen ermöglicht."
+    ],
+    "en": [
+      "This system of locks dates back to 1849. Originally built in wood, it marks the junction between the Sèvre Niortaise and the Mignon. The dam is doubled by a lock with a sluice allowing the passage of boats."
+    ],
+    "it": [
+      "Questo sistema di chiuse risale al 1849. Originariamente costruito in legno, segna la congiunzione tra la Sèvre Niortaise e la Mignon. La diga è raddoppiata da una chiusa con una paratoia che consente il passaggio delle imbarcazioni."
+    ],
+    "fr": [
+      "Ce système d'écluses daterait de 1849. Primitivement construit en bois, il marque la jonction entre la Sèvre Niortaise et le Mignon. Le barrage est doublé d'une écluse à sas permettant le passage des bateaux."
+    ],
+    "es": [
+      "Este sistema de esclusas se remonta a 1849. Construido originalmente en madera, marca la unión entre el Sèvre Niortaise y el Mignon. La presa está doblada por una esclusa con una compuerta que permite el paso de los barcos."
+    ],
+    "nl": [
+      "Dit systeem van sluizen dateert uit 1849. Oorspronkelijk gebouwd in hout, markeert het de kruising tussen de Sèvre Niortaise en de Mignon. De dam wordt verdubbeld door een sluis die de doorvaart van boten mogelijk maakt."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Barrage et écluses de Bazoin"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/296472c9-542a-34d4-b88d-543508116cbc",
+    "dc:identifier": "2070",
+    "schema:email": [
+      "aurore.mdc@aunis-maraispoitevin.com",
+      "madeleine.dasilva@aunis-maraispoitevin.com"
+    ],
+    "schema:legalName": "Office de Tourisme Aunis Marais Poitevin",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.aunis-maraispoitevin.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8d0d1aff-14f7-3e96-b36b-2ed53aedbc8f",
+      "schema:email": [
+        "gestion.domaine@sevre-niortaise.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 49 09 01 55",
+        "+33 6 64 46 19 41"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.sevre-niortaise.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/e041afae-a3e3-308e-bb28-d6713d2fb1cd",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3d26e027-ebd8-3a76-bed8-f822dac5efc2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5054d277-47d2-3833-884f-31d9cccf2b4c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5531fb9a-77e5-3e4a-9c20-958eb142bf14",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7fe1e331-3da2-300b-97c8-17964647c633",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fd2e05c2-d70c-31f0-ae5b-88a56743dcbe",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Dieses Schleusensystem soll aus dem Jahr 1849 stammen. Ursprünglich aus Holz gebaut, markiert es die Verbindung zwischen der Sèvre Niortaise und dem Mignon. Der Damm wird von einer Schleuse mit Schleusenkammern verdoppelt, die die Durchfahrt von Schiffen ermöglicht."
+        ],
+        "en": [
+          "This system of locks dates back to 1849. Originally built in wood, it marks the junction between the Sèvre Niortaise and the Mignon. The dam is doubled by a lock with a sluice allowing the passage of boats."
+        ],
+        "it": [
+          "Questo sistema di chiuse risale al 1849. Originariamente costruito in legno, segna la congiunzione tra la Sèvre Niortaise e la Mignon. La diga è raddoppiata da una chiusa con una paratoia che consente il passaggio delle imbarcazioni."
+        ],
+        "fr": [
+          "Ce système d'écluses daterait de 1849. Primitivement construit en bois, il marque la jonction entre la Sèvre Niortaise et le Mignon. Le barrage est doublé d'une écluse à sas permettant le passage des bateaux."
+        ],
+        "es": [
+          "Este sistema de esclusas se remonta a 1849. Construido originalmente en madera, marca la unión entre el Sèvre Niortaise y el Mignon. La presa está doblada por una esclusa con una compuerta que permite el paso de los barcos."
+        ],
+        "nl": [
+          "Dit systeem van sluizen dateert uit 1849. Oorspronkelijk gebouwd in hout, markeert het de kruising tussen de Sèvre Niortaise en de Mignon. De dam wordt verdubbeld door een sluis die de doorvaart van boten mogelijk maakt."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/396decc6-c9fc-3e92-a328-52ed918e8350",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4046a231-41d4-3821-bdbf-c4d28cc58662",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/65663588-0f5f-32e2-a31b-92245c460f71",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/69dfcb26-462e-3dba-9961-35ba14b6cfc5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/deef87be-070f-34dd-9132-fca69f012100",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/8f4b123b-1163-3bf6-8fb3-10cfe48c628c",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/13bface5-71b6-33db-8283-7d35f6af6207",
+          "schema:addressLocality": "La Ronde",
+          "schema:postalCode": "17170",
+          "schema:streetAddress": [
+            "Bazoin"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17303",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "La Ronde"
+              ],
+              "pt": [
+                "La Ronde"
+              ],
+              "en": [
+                "La Ronde"
+              ],
+              "it": [
+                "La Ronde"
+              ],
+              "fr": [
+                "La Ronde"
+              ],
+              "nl": [
+                "La Ronde"
+              ],
+              "es": [
+                "La Ronde"
+              ]
+            },
+            "insee": "17303",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/8a4c3777-f54e-3772-918f-e32cfffeac5a",
+        "schema:latitude": "46.317829",
+        "schema:longitude": "-0.777703",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/a31bfa88-8451-397d-9df1-b4fcba0f5590",
+      "schema:email": [
+        "madeleine.dasilva@aunis-maraispoitevin.com"
+      ],
+      "schema:legalName": "Office de Tourisme Aunis Marais Poitevin",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.aunis-maraispoitevin.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-12-06",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.834Z"
+}

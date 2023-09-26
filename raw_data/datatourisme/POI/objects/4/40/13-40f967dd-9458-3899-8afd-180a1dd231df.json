@@ -1,0 +1,459 @@
+{
+  "@id": "https://data.datatourisme.fr/13/40f967dd-9458-3899-8afd-180a1dd231df",
+  "dc:identifier": "5782966",
+  "@type": [
+    "CivilCemetery",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RemembranceSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Kommunaler Friedhof der Gemeinde Mornac-sur-Seudre.\r\nAnzahl der Gräber: 66"
+    ],
+    "en": [
+      "Communal cemetery of the commune of Mornac-sur-Seudre.\r\nNumber of graves : 66"
+    ],
+    "it": [
+      "Cimitero comunale del comune di Mornac-sur-Seudre.\r\nNumero di tombe: 66"
+    ],
+    "fr": [
+      "Cimetière communal de la commune de Mornac-sur-Seudre.\r\nNombre de tombes : 66"
+    ],
+    "nl": [
+      "Gemeenschappelijke begraafplaats van de gemeente Mornac-sur-Seudre.\r\nAantal graven : 66"
+    ],
+    "es": [
+      "Cementerio comunal del municipio de Mornac-sur-Seudre.\r\nNúmero de tumbas : 66"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Cimetière Communal de Mornac-sur-Seudre"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8379b2f7-5e3b-3ee9-9fdb-a5cb01b1eb5d",
+      "schema:telephone": [
+        "+33 5 46 22 75 13"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/37b8ed1d-6772-3287-8f9e-b6645c0f7302",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/64674310-ccda-3ced-a6c0-7dc2d2cfd590",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6c5365bb-dc75-3da8-b1df-f50e421bed0e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/80ea94d5-9078-314e-bf9b-bcf2a4aff1c3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9e262c00-6dfb-3ec1-8185-abd6c076dfd9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e85dd8ea-b169-3a52-a99a-00dd6c03ea6f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Kommunaler Friedhof der Gemeinde Mornac-sur-Seudre.\r\nAnzahl der Gräber: 66"
+        ],
+        "en": [
+          "Communal cemetery of the commune of Mornac-sur-Seudre.\r\nNumber of graves : 66"
+        ],
+        "it": [
+          "Cimitero comunale del comune di Mornac-sur-Seudre.\r\nNumero di tombe: 66"
+        ],
+        "fr": [
+          "Cimetière communal de la commune de Mornac-sur-Seudre.\r\nNombre de tombes : 66"
+        ],
+        "nl": [
+          "Gemeenschappelijke begraafplaats van de gemeente Mornac-sur-Seudre.\r\nAantal graven : 66"
+        ],
+        "es": [
+          "Cementerio comunal del municipio de Mornac-sur-Seudre.\r\nNúmero de tumbas : 66"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/1d354178-594a-3685-9fed-5340900d83ce",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2e81a6b0-7d0c-32e6-9fcf-8057f935afa1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4f198421-c9e7-3f28-bbe1-37c87998a6df",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/effa8415-048c-327e-901d-d3bc501cb399",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f6925e36-d6b9-32f9-b7c9-88a506c58ad7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/909cc4ba-32ad-3318-8e46-eccc45ee9183",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/bd71910b-54bb-3d3d-bc37-b6181ab8efef",
+          "schema:addressLocality": "Mornac-sur-Seudre",
+          "schema:postalCode": "17113",
+          "schema:streetAddress": [
+            "Rue du Cimetière"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17247",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Mornac-sur-Seudre"
+              ],
+              "pt": [
+                "Mornac-sur-Seudre"
+              ],
+              "en": [
+                "Mornac-sur-Seudre"
+              ],
+              "it": [
+                "Mornac-sur-Seudre"
+              ],
+              "fr": [
+                "Mornac-sur-Seudre"
+              ],
+              "nl": [
+                "Mornac-sur-Seudre"
+              ],
+              "es": [
+                "Mornac-sur-Seudre"
+              ]
+            },
+            "insee": "17247",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/1c12941a-5b7d-3456-b7c9-218a5dee0ba4",
+        "schema:latitude": "45.70823",
+        "schema:longitude": "-1.027884",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-08-06",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.819Z"
+}

@@ -1,0 +1,463 @@
+{
+  "@id": "https://data.datatourisme.fr/13/2ec46661-fb4b-362f-98b0-95bc74442e4b",
+  "dc:identifier": "5998808",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Kirche Saint Etienne in Aigrefeuille d'Aunis erlebte verschiedene Bauperioden.\r\nIn ihren Mauern sind Überreste aus dem 12., 13., 14., 15., 16. und 17. Jahrhundert erhalten geblieben. Die romanische Kunst ist in diesem Bauwerk durch sein Querschiff mit gebrochenem Tonnengewölbe präsent."
+    ],
+    "en": [
+      "The church of Saint Etienne d'Aigrefeuille d'Aunis has known different periods of construction.\r\nIts walls have preserved vestiges of the 12th, 13th, 14th, 15th, 16th and 17th centuries. The Romanesque art is present in this building by its transept with broken barrel vaults."
+    ],
+    "it": [
+      "La chiesa di Saint Etienne d'Aigrefeuille d'Aunis fu costruita in tempi diversi.\r\nLe sue mura hanno conservato resti del XII, XIII, XIV, XV, XVI e XVII secolo. L'arte romanica è presente in questo edificio con il suo transetto con volte a botte spezzate."
+    ],
+    "fr": [
+      "L'église Saint Etienne d'Aigrefeuille d'Aunis connut différentes périodes de construction.\r\nSes murs ont conservé des vestiges des 12e, 13e, 14e, 15e, 16e et 17e siècles. L'art roman est présent dans cet édifice par son transept à voûtes en berceau brisé."
+    ],
+    "es": [
+      "La iglesia de Saint Etienne d'Aigrefeuille d'Aunis fue construida en diferentes épocas.\r\nSus murallas conservan restos de los siglos XII, XIII, XIV, XV, XVI y XVII. El arte románico está presente en este edificio con su crucero con bóvedas de cañón roto."
+    ],
+    "nl": [
+      "De kerk Saint Etienne d'Aigrefeuille d'Aunis werd in verschillende tijden gebouwd.\r\nVan de muren zijn overblijfselen uit de 12e, 13e, 14e, 15e, 16e en 17e eeuw bewaard gebleven. Romaanse kunst is aanwezig in dit gebouw met zijn dwarsschip met gebroken tongewelven."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Eglise Saint Etienne"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/296472c9-542a-34d4-b88d-543508116cbc",
+    "dc:identifier": "2070",
+    "schema:email": [
+      "aurore.mdc@aunis-maraispoitevin.com",
+      "madeleine.dasilva@aunis-maraispoitevin.com"
+    ],
+    "schema:legalName": "Office de Tourisme Aunis Marais Poitevin",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.aunis-maraispoitevin.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/0994591d-b4f1-305f-a66c-e57ffbc5f940",
+      "schema:email": [
+        "paroisse.aigrefeuille@orange.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 27 53 53",
+        "+33 5 46 35 51 01"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.paroisse-aigrefeuille.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/d4ed610a-63c3-3afd-accb-c97235d7029e",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/230e4690-f479-36b3-9650-981cd3bc0003",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/286e3e23-ae23-3488-b503-b1f7b4ca65f5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2caa3f99-21e7-37d0-ac32-1755dac535e3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b16d942b-c07e-34b4-9159-4d9e32f2b4a7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d4bcbd8f-9bb2-339b-a9bc-4f3eaa1c8154",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Kirche Saint Etienne in Aigrefeuille d'Aunis erlebte verschiedene Bauperioden.\r\nIn ihren Mauern sind Überreste aus dem 12., 13., 14., 15., 16. und 17. Jahrhundert erhalten geblieben. Die romanische Kunst ist in diesem Bauwerk durch sein Querschiff mit gebrochenem Tonnengewölbe präsent."
+        ],
+        "en": [
+          "The church of Saint Etienne d'Aigrefeuille d'Aunis has known different periods of construction.\r\nIts walls have preserved vestiges of the 12th, 13th, 14th, 15th, 16th and 17th centuries. The Romanesque art is present in this building by its transept with broken barrel vaults."
+        ],
+        "it": [
+          "La chiesa di Saint Etienne d'Aigrefeuille d'Aunis fu costruita in tempi diversi.\r\nLe sue mura hanno conservato resti del XII, XIII, XIV, XV, XVI e XVII secolo. L'arte romanica è presente in questo edificio con il suo transetto con volte a botte spezzate."
+        ],
+        "fr": [
+          "L'église Saint Etienne d'Aigrefeuille d'Aunis connut différentes périodes de construction.\r\nSes murs ont conservé des vestiges des 12e, 13e, 14e, 15e, 16e et 17e siècles. L'art roman est présent dans cet édifice par son transept à voûtes en berceau brisé."
+        ],
+        "es": [
+          "La iglesia de Saint Etienne d'Aigrefeuille d'Aunis fue construida en diferentes épocas.\r\nSus murallas conservan restos de los siglos XII, XIII, XIV, XV, XVI y XVII. El arte románico está presente en este edificio con su crucero con bóvedas de cañón roto."
+        ],
+        "nl": [
+          "De kerk Saint Etienne d'Aigrefeuille d'Aunis werd in verschillende tijden gebouwd.\r\nVan de muren zijn overblijfselen uit de 12e, 13e, 14e, 15e, 16e en 17e eeuw bewaard gebleven. Romaanse kunst is aanwezig in dit gebouw met zijn dwarsschip met gebroken tongewelven."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/5f60397f-97b7-3c42-9a2d-28f5fff180fe",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/95768f9c-b5a5-3e78-8eed-2863bfcf4f3b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ba118023-ff02-3079-b1ba-f2ad7f8d517e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c0a6b2dd-7393-3703-98e0-7991e7c4b5ad",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f7409fd9-61e9-39e7-a03a-cdc1d9129d02",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/4a3ac98d-75b7-31e8-a28b-655dd7f76bcf",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/9b845d37-4b3d-33d6-9c5b-ff1b89913709",
+          "schema:addressLocality": "Aigrefeuille-d'Aunis",
+          "schema:postalCode": "17290",
+          "schema:streetAddress": [
+            "32 place de la République"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17003",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Aigrefeuille-d'Aunis"
+              ],
+              "pt": [
+                "Aigrefeuille-d'Aunis"
+              ],
+              "en": [
+                "Aigrefeuille-d'Aunis"
+              ],
+              "it": [
+                "Aigrefeuille-d'Aunis"
+              ],
+              "fr": [
+                "Aigrefeuille-d'Aunis"
+              ],
+              "nl": [
+                "Aigrefeuille-d'Aunis"
+              ],
+              "es": [
+                "Aigrefeuille-d'Aunis"
+              ]
+            },
+            "insee": "17003",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/327a6f47-f4fe-3694-bf41-188409d80926",
+        "schema:latitude": "46.117454",
+        "schema:longitude": "-0.93326",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/a31bfa88-8451-397d-9df1-b4fcba0f5590",
+      "schema:email": [
+        "madeleine.dasilva@aunis-maraispoitevin.com"
+      ],
+      "schema:legalName": "Office de Tourisme Aunis Marais Poitevin",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.aunis-maraispoitevin.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-08-24",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.656Z"
+}

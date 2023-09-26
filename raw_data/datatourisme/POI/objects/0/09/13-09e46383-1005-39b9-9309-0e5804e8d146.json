@@ -1,0 +1,463 @@
+{
+  "@id": "https://data.datatourisme.fr/13/09e46383-1005-39b9-9309-0e5804e8d146",
+  "dc:identifier": "6036406",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Kultur-Café, Shop, Aufführungen, Ausstellungen..."
+    ],
+    "en": [
+      "Café-culture, store, shows, exhibitions..."
+    ],
+    "it": [
+      "Caffè culturale, negozio, spettacoli, mostre..."
+    ],
+    "fr": [
+      "Café-culture, boutique, spectacles, expos..."
+    ],
+    "nl": [
+      "Cultuurcafé, winkel, voorstellingen, tentoonstellingen..."
+    ],
+    "es": [
+      "Café cultural, tienda, espectáculos, exposiciones..."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Le Patio de La Roche"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/2d405b36-7158-33f1-ad7c-1e31a96b3af3",
+    "dc:identifier": "2062",
+    "schema:email": [
+      "a.bucciero@rochefoucauld-perigord.fr",
+      "j.aksahin@rochefoucauld-perigord.fr"
+    ],
+    "schema:legalName": "Office de Tourisme La Rochefoucauld Porte du Périgord",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://tourisme.rochefoucauld-perigord.fr/",
+      "https://tourisme.rochefoucauld-perigord.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/e5ee9588-e638-3acd-8570-bf84ad8e0a6b",
+      "schema:email": [
+        "contact@lepatiodelaroche.com",
+        "mauge.valerie@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 5 45 61 34 06",
+        "+33 6 15 09 18 48"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://lepatiodelaroche.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/2f4076cc-bd18-3fe8-89b4-551353242782",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0a124ca2-ca0c-3229-b577-b60c9761771c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/1d3827b3-3aa8-32ca-8691-40de074ba3cf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/42fb24b7-ce9b-3b0c-9d6b-3ddf870b138d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/520089b0-08d2-394b-bcce-8412c8299676",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/64539af0-a65f-3588-b2f7-a34ebcbfeedf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Kultur-Café, Shop, Aufführungen, Ausstellungen..."
+        ],
+        "en": [
+          "Café-culture, store, shows, exhibitions..."
+        ],
+        "it": [
+          "Caffè culturale, negozio, spettacoli, mostre..."
+        ],
+        "fr": [
+          "Café-culture, boutique, spectacles, expos..."
+        ],
+        "nl": [
+          "Cultuurcafé, winkel, voorstellingen, tentoonstellingen..."
+        ],
+        "es": [
+          "Café cultural, tienda, espectáculos, exposiciones..."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/31876434-1329-3426-98cb-65b2033da2d9",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/394fc71a-87db-31a5-97ef-b2ec6f8a27bc",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/47e02738-a836-37dd-9137-3face2a8a2dd",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f13dce91-aa33-31c9-b4a9-8635d41af139",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f67c91ab-3d2d-3b95-ae6c-763cdbfcea63",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/e6b052ca-5eb5-30ee-869a-45444903adb6",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/9f50562b-5d3c-3df8-a0d6-04ecc3185724",
+          "schema:addressLocality": "La Rochefoucauld-en-Angoumois",
+          "schema:postalCode": "16110",
+          "schema:streetAddress": [
+            "38-40 rue des Halles"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16281",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "La Rochefoucauld-en-Angoumois"
+              ],
+              "pt": [
+                "La Rochefoucauld-en-Angoumois"
+              ],
+              "en": [
+                "La Rochefoucauld-en-Angoumois"
+              ],
+              "it": [
+                "La Rochefoucauld-en-Angoumois"
+              ],
+              "fr": [
+                "La Rochefoucauld-en-Angoumois"
+              ],
+              "nl": [
+                "La Rochefoucauld-en-Angoumois"
+              ],
+              "es": [
+                "La Rochefoucauld-en-Angoumois"
+              ]
+            },
+            "insee": "16281",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/8c830799-fe73-3723-ba04-80836aab1aaf",
+        "schema:latitude": "45.74111",
+        "schema:longitude": "0.384045",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/d8487018-17a3-3a77-bf06-0a8864ca0573",
+      "schema:email": [
+        "j.aksahin@rochefoucauld-perigord.fr"
+      ],
+      "schema:legalName": "Office de Tourisme La Rochefoucauld Porte du Périgord",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://tourisme.rochefoucauld-perigord.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-01-11",
+  "lastUpdateDatatourisme": "2023-05-26T05:53:38.446Z"
+}

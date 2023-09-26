@@ -1,0 +1,433 @@
+{
+  "@id": "https://data.datatourisme.fr/13/8d2b8084-48c9-31d5-8344-5aa80a83ce43",
+  "dc:identifier": "5772313",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Stadtbibliothek von Saint-Sulpice-de-Royan, die sich im Centre Social Georges Brassens befindet."
+    ],
+    "en": [
+      "Municipal library of Saint-Sulpice-de-Royan, located in the Georges Brassens Social Center."
+    ],
+    "it": [
+      "Biblioteca comunale di Saint-Sulpice-de-Royan, situata nel Centro sociale Georges Brassens."
+    ],
+    "fr": [
+      "Bibliothèque municipale de Saint-Sulpice-de-Royan, située dans le Centre Social Georges Brassens."
+    ],
+    "nl": [
+      "Gemeentelijke bibliotheek van Saint-Sulpice-de-Royan, gevestigd in het Sociaal Centrum Georges Brassens."
+    ],
+    "es": [
+      "Biblioteca municipal de Saint-Sulpice-de-Royan, situada en el Centro Social Georges Brassens."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Bibliothèque Municipale de Saint-Sulpice"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3bc43716-6367-3175-b71a-f0c44f971634",
+      "schema:email": [
+        "csgbrassens@wanadoo.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 23 02 28"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/2cd6bdd8-798b-3789-9055-42b5ed4f2553",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/4ff9b747-c590-3fab-8f84-2c84e9123bc8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/70d4c301-83dc-31d9-8f1b-2e2b1b22bf9b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8ca78b3b-768a-3125-a05f-ff191725dda1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a9a5a7d8-eb6d-3911-bbb5-ce398b979f42",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c6657af5-a6d7-3f36-9c99-b50b9e04c56e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Stadtbibliothek von Saint-Sulpice-de-Royan, die sich im Centre Social Georges Brassens befindet."
+        ],
+        "en": [
+          "Municipal library of Saint-Sulpice-de-Royan, located in the Georges Brassens Social Center."
+        ],
+        "it": [
+          "Biblioteca comunale di Saint-Sulpice-de-Royan, situata nel Centro sociale Georges Brassens."
+        ],
+        "fr": [
+          "Bibliothèque municipale de Saint-Sulpice-de-Royan, située dans le Centre Social Georges Brassens."
+        ],
+        "nl": [
+          "Gemeentelijke bibliotheek van Saint-Sulpice-de-Royan, gevestigd in het Sociaal Centrum Georges Brassens."
+        ],
+        "es": [
+          "Biblioteca municipal de Saint-Sulpice-de-Royan, situada en el Centro Social Georges Brassens."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/4c19f43e-3e5d-3f2f-b229-7e72ee0f8187",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4dbfcc2b-8718-3f70-92c4-d61308184650",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4ef83805-5f90-3dfb-b038-fe1c875ec862",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5d2ea4b7-a51f-306f-ac91-3c859fdb27e1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cb33ec2a-fdf5-3e53-8c72-56f1da1b470b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/e81cfc7a-3c4c-3411-bce0-3357151a6895",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d9085572-32a2-3358-964e-a57f2225dd0e",
+          "schema:addressLocality": "Saint-Sulpice-de-Royan",
+          "schema:postalCode": "17200",
+          "schema:streetAddress": [
+            "6 place Jacques Prévot",
+            "Centre Social Georges Brassens"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17409",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Sulpice-de-Royan"
+              ],
+              "pt": [
+                "Saint-Sulpice-de-Royan"
+              ],
+              "en": [
+                "Saint-Sulpice-de-Royan"
+              ],
+              "it": [
+                "Saint-Sulpice-de-Royan"
+              ],
+              "fr": [
+                "Saint-Sulpice-de-Royan"
+              ],
+              "nl": [
+                "Saint-Sulpice-de-Royan"
+              ],
+              "es": [
+                "Saint-Sulpice-de-Royan"
+              ]
+            },
+            "insee": "17409",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/639ed888-8616-37c4-aa56-070866c3692a",
+        "schema:latitude": "45.671463",
+        "schema:longitude": "-1.012661",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-08-05",
+  "lastUpdateDatatourisme": "2023-02-01T18:07:36.076Z"
+}

@@ -1,0 +1,464 @@
+{
+  "@id": "https://data.datatourisme.fr/13/6cbffe9a-951a-36f4-acf8-99e52e2375f4",
+  "dc:identifier": "5694055",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Eine Kirche als Zeuge der großen Konflikte der Geschichte."
+    ],
+    "en": [
+      "A church, witness to the great conflicts of history."
+    ],
+    "it": [
+      "Una chiesa, testimone dei grandi conflitti della storia."
+    ],
+    "fr": [
+      "Une église, témoin des grands conflits de l'Histoire."
+    ],
+    "es": [
+      "Una iglesia, testigo de los grandes conflictos de la historia."
+    ],
+    "nl": [
+      "Een kerk, getuige van de grote conflicten in de geschiedenis."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Église Saint-Étienne"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/2d405b36-7158-33f1-ad7c-1e31a96b3af3",
+    "dc:identifier": "2062",
+    "schema:email": [
+      "a.bucciero@rochefoucauld-perigord.fr",
+      "j.aksahin@rochefoucauld-perigord.fr"
+    ],
+    "schema:legalName": "Office de Tourisme La Rochefoucauld Porte du Périgord",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://tourisme.rochefoucauld-perigord.fr/",
+      "https://tourisme.rochefoucauld-perigord.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/030662d2-ca4a-3264-845f-55f113efd8d8",
+      "schema:email": [
+        "paroissedemontbron@orange.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 70 71 82"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://paroisse-staugustin16.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/a198b191-48ef-3e5a-957b-358325a20cb1",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/22b46516-5886-3933-82f7-2258a25284ee",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/76fdfe50-2f92-38ee-9dd6-c7c0b3e549db",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7c948a8b-6de0-3a88-b709-75edfa66e98b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/904962bb-8412-386d-9cd3-7b394f21e70e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a0d585b5-20e8-3344-99cc-c7b3b0d51395",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Eine Kirche als Zeuge der großen Konflikte der Geschichte."
+        ],
+        "en": [
+          "A church, witness to the great conflicts of history."
+        ],
+        "it": [
+          "Una chiesa, testimone dei grandi conflitti della storia."
+        ],
+        "fr": [
+          "Une église, témoin des grands conflits de l'Histoire."
+        ],
+        "es": [
+          "Una iglesia, testigo de los grandes conflictos de la historia."
+        ],
+        "nl": [
+          "Een kerk, getuige van de grote conflicten in de geschiedenis."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/055e0fff-6fd5-39df-95ab-cb76658fc74e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/1acdf608-4f21-3ccc-88b0-4493db5ed09a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/33499fae-c98e-3a54-8857-40b3484002b1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6af663e2-8660-3ea0-9d36-1a856d0bf31b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/dfa94681-43a7-3b83-988a-62af8cafb2d7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/bdc43115-6fff-3b67-8648-1fb5e3291d3b",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/eaf7a106-bffc-3ef2-96c8-57c55885cc7a",
+          "schema:addressLocality": "Écuras",
+          "schema:postalCode": "16220",
+          "schema:streetAddress": [
+            "Le Bourg"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16124",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Écuras"
+              ],
+              "pt": [
+                "Écuras"
+              ],
+              "en": [
+                "Écuras"
+              ],
+              "it": [
+                "Écuras"
+              ],
+              "fr": [
+                "Écuras"
+              ],
+              "nl": [
+                "Écuras"
+              ],
+              "es": [
+                "Écuras"
+              ]
+            },
+            "insee": "16124",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/0c521ea7-c2a3-3222-8c1c-dcef8a3ba881",
+        "schema:latitude": "45.68391",
+        "schema:longitude": "0.567593",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/6c2d0e2f-11ef-3a7e-a27e-8252b13e7c06",
+      "schema:email": [
+        "a.bucciero@rochefoucauld-perigord.fr",
+        "j.aksahin@rochefoucauld-perigord.fr"
+      ],
+      "schema:legalName": "Office de Tourisme La Rochefoucauld Porte du Périgord",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://tourisme.rochefoucauld-perigord.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2020-12-18",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.713Z"
+}

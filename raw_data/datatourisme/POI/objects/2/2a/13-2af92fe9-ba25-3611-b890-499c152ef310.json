@@ -1,0 +1,429 @@
+{
+  "@id": "https://data.datatourisme.fr/13/2af92fe9-ba25-3611-b890-499c152ef310",
+  "dc:identifier": "5962506",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Entdecken Sie die romanische Architektur der Kirche von Ruffec."
+    ],
+    "en": [
+      "Discover roman architecture in Ruffec's church."
+    ],
+    "it": [
+      "Scoprite l'architettura romanica della chiesa di Ruffec."
+    ],
+    "fr": [
+      "Découvrez l'architecture romane de l'église de Ruffec."
+    ],
+    "nl": [
+      "Ontdek de Romaanse architectuur van de kerk in Ruffec."
+    ],
+    "es": [
+      "Descubra la arquitectura románica de la iglesia de Ruffec."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Église prieurale Saint-André"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/a96d3afe-c184-366b-beca-7a9f989fc7e7",
+    "dc:identifier": "2056",
+    "schema:email": [
+      "infotouristique@destination-nordcharente.com"
+    ],
+    "schema:legalName": "Office de tourisme Destination Nord Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ruffecois-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/7c3fedf5-426a-31f6-b6b4-1d81a0855cd2",
+      "schema:telephone": [
+        "+33 5 45 31 01 75"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/61fbf65e-5901-30b7-88ea-fe612c04c9b8",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1eb2d90b-2518-3fdd-844f-e0047aae1aa6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/41150711-646b-3f36-a96e-ca08ba3176df",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ac175b95-fdb5-311a-926f-a9340006c6f0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/df30df0d-af30-36d0-8517-cdee8d22e3af",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Entdecken Sie die romanische Architektur der Kirche von Ruffec."
+        ],
+        "en": [
+          "Discover roman architecture in Ruffec's church."
+        ],
+        "it": [
+          "Scoprite l'architettura romanica della chiesa di Ruffec."
+        ],
+        "fr": [
+          "Découvrez l'architecture romane de l'église de Ruffec."
+        ],
+        "nl": [
+          "Ontdek de Romaanse architectuur van de kerk in Ruffec."
+        ],
+        "es": [
+          "Descubra la arquitectura románica de la iglesia de Ruffec."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/3b0eb37a-4b6a-349a-a4c9-6e2c87392a12",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a19d9384-920f-3c83-830b-adc902adb9da",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a88b063d-fe44-3ec2-9eda-e5d1f2bfc168",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b56fda87-61c6-3edd-8858-6378f94fea91",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/48ca4d77-6605-304f-b84b-68cd93a0b436",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/39fea949-6470-336a-81fe-6ef6c921e7de",
+          "schema:addressLocality": "Ruffec",
+          "schema:postalCode": "16700",
+          "schema:streetAddress": [
+            "Rue St André"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16292",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ruffec"
+              ],
+              "pt": [
+                "Ruffec"
+              ],
+              "en": [
+                "Ruffec"
+              ],
+              "it": [
+                "Ruffec"
+              ],
+              "fr": [
+                "Ruffec"
+              ],
+              "nl": [
+                "Ruffec"
+              ],
+              "es": [
+                "Ruffec"
+              ]
+            },
+            "insee": "16292",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/6e32f408-c423-36b2-912b-690981dfd49d",
+        "schema:latitude": "45.939492",
+        "schema:longitude": "0.313549",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/515fb63a-6beb-307d-a0d6-d59e3e2d3f76",
+      "schema:email": [
+        "infotouristique@destination-nordcharente.com"
+      ],
+      "schema:legalName": "Office de tourisme Destination Nord Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ruffecois-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-20",
+  "lastUpdateDatatourisme": "2023-07-21T05:51:39.311Z"
+}

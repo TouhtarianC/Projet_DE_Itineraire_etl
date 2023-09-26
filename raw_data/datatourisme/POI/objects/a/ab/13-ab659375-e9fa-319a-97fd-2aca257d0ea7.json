@@ -1,0 +1,404 @@
+{
+  "@id": "https://data.datatourisme.fr/13/ab659375-e9fa-319a-97fd-2aca257d0ea7",
+  "dc:identifier": "5761186",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Mehr als 7 800 Bücher stehen Ihnen zur Verfügung."
+    ],
+    "en": [
+      "More than 7,800 books are at your disposal."
+    ],
+    "it": [
+      "Sono disponibili oltre 7.800 libri."
+    ],
+    "fr": [
+      "Plus de 7 800 livres sont mis à votre disposition."
+    ],
+    "es": [
+      "Hay más de 7.800 libros disponibles."
+    ],
+    "nl": [
+      "Er zijn meer dan 7.800 boeken beschikbaar."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Bibliothek in Port des Barques"
+    ],
+    "en": [
+      "Library of Port des Barques"
+    ],
+    "fr": [
+      "Bibliothèque de Port des Barques"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/9afefc52-942c-383c-bc1f-14b2139b09ba",
+    "dc:identifier": "2055",
+    "schema:email": [
+      "chloe.mailler@rochefort-ocean.com",
+      "christine.nourisson@rochefort-ocean.com",
+      "chrystelle.ecale@rochefort-ocean.com",
+      "lea.origlia@rochefort-ocean.com",
+      "sandrine.bouron@rochefort-ocean.com"
+    ],
+    "schema:legalName": "Office de Tourisme Rochefort Océan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.rochefort-ocean.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/606fc349-9f67-3933-a2ff-2dc111f65df4",
+      "schema:email": [
+        "bibli.pdb@laposte.net"
+      ],
+      "schema:telephone": [
+        "+33 5 46 83 39 64"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://bibli-pdb.fr/",
+        "https://mediatheques.agglo-rochefortocean.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/32982d07-ab50-335f-bd1a-cfc4adb82d7d",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/092b811b-0080-31ba-8062-b7bef776aa91",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/0fd86e3d-1cc7-30bc-b679-47349cc20d2e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/24b7b022-d7b3-3180-836f-b6e3ce79d7b7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Mehr als 7 800 Bücher stehen Ihnen zur Verfügung."
+        ],
+        "en": [
+          "More than 7,800 books are at your disposal."
+        ],
+        "it": [
+          "Sono disponibili oltre 7.800 libri."
+        ],
+        "fr": [
+          "Plus de 7 800 livres sont mis à votre disposition."
+        ],
+        "es": [
+          "Hay más de 7.800 libros disponibles."
+        ],
+        "nl": [
+          "Er zijn meer dan 7.800 boeken beschikbaar."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0fdb2099-cb1e-326f-b947-39bdffdd905a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2e5b37d4-6877-3a81-92e9-8afc92c5f193",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4e00dbc6-6bae-3a90-b35e-fbd6b3d15f06",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/280c63d4-32c9-368e-ab58-e0fab5d0126e",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/fe7fa105-2ef8-3ad5-ae00-e44a92213a55",
+          "schema:addressLocality": "Port-des-Barques",
+          "schema:postalCode": "17730",
+          "schema:streetAddress": [
+            "avenue De Gaulle"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17484",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Port-des-Barques"
+              ],
+              "pt": [
+                "Port-des-Barques"
+              ],
+              "en": [
+                "Port-des-Barques"
+              ],
+              "it": [
+                "Port-des-Barques"
+              ],
+              "fr": [
+                "Port-des-Barques"
+              ],
+              "nl": [
+                "Port-des-Barques"
+              ],
+              "es": [
+                "Port-des-Barques"
+              ]
+            },
+            "insee": "17484",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/35b7c3cc-6784-3118-bc99-84b5ed4577b9",
+        "schema:latitude": "45.946741",
+        "schema:longitude": "-1.078836",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3647e322-ae3f-36e1-be41-547e7afedd42",
+          "schema:validFrom": "2023-09-01T00:00:00",
+          "schema:validThrough": "2023-06-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c573b748-092b-362c-bac2-428ac1dca527",
+          "schema:closes": "12:00:00",
+          "schema:opens": "10:00:00",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fed90c24-5b4e-374e-b413-9c9ae527b242",
+      "schema:email": [
+        "chloe.mailler@rochefort-ocean.com",
+        "christine.nourisson@rochefort-ocean.com",
+        "chrystelle.ecale@rochefort-ocean.com",
+        "lea.origlia@rochefort-ocean.com",
+        "sandrine.bouron@rochefort-ocean.com"
+      ],
+      "schema:legalName": "Office de Tourisme Rochefort Océan",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.rochefort-ocean.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-04-08",
+  "lastUpdateDatatourisme": "2023-04-09T07:21:14.455Z"
+}

@@ -1,0 +1,465 @@
+{
+  "@id": "https://data.datatourisme.fr/13/240ffc92-7c4e-3c2c-bbc7-d3f51e07d038",
+  "dc:identifier": "5701238",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Dieser Garten befindet sich in der Nähe der Kirche und des Pfarrhauses und ist gleichzeitig Pfarrgarten, Lehrgarten für Permakultur, Agrarökologie und Pädagogik ."
+    ],
+    "en": [
+      "Located near the church and the presbytery, this garden is both a parish priest's garden, an educational garden in permaculture, agro-ecological and educational ."
+    ],
+    "it": [
+      "Situato vicino alla chiesa e al presbiterio, questo giardino è sia un giardino del parroco che un giardino di permacultura, agro-ecologico e pedagogico."
+    ],
+    "fr": [
+      "Situé à proximité de l'église et du presbytère, ce jardin est à la fois un jardin de curé, jardin pédagogique en permaculture, agro-écologique et pédagogique ."
+    ],
+    "es": [
+      "Situado cerca de la iglesia y del presbiterio, este jardín es a la vez un jardín del párroco y un jardín de permacultura, agroecológico y pedagógico."
+    ],
+    "nl": [
+      "Deze tuin, gelegen in de buurt van de kerk en de pastorie, is zowel een pastoorstuin als een permacultuur-, agro-ecologische en pedagogische tuin."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Jardin de Curé de Saint Aigulin"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/bf251661-27b3-37ef-84c6-40132ff349f8",
+      "schema:email": [
+        "contact@saint-aigulin.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 04 80 16"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://adn21.canalblog.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/3e7118d3-17a6-35d4-9e10-19737e961b2b",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/6eef7772-df50-37d6-8e08-360da37c2512",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/84138526-e54d-367e-8956-e785eeff3b59",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ac86a4ec-7085-3a0d-9f8b-1c27bf167cf3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/addc396b-d51d-3c43-abdb-539d9a747d34",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f9fc6e51-61ef-3044-8816-0dcbeb9dfe4f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Dieser Garten befindet sich in der Nähe der Kirche und des Pfarrhauses und ist gleichzeitig Pfarrgarten, Lehrgarten für Permakultur, Agrarökologie und Pädagogik ."
+        ],
+        "en": [
+          "Located near the church and the presbytery, this garden is both a parish priest's garden, an educational garden in permaculture, agro-ecological and educational ."
+        ],
+        "it": [
+          "Situato vicino alla chiesa e al presbiterio, questo giardino è sia un giardino del parroco che un giardino di permacultura, agro-ecologico e pedagogico."
+        ],
+        "fr": [
+          "Situé à proximité de l'église et du presbytère, ce jardin est à la fois un jardin de curé, jardin pédagogique en permaculture, agro-écologique et pédagogique ."
+        ],
+        "es": [
+          "Situado cerca de la iglesia y del presbiterio, este jardín es a la vez un jardín del párroco y un jardín de permacultura, agroecológico y pedagógico."
+        ],
+        "nl": [
+          "Deze tuin, gelegen in de buurt van de kerk en de pastorie, is zowel een pastoorstuin als een permacultuur-, agro-ecologische en pedagogische tuin."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/1d12af5c-9320-3f0a-8117-a81639440ab4",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/256e2c8b-4bdb-3f0d-9706-9cb02192983b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/460ebbd0-c900-3a47-a740-33c5e9b6410e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5f4cd073-a7b0-3640-866f-90a70cd75a61",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c64cd7c0-8fef-377a-b98b-4fadf085e24e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/8ad6f60f-06a6-32fe-9123-10c31cb75a24",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/14df4ebb-8dfd-3c00-bf1e-1a4feb0e8fc3",
+          "schema:addressLocality": "Saint-Aigulin",
+          "schema:postalCode": "17360",
+          "schema:streetAddress": [
+            "Le bourg"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17309",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Aigulin"
+              ],
+              "pt": [
+                "Saint-Aigulin"
+              ],
+              "en": [
+                "Saint-Aigulin"
+              ],
+              "it": [
+                "Saint-Aigulin"
+              ],
+              "fr": [
+                "Saint-Aigulin"
+              ],
+              "nl": [
+                "Saint-Aigulin"
+              ],
+              "es": [
+                "Saint-Aigulin"
+              ]
+            },
+            "insee": "17309",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/b03a67e0-a638-397a-b015-274c992d6169",
+        "schema:latitude": "45.158501",
+        "schema:longitude": "-0.007898",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-03-23",
+  "lastUpdateDatatourisme": "2023-03-24T06:39:42.382Z"
+}

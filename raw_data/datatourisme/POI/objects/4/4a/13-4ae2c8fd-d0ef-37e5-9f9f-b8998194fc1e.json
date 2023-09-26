@@ -1,0 +1,448 @@
+{
+  "@id": "https://data.datatourisme.fr/13/4ae2c8fd-d0ef-37e5-9f9f-b8998194fc1e",
+  "dc:identifier": "5732365",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Internetanschluss, Büroautomatisierung, CD-ROM, Scanner, Drucker."
+    ],
+    "en": [
+      "Internet connection, office automation, CD rom, scanner, printers."
+    ],
+    "it": [
+      "Connessione a Internet, attrezzatura da ufficio, CD-ROM, scanner, stampanti."
+    ],
+    "fr": [
+      "Connexion internet, bureautique, CD rom, scanner, imprimantes."
+    ],
+    "nl": [
+      "Internetaansluiting, kantooruitrusting, cd-rom, scanner, printers."
+    ],
+    "es": [
+      "Conexión a Internet, equipo de oficina, CD-ROM, escáner, impresoras."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Médiathèque Ernest et Louis Lessieux"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5ecdd85b-10d9-36a1-bd9e-6597110e5e2a",
+      "schema:email": [
+        "mediatheque@saintpierreoleron.com"
+      ],
+      "schema:telephone": [
+        "+33 5 46 85 76 55"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/cab16d15-4358-3a33-a6e3-4b14dd9bb121",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/5ac06593-70c9-3e9f-8909-6c64cb608fcd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5b354791-84fa-3332-ab15-cd8a8bf54575",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e2f74d7e-582a-3548-bf66-0bedab6305e1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e3ac4b71-496e-3ff8-a0d6-8c0fb60fe619",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ec91a279-fe3a-392a-a52e-fb7be74b2bc4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Internetanschluss, Büroautomatisierung, CD-ROM, Scanner, Drucker."
+        ],
+        "en": [
+          "Internet connection, office automation, CD rom, scanner, printers."
+        ],
+        "it": [
+          "Connessione a Internet, attrezzatura da ufficio, CD-ROM, scanner, stampanti."
+        ],
+        "fr": [
+          "Connexion internet, bureautique, CD rom, scanner, imprimantes."
+        ],
+        "nl": [
+          "Internetaansluiting, kantooruitrusting, cd-rom, scanner, printers."
+        ],
+        "es": [
+          "Conexión a Internet, equipo de oficina, CD-ROM, escáner, impresoras."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0cea3fd1-45e4-3145-baa6-814adf5f6287",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/34e06349-9e1d-35db-b5f6-1f00879299fa",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/71f34269-c744-3584-a5c6-730e0aa705b1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/889b0ceb-02dd-355a-a6d3-14930d07bf31",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/bf69fdea-034a-3a14-9223-e65d8dc8df7c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/26d06490-c543-347e-8579-ba03cb15f37d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/c0c389c5-ee61-35e0-81ac-a83fa73805a6",
+          "schema:addressLocality": "Saint-Pierre-d'Oléron",
+          "schema:postalCode": "17310",
+          "schema:streetAddress": [
+            "3 Rue Franck Massé"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17385",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Pierre-d'Oléron"
+              ],
+              "pt": [
+                "Saint-Pierre-d'Oléron"
+              ],
+              "en": [
+                "Saint-Pierre-d'Oléron"
+              ],
+              "it": [
+                "Saint-Pierre-d'Oléron"
+              ],
+              "fr": [
+                "Saint-Pierre-d'Oléron"
+              ],
+              "nl": [
+                "Saint-Pierre-d'Oléron"
+              ],
+              "es": [
+                "Saint-Pierre-d'Oléron"
+              ]
+            },
+            "insee": "17385",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/bce14523-005b-3e81-bfbb-d0edc8df5d16",
+        "schema:latitude": "45.945514",
+        "schema:longitude": "-1.30565",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/90ba0b02-4ff3-32ce-8afa-20ad53eaae62",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-07-02T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c432723e-ec7b-305c-8eca-e6e7b4d790aa",
+          "schema:validFrom": "2023-07-03T00:00:00",
+          "schema:validThrough": "2023-08-26T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dbe02c1f-68e2-3c55-bb78-3fc42cc283dc",
+          "schema:validFrom": "2023-08-28T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/d7f018c3-c1ab-31f8-8901-4d29578edb89",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ile-oleron-marennes.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-03-07",
+  "lastUpdateDatatourisme": "2023-03-08T06:39:40.803Z"
+}

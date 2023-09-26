@@ -1,0 +1,426 @@
+{
+  "@id": "https://data.datatourisme.fr/13/2dead757-d369-3ddf-bed8-15aad2f71625",
+  "dc:identifier": "6183856",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Dienstleistungen: Bücher, Zeitschriften, CD-Bücher und Hörbücher, CDs, DVDs, Internetzugang, lokale Presse, Empfang von Schulgruppen, Kinderbetreuungseinrichtungen und Freizeitzentren, Ausstellungen, Animationen, Kornothek."
+    ],
+    "en": [
+      "Services: books, magazines, CD books and audio books, CDs, DVDs, Internet access, local press, reception of school groups, early childhood structures and leisure centers, exhibitions, animations, grain library."
+    ],
+    "it": [
+      "Servizi: libri, riviste, CD e audiolibri, CD, DVD, accesso a Internet, stampa locale, gruppi scolastici, centri per bambini e centri ricreativi, mostre, eventi, biblioteca delle sementi."
+    ],
+    "fr": [
+      "Services : livres, revues, livres-CD et audio-livres, CD, DVD, accès Internet, la presse locale, accueil des groupes scolaires, des structures petite enfance et des centres de loisirs, expositions, animations, grainothèque."
+    ],
+    "es": [
+      "Servicios: libros, revistas, CDs y audiolibros, CDs, DVDs, acceso a Internet, prensa local, grupos escolares, centros infantiles y de ocio, exposiciones, eventos, biblioteca de semillas."
+    ],
+    "nl": [
+      "Diensten: boeken, tijdschriften, cd's en luisterboeken, cd's, dvd's, internettoegang, lokale pers, schoolgroepen, kinder- en vrijetijdscentra, tentoonstellingen, evenementen, zaadbibliotheek."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Médiathèque de Linars"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f3e52c30-0b82-3a81-a3e7-ace55fe15c08",
+    "dc:identifier": "2053",
+    "schema:email": [
+      "snebout@angouleme-tourisme.com"
+    ],
+    "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.angouleme-tourisme.com/"
+    ],
+    "lastUpdateDatatourisme": "2022-12-19T06:44:07.571Z"
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/1a26ceab-6321-346a-afff-1cf37296fe5e",
+      "schema:telephone": [
+        "+33 5 17 20 49 29"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/414ee222-bc1e-3cc6-a94b-b2e57778c6d5",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/23dc6436-068e-3813-b2e4-22b9bd7530d0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4535a7aa-90d5-3f0e-907f-3310d2d8cce8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5e5b6465-4b3d-3e3a-9968-8e00900a8638",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6d3062ff-0e09-3040-859e-e5717d292b6b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6f6255e1-0589-3be8-8df5-16a06cfc8134",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Dienstleistungen: Bücher, Zeitschriften, CD-Bücher und Hörbücher, CDs, DVDs, Internetzugang, lokale Presse, Empfang von Schulgruppen, Kinderbetreuungseinrichtungen und Freizeitzentren, Ausstellungen, Animationen, Kornothek."
+        ],
+        "en": [
+          "Services: books, magazines, CD books and audio books, CDs, DVDs, Internet access, local press, reception of school groups, early childhood structures and leisure centers, exhibitions, animations, grain library."
+        ],
+        "it": [
+          "Servizi: libri, riviste, CD e audiolibri, CD, DVD, accesso a Internet, stampa locale, gruppi scolastici, centri per bambini e centri ricreativi, mostre, eventi, biblioteca delle sementi."
+        ],
+        "fr": [
+          "Services : livres, revues, livres-CD et audio-livres, CD, DVD, accès Internet, la presse locale, accueil des groupes scolaires, des structures petite enfance et des centres de loisirs, expositions, animations, grainothèque."
+        ],
+        "es": [
+          "Servicios: libros, revistas, CDs y audiolibros, CDs, DVDs, acceso a Internet, prensa local, grupos escolares, centros infantiles y de ocio, exposiciones, eventos, biblioteca de semillas."
+        ],
+        "nl": [
+          "Diensten: boeken, tijdschriften, cd's en luisterboeken, cd's, dvd's, internettoegang, lokale pers, schoolgroepen, kinder- en vrijetijdscentra, tentoonstellingen, evenementen, zaadbibliotheek."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/3ac79f5b-01f3-3785-b6e1-dfbea29e2dee",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7de09b13-6159-35f9-926b-3e8b3e444ba9",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8d116ef6-15f9-32f8-a923-87c08ebd7b68",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ab4f4403-1baf-38dc-8419-3c63b4ba4341",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cf279a7e-69b1-36b1-b046-b0765f1fec85",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/ce79a954-85f3-3301-84c9-3f62ed818fcb",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/0c658357-b53b-34c9-b97d-17e0185d746f",
+          "schema:addressLocality": "Linars",
+          "schema:postalCode": "16730",
+          "schema:streetAddress": [
+            "1 rue du Puits"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16187",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Linars"
+              ],
+              "pt": [
+                "Linars"
+              ],
+              "en": [
+                "Linars"
+              ],
+              "it": [
+                "Linars"
+              ],
+              "fr": [
+                "Linars"
+              ],
+              "nl": [
+                "Linars"
+              ],
+              "es": [
+                "Linars"
+              ]
+            },
+            "insee": "16187",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/c4488dae-82dc-3acd-ad5a-bc172f842322",
+        "schema:latitude": "45.657728",
+        "schema:longitude": "0.085031",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/65c93456-0984-3a13-aac5-3ae5946a15d8",
+      "schema:email": [
+        "snebout@angouleme-tourisme.com"
+      ],
+      "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.angouleme-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-06-27",
+  "lastUpdateDatatourisme": "2023-05-26T05:53:38.376Z"
+}

@@ -1,0 +1,522 @@
+{
+  "@id": "https://data.datatourisme.fr/13/586f0ee2-d4ae-360c-80bc-39020761f964",
+  "dc:identifier": "5676776",
+  "@type": [
+    "schema:Landform",
+    "Beach",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Ein Freizeitbereich am Ufer der Charente: Baden, Picknick, Wassersport und sportliche Aktivitäten in der Nähe eines Restaurants und eines Campingplatzes."
+    ],
+    "en": [
+      "A leisure area on the banks of the Charente: swimming, picnics, water sports and activities near a restaurant and a campsite."
+    ],
+    "it": [
+      "Un'area di svago sulle rive della Charente: nuoto, picnic, sport acquatici e attività vicino a un ristorante e a un campeggio."
+    ],
+    "fr": [
+      "Une aire de loisirs au bord de la Charente : baignade, pique-nique, activités nautiques et sportives à proximité d’un restaurant et d’un camping."
+    ],
+    "es": [
+      "Una zona de ocio a orillas del Charente: baño, picnic, deportes náuticos y actividades cerca de un restaurante y un camping."
+    ],
+    "nl": [
+      "Een recreatiegebied aan de oevers van de Charente: zwemmen, picknicken, watersporten en activiteiten in de buurt van een restaurant en een camping."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Aire de loisirs de Rejallant"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/a96d3afe-c184-366b-beca-7a9f989fc7e7",
+    "dc:identifier": "2056",
+    "schema:email": [
+      "infotouristique@destination-nordcharente.com"
+    ],
+    "schema:legalName": "Office de tourisme Destination Nord Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ruffecois-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/61b94ee9-6a2a-3b4d-834d-eeb55bc3efa7",
+      "schema:email": [
+        "sport@ccvaldecharente.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 31 07 14",
+        "+33 6 87 94 41 01"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.ccvaldecharente.fr/sports-animations/activites/baignade"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/1398d027-7042-3805-baa5-d2f104dacb30",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/356e81d2-4bb4-361a-a3f9-47994488620b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6e084b57-580c-3723-b453-ad906af4a3cb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e34094ce-e881-3c72-ad08-fc25acb01c8b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ecae489f-c9f5-326b-a609-93c1190d0cf4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Ein Freizeitbereich am Ufer der Charente: Baden, Picknick, Wassersport und sportliche Aktivitäten in der Nähe eines Restaurants und eines Campingplatzes."
+        ],
+        "en": [
+          "A leisure area on the banks of the Charente: swimming, picnics, water sports and activities near a restaurant and a campsite."
+        ],
+        "it": [
+          "Un'area di svago sulle rive della Charente: nuoto, picnic, sport acquatici e attività vicino a un ristorante e a un campeggio."
+        ],
+        "fr": [
+          "Une aire de loisirs au bord de la Charente : baignade, pique-nique, activités nautiques et sportives à proximité d’un restaurant et d’un camping."
+        ],
+        "es": [
+          "Una zona de ocio a orillas del Charente: baño, picnic, deportes náuticos y actividades cerca de un restaurante y un camping."
+        ],
+        "nl": [
+          "Een recreatiegebied aan de oevers van de Charente: zwemmen, picknicken, watersporten en activiteiten in de buurt van een restaurant en een camping."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Bathing",
+      "@type": [
+        "AccommodationAmenity",
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Baden"
+        ],
+        "pt": [
+          "Banho"
+        ],
+        "en": [
+          "Bathing"
+        ],
+        "it": [
+          "Bagno"
+        ],
+        "fr": [
+          "Baignade"
+        ],
+        "nl": [
+          "Zwemmen"
+        ],
+        "es": [
+          "Baño"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/13deb531-18d6-36ce-9abf-19d85f8a6992",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/156576d8-20be-3a18-a69b-7ba031d6f450",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2d4c6ad8-4915-3cde-8ad8-aed5e57edc84",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/65d80526-f753-334a-af5b-b752fc1d5081",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0785d00c-716f-3287-accf-bcd0e2bfcf6f",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/11dce25e-95ad-3fbd-9783-d5ffba566e67",
+          "schema:addressLocality": "Condac",
+          "schema:postalCode": "16700",
+          "schema:streetAddress": [
+            "Aire de Réjallant"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16104",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Condac"
+              ],
+              "pt": [
+                "Condac"
+              ],
+              "en": [
+                "Condac"
+              ],
+              "it": [
+                "Condac"
+              ],
+              "fr": [
+                "Condac"
+              ],
+              "nl": [
+                "Condac"
+              ],
+              "es": [
+                "Condac"
+              ]
+            },
+            "insee": "16104",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/425f9678-66b0-3dff-97a2-4df9191e77ce",
+        "schema:latitude": "46.015219",
+        "schema:longitude": "0.217334",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/72893454-0e73-37fc-acd5-1ae2e95abad0",
+          "schema:closes": "18:30:00",
+          "schema:opens": "13:30:00",
+          "schema:validFrom": "2023-07-02T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Freizeitbereich das ganze Jahr über zugänglich; beaufsichtigtes Baden im Sommer gemäß den oben genannten Zeiten."
+            ],
+            "en": [
+              "Leisure area accessible all year round; supervised swimming in summer according to the above schedule."
+            ],
+            "it": [
+              "Area ricreativa accessibile tutto l'anno; in estate nuoto sorvegliato secondo gli orari indicati."
+            ],
+            "fr": [
+              "Aire de loisirs accessible toute l'année ; baignade surveillée en été selon horaires ci-dessus."
+            ],
+            "es": [
+              "Zona de ocio accesible todo el año; baño vigilado en verano según el horario indicado."
+            ],
+            "nl": [
+              "Recreatiegebied het hele jaar toegankelijk; zwemmen onder toezicht in de zomer volgens bovenstaand tijdschema."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/2d60218d-66b2-3e03-9ced-0536fe06b046",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/494d71ed-9a27-3355-ac2f-39137d0acf68",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6543f557-8764-3235-a61f-708cb52508eb",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/b0303709-5522-3de9-b106-5fde06b468f9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d3951a69-335d-3a58-8343-f4130326acff",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/515fb63a-6beb-307d-a0d6-d59e3e2d3f76",
+      "schema:email": [
+        "infotouristique@destination-nordcharente.com"
+      ],
+      "schema:legalName": "Office de tourisme Destination Nord Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ruffecois-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-22",
+  "lastUpdateDatatourisme": "2023-06-23T05:50:54.347Z"
+}

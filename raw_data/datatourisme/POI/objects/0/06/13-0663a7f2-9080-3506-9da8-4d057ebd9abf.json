@@ -1,0 +1,526 @@
+{
+  "@id": "https://data.datatourisme.fr/13/0663a7f2-9080-3506-9da8-4d057ebd9abf",
+  "dc:identifier": "5676057",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die im Herzen des Sumpfgebiets von St Fraigne gelegenen temporären Gärten werden jeden Winter überflutet und im Frühling mit einem neuen pflanzlichen und kulturellen Abenteuer wiedererweckt."
+    ],
+    "en": [
+      "Located in the heart of the St Fraigne marsh, the ephemeral gardens are flooded each winter, then reborn in the spring with a new plant and cultural adventure."
+    ],
+    "it": [
+      "Situati nel cuore delle paludi di St Fraigne, i giardini effimeri vengono allagati ogni inverno, per poi rinascere in primavera con una nuova avventura vegetale e culturale."
+    ],
+    "fr": [
+      "Situés au cœur du marais de St Fraigne, les jardins éphémères sont inondés chaque hiver, puis renaissent au printemps avec une nouvelle aventure végétale et culturelle."
+    ],
+    "es": [
+      "Situados en el corazón de las marismas de St Fraigne, los jardines efímeros se inundan cada invierno, para renacer en primavera con una nueva aventura vegetal y cultural."
+    ],
+    "nl": [
+      "Gelegen in het hart van de moerassen van St Fraigne, worden de kortstondige tuinen elke winter onder water gezet en in het voorjaar herboren met een nieuw plantaardig en cultureel avontuur."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Jardins éphémères et maison de l'eau"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/a96d3afe-c184-366b-beca-7a9f989fc7e7",
+    "dc:identifier": "2056",
+    "schema:email": [
+      "infotouristique@destination-nordcharente.com"
+    ],
+    "schema:legalName": "Office de tourisme Destination Nord Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ruffecois-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/270666a1-35c9-334d-9e82-0b647ed7a351",
+      "schema:email": [
+        "asp-mairie-st-fraigne@orange.fr",
+        "islenature@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 5 45 21 57 65"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/57519836-b867-35d3-a4b1-1c181d0f5d54",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/16102fd5-33ea-389e-b3ab-6a4fa33053b0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/255fa29f-fc93-3002-bbf9-97478d105431",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ce04b174-878d-351b-abdf-96023fd23fb6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ea59ee74-94dd-3295-96f6-557fa0b4c5bc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f0d361b4-0f70-37c6-8ade-bc85385b3f66",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die im Herzen des Sumpfgebiets von St Fraigne gelegenen temporären Gärten werden jeden Winter überflutet und im Frühling mit einem neuen pflanzlichen und kulturellen Abenteuer wiedererweckt."
+        ],
+        "en": [
+          "Located in the heart of the St Fraigne marsh, the ephemeral gardens are flooded each winter, then reborn in the spring with a new plant and cultural adventure."
+        ],
+        "it": [
+          "Situati nel cuore delle paludi di St Fraigne, i giardini effimeri vengono allagati ogni inverno, per poi rinascere in primavera con una nuova avventura vegetale e culturale."
+        ],
+        "fr": [
+          "Situés au cœur du marais de St Fraigne, les jardins éphémères sont inondés chaque hiver, puis renaissent au printemps avec une nouvelle aventure végétale et culturelle."
+        ],
+        "es": [
+          "Situados en el corazón de las marismas de St Fraigne, los jardines efímeros se inundan cada invierno, para renacer en primavera con una nueva aventura vegetal y cultural."
+        ],
+        "nl": [
+          "Gelegen in het hart van de moerassen van St Fraigne, worden de kortstondige tuinen elke winter onder water gezet en in het voorjaar herboren met een nieuw plantaardig en cultureel avontuur."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/127e7caf-f6e4-38ca-94f1-600d7b6bc9cb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/16ac38a9-1fb3-31b9-9402-1798b393740a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/38550597-7371-3654-bffc-92d4164c852b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/94799344-97f5-33e4-b2a7-c871b46d7bbe",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f865e257-a4fb-30eb-9178-dbe46a9e7edc",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/d377a38e-5af2-34e3-bf9f-82af199f15fd",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/184bcd12-2009-3bcc-8520-4592886db200",
+          "schema:addressLocality": "Saint-Fraigne",
+          "schema:postalCode": "16140",
+          "schema:streetAddress": [
+            "24 Rue du chant du coq"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16317",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Fraigne"
+              ],
+              "pt": [
+                "Saint-Fraigne"
+              ],
+              "en": [
+                "Saint-Fraigne"
+              ],
+              "it": [
+                "Saint-Fraigne"
+              ],
+              "fr": [
+                "Saint-Fraigne"
+              ],
+              "nl": [
+                "Saint-Fraigne"
+              ],
+              "es": [
+                "Saint-Fraigne"
+              ]
+            },
+            "insee": "16317",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/fbf9c456-b0af-3c3d-afab-b097daf876bf",
+        "schema:latitude": "45.95386",
+        "schema:longitude": "-0.007387",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/90d64be3-953d-3a82-9348-b5e785294a95",
+          "schema:validFrom": "2023-06-03T00:00:00",
+          "schema:validThrough": "2023-10-01T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/515fb63a-6beb-307d-a0d6-d59e3e2d3f76",
+      "schema:email": [
+        "infotouristique@destination-nordcharente.com"
+      ],
+      "schema:legalName": "Office de tourisme Destination Nord Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ruffecois-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-03",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.334Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/91e1ac49-8be4-3847-9fab-ca7317276461",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/04a30b17-bfcb-37c9-ac33-fe13689f4fc1",
+          "schema:maxPrice": [
+            "2.5",
+            "3.5",
+            "4.5"
+          ],
+          "schema:minPrice": [
+            "2.5",
+            "3.5",
+            "4.5"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/7b386bf8-7b37-36c6-88b4-843a52154238",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2022-10-02",
+              "startDate": "2022-06-05"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7038c06f-ee89-3660-8131-826ec2bc9c8e",
+          "schema:maxPrice": [
+            "2.5",
+            "3.5",
+            "4.5"
+          ],
+          "schema:minPrice": [
+            "2.5",
+            "3.5",
+            "4.5"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/4d88ec66-bda9-3469-be54-ef5d508e5022",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-10-01",
+              "startDate": "2023-06-03"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

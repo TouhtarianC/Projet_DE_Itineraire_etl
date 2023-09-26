@@ -1,0 +1,559 @@
+{
+  "@id": "https://data.datatourisme.fr/13/41e3fdcf-7522-31e8-b415-c9e6c1b80a3b",
+  "dc:identifier": "5699661",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Diese Kirche stammt aus der Regierungszeit Karls des Großen.\r\nSie wurde teilweise zerstört und im 15. Jahrhundert wieder aufgebaut und vereint gotische und romanische Stilelemente.\r\nBemerkenswert sind die modernen Glasfenster, die vor kurzem restauriert wurden."
+    ],
+    "en": [
+      "This church dates back to the reign of Charlemagne.\r\nPartly destroyed then rebuilt in the 15th century, it combines the Gothic and Romanesque styles.\r\nNote the recently restored modern stained glass windows."
+    ],
+    "it": [
+      "Questa chiesa risale al regno di Carlo Magno.\r\nIn parte distrutta e poi ricostruita nel XV secolo, combina gli stili gotico e romanico.\r\nDa notare le vetrate moderne recentemente restaurate."
+    ],
+    "fr": [
+      "Cette église date du règne de charlemagne.\r\nEn partie détruite puis rebâtie au XVème siècle, elle marie les styles gothique et roman.\r\nA noter les vitraux modernes récemment restaurés."
+    ],
+    "es": [
+      "Esta iglesia data del reinado de Carlomagno.\r\nParcialmente destruida y luego reconstruida en el siglo XV, combina los estilos gótico y románico.\r\nObserve las modernas vidrieras recientemente restauradas."
+    ],
+    "nl": [
+      "Deze kerk dateert uit de tijd van Karel de Grote.\r\nGedeeltelijk verwoest en vervolgens herbouwd in de 15e eeuw, combineert het gotische en romaanse stijlen.\r\nLet op de onlangs gerestaureerde moderne gebrandschilderde ramen."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Eglise Saint-Hérie"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q1369156"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/cbef4632-1026-3840-8bc3-216d4774c8a9",
+    "dc:identifier": "2075",
+    "schema:email": [
+      "a.ponchon@charentestourisme.com"
+    ],
+    "schema:legalName": "Destination Vals de Saintonge / Charentes Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.destinationvalsdesaintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/bf58dc5a-f6ee-370c-afda-66213d1ff69d",
+      "schema:email": [
+        "accueil@destinationvalsdesaintonge.com"
+      ],
+      "schema:telephone": [
+        "+33 5 46 32 04 72"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.destinationvalsdesaintonge.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/018c4a75-75ec-3256-a133-ac157f4cc500",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0240ec44-ace2-3cd4-af1b-96755e7b7bdb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/1808cbb7-58dc-31ed-8ef1-b16ff8e08f18",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9d8fb70b-c6f7-3553-b2a2-d95afa5c48f2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b8251451-0ca5-3ee0-9594-05ee77c9cff4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e4e205b4-105d-3e32-8180-46886871d560",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Diese Kirche stammt aus der Regierungszeit Karls des Großen.\r\nSie wurde teilweise zerstört und im 15. Jahrhundert wieder aufgebaut und vereint gotische und romanische Stilelemente.\r\nBemerkenswert sind die modernen Glasfenster, die vor kurzem restauriert wurden."
+        ],
+        "en": [
+          "This church dates back to the reign of Charlemagne.\r\nPartly destroyed then rebuilt in the 15th century, it combines the Gothic and Romanesque styles.\r\nNote the recently restored modern stained glass windows."
+        ],
+        "it": [
+          "Questa chiesa risale al regno di Carlo Magno.\r\nIn parte distrutta e poi ricostruita nel XV secolo, combina gli stili gotico e romanico.\r\nDa notare le vetrate moderne recentemente restaurate."
+        ],
+        "fr": [
+          "Cette église date du règne de charlemagne.\r\nEn partie détruite puis rebâtie au XVème siècle, elle marie les styles gothique et roman.\r\nA noter les vitraux modernes récemment restaurés."
+        ],
+        "es": [
+          "Esta iglesia data del reinado de Carlomagno.\r\nParcialmente destruida y luego reconstruida en el siglo XV, combina los estilos gótico y románico.\r\nObserve las modernas vidrieras recientemente restauradas."
+        ],
+        "nl": [
+          "Deze kerk dateert uit de tijd van Karel de Grote.\r\nGedeeltelijk verwoest en vervolgens herbouwd in de 15e eeuw, combineert het gotische en romaanse stijlen.\r\nLet op de onlangs gerestaureerde moderne gebrandschilderde ramen."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/f07057b8-7c01-3344-9ea1-bbfe753588d3",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/4c3b8158-1ed8-3519-8349-27cc0bd0809b",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "F07.Ste.-Hérie.0003"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "<a href=\"https://de.wikipedia.org/wiki/Benutzer:Jochen_Jahnke\" class=\"extiw\" title=\"de:Benutzer:Jochen Jahnke\">Jochen Jahnke</a> 14:19, 20. Dez. 2007 (CET)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/56826c8c-b8b5-3540-a810-e389793ea2bf",
+          "ebucore:fileSize": [
+            3009006
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 2592,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/3/36/F07.Ste.-H%C3%A9rie.0003.JPG"
+          ],
+          "ebucore:width": 3872,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/17a9c4fc-72c3-39b3-8498-23ffd9ed2997",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3b5ee61e-dfa3-373b-9def-c5135967deb3",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/705cfc91-039a-3dd7-848e-fbe7802724f0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b107d388-55ae-3e57-b633-5c016c6215eb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e343cf77-9f43-3a24-9498-b9b8ac0e70c0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/238b7b6a-c130-3f09-9050-912dcb86a21d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/7426f34e-2cbe-3f65-ab20-412ed3dc6b10",
+          "schema:addressLocality": "Matha",
+          "schema:postalCode": "17160",
+          "schema:streetAddress": [
+            "Rue Saint-Hérie"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17224",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Matha"
+              ],
+              "pt": [
+                "Matha"
+              ],
+              "en": [
+                "Matha"
+              ],
+              "it": [
+                "Matha"
+              ],
+              "fr": [
+                "Matha"
+              ],
+              "nl": [
+                "Matha"
+              ],
+              "es": [
+                "Matha"
+              ]
+            },
+            "insee": "17224",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/1323de2f-38d5-3d00-a1fb-83d67d0510bd",
+        "schema:latitude": "45.860472",
+        "schema:longitude": "-0.323358",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/4fa9e2c8-cea7-3399-9f62-28ebcff26450",
+      "schema:email": [
+        "a.ponchon@charentestourisme.com"
+      ],
+      "schema:legalName": "Destination Vals de Saintonge / Charentes Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.destinationvalsdesaintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-01-08",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.842Z"
+}

@@ -1,0 +1,430 @@
+{
+  "@id": "https://data.datatourisme.fr/13/491fb408-52f0-3147-82c5-0431d04ffa3a",
+  "dc:identifier": "5918949",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Stadtbibliothek \"Mille et une feuilles\" (Tausend und ein Blatt) ist für alle Bürger von Chambonnais kostenlos zugänglich. Sie befindet sich direkt neben dem Rathaus.\r\nIn einem gemütlichen Raum werden Sie von fünf ehrenamtlichen Bibliothekarinnen empfangen."
+    ],
+    "en": [
+      "The municipal library \" Mille et une feuilles \" is accessible free of charge to all residents of Chambon. It is located right next to the town hall.\r\nIt is in a cosy place where 5 volunteer librarians will welcome you."
+    ],
+    "it": [
+      "La biblioteca comunale \"Mille et une feuilles\" è accessibile gratuitamente a tutti i residenti di Chambéry. Si trova accanto al municipio.\r\nSi trova in un luogo accogliente dove 5 bibliotecari volontari vi accoglieranno."
+    ],
+    "fr": [
+      "La bibliothèque municipale « Mille et une feuilles » est accessible gratuitement pour tous les chambonnais. Elle se situe juste à côté de la mairie.\r\nC’est dans un lieu cosy où 5 bibliothécaires bénévoles vous accueilleront."
+    ],
+    "es": [
+      "La biblioteca municipal \"Mille et une feuilles\" es accesible gratuitamente a todos los habitantes de Chambéry. Se encuentra junto al ayuntamiento.\r\nSe encuentra en un lugar acogedor donde 5 bibliotecarios voluntarios le darán la bienvenida."
+    ],
+    "nl": [
+      "De gemeentelijke bibliotheek \"Mille et une feuilles\" is gratis toegankelijk voor alle inwoners van Chambéry. Het ligt naast het stadhuis.\r\nHet is een gezellige plek waar 5 vrijwillige bibliothecarissen u verwelkomen."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Bibliothèque municipale de Chambon"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/296472c9-542a-34d4-b88d-543508116cbc",
+    "dc:identifier": "2070",
+    "schema:email": [
+      "aurore.mdc@aunis-maraispoitevin.com",
+      "madeleine.dasilva@aunis-maraispoitevin.com"
+    ],
+    "schema:legalName": "Office de Tourisme Aunis Marais Poitevin",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.aunis-maraispoitevin.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/1d873937-b835-3b86-96a7-6fbe2200e6f0",
+      "schema:telephone": [
+        "+33 5 46 68 95 98",
+        "+33 6 84 01 29 10"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.mairie-chambon17.fr/vie-pratique/bibliotheque/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/e76ab86a-6c37-33fd-834c-9b2ecc97f916",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/05dd4bbd-c8ff-3e6e-8fe5-92a3458f45d1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/39a0042c-01cc-3307-a3ce-10956b028949",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/630bb4fd-05ca-354b-b285-80de441868b8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cd196f3b-5ed7-3810-b3d8-416c23391853",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d8c647c6-ad09-3aea-85ce-b0c53b6783ca",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Stadtbibliothek \"Mille et une feuilles\" (Tausend und ein Blatt) ist für alle Bürger von Chambonnais kostenlos zugänglich. Sie befindet sich direkt neben dem Rathaus.\r\nIn einem gemütlichen Raum werden Sie von fünf ehrenamtlichen Bibliothekarinnen empfangen."
+        ],
+        "en": [
+          "The municipal library \" Mille et une feuilles \" is accessible free of charge to all residents of Chambon. It is located right next to the town hall.\r\nIt is in a cosy place where 5 volunteer librarians will welcome you."
+        ],
+        "it": [
+          "La biblioteca comunale \"Mille et une feuilles\" è accessibile gratuitamente a tutti i residenti di Chambéry. Si trova accanto al municipio.\r\nSi trova in un luogo accogliente dove 5 bibliotecari volontari vi accoglieranno."
+        ],
+        "fr": [
+          "La bibliothèque municipale « Mille et une feuilles » est accessible gratuitement pour tous les chambonnais. Elle se situe juste à côté de la mairie.\r\nC’est dans un lieu cosy où 5 bibliothécaires bénévoles vous accueilleront."
+        ],
+        "es": [
+          "La biblioteca municipal \"Mille et une feuilles\" es accesible gratuitamente a todos los habitantes de Chambéry. Se encuentra junto al ayuntamiento.\r\nSe encuentra en un lugar acogedor donde 5 bibliotecarios voluntarios le darán la bienvenida."
+        ],
+        "nl": [
+          "De gemeentelijke bibliotheek \"Mille et une feuilles\" is gratis toegankelijk voor alle inwoners van Chambéry. Het ligt naast het stadhuis.\r\nHet is een gezellige plek waar 5 vrijwillige bibliothecarissen u verwelkomen."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/1bd7c7c3-b958-344b-be95-79e3e5362e49",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5f242653-b994-3347-b754-3a9cb88ea7e0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/77a644c0-5a7a-3811-b053-4521548eecc7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f45b2f43-c491-3be0-b94d-eaa52c42440b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f6b9458d-c57f-383b-8c69-ea024e89660c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/cdc2cf4d-6125-31cf-a5aa-8be9095747c6",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/a942d51f-a19e-379f-8a77-73e053ba308a",
+          "schema:addressLocality": "Chambon",
+          "schema:postalCode": "17290",
+          "schema:streetAddress": [
+            "25 Rue Du Gros Sillon"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17080",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Chambon"
+              ],
+              "pt": [
+                "Chambon"
+              ],
+              "en": [
+                "Chambon"
+              ],
+              "it": [
+                "Chambon"
+              ],
+              "fr": [
+                "Chambon"
+              ],
+              "nl": [
+                "Chambon"
+              ],
+              "es": [
+                "Chambon"
+              ]
+            },
+            "insee": "17080",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/9b8e96cc-954e-3454-ac9e-b94ff6ebba2b",
+        "schema:latitude": "46.109278",
+        "schema:longitude": "-0.842092",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/a31bfa88-8451-397d-9df1-b4fcba0f5590",
+      "schema:email": [
+        "madeleine.dasilva@aunis-maraispoitevin.com"
+      ],
+      "schema:legalName": "Office de Tourisme Aunis Marais Poitevin",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.aunis-maraispoitevin.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-05-02",
+  "lastUpdateDatatourisme": "2023-05-04T06:05:15.733Z"
+}

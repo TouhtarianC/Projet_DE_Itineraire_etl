@@ -1,0 +1,461 @@
+{
+  "@id": "https://data.datatourisme.fr/13/2c9d957a-96b8-32ab-9108-8c8b5a4893c9",
+  "dc:identifier": "5675908",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Lebensmittelgarten (Gemüsegarten, Obstgarten, Kleingarten, Garten der Einfalt...)"
+    ],
+    "en": [
+      "Food garden (vegetable garden, orchard, allotment garden, simple garden...)"
+    ],
+    "it": [
+      "Orto alimentare (orto, frutteto, giardino di lottizzazione, giardino di erbe aromatiche, ecc.)"
+    ],
+    "fr": [
+      "Jardin vivrier (potager, verger, jardins familiaux, jardin de simples...)"
+    ],
+    "nl": [
+      "Voedseltuin (moestuin, boomgaard, volkstuin, eenvoudige tuin...)"
+    ],
+    "es": [
+      "Huerto alimentario (huerta, huerto de frutales, huerto familiar, huerto de hierbas aromáticas, etc.)"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Jardin du gui"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/a96d3afe-c184-366b-beca-7a9f989fc7e7",
+    "dc:identifier": "2056",
+    "schema:email": [
+      "infotouristique@destination-nordcharente.com"
+    ],
+    "schema:legalName": "Office de tourisme Destination Nord Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ruffecois-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/4d23b1c5-4fcb-3fe7-86f2-29099f18327c",
+      "schema:email": [
+        "mairie@saintamantdeboixe.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 39 72 15"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://saintamantdeboixe.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/5e33ebfd-29a4-3171-8b7c-b9bea393a1cd",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0cb90318-8a9f-3fe9-9de9-e30d6bb1e43a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2f097940-1523-39dd-89ec-535803610611",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3ea20264-8043-3045-ac37-cb21edf6da2e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6f3c3d15-fd78-397f-ac87-e7c48b9c2723",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ad60c82e-0cdc-346e-9979-7fa7ffe0609e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Lebensmittelgarten (Gemüsegarten, Obstgarten, Kleingarten, Garten der Einfalt...)"
+        ],
+        "en": [
+          "Food garden (vegetable garden, orchard, allotment garden, simple garden...)"
+        ],
+        "it": [
+          "Orto alimentare (orto, frutteto, giardino di lottizzazione, giardino di erbe aromatiche, ecc.)"
+        ],
+        "fr": [
+          "Jardin vivrier (potager, verger, jardins familiaux, jardin de simples...)"
+        ],
+        "nl": [
+          "Voedseltuin (moestuin, boomgaard, volkstuin, eenvoudige tuin...)"
+        ],
+        "es": [
+          "Huerto alimentario (huerta, huerto de frutales, huerto familiar, huerto de hierbas aromáticas, etc.)"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/8e948d04-4ce1-3b6d-9754-479119fe8e34",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8f4feff3-c0aa-322f-b3bb-422cf6020744",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9f355ff2-3a14-37cf-9936-c82281aadc1c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c6a22d7e-0731-3920-afbb-e199158ca304",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c79d27f5-f9bb-3ff9-b50a-c0eeaf258d81",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/13e957fa-8457-3ea5-b8ea-427942006106",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/dd9d161e-c805-36af-a429-2469c691e0a1",
+          "schema:addressLocality": "Saint-Amant-de-Boixe",
+          "schema:postalCode": "16330",
+          "schema:streetAddress": [
+            "Parc de l'Abbaye"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16295",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Amant-de-Boixe"
+              ],
+              "pt": [
+                "Saint-Amant-de-Boixe"
+              ],
+              "en": [
+                "Saint-Amant-de-Boixe"
+              ],
+              "it": [
+                "Saint-Amant-de-Boixe"
+              ],
+              "fr": [
+                "Saint-Amant-de-Boixe"
+              ],
+              "nl": [
+                "Saint-Amant-de-Boixe"
+              ],
+              "es": [
+                "Saint-Amant-de-Boixe"
+              ]
+            },
+            "insee": "16295",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/a6d348d8-dda6-3ab2-95bc-8fba5664199b",
+        "schema:latitude": "45.795287",
+        "schema:longitude": "0.133123",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/515fb63a-6beb-307d-a0d6-d59e3e2d3f76",
+      "schema:email": [
+        "infotouristique@destination-nordcharente.com"
+      ],
+      "schema:legalName": "Office de tourisme Destination Nord Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ruffecois-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-22",
+  "lastUpdateDatatourisme": "2023-06-23T05:50:54.289Z"
+}

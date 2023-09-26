@@ -1,0 +1,638 @@
+{
+  "@id": "https://data.datatourisme.fr/13/40589974-6f08-367e-8991-e76852657ff1",
+  "dc:identifier": "5685996",
+  "@type": [
+    "CulturalSite",
+    "DefenceSite",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Zitadelle von Château-d'Oléron, eine der bemerkenswertesten Verteidigungsanlagen, die an der Atlantikseite der Charente-Maritime errichtet wurden\r\nDer Zugang ist das ganze Jahr über frei. Während der Schulferien werden dort zahlreiche Führungen organisiert"
+    ],
+    "en": [
+      "The citadel of Château-d'Oléron, one of the most remarkable defensive works built on the Atlantic coast of Charente-Maritime\r\nAccess is free all year round. Many guided tours are organized during school vacations"
+    ],
+    "it": [
+      "La cittadella di Château-d'Oléron, una delle più notevoli opere difensive costruite sulla costa atlantica della Charente-Maritime\r\nL'accesso è gratuito tutto l'anno. Durante le vacanze scolastiche vengono organizzate numerose visite guidate"
+    ],
+    "fr": [
+      "La citadelle du Château-d’Oléron, l’un des plus remarquables ouvrages défensifs construit sur la côté Atlantique de Charente-Maritime. \r\nL'accès est libre toute l'année. De nombreuses visites guidées y sont organisées pendant les vacances scolaires"
+    ],
+    "es": [
+      "La ciudadela de Château-d'Oléron, una de las obras defensivas más notables construidas en la costa atlántica de Charente-Maritime\r\nEl acceso es gratuito durante todo el año. Durante las vacaciones escolares se organizan numerosas visitas guiadas"
+    ],
+    "nl": [
+      "De citadel van Château-d'Oléron, een van de meest opmerkelijke verdedigingswerken gebouwd aan de Atlantische kust van Charente-Maritime\r\nDe toegang is het hele jaar door gratis. Tijdens de schoolvakanties worden veel rondleidingen georganiseerd"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Citadelle du Château d'Oléron"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q2974402"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/9b1aaeb4-9695-3404-9b79-7ac49fb5f232",
+      "schema:email": [
+        "mairie@lechateaudoleron.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 75 53 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/1abcc05a-7e95-39e7-a76c-c0b2e759c2fa",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/31cfbc00-344a-3e0b-b8cb-a9fa581240be",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c1f9445a-8bb5-3bf1-8fe8-bebfb7b0ae01",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c67e43a1-748d-3ac4-b78d-3fbf4f2ed04d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e106a96c-579c-32d2-8313-fd0cc7020793",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f7afdd7a-0db0-3164-a533-857964ef94ef",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Zitadelle von Château-d'Oléron, eine der bemerkenswertesten Verteidigungsanlagen, die an der Atlantikseite der Charente-Maritime errichtet wurden\r\nDer Zugang ist das ganze Jahr über frei. Während der Schulferien werden dort zahlreiche Führungen organisiert"
+        ],
+        "en": [
+          "The citadel of Château-d'Oléron, one of the most remarkable defensive works built on the Atlantic coast of Charente-Maritime\r\nAccess is free all year round. Many guided tours are organized during school vacations"
+        ],
+        "it": [
+          "La cittadella di Château-d'Oléron, una delle più notevoli opere difensive costruite sulla costa atlantica della Charente-Maritime\r\nL'accesso è gratuito tutto l'anno. Durante le vacanze scolastiche vengono organizzate numerose visite guidate"
+        ],
+        "fr": [
+          "La citadelle du Château-d’Oléron, l’un des plus remarquables ouvrages défensifs construit sur la côté Atlantique de Charente-Maritime. \r\nL'accès est libre toute l'année. De nombreuses visites guidées y sont organisées pendant les vacances scolaires"
+        ],
+        "es": [
+          "La ciudadela de Château-d'Oléron, una de las obras defensivas más notables construidas en la costa atlántica de Charente-Maritime\r\nEl acceso es gratuito durante todo el año. Durante las vacaciones escolares se organizan numerosas visitas guiadas"
+        ],
+        "nl": [
+          "De citadel van Château-d'Oléron, een van de meest opmerkelijke verdedigingswerken gebouwd aan de Atlantische kust van Charente-Maritime\r\nDe toegang is het hele jaar door gratis. Tijdens de schoolvakanties worden veel rondleidingen georganiseerd"
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/3f97894c-5465-326d-9583-ba48cbe60c21",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/61ff8459-7502-3e1f-89a3-24e53b849668",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Le Chateau d'Oléron3"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "https://commons.wikimedia.org/wiki/File:Le_Chateau_d%27Ol%C3%A9ron3.JPG"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/0647e7e3-6c1f-32f6-872d-a11f6433bdaf",
+          "ebucore:fileSize": [
+            1758698
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1944,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/3/3c/Le_Chateau_d%27Ol%C3%A9ron3.JPG"
+          ],
+          "ebucore:width": 2592,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0a36e425-11c2-33d1-81fa-d033bd47ee4b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/817e8de1-9655-3926-adef-6dea7b633dd8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8d02ac9c-480c-3ba5-b23b-4d78d2b1c149",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/94a17da9-ffab-312a-b185-af629506a935",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a3f572f3-83a3-3b4c-b1fb-e889a07a880c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/d12373fa-eff0-3b82-a687-249d601ac003",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/f49eec6c-4fac-300e-b6a1-b819423b8118",
+          "schema:addressLocality": "Le Château-d'Oléron",
+          "schema:postalCode": "17480",
+          "schema:streetAddress": [
+            "La Citadelle"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17093",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Le Château-d'Oléron"
+              ],
+              "pt": [
+                "Le Château-d'Oléron"
+              ],
+              "en": [
+                "Le Château-d'Oléron"
+              ],
+              "it": [
+                "Le Château-d'Oléron"
+              ],
+              "fr": [
+                "Le Château-d'Oléron"
+              ],
+              "nl": [
+                "Le Château-d'Oléron"
+              ],
+              "es": [
+                "Le Château-d'Oléron"
+              ]
+            },
+            "insee": "17093",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/c79d88e2-5a05-30d9-96c9-970d013e711d",
+        "schema:latitude": "45.885635",
+        "schema:longitude": "-1.190504",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/a7f28ae0-f4ef-393f-9381-2a491cadb677",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Ständig freier Zugang"
+            ],
+            "en": [
+              "Free access at all times"
+            ],
+            "it": [
+              "Accesso libero in ogni momento"
+            ],
+            "fr": [
+              "Accès libre en permanence"
+            ],
+            "nl": [
+              "Altijd vrije toegang"
+            ],
+            "es": [
+              "Acceso libre en todo momento"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/5469a01c-3505-31b2-8a39-5de387549444",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/8e6b837d-ac53-3c68-8822-b2cba094c5c3",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a2568c6b-450f-335a-bbe2-482819238498",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e56a1d31-aa59-3833-8988-4664eadc82fa",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e9f93bea-5eaf-3170-a6ac-916e7f6e0a4d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/80009736-71af-3484-9792-2b3de63306d1",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-20",
+  "lastUpdateDatatourisme": "2023-06-21T05:51:34.472Z"
+}

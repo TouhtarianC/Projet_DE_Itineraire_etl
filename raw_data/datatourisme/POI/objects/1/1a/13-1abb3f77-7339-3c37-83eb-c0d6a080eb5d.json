@@ -1,0 +1,467 @@
+{
+  "@id": "https://data.datatourisme.fr/13/1abb3f77-7339-3c37-83eb-c0d6a080eb5d",
+  "dc:identifier": "5772249",
+  "@type": [
+    "schema:Landform",
+    "Beach",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Der Plage du Conseil ist eine kleine Conche mit einem angenehmen Sandstrand. Hier herrscht Ruhe und Frieden, und Sie haben einen schönen Blick auf den Leuchtturm von Cordouan.\r\nSpaziergänger können ihn auf dem Zöllnerpfad entdecken."
+    ],
+    "en": [
+      "The beach of the Council is a small conch offering a pleasant stretch of sand, calm and tranquility reign there with a beautiful view of the lighthouse of Cordouan.\r\nThe walkers will discover it by walking along the path of the Douaniers."
+    ],
+    "it": [
+      "La spiaggia del Consiglio è una piccola conca che offre un piacevole tratto di sabbia, la pace e la tranquillità regnano lì con una bella vista sul faro di Cordouan.\r\nGli escursionisti possono scoprirla percorrendo il \"sentier des Douaniers\"."
+    ],
+    "fr": [
+      "La plage du Conseil est une petite conche offrant une agréable étendue de sable, le calme et la tranquillité y règnent avec une belle vue sur le phare de Cordouan.\r\nLes promeneurs la découvriront en parcourant le sentier des Douaniers."
+    ],
+    "es": [
+      "La playa del Consejo es una pequeña concha que ofrece un agradable tramo de arena, la paz y la tranquilidad reinan allí con una hermosa vista del faro de Cordouan.\r\nLos senderistas pueden descubrirla recorriendo el \"sentier des Douaniers\"."
+    ],
+    "nl": [
+      "Het strand van de Raad is een kleine schelp met een aangenaam stuk zand, de rust heerst er met een prachtig uitzicht op de vuurtoren van Cordouan.\r\nWandelaars kunnen het ontdekken door te wandelen langs de \"sentier des Douaniers\"."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Plage du Conseil"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5ad963eb-13cd-3729-bba0-2de859b1a01f",
+      "schema:email": [
+        "contact@royanatlantique.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 08 21 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.royanatlantique.fr/sur-place/plages-charente-maritime/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/f90efb39-878d-301f-b8c2-ac2de170c63f",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/01d355b6-f9c7-386c-bac4-f711c61cdd8b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/06973a33-3b3e-3bf3-806a-3cca2a32c718",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/40c235b0-aef8-35f8-93f4-9bf75d0da6d5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/af5e2d88-5023-39d9-a2c7-76bf6c37e20b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/deb6512c-f29f-32b9-acd3-b6d16cdc3b23",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Der Plage du Conseil ist eine kleine Conche mit einem angenehmen Sandstrand. Hier herrscht Ruhe und Frieden, und Sie haben einen schönen Blick auf den Leuchtturm von Cordouan.\r\nSpaziergänger können ihn auf dem Zöllnerpfad entdecken."
+        ],
+        "en": [
+          "The beach of the Council is a small conch offering a pleasant stretch of sand, calm and tranquility reign there with a beautiful view of the lighthouse of Cordouan.\r\nThe walkers will discover it by walking along the path of the Douaniers."
+        ],
+        "it": [
+          "La spiaggia del Consiglio è una piccola conca che offre un piacevole tratto di sabbia, la pace e la tranquillità regnano lì con una bella vista sul faro di Cordouan.\r\nGli escursionisti possono scoprirla percorrendo il \"sentier des Douaniers\"."
+        ],
+        "fr": [
+          "La plage du Conseil est une petite conche offrant une agréable étendue de sable, le calme et la tranquillité y règnent avec une belle vue sur le phare de Cordouan.\r\nLes promeneurs la découvriront en parcourant le sentier des Douaniers."
+        ],
+        "es": [
+          "La playa del Consejo es una pequeña concha que ofrece un agradable tramo de arena, la paz y la tranquilidad reinan allí con una hermosa vista del faro de Cordouan.\r\nLos senderistas pueden descubrirla recorriendo el \"sentier des Douaniers\"."
+        ],
+        "nl": [
+          "Het strand van de Raad is een kleine schelp met een aangenaam stuk zand, de rust heerst er met een prachtig uitzicht op de vuurtoren van Cordouan.\r\nWandelaars kunnen het ontdekken door te wandelen langs de \"sentier des Douaniers\"."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Bathing",
+      "@type": [
+        "AccommodationAmenity",
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Baden"
+        ],
+        "pt": [
+          "Banho"
+        ],
+        "en": [
+          "Bathing"
+        ],
+        "it": [
+          "Bagno"
+        ],
+        "fr": [
+          "Baignade"
+        ],
+        "nl": [
+          "Zwemmen"
+        ],
+        "es": [
+          "Baño"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/1388233e-2725-3472-b9ab-8a2f6d5bd3d1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/47dfea88-107c-39a6-8725-55b24aeedf89",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/87d3c9b7-d60c-3825-a4b4-185156862187",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d62f82d1-335c-3089-b1e0-0c0d54daa037",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f9a476b8-fd5c-3cfb-a016-55a0c4b54ebb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/1d5ac2b6-dbab-3346-855f-7aeec2311803",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/5b12ba71-81c4-325a-bd99-c9dc4772e346",
+          "schema:addressLocality": "Vaux-sur-Mer",
+          "schema:postalCode": "17640",
+          "schema:streetAddress": [
+            "Plage du Conseil"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17461",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Vaux-sur-Mer"
+              ],
+              "pt": [
+                "Vaux-sur-Mer"
+              ],
+              "en": [
+                "Vaux-sur-Mer"
+              ],
+              "it": [
+                "Vaux-sur-Mer"
+              ],
+              "fr": [
+                "Vaux-sur-Mer"
+              ],
+              "nl": [
+                "Vaux-sur-Mer"
+              ],
+              "es": [
+                "Vaux-sur-Mer"
+              ]
+            },
+            "insee": "17461",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/91da97ed-9694-3ce8-9634-a75965722c6a",
+        "schema:latitude": "45.634727",
+        "schema:longitude": "-1.069519",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-01",
+  "lastUpdateDatatourisme": "2023-06-02T05:50:19.189Z"
+}

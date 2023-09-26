@@ -1,0 +1,541 @@
+{
+  "@id": "https://data.datatourisme.fr/13/64e3a00e-a30b-3b61-b060-baafc6e130f6",
+  "dc:identifier": "6384757",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Museum für alte Motorräder"
+    ],
+    "en": [
+      "Museum of old motorcycles"
+    ],
+    "it": [
+      "Museo delle moto d'epoca"
+    ],
+    "fr": [
+      "Musée de motos anciennes"
+    ],
+    "nl": [
+      "Museum van oude motoren"
+    ],
+    "es": [
+      "Museo de motos de época"
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Musée de motos anciennes"
+    ],
+    "ru": [
+      "Musée de motos anciennes"
+    ],
+    "en": [
+      "Musée de motos anciennes"
+    ],
+    "it": [
+      "Musée de motos anciennes"
+    ],
+    "fr": [
+      "Musée de motos anciennes"
+    ],
+    "zh": [
+      "Musée de motos anciennes"
+    ],
+    "nl": [
+      "Musée de motos anciennes"
+    ],
+    "es": [
+      "Musée de motos anciennes"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/16ba7217-2e6a-3f1d-a54d-11ab6967e371",
+    "dc:identifier": "2063",
+    "schema:email": [
+      "direction@sudcharentetourisme.fr",
+      "noemie@sudcharentetourisme.fr"
+    ],
+    "schema:legalName": "Office de tourisme du Sud Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.sudcharentetourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/64a4f9a0-415f-3b72-a024-5ec5bfcb6703",
+      "schema:email": [
+        "lesrouesailees@outlook.fr"
+      ],
+      "schema:telephone": [
+        "+33 6 62 18 45 29"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/4db688a6-d3e5-315c-b9a8-9054062021e7",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2f4137e6-9ee9-3deb-82bf-b41a134a2797",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9f2fe63c-2e81-31a2-8ea6-5d3783620471",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c3389fee-8a6c-3b74-98ca-17172c676ea7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e0f2c835-0f1c-393a-807e-ed6681ef2525",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Museum für alte Motorräder"
+        ],
+        "en": [
+          "Museum of old motorcycles"
+        ],
+        "it": [
+          "Museo delle moto d'epoca"
+        ],
+        "fr": [
+          "Musée de motos anciennes"
+        ],
+        "nl": [
+          "Museum van oude motoren"
+        ],
+        "es": [
+          "Museo de motos de época"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/59ddbf24-5bc9-3960-aa41-aaf2e4af0ee8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9786c97f-ff2f-330d-b274-30220fd0c244",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9bc140f2-51f2-3ab4-9b1f-8660773be11d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a7a979da-1f5a-3f9d-9aee-64cbc14d5f9c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/6d6e2fd3-6132-3fce-a0ec-946de5f461d7",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/f01b1717-b3b7-3ce6-bebf-3bebebf62466",
+          "schema:addressLocality": "Val des Vignes",
+          "schema:postalCode": "16250",
+          "schema:streetAddress": [
+            "4 Chemin Saint Simon",
+            "Les Doucets Péreuil"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16175",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Val des Vignes"
+              ],
+              "pt": [
+                "Val des Vignes"
+              ],
+              "en": [
+                "Val des Vignes"
+              ],
+              "it": [
+                "Val des Vignes"
+              ],
+              "fr": [
+                "Val des Vignes"
+              ],
+              "nl": [
+                "Val des Vignes"
+              ],
+              "es": [
+                "Val des Vignes"
+              ]
+            },
+            "insee": "16175",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/fc89dc05-71d5-3cee-96a7-6f28a00560f0",
+        "schema:latitude": "45.475288",
+        "schema:longitude": "0.022814",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3fdda96a-4cbb-3751-bfa6-e818ec9b0509",
+          "schema:closes": "12:30:00",
+          "schema:opens": "10:00:00",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-11-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Im Juli geschlossen."
+            ],
+            "en": [
+              "Closing in July."
+            ],
+            "it": [
+              "Chiuso a luglio."
+            ],
+            "fr": [
+              "Fermeture en juillet."
+            ],
+            "nl": [
+              "Gesloten in juli."
+            ],
+            "es": [
+              "Cerrado en julio."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/4936cb49-fdc8-3a5b-90f6-8c958aac800a",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/b3ca8f5c-6a53-3b03-8c21-cd666327a15b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/b4069e8b-649c-36f9-a90b-778210e0fdad",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e6ebc3f5-0cf1-3e03-8fea-ab774003c175",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/fd49a727-115f-3753-ae17-1d227889c15f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/17ccf9a1-6b41-3eb9-a1e1-edf0fbbf90c5",
+      "schema:email": [
+        "direction@sudcharentetourisme.fr",
+        "noemie@sudcharentetourisme.fr"
+      ],
+      "schema:legalName": "Office de tourisme du Sud-Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.sudcharentetourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-05-26",
+  "lastUpdateDatatourisme": "2023-05-27T05:51:42.053Z"
+}

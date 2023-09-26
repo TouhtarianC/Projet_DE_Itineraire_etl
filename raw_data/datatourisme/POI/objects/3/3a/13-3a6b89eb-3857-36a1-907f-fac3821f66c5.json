@@ -1,0 +1,432 @@
+{
+  "@id": "https://data.datatourisme.fr/13/3a6b89eb-3857-36a1-907f-fac3821f66c5",
+  "dc:identifier": "5731664",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "In Bellevue, einem der Stadtteile von Saintes, ist die Mediathek Louis-Aragon ein fast 300 m2 großer Ort der Ressourcen. Sie bietet eine vielfältige Sammlung an."
+    ],
+    "en": [
+      "In Bellevue, in one of the districts of Saintes, the Louis-Aragon media library is a resource centre of almost 300 m2. It offers diversified collections."
+    ],
+    "it": [
+      "A Bellevue, in uno dei quartieri di Saintes, la biblioteca multimediale Louis-Aragon è un centro di risorse di quasi 300 m2. Offre un'ampia gamma di collezioni."
+    ],
+    "fr": [
+      "A Bellevue, dans l'un des quartiers de Saintes, la médiathèque Louis-Aragon est un lieu-ressource de près de 300 m2. Elle propose des collections diversifiées."
+    ],
+    "nl": [
+      "In Bellevue, in een van de wijken van Saintes, is de mediatheek Louis-Aragon een informatiecentrum van bijna 300 m2. Het biedt een breed scala aan collecties."
+    ],
+    "es": [
+      "En Bellevue, en uno de los barrios de Saintes, la biblioteca multimedia Louis-Aragon es un centro de recursos de casi 300 m2. Ofrece una amplia gama de colecciones."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Médiathèque Louis Aragon"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f8c0c968-6328-35cd-9333-08b1a494967f",
+    "dc:identifier": "2060",
+    "schema:email": [
+      "a.tonin@saintes-tourisme.fr",
+      "f.herbec@saintes-tourisme.fr",
+      "l.conan@saintes-tourisme.fr"
+    ],
+    "schema:legalName": "Office de Tourisme de Saintes & la Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.saintes-tourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/0e7461ee-a1b5-3c5c-91d0-d5735119f651",
+      "schema:telephone": [
+        "+33 5 46 74 34 90"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://mediatheques.ville-saintes.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/35fcd14e-ab3f-34f1-8922-12e0cd944ca2",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/26af71dc-9aee-3c01-9bda-513a9723f645",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2e172d3b-6d53-3322-9e7c-14a47704cda9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/964dd56e-b5ed-34c7-a9ee-5c29f21e87a8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ca1f5d9b-029d-35fd-a6ef-4d608603e155",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fbb8ca22-b3c6-3719-97aa-a7b2b5f27bc6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "In Bellevue, einem der Stadtteile von Saintes, ist die Mediathek Louis-Aragon ein fast 300 m2 großer Ort der Ressourcen. Sie bietet eine vielfältige Sammlung an."
+        ],
+        "en": [
+          "In Bellevue, in one of the districts of Saintes, the Louis-Aragon media library is a resource centre of almost 300 m2. It offers diversified collections."
+        ],
+        "it": [
+          "A Bellevue, in uno dei quartieri di Saintes, la biblioteca multimediale Louis-Aragon è un centro di risorse di quasi 300 m2. Offre un'ampia gamma di collezioni."
+        ],
+        "fr": [
+          "A Bellevue, dans l'un des quartiers de Saintes, la médiathèque Louis-Aragon est un lieu-ressource de près de 300 m2. Elle propose des collections diversifiées."
+        ],
+        "nl": [
+          "In Bellevue, in een van de wijken van Saintes, is de mediatheek Louis-Aragon een informatiecentrum van bijna 300 m2. Het biedt een breed scala aan collecties."
+        ],
+        "es": [
+          "En Bellevue, en uno de los barrios de Saintes, la biblioteca multimedia Louis-Aragon es un centro de recursos de casi 300 m2. Ofrece una amplia gama de colecciones."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/8873b4f9-7cce-3374-a9d7-5bea648fa3d5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8a4c0b0c-2f6e-3978-be95-c5eccae3cb7e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9f1f64ce-8b82-3442-ae15-3af03c0fda70",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/bea2682a-a5a4-39e4-bf74-b2f097b22cfc",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f3e3f5c7-9e03-3a77-9b7d-b7feefbffb5d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/94d3447a-762c-35d1-baa2-31510e5382f6",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/14d2710b-ea32-3c50-9b27-f84759223b5a",
+          "schema:addressLocality": "Saintes",
+          "schema:postalCode": "17100",
+          "schema:streetAddress": [
+            "6 avenue Bellevue"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17415",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saintes"
+              ],
+              "pt": [
+                "Saintes"
+              ],
+              "en": [
+                "Saintes"
+              ],
+              "it": [
+                "Saintes"
+              ],
+              "fr": [
+                "Saintes"
+              ],
+              "nl": [
+                "Saintes"
+              ],
+              "es": [
+                "Saintes"
+              ]
+            },
+            "insee": "17415",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/b92154be-0f0c-3e45-842c-1c0b33e37b9e",
+        "schema:latitude": "45.733001",
+        "schema:longitude": "-0.643606",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/6788b742-800e-3e07-a704-c6181e0a8dd1",
+      "schema:email": [
+        "a.tonin@saintes-tourisme.fr",
+        "f.herbec@saintes-tourisme.fr",
+        "l.conan@saintes-tourisme.fr"
+      ],
+      "schema:legalName": "Office de Tourisme de Saintes & la Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.saintes-tourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-04-06",
+  "lastUpdateDatatourisme": "2023-04-07T05:49:54.959Z"
+}

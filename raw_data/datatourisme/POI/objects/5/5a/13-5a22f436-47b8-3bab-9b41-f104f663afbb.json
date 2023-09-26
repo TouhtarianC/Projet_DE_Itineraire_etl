@@ -1,0 +1,567 @@
+{
+  "@id": "https://data.datatourisme.fr/13/5a22f436-47b8-3bab-9b41-f104f663afbb",
+  "dc:identifier": "5742646",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Familie Bossis Raymond und ihre Söhne (Jean-Luc und Jean-Marie) laden Sie ein, ihr Weingut mit dem Haus aus dem 19. Jahrhundert, den Destilliergeräten aus der Charente und den Alterungskellern zu besichtigen."
+    ],
+    "en": [
+      "The Bossis Raymond family and their sons (Jean-Luc and Jean-Marie) invite you to visit their estate with its 19th century house, its Charentais stills and its ageing cellars."
+    ],
+    "it": [
+      "La famiglia Bossis Raymond e i suoi figli (Jean-Luc e Jean-Marie) vi invitano a visitare la loro tenuta con la casa del XIX secolo, gli alambicchi Charentais e le cantine di invecchiamento."
+    ],
+    "fr": [
+      "La famille Bossis Raymond et ses fils (Jean-Luc et Jean-Marie) vous invitent à visiter son domaine avec sa maison du XIXème siècle, ses alambics charentais et ses chais de vieillissement."
+    ],
+    "es": [
+      "La familia Bossis Raymond y sus hijos (Jean-Luc y Jean-Marie) le invitan a visitar su finca con su casa del siglo XIX, sus alambiques de Charentais y sus bodegas de envejecimiento."
+    ],
+    "nl": [
+      "De familie Bossis Raymond en hun zonen (Jean-Luc en Jean-Marie) nodigen u uit voor een bezoek aan hun landgoed met zijn huis uit de 19e eeuw, zijn Charentais stookinstallaties en zijn rijpende kelders."
+    ],
+    "zh": [
+      "Bossis Raymond（雷蒙德 波西斯）家族及其儿子（让卢克（Jean-Luc）和让马里（Jean-Marie））邀请您一起参观他们的庄园，那里有19世纪的房屋，Charentais剧照和老化的地窖。"
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Raymond Bossis Estate"
+    ],
+    "fr": [
+      "Domaine Raymond Bossis"
+    ],
+    "zh": [
+      "Raymond Bossis（雷蒙德 波西斯）庄园"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/12787eff-98eb-3260-94a0-293bf61e45eb",
+      "schema:email": [
+        "contact@raymond-bossis.com"
+      ],
+      "schema:telephone": [
+        "+33 6 31 49 93 42"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.raymond-bossis.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/4839462a-e0a3-3ae4-9d77-745bcda02573",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1fbf6ccc-e973-3955-bd58-99c38d37de78",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3caf6c85-5df6-3c36-ae7b-5a6009a67e0f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/876a0271-26b4-3441-9f35-b63206b4307f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b7587622-b9a5-380b-b703-ace315d66fb0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Familie Bossis Raymond und ihre Söhne (Jean-Luc und Jean-Marie) laden Sie ein, ihr Weingut mit dem Haus aus dem 19. Jahrhundert, den Destilliergeräten aus der Charente und den Alterungskellern zu besichtigen."
+        ],
+        "en": [
+          "The Bossis Raymond family and their sons (Jean-Luc and Jean-Marie) invite you to visit their estate with its 19th century house, its Charentais stills and its ageing cellars."
+        ],
+        "it": [
+          "La famiglia Bossis Raymond e i suoi figli (Jean-Luc e Jean-Marie) vi invitano a visitare la loro tenuta con la casa del XIX secolo, gli alambicchi Charentais e le cantine di invecchiamento."
+        ],
+        "fr": [
+          "La famille Bossis Raymond et ses fils (Jean-Luc et Jean-Marie) vous invitent à visiter son domaine avec sa maison du XIXème siècle, ses alambics charentais et ses chais de vieillissement."
+        ],
+        "es": [
+          "La familia Bossis Raymond y sus hijos (Jean-Luc y Jean-Marie) le invitan a visitar su finca con su casa del siglo XIX, sus alambiques de Charentais y sus bodegas de envejecimiento."
+        ],
+        "nl": [
+          "De familie Bossis Raymond en hun zonen (Jean-Luc en Jean-Marie) nodigen u uit voor een bezoek aan hun landgoed met zijn huis uit de 19e eeuw, zijn Charentais stookinstallaties en zijn rijpende kelders."
+        ],
+        "zh": [
+          "Bossis Raymond（雷蒙德 波西斯）家族及其儿子（让卢克（Jean-Luc）和让马里（Jean-Marie））邀请您一起参观他们的庄园，那里有19世纪的房屋，Charentais剧照和老化的地窖。"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/13d5571e-bbab-3607-bca6-683d2524c573",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/79697fe8-ffb6-378e-945f-f44e7df55bf5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c194903e-df29-3cb2-bd4d-388be1d105bd",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c7dfacc6-1655-378f-9eea-066327738b06",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/e7267269-4148-34ce-b755-bdf7290a35fe",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/c59f437f-7631-35d1-a74e-b24b23249248",
+          "schema:addressLocality": "Saint-Bonnet-sur-Gironde",
+          "schema:postalCode": "17150",
+          "schema:streetAddress": [
+            "4 les Groies"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17312",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Bonnet-sur-Gironde"
+              ],
+              "pt": [
+                "Saint-Bonnet-sur-Gironde"
+              ],
+              "en": [
+                "Saint-Bonnet-sur-Gironde"
+              ],
+              "it": [
+                "Saint-Bonnet-sur-Gironde"
+              ],
+              "fr": [
+                "Saint-Bonnet-sur-Gironde"
+              ],
+              "nl": [
+                "Saint-Bonnet-sur-Gironde"
+              ],
+              "es": [
+                "Saint-Bonnet-sur-Gironde"
+              ]
+            },
+            "insee": "17312",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/67d5a18e-be68-3602-a09f-0998007053e0",
+        "schema:latitude": "45.369618",
+        "schema:longitude": "-0.632113",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f1ccc291-551f-39d5-9d44-4f3385bd6922",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "nach Vereinbarung"
+            ],
+            "en": [
+              "by appointment"
+            ],
+            "it": [
+              "su appuntamento"
+            ],
+            "fr": [
+              "sur rendez-vous"
+            ],
+            "nl": [
+              "op afspraak"
+            ],
+            "es": [
+              "con cita previa"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/08a6139e-52fc-3f01-8a7d-d09f443f7211",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/17062bfd-4da0-35fa-a0a0-aa126539ca04",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/20181f35-fea7-3a36-b5f3-b016fe95e9a9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/b3cee381-54a8-3d44-881e-8afbd8e9da33",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d3bcde1d-c6e6-375f-860f-88f6ba9f2a0b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-27",
+  "lastUpdateDatatourisme": "2023-06-28T05:53:37.743Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/4f78db32-0d33-3da5-bfe8-97467108b7ac",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/e8c60683-94f2-300a-b5a1-d457cceef0db",
+          "schema:maxPrice": [
+            "12"
+          ],
+          "schema:minPrice": [
+            "0"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/4cc201c1-64ab-3ba6-97a9-cabc103cef24",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2030-12-31",
+              "startDate": "2021-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

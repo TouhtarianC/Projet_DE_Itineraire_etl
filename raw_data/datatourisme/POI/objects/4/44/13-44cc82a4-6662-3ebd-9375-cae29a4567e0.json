@@ -1,0 +1,387 @@
+{
+  "@id": "https://data.datatourisme.fr/13/44cc82a4-6662-3ebd-9375-cae29a4567e0",
+  "dc:identifier": "5696680",
+  "@type": [
+    "CoveredMarket",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Markthalle aus dem 19. Jahrhundert ist ein Wahrzeichen des historischen Stadtzentrums und wird jeden Tag abgehalten. Es ist ein Gebäude, das man in La Rochelle nicht verpassen sollte."
+    ],
+    "en": [
+      "An emblematic building of the historic city centre, the 19th century covered market is held every day. It is a building not to be missed in La Rochelle."
+    ],
+    "it": [
+      "Edificio emblematico del centro storico della città, il mercato coperto del XIX secolo si tiene ogni giorno. È un edificio essenziale di La Rochelle."
+    ],
+    "fr": [
+      "Un bâtiment emblématique du centre ville historique, les halles du XIXème siècle accueillent chaque jour le marché. C'est un édifice incontournable de La Rochelle."
+    ],
+    "nl": [
+      "Een emblematisch gebouw in het historische stadscentrum, de 19e eeuwse overdekte markt wordt elke dag gehouden. Het is een onmisbaar gebouw in La Rochelle."
+    ],
+    "es": [
+      "Edificio emblemático del centro histórico de la ciudad, el mercado cubierto del siglo XIX se celebra todos los días. Es un edificio que no debe perderse en La Rochelle."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Les Halles"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/1359aa93-3b48-3754-a2f5-4adb688bfa77",
+    "dc:identifier": "2058",
+    "schema:email": [
+      "a.lefeuvre@larochelle-tourisme-evenements.com",
+      "c.collot@larochelle-tourisme-evenements.com",
+      "m.farre@larochelle-tourisme-evenements.com",
+      "maxime.vossier@otipass.com",
+      "s.nogues@larochelle-tourisme-evenements.com"
+    ],
+    "schema:legalName": "La Rochelle Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.larochelle-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5f17d11a-22f9-3f60-b18c-353645d8fb7b",
+      "schema:telephone": [
+        "+33 5 46 51 51 51"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/0f79c50e-b27e-3037-8166-507114e69ee1",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3116494c-3781-33a4-a865-5d27c430c907",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dc3bbf98-d9db-3c32-9298-911e3cee3fcc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Markthalle aus dem 19. Jahrhundert ist ein Wahrzeichen des historischen Stadtzentrums und wird jeden Tag abgehalten. Es ist ein Gebäude, das man in La Rochelle nicht verpassen sollte."
+        ],
+        "en": [
+          "An emblematic building of the historic city centre, the 19th century covered market is held every day. It is a building not to be missed in La Rochelle."
+        ],
+        "it": [
+          "Edificio emblematico del centro storico della città, il mercato coperto del XIX secolo si tiene ogni giorno. È un edificio essenziale di La Rochelle."
+        ],
+        "fr": [
+          "Un bâtiment emblématique du centre ville historique, les halles du XIXème siècle accueillent chaque jour le marché. C'est un édifice incontournable de La Rochelle."
+        ],
+        "nl": [
+          "Een emblematisch gebouw in het historische stadscentrum, de 19e eeuwse overdekte markt wordt elke dag gehouden. Het is een onmisbaar gebouw in La Rochelle."
+        ],
+        "es": [
+          "Edificio emblemático del centro histórico de la ciudad, el mercado cubierto del siglo XIX se celebra todos los días. Es un edificio que no debe perderse en La Rochelle."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/5aa9608c-4fcc-3393-a861-cb9144b81462",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d8ec1144-c38a-3550-a205-64b0a9cd3fd6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b2cc9699-00c6-3f54-aa30-fbeb77174c36",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/ae437dd0-bd67-308d-83c7-2dad1de8cbcc",
+          "schema:addressLocality": "La Rochelle",
+          "schema:postalCode": "17000",
+          "schema:streetAddress": [
+            "Place du Marché"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17300",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "La Rochelle"
+              ],
+              "pt": [
+                "La Rochelle"
+              ],
+              "en": [
+                "La Rochelle"
+              ],
+              "it": [
+                "La Rochelle"
+              ],
+              "fr": [
+                "La Rochelle"
+              ],
+              "nl": [
+                "La Rochelle"
+              ],
+              "es": [
+                "La Rochelle"
+              ]
+            },
+            "insee": "17300",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/a801c4a6-7a5a-3cf1-874c-73c19f6aa533",
+        "schema:latitude": "46.161848",
+        "schema:longitude": "-1.149613",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/edf54e7a-5478-33ff-b549-f2a1b9194d79",
+          "schema:closes": "13:30:00",
+          "schema:opens": "08:00:00",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8da8ffa9-cdd8-3b7a-a8c5-edb456104fe0",
+      "schema:email": [
+        "a.lefeuvre@larochelle-tourisme-evenements.com",
+        "c.collot@larochelle-tourisme-evenements.com",
+        "m.farre@larochelle-tourisme-evenements.com",
+        "maxime.vossier@otipass.com",
+        "s.nogues@larochelle-tourisme-evenements.com"
+      ],
+      "schema:legalName": "La Rochelle Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.larochelle-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-11-30",
+  "lastUpdateDatatourisme": "2023-05-26T05:53:38.476Z"
+}

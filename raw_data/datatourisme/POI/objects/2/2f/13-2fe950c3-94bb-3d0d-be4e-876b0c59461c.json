@@ -1,0 +1,539 @@
+{
+  "@id": "https://data.datatourisme.fr/13/2fe950c3-94bb-3d0d-be4e-876b0c59461c",
+  "dc:identifier": "5677929",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das Museum mit einer reichen Sammlung von über 500 Objekten zeigt Räume (Zimmer des Pfarrers, Räume des Hochaltars), die durch eine Ausstellung von Priestergewändern ergänzt werden. Freie Besichtigungen ohne Voranmeldung\r\nGeführte Besichtigungen nach Vereinbarung. kostenlos"
+    ],
+    "en": [
+      "The museum, with its rich collections of more than 500 objects, presents rooms (priest's room, rooms of the high altar) completed with an exhibition of priestly vestments. Self-guided tours without appointment\r\nGuided tours by appointment. free"
+    ],
+    "it": [
+      "Il museo, con la sua ricca collezione di oltre 500 oggetti, comprende sale (la sala del sacerdote, le sale dell'altare maggiore) e un'esposizione di paramenti sacerdotali. Visite autoguidate senza appuntamento\r\nVisite guidate su appuntamento"
+    ],
+    "fr": [
+      "Le musée, aux collections riches de plus de 500 objets, présente des salles (chambre du curé, pièces du maître-autel) complétées d'une exposition d'habits sacerdotaux. Visites libres sans rendez-vous\r\nVisites guidées sur rendez-vous. gratuit"
+    ],
+    "nl": [
+      "Het museum, met zijn rijke collectie van meer dan 500 voorwerpen, omvat kamers (de pastoorskamer, de kamers van het hoogaltaar) en een tentoonstelling van priestergewaden. Zelf rondleidingen zonder afspraak\r\nRondleidingen op afspraak"
+    ],
+    "es": [
+      "El museo, con su rica colección de más de 500 objetos, incluye salas (la sala del párroco, las salas del altar mayor) y una exposición de vestimentas sacerdotales. Visitas autoguiadas sin cita previa\r\nVisitas guiadas con cita previa"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Musée des Ostensions"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/584b98aa-c2dd-3f59-ae2c-f19ca4ccb75e",
+    "dc:identifier": "2052",
+    "schema:email": [
+      "fatiha.guetarni@charente-limousine.fr",
+      "marc.vachot@charente-limousine.fr"
+    ],
+    "schema:legalName": "Office de Tourisme Charente Limousine",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5c9babe3-fcbc-3cca-8464-6c6fd5dc83a8",
+      "schema:email": [
+        "mairie-esse@wanadoo.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 84 11 46"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/045242c4-4369-34f4-8baa-f08c76204da8",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3532cbc4-621d-3de7-95a9-deafa7abcb90",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5a923531-3ba0-33a7-a43d-f83fe6db5ab0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/88c26145-15b3-3e6c-b347-ad5b6689f5fb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/aedf3d5b-e54d-333f-a4cd-564228aca935",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c3b85945-5a4a-3743-baaa-f6c22782d66a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das Museum mit einer reichen Sammlung von über 500 Objekten zeigt Räume (Zimmer des Pfarrers, Räume des Hochaltars), die durch eine Ausstellung von Priestergewändern ergänzt werden. Freie Besichtigungen ohne Voranmeldung\r\nGeführte Besichtigungen nach Vereinbarung. kostenlos"
+        ],
+        "en": [
+          "The museum, with its rich collections of more than 500 objects, presents rooms (priest's room, rooms of the high altar) completed with an exhibition of priestly vestments. Self-guided tours without appointment\r\nGuided tours by appointment. free"
+        ],
+        "it": [
+          "Il museo, con la sua ricca collezione di oltre 500 oggetti, comprende sale (la sala del sacerdote, le sale dell'altare maggiore) e un'esposizione di paramenti sacerdotali. Visite autoguidate senza appuntamento\r\nVisite guidate su appuntamento"
+        ],
+        "fr": [
+          "Le musée, aux collections riches de plus de 500 objets, présente des salles (chambre du curé, pièces du maître-autel) complétées d'une exposition d'habits sacerdotaux. Visites libres sans rendez-vous\r\nVisites guidées sur rendez-vous. gratuit"
+        ],
+        "nl": [
+          "Het museum, met zijn rijke collectie van meer dan 500 voorwerpen, omvat kamers (de pastoorskamer, de kamers van het hoogaltaar) en een tentoonstelling van priestergewaden. Zelf rondleidingen zonder afspraak\r\nRondleidingen op afspraak"
+        ],
+        "es": [
+          "El museo, con su rica colección de más de 500 objetos, incluye salas (la sala del párroco, las salas del altar mayor) y una exposición de vestimentas sacerdotales. Visitas autoguiadas sin cita previa\r\nVisitas guiadas con cita previa"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/3f35c95f-e69f-3192-953d-bfadaa9ddddd",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/763b847e-7249-3e7e-8eef-0541a807248d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/905b1892-b289-3aaa-b04d-e160805b3727",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d2cfc959-48ba-364e-ac69-96246ca47119",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f6660f79-133e-3404-869f-c00c18c6d856",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/198035f0-86be-3300-9e86-e83814bbe676",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/33b28662-2d7a-3b56-aa4e-972f8b173522",
+          "schema:addressLocality": "Esse",
+          "schema:postalCode": "16500",
+          "schema:streetAddress": [
+            "2 place Jean Teilliet"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16131",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Esse"
+              ],
+              "pt": [
+                "Esse"
+              ],
+              "en": [
+                "Esse"
+              ],
+              "it": [
+                "Esse"
+              ],
+              "fr": [
+                "Esse"
+              ],
+              "nl": [
+                "Esse"
+              ],
+              "es": [
+                "Esse"
+              ]
+            },
+            "insee": "16131",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/cd2c5518-ab26-3bac-bc89-6fbf795f9b04",
+        "schema:latitude": "44.710981",
+        "schema:longitude": "1.904558",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/df0f07e2-886f-373b-a2f2-aca95733e1f1",
+          "schema:closes": "17:30:00",
+          "schema:opens": "08:30:00",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Geöffnet montags, dienstags, donnerstags und freitags: 8.30 -12.00 Uhr/13.00 -17.30 Uhr\r\nMittwoch: 9h-12h"
+            ],
+            "en": [
+              "Open Mondays, Tuesdays, Thursdays and Fridays from 8:30am-12pm/13pm-5:30pm\r\nWednesday: 9am-12pm"
+            ],
+            "it": [
+              "Aperto lunedì, martedì, giovedì e venerdì dalle 8.30-12.00/13.00-17.30\r\nMercoledì: 9.00-12.00"
+            ],
+            "fr": [
+              "Ouvert les lundis, mardi jeudi et vendredi de 8h30  -12h/13h-17h30\r\nLe mercredi : 9h-12h"
+            ],
+            "nl": [
+              "Geopend op maandag, dinsdag, donderdag en vrijdag van 8.30-12.00 uur/13.00-17.30 uur\r\nWoensdag: 9u-12u"
+            ],
+            "es": [
+              "Abierto los lunes, martes, jueves y viernes de 8.30 a 12.00 horas/13.00 a 17.30 horas\r\nMiércoles: 9h-12h"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/168764a1-4b9e-3f43-9968-616713ac5bd9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/97a4f710-522b-3163-a38d-718d01f551fc",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/b94daef5-2f2f-35bb-aae8-cf18eeeb7d3d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/bfa9f13c-724c-3ced-b876-6244d2efa5e5",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/fd4a6245-58fc-3113-8e4b-a65297e6f6bb",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ca729d9a-b370-39c8-8ff2-ebfbb796dad5",
+      "schema:email": [
+        "fatiha.guetarni@charente-limousine.fr",
+        "marc.vachot@charente-limousine.fr"
+      ],
+      "schema:legalName": "Office de Tourisme Charente Limousine",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-01-24",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.886Z"
+}

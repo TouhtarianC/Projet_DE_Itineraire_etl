@@ -1,0 +1,524 @@
+{
+  "@id": "https://data.datatourisme.fr/13/173c5e51-bfeb-3ebe-b314-e6eccc64e8bb",
+  "dc:identifier": "5693010",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Mittelalterlich inspirierter Garten der Wassergräben. Er wurde von einer Vereinigung von Anwohnern angelegt, die sich für die Geschichte von Jonzac und für Pflanzen begeistern.\r\nMögliche Besuche"
+    ],
+    "en": [
+      "Medieval inspired garden with moat, it was created by an association of local residents who are passionate about the history of Jonzac and about plants.\r\nPossible visits"
+    ],
+    "it": [
+      "Questo giardino con fossato medievale è stato creato da un'associazione di residenti locali con la passione per la storia di Jonzac e per le piante.\r\nVisite possibili"
+    ],
+    "fr": [
+      "Jardin d'inspiration médiévale des douves, il a été aménagé par une association de riverains passionnés par l’histoire de Jonzac et par les plantes. \r\nVisites possibles"
+    ],
+    "es": [
+      "Este jardín de foso medieval fue creado por una asociación de vecinos apasionados por la historia de Jonzac y por las plantas.\r\nVisitas posibles"
+    ],
+    "nl": [
+      "Deze middeleeuwse grachtentuin werd aangelegd door een vereniging van buurtbewoners met een passie voor de geschiedenis van Jonzac en voor planten.\r\nMogelijke bezoeken"
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Jonzac' Medieval Garden"
+    ],
+    "fr": [
+      "Jardin Médiéval de Jonzac"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/978f8174-8dac-3900-8353-362b1fc048a4",
+      "schema:email": [
+        "tourisme@villedejonzac.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 48 49 29"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b754a581-b1c5-308f-ab3d-fde30ce90328",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/14ad37a9-d300-38b9-82db-c2c7fa30cad2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7615d78b-637e-3800-8914-5c8e34c2f2ab",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f174c7ef-e448-36a6-9012-2927b5c773cf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f1cdfbc9-af70-36d6-87ee-9e1f930df5a5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Mittelalterlich inspirierter Garten der Wassergräben. Er wurde von einer Vereinigung von Anwohnern angelegt, die sich für die Geschichte von Jonzac und für Pflanzen begeistern.\r\nMögliche Besuche"
+        ],
+        "en": [
+          "Medieval inspired garden with moat, it was created by an association of local residents who are passionate about the history of Jonzac and about plants.\r\nPossible visits"
+        ],
+        "it": [
+          "Questo giardino con fossato medievale è stato creato da un'associazione di residenti locali con la passione per la storia di Jonzac e per le piante.\r\nVisite possibili"
+        ],
+        "fr": [
+          "Jardin d'inspiration médiévale des douves, il a été aménagé par une association de riverains passionnés par l’histoire de Jonzac et par les plantes. \r\nVisites possibles"
+        ],
+        "es": [
+          "Este jardín de foso medieval fue creado por una asociación de vecinos apasionados por la historia de Jonzac y por las plantas.\r\nVisitas posibles"
+        ],
+        "nl": [
+          "Deze middeleeuwse grachtentuin werd aangelegd door een vereniging van buurtbewoners met een passie voor de geschiedenis van Jonzac en voor planten.\r\nMogelijke bezoeken"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/5c79f505-e5b7-34a1-916f-3ffa262037f8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7380cf57-7e66-3815-bc80-823f266372b2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cc9ae513-6dec-325d-9771-801b2577f257",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cfe73520-c2f4-3387-b9ef-9580f2dff131",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/96a88a16-f216-3209-97fe-8b4a81d090a5",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/65a719d1-2738-3d41-bcca-f023d3d3ab2f",
+          "schema:addressLocality": "Jonzac",
+          "schema:postalCode": "17500",
+          "schema:streetAddress": [
+            "Rue du Chemin de Ronde"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17197",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Jonzac"
+              ],
+              "pt": [
+                "Jonzac"
+              ],
+              "en": [
+                "Jonzac"
+              ],
+              "it": [
+                "Jonzac"
+              ],
+              "fr": [
+                "Jonzac"
+              ],
+              "nl": [
+                "Jonzac"
+              ],
+              "es": [
+                "Jonzac"
+              ]
+            },
+            "insee": "17197",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/810214f6-0525-3613-ab28-66bba4fcf62b",
+        "schema:latitude": "45.445125",
+        "schema:longitude": "-0.43146",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/49569998-9bb1-3cce-84c8-e36bbd697ef9",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Nur bei begleiteten Besuchen mit dem Tourismusbüro"
+            ],
+            "en": [
+              "Only during guided tours with the tourist office"
+            ],
+            "it": [
+              "Solo durante le visite guidate con l'ufficio turistico"
+            ],
+            "fr": [
+              "Uniquement lors de visites accompagnées avec l'office de tourisme"
+            ],
+            "es": [
+              "Sólo durante las visitas guiadas con la oficina de turismo"
+            ],
+            "nl": [
+              "Alleen tijdens rondleidingen met de VVV"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/02121b3e-a471-3b3f-ad38-021ad382698c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/3eb28926-af9b-3151-9df8-e70215d8b659",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a364181f-a9a2-3431-ac23-4aae36b7a519",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/fa1cd87e-e473-3f04-b4ea-27ac7c7c25ff",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/fff8b56d-098a-3ee7-9b44-a948fdc18018",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-22",
+  "lastUpdateDatatourisme": "2023-06-23T05:50:54.451Z"
+}

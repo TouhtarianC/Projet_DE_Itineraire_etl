@@ -1,0 +1,565 @@
+{
+  "@id": "https://data.datatourisme.fr/13/b4418893-cc9b-3a13-b47c-da7c753db9ca",
+  "dc:identifier": "5773098",
+  "@type": [
+    "schema:Landform",
+    "Beach",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Der Plage de la Palmyre ist ein Familienstrand im Schutz der Bucht von Bonne Anse und daher ideal für sicheres Baden.\r\n\r\nDer Strand ist vom 17. Juni bis zum 03. September 2023 von 11:00 bis 19:00 Uhr beaufsichtigt."
+    ],
+    "en": [
+      "Plage de la Palmyre is a family beach in the sheltered bay of Bonne Anse, making it ideal for safe swimming.\r\n\r\nLifeguard surveillance from June 17 to September 03, 2023, from 11am to 7pm."
+    ],
+    "it": [
+      "Plage de la Palmyre è una spiaggia per famiglie nella baia riparata di Bonne Anse, ideale per nuotare in sicurezza.\r\n\r\nLa spiaggia è sorvegliata dal 17 giugno al 03 settembre 2023 dalle 11:00 alle 19:00."
+    ],
+    "fr": [
+      "La Plage de la Palmyre est une plage familiale à l'abri de la baie de Bonne Anse, elle est donc idéale pour des baignades sécurisées.\r\n\r\nPlage surveillée du 17 juin au 03 septembre 2023 de 11h à 19h."
+    ],
+    "nl": [
+      "Plage de la Palmyre is een familiestrand in de beschutte baai van Bonne Anse, waardoor het ideaal is om veilig te zwemmen.\r\n\r\nHet strand staat onder toezicht van 17 juni tot 03 september 2023 van 11.00 tot 19.00 uur."
+    ],
+    "es": [
+      "Plage de la Palmyre es una playa familiar situada en la protegida bahía de Bonne Anse, ideal para nadar sin peligro.\r\n\r\nLa playa está vigilada del 17 de junio al 03 de septiembre de 2023 de 11:00 a 19:00."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Plage de La Palmyre"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q23013103"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5ad963eb-13cd-3729-bba0-2de859b1a01f",
+      "schema:email": [
+        "contact@royanatlantique.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 08 21 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.royanatlantique.fr/sur-place/plages-charente-maritime/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/0a589151-f143-37cf-9932-1705da7fe47b",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0bbe971e-e30b-33aa-989c-d98cb32bc425",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/32e94416-01c5-38af-bfed-b604a145f679",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8346efce-e158-337c-9740-124871521d2a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b13759d9-31e8-3a48-a394-bb80f21a145d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c57e262d-bc60-3fa6-a874-67705c5d0c19",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Der Plage de la Palmyre ist ein Familienstrand im Schutz der Bucht von Bonne Anse und daher ideal für sicheres Baden.\r\n\r\nDer Strand ist vom 17. Juni bis zum 03. September 2023 von 11:00 bis 19:00 Uhr beaufsichtigt."
+        ],
+        "en": [
+          "Plage de la Palmyre is a family beach in the sheltered bay of Bonne Anse, making it ideal for safe swimming.\r\n\r\nLifeguard surveillance from June 17 to September 03, 2023, from 11am to 7pm."
+        ],
+        "it": [
+          "Plage de la Palmyre è una spiaggia per famiglie nella baia riparata di Bonne Anse, ideale per nuotare in sicurezza.\r\n\r\nLa spiaggia è sorvegliata dal 17 giugno al 03 settembre 2023 dalle 11:00 alle 19:00."
+        ],
+        "fr": [
+          "La Plage de la Palmyre est une plage familiale à l'abri de la baie de Bonne Anse, elle est donc idéale pour des baignades sécurisées.\r\n\r\nPlage surveillée du 17 juin au 03 septembre 2023 de 11h à 19h."
+        ],
+        "nl": [
+          "Plage de la Palmyre is een familiestrand in de beschutte baai van Bonne Anse, waardoor het ideaal is om veilig te zwemmen.\r\n\r\nHet strand staat onder toezicht van 17 juni tot 03 september 2023 van 11.00 tot 19.00 uur."
+        ],
+        "es": [
+          "Plage de la Palmyre es una playa familiar situada en la protegida bahía de Bonne Anse, ideal para nadar sin peligro.\r\n\r\nLa playa está vigilada del 17 de junio al 03 de septiembre de 2023 de 11:00 a 19:00."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/0594217f-8e01-3901-81f9-e3bd69c5d8e4",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/a4d2d85f-e801-31cd-98f0-044000c057f9",
+          "ebucore:isCoveredBy": "CC BY-SA 4.0",
+          "ebucore:title": {
+            "fr": [
+              "La plage de La Palmyre"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Cobber17 (https://commons.wikimedia.org/wiki/User:Cobber17)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/74bbe822-ca08-3e86-b435-786249896ec5",
+          "ebucore:fileSize": [
+            3847951
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 2736,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/b/b8/La_plage_de_La_Palmyre.JPG"
+          ],
+          "ebucore:width": 3648,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Bathing",
+      "@type": [
+        "AccommodationAmenity",
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Baden"
+        ],
+        "pt": [
+          "Banho"
+        ],
+        "en": [
+          "Bathing"
+        ],
+        "it": [
+          "Bagno"
+        ],
+        "fr": [
+          "Baignade"
+        ],
+        "nl": [
+          "Zwemmen"
+        ],
+        "es": [
+          "Baño"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/2058e665-1e31-3b51-b045-903ce64becad",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3056c463-d672-3ded-8b5f-04c7c5d17c45",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/597d9b87-c44c-3689-902f-514c9d6c5143",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/602495d9-13db-38ff-9aff-f0f576b6ba64",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6028f6c8-6478-3fca-a973-94f53bc4afee",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/7ce17e7c-05b9-31cd-9b34-fa8a9fa9b74d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/42c968ef-97a9-3d30-9507-0a1884dcc343",
+          "schema:addressLocality": "Les Mathes",
+          "schema:postalCode": "17570",
+          "schema:streetAddress": [
+            "La Palmyre"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17225",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Les Mathes"
+              ],
+              "pt": [
+                "Les Mathes"
+              ],
+              "en": [
+                "Les Mathes"
+              ],
+              "it": [
+                "Les Mathes"
+              ],
+              "fr": [
+                "Les Mathes"
+              ],
+              "nl": [
+                "Les Mathes"
+              ],
+              "es": [
+                "Les Mathes"
+              ]
+            },
+            "insee": "17225",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/b1d7a4dc-c80a-3f6d-9661-7e3216d0386a",
+        "schema:latitude": "45.680624",
+        "schema:longitude": "-1.176954",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-05",
+  "lastUpdateDatatourisme": "2023-06-06T05:42:57.568Z"
+}

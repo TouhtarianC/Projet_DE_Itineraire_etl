@@ -1,0 +1,463 @@
+{
+  "@id": "https://data.datatourisme.fr/13/9788185a-e192-3ba9-87ae-139d67a4ab74",
+  "dc:identifier": "5777512",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das Weinbaugebiet liegt auf halbem Weg zwischen den Grands Crus der Bordeaux-Weine und den Premiers Crus des Cognacs."
+    ],
+    "en": [
+      "The vineyard is located halfway between the great growths of Bordeaux wines and the first growths of Cognac."
+    ],
+    "it": [
+      "Il vigneto si trova a metà strada tra le grandi produzioni di Bordeaux e le prime produzioni di Cognac."
+    ],
+    "fr": [
+      "Le Vignoble est situé à mi chemin entre les grands crus des vins de Bordeaux et les premiers crus du cognac."
+    ],
+    "es": [
+      "El viñedo está situado a medio camino entre los grandes crecimientos de los vinos de Burdeos y los primeros crecimientos de Cognac."
+    ],
+    "nl": [
+      "De wijngaard ligt halverwege de grote Bordeaux-wijnen en de eerste Cognac-wijnen."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Vignoble Morandière"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/de01da63-dd1e-3d56-90b2-bedaf908087f",
+      "schema:email": [
+        "vincent.morandiere@wanadoo.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 86 02 76",
+        "+33 6 89 04 48 11"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/9002f4c4-537d-3bf9-83c4-d8d2babb63f4",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2b427caa-3ce6-38c8-9652-bb473b83e290",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6095e6aa-4d04-3e6a-aa00-756faaa3b585",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7edabd2c-00ec-3b56-96b8-fda6c4dc57d2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e734665b-21b2-32a7-b3ee-7a0b35128567",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ff15b1e2-b40f-3acc-833f-34e9a03a2ad8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das Weinbaugebiet liegt auf halbem Weg zwischen den Grands Crus der Bordeaux-Weine und den Premiers Crus des Cognacs."
+        ],
+        "en": [
+          "The vineyard is located halfway between the great growths of Bordeaux wines and the first growths of Cognac."
+        ],
+        "it": [
+          "Il vigneto si trova a metà strada tra le grandi produzioni di Bordeaux e le prime produzioni di Cognac."
+        ],
+        "fr": [
+          "Le Vignoble est situé à mi chemin entre les grands crus des vins de Bordeaux et les premiers crus du cognac."
+        ],
+        "es": [
+          "El viñedo está situado a medio camino entre los grandes crecimientos de los vinos de Burdeos y los primeros crecimientos de Cognac."
+        ],
+        "nl": [
+          "De wijngaard ligt halverwege de grote Bordeaux-wijnen en de eerste Cognac-wijnen."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/16dfec18-0bf8-3721-b29f-ebaf4e1479cc",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/1a24b00c-8423-3884-9fa2-2557cd6e7be4",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/1d7a5df6-5ab7-3e7b-b42a-b51d14a73903",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/685f9960-02e9-3db0-a053-32e6661a094c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/bb55c958-3055-3dbc-b1c6-d14bcae1c53c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/3fa01815-31ca-3748-bdad-71deabf43d5d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/b99e72e6-3fe6-3e67-b6ae-e45e0eebfc9e",
+          "schema:addressLocality": "Saint-Georges-des-Agoûts",
+          "schema:postalCode": "17150",
+          "schema:streetAddress": [
+            "12 rue du Pineau",
+            "Le Breuil"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17335",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Georges-des-Agoûts"
+              ],
+              "pt": [
+                "Saint-Georges-des-Agoûts"
+              ],
+              "en": [
+                "Saint-Georges-des-Agoûts"
+              ],
+              "it": [
+                "Saint-Georges-des-Agoûts"
+              ],
+              "fr": [
+                "Saint-Georges-des-Agoûts"
+              ],
+              "nl": [
+                "Saint-Georges-des-Agoûts"
+              ],
+              "es": [
+                "Saint-Georges-des-Agoûts"
+              ]
+            },
+            "insee": "17335",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/b70e8892-e7cd-367c-a182-d9369edbcdf3",
+        "schema:latitude": "45.385982",
+        "schema:longitude": "-0.659974",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-05-06",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.677Z"
+}

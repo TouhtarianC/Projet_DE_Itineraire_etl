@@ -1,0 +1,393 @@
+{
+  "@id": "https://data.datatourisme.fr/13/56bd128c-c48a-3089-a6ce-3af49b4c9110",
+  "dc:identifier": "5761128",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Mehr als 3.500 Bücher stehen Ihnen zur Verfügung."
+    ],
+    "en": [
+      "Over 3,500 books at your disposal."
+    ],
+    "it": [
+      "Oltre 3.500 libri a disposizione."
+    ],
+    "fr": [
+      "Plus de 3 500 livres à votre disposition."
+    ],
+    "nl": [
+      "Meer dan 3500 boeken tot uw beschikking."
+    ],
+    "es": [
+      "Más de 3.500 libros a su disposición."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Bibliothek in Saint Laurent de la Prée"
+    ],
+    "en": [
+      "Library of Saint Laurent de la Prée"
+    ],
+    "fr": [
+      "Bibliothèque de Saint Laurent de la Prée"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/9afefc52-942c-383c-bc1f-14b2139b09ba",
+    "dc:identifier": "2055",
+    "schema:email": [
+      "chloe.mailler@rochefort-ocean.com",
+      "christine.nourisson@rochefort-ocean.com",
+      "chrystelle.ecale@rochefort-ocean.com",
+      "lea.origlia@rochefort-ocean.com",
+      "sandrine.bouron@rochefort-ocean.com"
+    ],
+    "schema:legalName": "Office de Tourisme Rochefort Océan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.rochefort-ocean.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3d1ca1c0-fb28-366d-a09d-88082f8b8ee9",
+      "schema:email": [
+        "bibliothequestlaurent@orange.fr"
+      ],
+      "schema:telephone": [
+        "+33 6 20 95 87 96"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://mediatheques.agglo-rochefortocean.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/4721bd4d-f813-3a51-8e7f-2247fc9d1074",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2fd53e95-e480-3968-8307-4b189acf792c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3d427470-9502-366f-8c15-0182bbc092ef",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/54fdbf79-bd22-30d2-af86-26dee60a6750",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Mehr als 3.500 Bücher stehen Ihnen zur Verfügung."
+        ],
+        "en": [
+          "Over 3,500 books at your disposal."
+        ],
+        "it": [
+          "Oltre 3.500 libri a disposizione."
+        ],
+        "fr": [
+          "Plus de 3 500 livres à votre disposition."
+        ],
+        "nl": [
+          "Meer dan 3500 boeken tot uw beschikking."
+        ],
+        "es": [
+          "Más de 3.500 libros a su disposición."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/20bbf295-1724-3cf6-91a3-004cadaa3ed1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/74f68313-7611-3c60-be55-adcc50f85047",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8c25a0f4-1507-30b5-bf62-beb34271721f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/2435abcf-ad02-31a3-b711-3f71b66fc9dc",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d013d598-5833-3fb3-a0ec-4654f20af4de",
+          "schema:addressLocality": "Saint-Laurent-de-la-Prée",
+          "schema:postalCode": "17450",
+          "schema:streetAddress": [
+            "route de la Grande Levée"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17353",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Laurent-de-la-Prée"
+              ],
+              "pt": [
+                "Saint-Laurent-de-la-Prée"
+              ],
+              "en": [
+                "Saint-Laurent-de-la-Prée"
+              ],
+              "it": [
+                "Saint-Laurent-de-la-Prée"
+              ],
+              "fr": [
+                "Saint-Laurent-de-la-Prée"
+              ],
+              "nl": [
+                "Saint-Laurent-de-la-Prée"
+              ],
+              "es": [
+                "Saint-Laurent-de-la-Prée"
+              ]
+            },
+            "insee": "17353",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/5a8f5a33-f1d3-3526-8024-bf1aa18a834f",
+        "schema:latitude": "45.97971",
+        "schema:longitude": "-1.040193",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/c7f86bc0-415a-3706-b477-ed85fab8c335",
+          "schema:validFrom": "2023-01-04T00:00:00",
+          "schema:validThrough": "2023-12-20T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fed90c24-5b4e-374e-b413-9c9ae527b242",
+      "schema:email": [
+        "chloe.mailler@rochefort-ocean.com",
+        "christine.nourisson@rochefort-ocean.com",
+        "chrystelle.ecale@rochefort-ocean.com",
+        "lea.origlia@rochefort-ocean.com",
+        "sandrine.bouron@rochefort-ocean.com"
+      ],
+      "schema:legalName": "Office de Tourisme Rochefort Océan",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.rochefort-ocean.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-01-17",
+  "lastUpdateDatatourisme": "2023-02-01T18:07:35.658Z"
+}

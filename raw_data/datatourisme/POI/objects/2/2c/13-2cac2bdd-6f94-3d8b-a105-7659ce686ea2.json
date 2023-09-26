@@ -1,0 +1,517 @@
+{
+  "@id": "https://data.datatourisme.fr/13/2cac2bdd-6f94-3d8b-a105-7659ce686ea2",
+  "dc:identifier": "5772207",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Bibliothek bietet 10 000 Bücher zur kostenlosen Ausleihe an. Der Bestand wird durch regelmäßige Käufe ergänzt, die das ganze Jahr über in allen Bereichen getätigt werden (Romane, Krimis, Jugend- und Teenagerbücher, Alben, Comics für Jugendliche und Erwachsene, lokale Bestände, Dokumentarfilme)."
+    ],
+    "en": [
+      "The library offers 10,000 books on loan free of charge. The collection is completed by regular purchases made throughout the year in all fields (novels, detective stories, books for young people and teenagers, albums, comics for young people and adults, local collections, documentaries)."
+    ],
+    "it": [
+      "La biblioteca offre 10.000 libri in prestito gratuito. La collezione è integrata da acquisti regolari effettuati durante l'anno in tutti i settori (romanzi, gialli, libri per giovani e adolescenti, album, fumetti per giovani e adulti, letteratura locale, documentari)."
+    ],
+    "fr": [
+      "La bibliothèque propose 10 000 ouvrages en prêt gratuit. Le fonds est complété par des achats réguliers effectués toute l’année dans tous les domaines (romans, policiers, livres jeunes et ados, albums, BD jeunesse et adultes, fonds local, documentaires)."
+    ],
+    "es": [
+      "La biblioteca ofrece 10.000 libros en préstamo gratuito. La colección se completa con las compras regulares que se realizan a lo largo del año en todos los ámbitos (novelas, novelas policíacas, libros para jóvenes y adolescentes, álbumes, cómics para jóvenes y adultos, literatura local, documentales)."
+    ],
+    "nl": [
+      "De bibliotheek leent 10.000 boeken gratis uit. De collectie wordt aangevuld door regelmatige aankopen in de loop van het jaar op alle gebieden (romans, detectiveverhalen, jeugd- en tienerboeken, albums, strips voor jongeren en volwassenen, lokale literatuur, documentaires)."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Bibliothèque Municipale d'Arvert"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/0c2488c3-56f6-35d2-b76d-35abdb581bc5",
+      "schema:email": [
+        "bibliotheque.arvert@orange.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 36 25 26"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.arvert.fr/vie-locale/bibliotheque/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/0de9ceac-ecdf-343c-938c-c22daf42505f",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1ccae6aa-00ed-3369-a20a-f1f1091fca88",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/81a7f133-f82f-3368-96f3-6bc44628b347",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ba11c68a-7961-365f-a2e1-822180b411be",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d26d497c-1ee4-334d-9ef3-50105881eac3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f0da6b7a-2fe1-3b6e-996d-aa7df97708fc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Bibliothek bietet 10 000 Bücher zur kostenlosen Ausleihe an. Der Bestand wird durch regelmäßige Käufe ergänzt, die das ganze Jahr über in allen Bereichen getätigt werden (Romane, Krimis, Jugend- und Teenagerbücher, Alben, Comics für Jugendliche und Erwachsene, lokale Bestände, Dokumentarfilme)."
+        ],
+        "en": [
+          "The library offers 10,000 books on loan free of charge. The collection is completed by regular purchases made throughout the year in all fields (novels, detective stories, books for young people and teenagers, albums, comics for young people and adults, local collections, documentaries)."
+        ],
+        "it": [
+          "La biblioteca offre 10.000 libri in prestito gratuito. La collezione è integrata da acquisti regolari effettuati durante l'anno in tutti i settori (romanzi, gialli, libri per giovani e adolescenti, album, fumetti per giovani e adulti, letteratura locale, documentari)."
+        ],
+        "fr": [
+          "La bibliothèque propose 10 000 ouvrages en prêt gratuit. Le fonds est complété par des achats réguliers effectués toute l’année dans tous les domaines (romans, policiers, livres jeunes et ados, albums, BD jeunesse et adultes, fonds local, documentaires)."
+        ],
+        "es": [
+          "La biblioteca ofrece 10.000 libros en préstamo gratuito. La colección se completa con las compras regulares que se realizan a lo largo del año en todos los ámbitos (novelas, novelas policíacas, libros para jóvenes y adolescentes, álbumes, cómics para jóvenes y adultos, literatura local, documentales)."
+        ],
+        "nl": [
+          "De bibliotheek leent 10.000 boeken gratis uit. De collectie wordt aangevuld door regelmatige aankopen in de loop van het jaar op alle gebieden (romans, detectiveverhalen, jeugd- en tienerboeken, albums, strips voor jongeren en volwassenen, lokale literatuur, documentaires)."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/6b25a878-ec9a-3d3c-a36a-b2b8492a2234",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8e55c480-bf26-3a09-bb32-ef2478f2cb11",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/dd2484b6-061e-3347-8101-b95a280d0d60",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ee9aec6e-13db-31ce-a529-9b0f56b85d4a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f5e65c0d-50d3-3044-9e04-b21ee7aa6380",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/daba2b09-c53e-3656-a56d-8eb368af376a",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/f72ff92a-7286-3474-9aa9-eaf607f9bd2e",
+          "schema:addressLocality": "Arvert",
+          "schema:postalCode": "17530",
+          "schema:streetAddress": [
+            "19 rue des Tilleuls"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17021",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Arvert"
+              ],
+              "pt": [
+                "Arvert"
+              ],
+              "en": [
+                "Arvert"
+              ],
+              "it": [
+                "Arvert"
+              ],
+              "fr": [
+                "Arvert"
+              ],
+              "nl": [
+                "Arvert"
+              ],
+              "es": [
+                "Arvert"
+              ]
+            },
+            "insee": "17021",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/b9352701-f510-3462-9d3c-15f053305dac",
+        "schema:latitude": "45.74071",
+        "schema:longitude": "-1.12502",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/955d7677-a48a-38ef-b181-0553bd783288",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "In den Ferien dienstags und freitags von 14:00 bis 18:00 Uhr geöffnet"
+            ],
+            "en": [
+              "During the vacations, opening hours are from 2 to 6 pm on Tuesdays and Fridays"
+            ],
+            "it": [
+              "Durante le vacanze, aperto dalle 14.00 alle 18.00 il martedì e il venerdì"
+            ],
+            "fr": [
+              "Pendant les vacances, ouverture de 14h à 18h les mardis et vendredis"
+            ],
+            "nl": [
+              "Tijdens de vakantie geopend van 14 tot 18 uur op dinsdag en vrijdag"
+            ],
+            "es": [
+              "Durante las vacaciones, abierto de 14 a 18 horas los martes y viernes"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/0aeb626c-2e3f-3f7b-81d8-8b7626ee6869",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/5343221b-f919-3a76-8ba3-1cbd340dd87a",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/65e9a017-a3ef-3de8-b432-3310008c6161",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/72ae5fdb-00c5-3c4f-bb56-0cd5e8701065",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/cf2053cf-d991-3d2c-8d26-b5715d876f92",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-08-05",
+  "lastUpdateDatatourisme": "2023-02-01T18:07:35.765Z"
+}

@@ -1,0 +1,600 @@
+{
+  "@id": "https://data.datatourisme.fr/13/58411490-1bd3-3d54-935b-8bb10d99bd1e",
+  "dc:identifier": "5762148",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Von diesem Monument ist nur noch der Glockenturm erhalten. Er erreicht eine Höhe von 51 m und diente als Bitter (Orientierungspunkt für die Schifffahrt)."
+    ],
+    "en": [
+      "Only the bell tower remains of this monument. It reaches a height of 51 m and served as a bittern (orientation point for navigation)."
+    ],
+    "it": [
+      "Di questo monumento rimane solo il campanile. Si innalza fino a 51 m ed era usato come punto di riferimento per la navigazione."
+    ],
+    "fr": [
+      "De ce monument, seul le clocher subsiste. Il culmine à 51m et servait d'amer (point de repère pour la navigation)."
+    ],
+    "nl": [
+      "Van dit monument blijft alleen de klokkentoren over. Hij stijgt tot 51 m en werd gebruikt als oriëntatiepunt voor de navigatie."
+    ],
+    "es": [
+      "De este monumento sólo queda el campanario. Se eleva a 51 m y se utilizaba como punto de referencia para la navegación."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Kirche Saint-Pierre in Moëze"
+    ],
+    "en": [
+      "Saint-Pierre Church in Moëze"
+    ],
+    "fr": [
+      "Église Saint-Pierre de Moëze"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q3584011"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/9afefc52-942c-383c-bc1f-14b2139b09ba",
+    "dc:identifier": "2055",
+    "schema:email": [
+      "chloe.mailler@rochefort-ocean.com",
+      "christine.nourisson@rochefort-ocean.com",
+      "chrystelle.ecale@rochefort-ocean.com",
+      "lea.origlia@rochefort-ocean.com",
+      "sandrine.bouron@rochefort-ocean.com"
+    ],
+    "schema:legalName": "Office de Tourisme Rochefort Océan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.rochefort-ocean.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8f9e51c6-1be5-3598-957e-e768c9462384",
+      "schema:email": [
+        "mairie@moeze.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 84 92 88"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/806ccf9a-101a-35ad-a162-30a49c2be008",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/a59a43d4-47d7-3075-b055-862141be7dc6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ad2bdf11-2cc1-3e7d-a1c7-6a1271eeaf47",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ffbef4ab-35b8-3d9d-b13b-289f487507a9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Von diesem Monument ist nur noch der Glockenturm erhalten. Er erreicht eine Höhe von 51 m und diente als Bitter (Orientierungspunkt für die Schifffahrt)."
+        ],
+        "en": [
+          "Only the bell tower remains of this monument. It reaches a height of 51 m and served as a bittern (orientation point for navigation)."
+        ],
+        "it": [
+          "Di questo monumento rimane solo il campanile. Si innalza fino a 51 m ed era usato come punto di riferimento per la navigazione."
+        ],
+        "fr": [
+          "De ce monument, seul le clocher subsiste. Il culmine à 51m et servait d'amer (point de repère pour la navigation)."
+        ],
+        "nl": [
+          "Van dit monument blijft alleen de klokkentoren over. Hij stijgt tot 51 m en werd gebruikt als oriëntatiepunt voor de navigatie."
+        ],
+        "es": [
+          "De este monumento sólo queda el campanario. Se eleva a 51 m y se utilizaba como punto de referencia para la navegación."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/d6170444-b87e-34d4-be28-0ff6cbd0f4e7",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/671f8ef5-7fc4-39c5-8afe-fe4b1f76e548",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "W0496-Moeze StPierre 59869 ShiftN"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Llann Wé² (https://commons.wikimedia.org/wiki/User:Llann_W%C3%A9%C2%B2)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/a095b2d6-10b0-39d1-9817-300582366d7c",
+          "ebucore:fileSize": [
+            5427163
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 3553,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/3/34/W0496-Moeze_StPierre_59869_ShiftN.jpg"
+          ],
+          "ebucore:width": 2900,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/24048e18-d492-3057-9fff-56a30f3db5e8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6235ef5d-7f67-35d1-94c8-6397159ec677",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/655c9a4f-6493-3b6b-a0b5-2dde3a5bf21c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/22b8a461-7bda-37e0-8131-e41e0a3df4ed",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/4e94265b-106e-3574-a541-0116052aa2f9",
+          "schema:addressLocality": "Moëze",
+          "schema:postalCode": "17780",
+          "schema:streetAddress": [
+            "rue de l'Église"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17237",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Moëze"
+              ],
+              "pt": [
+                "Moëze"
+              ],
+              "en": [
+                "Moëze"
+              ],
+              "it": [
+                "Moëze"
+              ],
+              "fr": [
+                "Moëze"
+              ],
+              "nl": [
+                "Moëze"
+              ],
+              "es": [
+                "Moëze"
+              ]
+            },
+            "insee": "17237",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/34436e68-ffe9-36ad-ab52-54163bfd5840",
+        "schema:latitude": "45.904726",
+        "schema:longitude": "-1.034819",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/75ffafc4-b012-32f3-8bb2-07313eb15705",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Von 9 bis 18 Uhr"
+            ],
+            "en": [
+              "From 9am to 6pm"
+            ],
+            "it": [
+              "Dalle 9.00 alle 18.00"
+            ],
+            "fr": [
+              "De 9h à 18h"
+            ],
+            "nl": [
+              "Van 9 tot 18 uur"
+            ],
+            "es": [
+              "De 9 a 18 horas"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/148299d6-f3a9-3a88-8606-968b3d29930e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a33ec416-112d-34bf-ade6-a896914ee88c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ba800051-42a1-3701-b0be-fc63afeb46e5",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d0a2f21a-721a-34c2-8c4b-a33159b4ced8",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/fe1a2c10-ca9b-3858-b8df-1425e3514322",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fed90c24-5b4e-374e-b413-9c9ae527b242",
+      "schema:email": [
+        "chloe.mailler@rochefort-ocean.com",
+        "christine.nourisson@rochefort-ocean.com",
+        "chrystelle.ecale@rochefort-ocean.com",
+        "lea.origlia@rochefort-ocean.com",
+        "sandrine.bouron@rochefort-ocean.com"
+      ],
+      "schema:legalName": "Office de Tourisme Rochefort Océan",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.rochefort-ocean.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-06-04",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.742Z"
+}

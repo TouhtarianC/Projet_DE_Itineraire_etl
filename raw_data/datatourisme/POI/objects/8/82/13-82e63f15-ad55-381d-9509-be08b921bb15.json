@@ -1,0 +1,597 @@
+{
+  "@id": "https://data.datatourisme.fr/13/82e63f15-ad55-381d-9509-be08b921bb15",
+  "dc:identifier": "6305675",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das zwischen 1594 und 1630 erbaute Schloss Ribemont-Mornay, ein Wächter der Saintonge, ersetzte eine feudale Burg, in der sich Bertrand Duguesclin aufhielt.\r\nEs wurde nacheinander von den Familien de Chaumont, de Ligoure, d'Aubenton? bewohnt"
+    ],
+    "en": [
+      "Built between 1594 and 1630, the castle of Ribemont-Mornay, sentinel of Saintonge, replaces a feudal castle where Bertrand Duguesclin stayed.\r\nIt was occupied successively by the families of Chaumont, Ligoure, Aubenton ?"
+    ],
+    "it": [
+      "Costruito tra il 1594 e il 1630, il castello di Ribemont-Mornay, sentinella di Saintonge, sostituisce un castello feudale dove soggiornò Bertrand Duguesclin.\r\nFu occupato successivamente dalle famiglie di Chaumont, Ligoure, Aubenton ?"
+    ],
+    "fr": [
+      "Edifié entre 1594 et 1630, le château de Ribemont-Mornay, sentinelle de la Saintonge, remplace un château féodal où séjourna Bertrand Duguesclin.\r\nIl fut occupé successivement par les familles de Chaumont, de Ligoure, d’Aubenton …"
+    ],
+    "nl": [
+      "Het kasteel van Ribemont-Mornay, schildwacht van Saintonge, gebouwd tussen 1594 en 1630, vervangt een feodaal kasteel waar Bertrand Duguesclin verbleef.\r\nHet werd achtereenvolgens bewoond door de families Chaumont, Ligoure, Aubenton ?"
+    ],
+    "es": [
+      "Construido entre 1594 y 1630, el castillo de Ribemont-Mornay, centinela de Saintonge, sustituye a un castillo feudal donde se alojó Bertrand Duguesclin.\r\nFue ocupada sucesivamente por las familias de Chaumont, Ligoure, Aubenton ?"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Château de Mornay"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q2970065"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/cbef4632-1026-3840-8bc3-216d4774c8a9",
+    "dc:identifier": "2075",
+    "schema:email": [
+      "a.ponchon@charentestourisme.com"
+    ],
+    "schema:legalName": "Destination Vals de Saintonge / Charentes Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.destinationvalsdesaintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/91897e22-f301-3ead-aa56-9787dcc3757e",
+      "schema:email": [
+        "chateaudemornay17@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 6 72 16 60 88",
+        "+33 6 72 73 38 76"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.chateaudemornay17.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/5dc9c1b1-a389-39e6-8e8c-4083e6d621ca",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/8434fb04-de73-391b-a9b7-0e65b47a12d9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b48ee613-190f-3d08-a296-5d60931d78b7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b7f7b0d8-1cb8-3006-9e24-a434e52aaa9c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bc98eea0-b8a5-3ee5-bb82-c68df73ab3ab",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cfca5bc6-dc90-3d3f-96c8-8d85d01fafcc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das zwischen 1594 und 1630 erbaute Schloss Ribemont-Mornay, ein Wächter der Saintonge, ersetzte eine feudale Burg, in der sich Bertrand Duguesclin aufhielt.\r\nEs wurde nacheinander von den Familien de Chaumont, de Ligoure, d'Aubenton? bewohnt"
+        ],
+        "en": [
+          "Built between 1594 and 1630, the castle of Ribemont-Mornay, sentinel of Saintonge, replaces a feudal castle where Bertrand Duguesclin stayed.\r\nIt was occupied successively by the families of Chaumont, Ligoure, Aubenton ?"
+        ],
+        "it": [
+          "Costruito tra il 1594 e il 1630, il castello di Ribemont-Mornay, sentinella di Saintonge, sostituisce un castello feudale dove soggiornò Bertrand Duguesclin.\r\nFu occupato successivamente dalle famiglie di Chaumont, Ligoure, Aubenton ?"
+        ],
+        "fr": [
+          "Edifié entre 1594 et 1630, le château de Ribemont-Mornay, sentinelle de la Saintonge, remplace un château féodal où séjourna Bertrand Duguesclin.\r\nIl fut occupé successivement par les familles de Chaumont, de Ligoure, d’Aubenton …"
+        ],
+        "nl": [
+          "Het kasteel van Ribemont-Mornay, schildwacht van Saintonge, gebouwd tussen 1594 en 1630, vervangt een feodaal kasteel waar Bertrand Duguesclin verbleef.\r\nHet werd achtereenvolgens bewoond door de families Chaumont, Ligoure, Aubenton ?"
+        ],
+        "es": [
+          "Construido entre 1594 y 1630, el castillo de Ribemont-Mornay, centinela de Saintonge, sustituye a un castillo feudal donde se alojó Bertrand Duguesclin.\r\nFue ocupada sucesivamente por las familias de Chaumont, Ligoure, Aubenton ?"
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/2779f49f-f3a6-3ec5-bae5-00403cc0c6dd",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/70f2a283-d87c-3d83-a033-ad06880a5e00",
+          "ebucore:isCoveredBy": "CC BY-SA 4.0",
+          "ebucore:title": {
+            "fr": [
+              "FR 17 Saint-Pierre-de-l'Isle - Le château de Mornay 01"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "KiwiNeko14 (https://commons.wikimedia.org/wiki/User:KiwiNeko14)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/e4f27cf9-78e3-3b14-b17c-3b7bf0f55155",
+          "ebucore:fileSize": [
+            1180057
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1536,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/c/c5/FR_17_Saint-Pierre-de-l%27Isle_-_Le_ch%C3%A2teau_de_Mornay_01.jpg"
+          ],
+          "ebucore:width": 4200,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/6b88ec62-f6b7-38ec-ac1d-cde6b3c642e0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/784d6221-aa83-3880-9b59-225e9346ae48",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/dccc90bc-2e2e-337d-ab44-4a2d7845d34e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ee74ce1f-40e3-34f0-ae2b-4ead1235e4e2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f0f1d5f6-4566-31e5-b52a-1d650fa1964a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/a650f813-c6d3-3dfc-b18c-41c7ca3b224b",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/ce9ca210-64fb-3815-82d5-4678b725bc83",
+          "schema:addressLocality": "Saint-Pierre-de-l'Isle",
+          "schema:postalCode": "17330",
+          "schema:streetAddress": [
+            "216 route de Ribemont"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17384",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Pierre-de-l'Isle"
+              ],
+              "pt": [
+                "Saint-Pierre-de-l'Isle"
+              ],
+              "en": [
+                "Saint-Pierre-de-l'Isle"
+              ],
+              "it": [
+                "Saint-Pierre-de-l'Isle"
+              ],
+              "fr": [
+                "Saint-Pierre-de-l'Isle"
+              ],
+              "nl": [
+                "Saint-Pierre-de-l'Isle"
+              ],
+              "es": [
+                "Saint-Pierre-de-l'Isle"
+              ]
+            },
+            "insee": "17384",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/95f9dd25-877d-39d7-a3c4-f7f5d862d451",
+        "schema:latitude": "46.025479",
+        "schema:longitude": "-0.436928",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/571ba89e-108b-3248-9aca-306fe3b052c9",
+          "schema:closes": "18:00:00",
+          "schema:opens": "10:00:00",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/4fa9e2c8-cea7-3399-9f62-28ebcff26450",
+      "schema:email": [
+        "a.ponchon@charentestourisme.com"
+      ],
+      "schema:legalName": "Destination Vals de Saintonge / Charentes Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.destinationvalsdesaintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-05-02",
+  "lastUpdateDatatourisme": "2023-05-04T06:05:15.689Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/3d416168-4cb5-3387-aa39-4cfd7b8c909b",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/2ef35fee-f5f9-361b-b4d2-be4227df2bca",
+          "schema:maxPrice": [
+            "8"
+          ],
+          "schema:minPrice": [
+            "8"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

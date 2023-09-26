@@ -1,0 +1,547 @@
+{
+  "@id": "https://data.datatourisme.fr/13/3c3d5af3-a582-360b-9037-c8116f74cb26",
+  "dc:identifier": "5782262",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Familienbesitz mit 20 Hektar Weinbergen, seit mehreren Generationen. Kommen Sie mit auf eine Entdeckungsreise durch unsere verschiedenen Produkte."
+    ],
+    "en": [
+      "Family property of 20 hectares of vines, for several generations. Come and discover our different products."
+    ],
+    "it": [
+      "Una proprietà familiare di 20 ettari di vigneto, da diverse generazioni. Venite a scoprire i nostri diversi prodotti."
+    ],
+    "fr": [
+      "Propriété familiale de 20 hectares de vignes, depuis plusieurs générations. Venez à la découverte de nos différents produits."
+    ],
+    "es": [
+      "Una propiedad familiar de 20 hectáreas de viñas, desde hace varias generaciones. Venga a descubrir nuestros diferentes productos."
+    ],
+    "nl": [
+      "Een familiebezit van 20 hectare wijngaarden, al meerdere generaties lang. Kom en ontdek onze verschillende producten."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Domaine de la Coussaie - Maison Daviaud - Pineau Cognac"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a512d590-48b7-3d23-8114-3d88c2d546f9",
+      "schema:email": [
+        "daviaud4@wanadoo.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 49 23 73",
+        "+33 6 07 78 78 22"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.maison-daviaud.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/c9ec3d98-298b-3e5d-9026-0edefded0d61",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/152bd02d-6ac5-372d-81ae-c75029145ba7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6f16adfc-7429-31c1-831c-3d6365b2e1f2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/af7d73c2-bb12-3624-a140-5b97b1dadfd5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c9ebce83-21f7-37af-800f-7d75bce86b15",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fdb4e615-02e7-3e13-85f0-4d93160e2c5b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Familienbesitz mit 20 Hektar Weinbergen, seit mehreren Generationen. Kommen Sie mit auf eine Entdeckungsreise durch unsere verschiedenen Produkte."
+        ],
+        "en": [
+          "Family property of 20 hectares of vines, for several generations. Come and discover our different products."
+        ],
+        "it": [
+          "Una proprietà familiare di 20 ettari di vigneto, da diverse generazioni. Venite a scoprire i nostri diversi prodotti."
+        ],
+        "fr": [
+          "Propriété familiale de 20 hectares de vignes, depuis plusieurs générations. Venez à la découverte de nos différents produits."
+        ],
+        "es": [
+          "Una propiedad familiar de 20 hectáreas de viñas, desde hace varias generaciones. Venga a descubrir nuestros diferentes productos."
+        ],
+        "nl": [
+          "Een familiebezit van 20 hectare wijngaarden, al meerdere generaties lang. Kom en ontdek onze verschillende producten."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/451bca05-e238-350b-be8e-589976244d5f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4b2049b3-dcc8-350e-a93f-b3bdb70644ab",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e09932a2-d2cd-3097-8eb9-b5dfac419627",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e9e16b26-f6cc-3568-ba7b-b8c932579783",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f86e2af0-c0d8-3342-8d36-67213ce5ad02",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/1b49c284-26b9-3817-bb56-5110ffbcc306",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/340d2a36-cb39-3ea3-b0a3-14dd291a8de3",
+          "schema:addressLocality": "Chamouillac",
+          "schema:postalCode": "17130",
+          "schema:streetAddress": [
+            "Domaine de la Coussaie"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17081",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Chamouillac"
+              ],
+              "pt": [
+                "Chamouillac"
+              ],
+              "en": [
+                "Chamouillac"
+              ],
+              "it": [
+                "Chamouillac"
+              ],
+              "fr": [
+                "Chamouillac"
+              ],
+              "nl": [
+                "Chamouillac"
+              ],
+              "es": [
+                "Chamouillac"
+              ]
+            },
+            "insee": "17081",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/1be5050a-837b-3355-9833-91c71a720a73",
+        "schema:latitude": "45.318288",
+        "schema:longitude": "-0.469251",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/453ed42c-3157-3fe2-8f55-ceb4d20d00e3",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Nach Vereinbarung"
+            ],
+            "en": [
+              "By appointment only"
+            ],
+            "it": [
+              "Su appuntamento"
+            ],
+            "fr": [
+              "Sur rendez-vous"
+            ],
+            "nl": [
+              "Op afspraak"
+            ],
+            "es": [
+              "Con cita previa"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/0997672e-e258-39fd-85d3-e576024ff0be",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/1e40f2f1-f308-37c4-9e1b-8b5475d4cc27",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/5bc0ceea-6051-39bd-8101-b4630f5df56f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/699f6342-66e2-356b-8c29-cdb5113f1350",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/84bfde08-8037-365e-bb7b-7af10318d541",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-03-29",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.75Z"
+}

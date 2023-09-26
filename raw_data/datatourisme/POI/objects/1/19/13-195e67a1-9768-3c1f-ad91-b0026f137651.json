@@ -1,0 +1,519 @@
+{
+  "@id": "https://data.datatourisme.fr/13/195e67a1-9768-3c1f-ad91-b0026f137651",
+  "dc:identifier": "5998381",
+  "@type": [
+    "CulturalSite",
+    "Mill",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Herstellung von Walnuss- und Haselnussöl nach alter Tradition.\r\n6-kw-Lichtmaschine zur Stromerzeugung."
+    ],
+    "en": [
+      "Production of walnut and hazelnut oil the old fashioned way.\nAlternator of 6 kw for the production of electricity."
+    ],
+    "it": [
+      "Produzione di olio di noci e nocciole in modo tradizionale.\r\nAlternatore da 6 kw per la produzione di elettricità."
+    ],
+    "fr": [
+      "Production d'huile noix et noisette à l'ancienne.\r\nAlternateur de 6 kw pour la production d'électricité."
+    ],
+    "nl": [
+      "Productie van walnoot- en hazelnootolie op traditionele wijze.\r\n6 kw dynamo voor elektriciteitsproductie."
+    ],
+    "es": [
+      "Producción de aceite de nuez y avellana a la manera tradicional.\r\nAlternador de 6 kw para la producción de electricidad."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "The Mill of Churet"
+    ],
+    "fr": [
+      "Le Moulin de Churet"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/a96d3afe-c184-366b-beca-7a9f989fc7e7",
+    "dc:identifier": "2056",
+    "schema:email": [
+      "infotouristique@destination-nordcharente.com"
+    ],
+    "schema:legalName": "Office de tourisme Destination Nord Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ruffecois-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/316ec05f-8e1c-31b1-b8a5-179614a8197e",
+      "schema:email": [
+        "combaud.michel@wanadoo.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 69 99 34",
+        "+33 6 80 37 10 67"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/67c687eb-60ae-31ae-91c9-8c0b75be42b3",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/6e56bc47-36cc-379f-a824-fc3a62fc21a8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9d194070-4c52-3ec1-af40-25226ad8091f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b393f3a2-dcba-3cb3-9ac3-827964622ed6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c88e69af-02d5-3c37-a206-e4576557c45d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Herstellung von Walnuss- und Haselnussöl nach alter Tradition.\r\n6-kw-Lichtmaschine zur Stromerzeugung."
+        ],
+        "en": [
+          "Production of walnut and hazelnut oil the old fashioned way.\nAlternator of 6 kw for the production of electricity."
+        ],
+        "it": [
+          "Produzione di olio di noci e nocciole in modo tradizionale.\r\nAlternatore da 6 kw per la produzione di elettricità."
+        ],
+        "fr": [
+          "Production d'huile noix et noisette à l'ancienne.\r\nAlternateur de 6 kw pour la production d'électricité."
+        ],
+        "nl": [
+          "Productie van walnoot- en hazelnootolie op traditionele wijze.\r\n6 kw dynamo voor elektriciteitsproductie."
+        ],
+        "es": [
+          "Producción de aceite de nuez y avellana a la manera tradicional.\r\nAlternador de 6 kw para la producción de electricidad."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/26c49ad8-0d9b-32f7-a164-bd1c12a19523",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7d0bfb8b-2d1b-3e0c-b4bf-cd1b72210c24",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/af83c82f-6237-3376-bc33-fdef59f07768",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b6504d8d-eb3c-3e6b-b086-fe050cb70a41",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/80b141ad-7cd0-33fb-b79f-645ff8ebbaab",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/bb14d9f0-b164-3993-8d6d-004bcea299de",
+          "schema:addressLocality": "Anais",
+          "schema:postalCode": "16560",
+          "schema:streetAddress": [
+            "42, impasse de l'abreuvoir",
+            "Le Moulin de Churet"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16011",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Anais"
+              ],
+              "pt": [
+                "Anais"
+              ],
+              "en": [
+                "Anais"
+              ],
+              "it": [
+                "Anais"
+              ],
+              "fr": [
+                "Anais"
+              ],
+              "nl": [
+                "Anais"
+              ],
+              "es": [
+                "Anais"
+              ]
+            },
+            "insee": "16011",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/7e8b1e87-9a0b-30d0-99eb-5762f09cc62b",
+        "schema:latitude": "45.752252",
+        "schema:longitude": "0.195745",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/9c205660-a5f8-3e2a-bae8-d1bc4abcd079",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Auf RDV"
+            ],
+            "en": [
+              "By appointment"
+            ],
+            "it": [
+              "Su appuntamento"
+            ],
+            "fr": [
+              "Sur RDV"
+            ],
+            "nl": [
+              "Op afspraak"
+            ],
+            "es": [
+              "Con cita previa"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/50cb2dd0-0b7b-395d-bfbc-b62bedfabe91",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/5a479462-9350-3345-8795-782041631b03",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/80d5a89f-4225-3d7e-afd2-1c60c440adfc",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/876fa3b8-45d7-3808-8f0a-664431077c0f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a6b9198d-5582-37a4-8743-8ce0dd986b8c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/515fb63a-6beb-307d-a0d6-d59e3e2d3f76",
+      "schema:email": [
+        "infotouristique@destination-nordcharente.com"
+      ],
+      "schema:legalName": "Office de tourisme Destination Nord Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ruffecois-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-03-08",
+  "lastUpdateDatatourisme": "2023-03-09T06:41:27.773Z"
+}

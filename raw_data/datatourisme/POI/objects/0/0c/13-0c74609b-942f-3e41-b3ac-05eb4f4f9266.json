@@ -1,0 +1,683 @@
+{
+  "@id": "https://data.datatourisme.fr/13/0c74609b-942f-3e41-b3ac-05eb4f4f9266",
+  "dc:identifier": "5773253",
+  "@type": [
+    "CulturalSite",
+    "Lighthouse",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Der Leuchtturm von Cordouan liegt mitten im Meer, wird ganzjährig von Wächtern bewohnt und kann besichtigt werden. Er ist ein architektonisches Juwel, das zum Ruhme der französischen Könige entworfen wurde."
+    ],
+    "en": [
+      "Located in the middle of the sea, inhabited year-round by guards and open to visitors, the Cordouan lighthouse is an architectural jewel designed for the glory of the kings of France."
+    ],
+    "it": [
+      "Situato in mare aperto, abitato tutto l'anno da guardie e aperto ai visitatori, il faro di Cordouan è un gioiello architettonico progettato per la gloria dei re di Francia."
+    ],
+    "fr": [
+      "Situé en pleine mer, habité à l’année par des gardiens et ouvert à la visite, le phare de Cordouan est un joyau d’architecture conçu à la gloire des rois de France."
+    ],
+    "es": [
+      "Situado en mar abierto, habitado todo el año por guardas y abierto a los visitantes, el faro de Cordouan es una joya arquitectónica concebida para gloria de los reyes de Francia."
+    ],
+    "nl": [
+      "De vuurtoren van Cordouan, gelegen in open zee, het hele jaar bewoond door bewakers en open voor bezoekers, is een architectonisch juweel, ontworpen ter meerdere eer en glorie van de koningen van Frankrijk."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Phare de Cordouan"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q199234"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/ad26168d-5b87-3d78-a0ef-6a7d72513020",
+      "schema:email": [
+        "cordouan@smiddest.fr"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.phare-de-cordouan.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/6fc06cd1-2abb-35b4-8313-eccefc6f5aa0",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0f4e2519-3cbe-3653-a187-b2b8f5e37887",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/482bfd65-9e59-344e-872f-6be7e738ecc6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/66737560-082a-3799-b9c7-fa27d534dc81",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a4c7a6a1-d4f4-3b7b-b663-d5b62c8b2a22",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fbb62e92-a9ae-3369-8731-344c618b4fa4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Der Leuchtturm von Cordouan liegt mitten im Meer, wird ganzjährig von Wächtern bewohnt und kann besichtigt werden. Er ist ein architektonisches Juwel, das zum Ruhme der französischen Könige entworfen wurde."
+        ],
+        "en": [
+          "Located in the middle of the sea, inhabited year-round by guards and open to visitors, the Cordouan lighthouse is an architectural jewel designed for the glory of the kings of France."
+        ],
+        "it": [
+          "Situato in mare aperto, abitato tutto l'anno da guardie e aperto ai visitatori, il faro di Cordouan è un gioiello architettonico progettato per la gloria dei re di Francia."
+        ],
+        "fr": [
+          "Situé en pleine mer, habité à l’année par des gardiens et ouvert à la visite, le phare de Cordouan est un joyau d’architecture conçu à la gloire des rois de France."
+        ],
+        "es": [
+          "Situado en mar abierto, habitado todo el año por guardas y abierto a los visitantes, el faro de Cordouan es una joya arquitectónica concebida para gloria de los reyes de Francia."
+        ],
+        "nl": [
+          "De vuurtoren van Cordouan, gelegen in open zee, het hele jaar bewoond door bewakers en open voor bezoekers, is een architectonisch juweel, ontworpen ter meerdere eer en glorie van de koningen van Frankrijk."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/12cf7e17-1393-34da-89ba-caa5914508f7",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/fc650cd8-112c-3b4c-a8e1-afee7b2a37dd",
+          "ebucore:isCoveredBy": "GPL",
+          "ebucore:title": {
+            "fr": [
+              "Cordouan"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Thibault Grouas"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/98278dc7-2460-365d-adf4-4fab3da826a0",
+          "ebucore:fileSize": [
+            193719
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1000,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/b/b6/Cordouan.jpg"
+          ],
+          "ebucore:width": 737,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/348f0095-11fa-30cf-af67-797812d3e544",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/39eefe66-891a-324d-98dd-213cd8acee81",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/447c0296-7ee3-38ea-a655-00b1434aa622",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7491b124-5dbe-312e-b920-699da610c09b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f9ec53b4-b55a-3394-9f30-905a8cbcd45e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/c72f0ae6-736b-3ad2-802b-7480106041c5",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/0b455035-dc8e-3121-8d74-7c3a156ca186",
+          "schema:addressLocality": "Royan",
+          "schema:postalCode": "17200",
+          "schema:streetAddress": [
+            "Estuaire de la Gironde"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17306",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Royan"
+              ],
+              "pt": [
+                "Royan"
+              ],
+              "en": [
+                "Royan"
+              ],
+              "it": [
+                "Royan"
+              ],
+              "fr": [
+                "Royan"
+              ],
+              "nl": [
+                "Royan"
+              ],
+              "es": [
+                "Royan"
+              ]
+            },
+            "insee": "17306",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/fc64d1de-5b2d-30d2-a03c-5056381bc88b",
+        "schema:latitude": "45.58658",
+        "schema:longitude": "-1.172404",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/fa885abf-f1cb-3689-acb2-3d3cc86a09dc",
+          "schema:validFrom": "2023-04-01T00:00:00",
+          "schema:validThrough": "2023-11-01T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Täglich bei Ebbe geöffnet"
+            ],
+            "en": [
+              "Open every day at low tide"
+            ],
+            "it": [
+              "Aperto tutti i giorni con la bassa marea"
+            ],
+            "fr": [
+              "Ouvert tous les jours à marée basse"
+            ],
+            "nl": [
+              "Dagelijks geopend bij eb"
+            ],
+            "es": [
+              "Abierto todos los días con marea baja"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/1002ec82-3df1-37e5-ad3a-9842d642f698",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/1f6f835a-2408-33ec-a748-9f3ed6e7fe93",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/347b062e-ac1c-3e22-8217-04a91cec3520",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/56be3bfa-6615-3b0b-987f-fbaf81379835",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ff4850e3-8686-3ce6-a63e-6dce2a50d82b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-03-15",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.366Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/084e9a6a-b60e-3908-8f8f-506d26a83889",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/a3b6d228-ce6c-376b-bd21-a52e08dd78b1",
+          "schema:maxPrice": [
+            "10",
+            "15",
+            "6",
+            "7"
+          ],
+          "schema:minPrice": [
+            "10",
+            "15",
+            "6",
+            "7"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/fbbba86d-d789-37bc-958a-0061be3a714f",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-11-01",
+              "startDate": "2023-04-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

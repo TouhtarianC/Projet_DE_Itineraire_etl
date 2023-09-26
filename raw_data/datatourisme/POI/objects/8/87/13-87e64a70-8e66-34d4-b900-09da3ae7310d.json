@@ -1,0 +1,528 @@
+{
+  "@id": "https://data.datatourisme.fr/13/87e64a70-8e66-34d4-b900-09da3ae7310d",
+  "dc:identifier": "5670573",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Der Künstler J.M. Othoniel zeichnet für die Inszenierung der Schatzkammer verantwortlich, in der mundgeblasenes und farbiges Glas in den Dienst eines spektakulären Kunstwerks gestellt wird. Rundgang auf zwei Etagen (39 Stufen). Programmierung Service Pays d'Art et d'Histoire."
+    ],
+    "en": [
+      "Artist J.M. Othoniel is responsible for staging the Treasure, where colorful blown glass is used to create a spectacular work of art. Two-floor tour (39 steps). Programming by the Pays d'Art et d'Histoire department."
+    ],
+    "it": [
+      "L'artista J.M. Othoniel è responsabile dell'allestimento del Tesoro, dove il vetro soffiato e colorato viene utilizzato per creare una spettacolare opera d'arte. Visita su due piani (39 gradini). Programmazione a cura del dipartimento Pays d'Art et d'Histoire."
+    ],
+    "fr": [
+      "L'artiste J.M Othoniel signe la mise en scène du Trésor où le verre soufflé et coloré est mis au service d'une oeuvre spectaculaire. Parcours sur deux étages (39 marches). Programmation service Pays d'Art et d'Histoire."
+    ],
+    "es": [
+      "El artista J.M. Othoniel es el responsable de la puesta en escena del Tesoro, donde el vidrio soplado y coloreado se utiliza para crear una espectacular obra de arte. Recorrido en dos plantas (39 escalones). Programación a cargo del departamento Pays d'Art et d'Histoire."
+    ],
+    "nl": [
+      "De kunstenaar J.M. Othoniel is verantwoordelijk voor de enscenering van de Schatkamer, waar geblazen en gekleurd glas wordt gebruikt om een spectaculair kunstwerk te creëren. Rondleiding over twee verdiepingen (39 treden). Programmering door de afdeling Pays d'Art et d'Histoire."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Le Trésor de la Cathédrale"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f3e52c30-0b82-3a81-a3e7-ace55fe15c08",
+    "dc:identifier": "2053",
+    "schema:email": [
+      "snebout@angouleme-tourisme.com"
+    ],
+    "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.angouleme-tourisme.com/"
+    ],
+    "lastUpdateDatatourisme": "2022-12-19T06:44:07.571Z"
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/4492184b-93aa-3504-ad75-615c94c848a2",
+      "schema:email": [
+        "info@angouleme-tourisme.com"
+      ],
+      "schema:telephone": [
+        "+33 5 45 95 16 84"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.angouleme-visites.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/131ff888-3692-3edf-aea7-0ba30ffb07d3",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/6277badb-ae8f-3f58-ac48-2738d6f79b06",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/68a62395-72c8-331f-b6ac-1f05a51d5caf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/82bd2e9a-387b-3556-bb3d-6fd3d96f18fe",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b77a76d9-7826-3710-bd19-c88b5d15d221",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f399c2c3-7185-3cf7-987a-7fa5f2407610",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Der Künstler J.M. Othoniel zeichnet für die Inszenierung der Schatzkammer verantwortlich, in der mundgeblasenes und farbiges Glas in den Dienst eines spektakulären Kunstwerks gestellt wird. Rundgang auf zwei Etagen (39 Stufen). Programmierung Service Pays d'Art et d'Histoire."
+        ],
+        "en": [
+          "Artist J.M. Othoniel is responsible for staging the Treasure, where colorful blown glass is used to create a spectacular work of art. Two-floor tour (39 steps). Programming by the Pays d'Art et d'Histoire department."
+        ],
+        "it": [
+          "L'artista J.M. Othoniel è responsabile dell'allestimento del Tesoro, dove il vetro soffiato e colorato viene utilizzato per creare una spettacolare opera d'arte. Visita su due piani (39 gradini). Programmazione a cura del dipartimento Pays d'Art et d'Histoire."
+        ],
+        "fr": [
+          "L'artiste J.M Othoniel signe la mise en scène du Trésor où le verre soufflé et coloré est mis au service d'une oeuvre spectaculaire. Parcours sur deux étages (39 marches). Programmation service Pays d'Art et d'Histoire."
+        ],
+        "es": [
+          "El artista J.M. Othoniel es el responsable de la puesta en escena del Tesoro, donde el vidrio soplado y coloreado se utiliza para crear una espectacular obra de arte. Recorrido en dos plantas (39 escalones). Programación a cargo del departamento Pays d'Art et d'Histoire."
+        ],
+        "nl": [
+          "De kunstenaar J.M. Othoniel is verantwoordelijk voor de enscenering van de Schatkamer, waar geblazen en gekleurd glas wordt gebruikt om een spectaculair kunstwerk te creëren. Rondleiding over twee verdiepingen (39 treden). Programmering door de afdeling Pays d'Art et d'Histoire."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/18e58aa2-afc7-3356-9b72-2a99c6f386bd",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6b4e6194-05ee-3ced-8096-2ebdacd00052",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/92ae964b-ac2e-39c3-b258-29c98c1b0235",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a9346ac1-4e33-3fbd-afb6-589e14082ea7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c64c8016-e9d0-3017-93d7-5cc276c5dec5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/6b9953fa-5656-30ae-8eea-f7910687c0ce",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/717b6db7-d6d9-3337-8e4c-41a366da8142",
+          "schema:addressLocality": "Angoulême",
+          "schema:postalCode": "16000",
+          "schema:streetAddress": [
+            "Entrée Sud de la Cathédrale",
+            "Rempart Desaix"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16015",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Angoulême"
+              ],
+              "pt": [
+                "Angoulême"
+              ],
+              "en": [
+                "Angoulême"
+              ],
+              "it": [
+                "Angoulême"
+              ],
+              "fr": [
+                "Angoulême"
+              ],
+              "nl": [
+                "Angoulême"
+              ],
+              "es": [
+                "Angoulême"
+              ]
+            },
+            "insee": "16015",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/296ed19b-b4cb-3e1e-b7a5-295268d87f20",
+        "schema:latitude": "45.649236",
+        "schema:longitude": "0.151079",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/6beb6722-db63-3cb8-b1df-ffe2aa7dbd2d",
+          "schema:validFrom": "2023-07-14T00:00:00",
+          "schema:validThrough": "2023-08-20T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a01ca377-6f87-3f5e-9daa-37e3e446d51b",
+          "schema:validFrom": "2023-04-30T00:00:00",
+          "schema:validThrough": "2023-07-13T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a3ce3c4c-ec5b-3c2e-ba01-311b879408fb",
+          "schema:validFrom": "2023-08-21T00:00:00",
+          "schema:validThrough": "2023-09-16T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/db47d7d8-6811-3d6f-bfda-5b11fca43a97",
+          "schema:validFrom": "2023-03-04T00:00:00",
+          "schema:validThrough": "2023-04-28T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f62e8305-bb94-3cff-8675-85cd73179ec3",
+          "schema:validFrom": "2023-09-18T00:00:00",
+          "schema:validThrough": "2023-12-17T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/65c93456-0984-3a13-aac5-3ae5946a15d8",
+      "schema:email": [
+        "snebout@angouleme-tourisme.com"
+      ],
+      "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.angouleme-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-29",
+  "lastUpdateDatatourisme": "2023-06-30T05:42:47.469Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/a3e4c2b9-7dfe-36ef-9fe2-e6d59a223549",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/ff0e4a43-7ab9-3d1f-bf2c-b02d7962f127",
+          "schema:maxPrice": [
+            "5"
+          ],
+          "schema:minPrice": [
+            "5"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/2dc3d450-9c68-3544-87b8-bbc5bd3f0706",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-17",
+              "startDate": "2023-03-04"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

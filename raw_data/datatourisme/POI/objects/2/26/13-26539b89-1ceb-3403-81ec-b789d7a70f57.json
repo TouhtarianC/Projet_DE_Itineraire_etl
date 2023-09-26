@@ -1,0 +1,519 @@
+{
+  "@id": "https://data.datatourisme.fr/13/26539b89-1ceb-3403-81ec-b789d7a70f57",
+  "dc:identifier": "5693371",
+  "@type": [
+    "schema:LocalBusiness",
+    "CulturalSite",
+    "InterpretationCentre",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das Öko-Bauernhaus lädt dazu ein, das Wohnen auf der Insel Oléron von gestern bis morgen anhand zahlreicher Themen zu entdecken: traditionelle Architektur, nachhaltiges Wohnen, Ökobürgerschaft..."
+    ],
+    "en": [
+      "The eco-peasant house invites you to discover the habitat of the Ile d'Oléron, from yesterday to tomorrow, through multiple themes: traditional architecture, sustainable housing, eco-citizenship ..."
+    ],
+    "it": [
+      "La Maison éco-paysanne vi invita a scoprire l'habitat dell'isola di Oléron, da ieri a domani, attraverso molteplici temi: architettura tradizionale, edilizia sostenibile, eco-cittadinanza..."
+    ],
+    "fr": [
+      "La Maison éco-paysanne invite à découvrir l’habitat de l’île d’Oléron, d’hier à demain, à travers de multiples thématiques : architecture traditionnelle, habitat durable, écocitoyenneté..."
+    ],
+    "es": [
+      "La Maison éco-paysanne le invita a descubrir el hábitat de la isla de Oléron, de ayer a mañana, a través de múltiples temas: arquitectura tradicional, vivienda sostenible, ecociudadanía..."
+    ],
+    "nl": [
+      "Het Maison éco-paysanne nodigt u uit om de habitat van het eiland Oleron te ontdekken, van gisteren tot morgen, via verschillende thema's: traditionele architectuur, duurzaam wonen, ecoburgerschap..."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "La Maison éco-paysanne"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/e1f0d06f-7d27-370c-a169-8161b53b34b7",
+      "schema:email": [
+        "la.maison.eco.paysanne@cdc-oleron.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 85 56 45"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.maison-eco-paysanne.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/8ab65407-f057-307e-9368-6be942faf8a9",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/b0a0192d-367f-326b-94c2-04b8502e8e2d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c140e8b4-c0eb-3f4f-8e58-c7351f468d3b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c6f0e742-93eb-3fe0-9aec-62591d49c36f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e02f309a-ca44-360a-b094-578c6912f3df",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ffd8570b-3e47-3729-a36f-422b3c41216f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das Öko-Bauernhaus lädt dazu ein, das Wohnen auf der Insel Oléron von gestern bis morgen anhand zahlreicher Themen zu entdecken: traditionelle Architektur, nachhaltiges Wohnen, Ökobürgerschaft..."
+        ],
+        "en": [
+          "The eco-peasant house invites you to discover the habitat of the Ile d'Oléron, from yesterday to tomorrow, through multiple themes: traditional architecture, sustainable housing, eco-citizenship ..."
+        ],
+        "it": [
+          "La Maison éco-paysanne vi invita a scoprire l'habitat dell'isola di Oléron, da ieri a domani, attraverso molteplici temi: architettura tradizionale, edilizia sostenibile, eco-cittadinanza..."
+        ],
+        "fr": [
+          "La Maison éco-paysanne invite à découvrir l’habitat de l’île d’Oléron, d’hier à demain, à travers de multiples thématiques : architecture traditionnelle, habitat durable, écocitoyenneté..."
+        ],
+        "es": [
+          "La Maison éco-paysanne le invita a descubrir el hábitat de la isla de Oléron, de ayer a mañana, a través de múltiples temas: arquitectura tradicional, vivienda sostenible, ecociudadanía..."
+        ],
+        "nl": [
+          "Het Maison éco-paysanne nodigt u uit om de habitat van het eiland Oleron te ontdekken, van gisteren tot morgen, via verschillende thema's: traditionele architectuur, duurzaam wonen, ecoburgerschap..."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/30d35e52-8a07-31a9-834b-64480ff8492a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/439b9348-4f44-3f84-a4be-4673ae6cc0ec",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6b865984-41f7-39a7-91eb-0b7d28e4ea36",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/86473674-1881-32cd-846e-47632b3b7a66",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f358ed80-2c9f-3e8f-9144-f5ee685c9be7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/2b0c8290-2f2d-339b-a2a4-4511c5f2bb16",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/4619507d-63bd-3703-9e5e-b4fbdfc3814a",
+          "schema:addressLocality": "Le Grand-Village-Plage",
+          "schema:postalCode": "17370",
+          "schema:streetAddress": [
+            "7, boulevard de la Plage"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17485",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Le Grand-Village-Plage"
+              ],
+              "pt": [
+                "Le Grand-Village-Plage"
+              ],
+              "en": [
+                "Le Grand-Village-Plage"
+              ],
+              "it": [
+                "Le Grand-Village-Plage"
+              ],
+              "fr": [
+                "Le Grand-Village-Plage"
+              ],
+              "nl": [
+                "Le Grand-Village-Plage"
+              ],
+              "es": [
+                "Le Grand-Village-Plage"
+              ]
+            },
+            "insee": "17485",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/3f19fe1f-909b-3b18-a6c8-8bb738a82e08",
+        "schema:latitude": "45.86063",
+        "schema:longitude": "-1.239285",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/07a8d3a2-e025-3b4a-ac5a-298fc9e13c84",
+          "schema:validFrom": "2023-09-01T00:00:00",
+          "schema:validThrough": "2023-11-05T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3c026453-97b0-32aa-bf1a-9dfe864b3546",
+          "schema:validFrom": "2023-04-01T00:00:00",
+          "schema:validThrough": "2023-06-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5357bf72-5134-31c8-8b8b-a908a13bc424",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/d7f018c3-c1ab-31f8-8901-4d29578edb89",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ile-oleron-marennes.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-01-18",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.386Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/efb5bad5-4635-3c5e-a6b3-fe150db3ff50",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/d10e6a7d-27fb-3747-bbad-11b7b631a042",
+          "schema:maxPrice": [
+            "1",
+            "4.5"
+          ],
+          "schema:minPrice": [
+            "1",
+            "3",
+            "4.5"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/ab0669ce-7763-3732-9103-0d712fcac86a",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-11-05",
+              "startDate": "2023-04-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,576 @@
+{
+  "@id": "https://data.datatourisme.fr/13/21d97c74-9d97-3147-a479-52bd4839bc59",
+  "dc:identifier": "5679561",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "DefenceSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das Espace Mémoriel de la Résistance et de la Déportation, ein Ort der Geschichte und der Pädagogik, im Herzen der Altstadt von Angoulême."
+    ],
+    "en": [
+      "The Espace Mémoriel de la Résistance et de la Déportation, a place of history and pedagogy, in the heart of old Angoulême."
+    ],
+    "it": [
+      "L'Espace Mémoriel de la Résistance et de la Déportation, un luogo di storia e di educazione, nel cuore della vecchia Angoulême."
+    ],
+    "fr": [
+      "L’Espace Mémoriel de la Résistance et de la Déportation, un lieu d’Histoire et de pédagogie, au cœur du vieil Angoulême."
+    ],
+    "es": [
+      "El Espace Mémoriel de la Résistance et de la Déportation, un lugar de historia y educación, en el corazón de la antigua Angulema."
+    ],
+    "nl": [
+      "De Espace Mémoriel de la Résistance et de la Déportation, een plaats van geschiedenis en onderwijs, in het hart van het oude Angoulême."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Espace Mémoriel de la Résistance et de la Déportation de la Charente"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f3e52c30-0b82-3a81-a3e7-ace55fe15c08",
+    "dc:identifier": "2053",
+    "schema:email": [
+      "snebout@angouleme-tourisme.com"
+    ],
+    "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.angouleme-tourisme.com/"
+    ],
+    "lastUpdateDatatourisme": "2022-12-19T06:44:07.571Z"
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/4bc12e5b-2281-34e7-8baa-b2326d752f70",
+      "schema:email": [
+        "patrimoine16@lacharente.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 16 09 68 24"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://patrimoine16.lacharente.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/2d589f9e-2006-389a-b12d-c99c9cb7cc6f",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2178b940-25f8-3030-a63c-fc1b9c4e9552",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4dbf8819-75fd-30ab-9e79-91a43c9c88b5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/84a84e1c-78c4-364f-9bac-6f5125a375c5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8b5eed46-2d4a-3b0a-8d98-0be0d2729b76",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c0c68206-cb18-37f9-83a1-341f71f0fa6f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das Espace Mémoriel de la Résistance et de la Déportation, ein Ort der Geschichte und der Pädagogik, im Herzen der Altstadt von Angoulême."
+        ],
+        "en": [
+          "The Espace Mémoriel de la Résistance et de la Déportation, a place of history and pedagogy, in the heart of old Angoulême."
+        ],
+        "it": [
+          "L'Espace Mémoriel de la Résistance et de la Déportation, un luogo di storia e di educazione, nel cuore della vecchia Angoulême."
+        ],
+        "fr": [
+          "L’Espace Mémoriel de la Résistance et de la Déportation, un lieu d’Histoire et de pédagogie, au cœur du vieil Angoulême."
+        ],
+        "es": [
+          "El Espace Mémoriel de la Résistance et de la Déportation, un lugar de historia y educación, en el corazón de la antigua Angulema."
+        ],
+        "nl": [
+          "De Espace Mémoriel de la Résistance et de la Déportation, een plaats van geschiedenis en onderwijs, in het hart van het oude Angoulême."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/38a70ff5-9c67-361a-902e-780ea97c170a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/651b181a-e16d-3e68-bce4-5f65565b96a5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a77ace45-ab0e-3e67-825e-c981a94e83b1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/af2f74e6-446e-3da8-af10-9be4c2d27b2c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e80c8162-b3f2-3e48-bc97-90f83a1a956b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/644daa03-c5d6-3c3c-8fb2-7da124c0c35e",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/b44493d6-1332-3cfb-b850-89e8dbb0f2c3",
+          "schema:addressLocality": "Angoulême",
+          "schema:postalCode": "16000",
+          "schema:streetAddress": [
+            "34 rue de Genève"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16015",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Angoulême"
+              ],
+              "pt": [
+                "Angoulême"
+              ],
+              "en": [
+                "Angoulême"
+              ],
+              "it": [
+                "Angoulême"
+              ],
+              "fr": [
+                "Angoulême"
+              ],
+              "nl": [
+                "Angoulême"
+              ],
+              "es": [
+                "Angoulême"
+              ]
+            },
+            "insee": "16015",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/8b164d1e-dbf6-3618-811d-284cc4a35351",
+        "schema:latitude": "45.650119",
+        "schema:longitude": "0.156461",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/0d777414-9ad2-3a0a-9bf3-b341752449e5",
+          "schema:validFrom": "2023-02-12T00:00:00",
+          "schema:validThrough": "2023-02-16T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/1b524188-b282-3426-9fbd-d748bcd1164d",
+          "schema:validFrom": "2023-09-02T00:00:00",
+          "schema:validThrough": "2023-09-02T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/46298351-e900-34c8-a35a-ce93e7d7f626",
+          "schema:validFrom": "2023-05-05T00:00:00",
+          "schema:validThrough": "2023-05-05T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/59d6f9b3-e160-3181-8f37-d5d2f2f81697",
+          "schema:validFrom": "2023-03-03T00:00:00",
+          "schema:validThrough": "2023-03-03T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5f9fd6c0-2a3a-3166-a10b-dbf4172c0747",
+          "schema:validFrom": "2023-10-07T00:00:00",
+          "schema:validThrough": "2023-10-07T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/732bed33-fb93-3871-98ac-80c04f910160",
+          "schema:validFrom": "2023-01-25T00:00:00",
+          "schema:validThrough": "2023-01-28T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7c569b31-3970-300e-b9e5-96dcd9d66dac",
+          "schema:validFrom": "2023-03-31T00:00:00",
+          "schema:validThrough": "2023-03-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/85ec9f27-f16e-30d9-9e5a-c2f37d870706",
+          "schema:validFrom": "2023-04-16T00:00:00",
+          "schema:validThrough": "2023-04-20T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a03fbeba-9e80-310f-a1b9-0fc7dc4cc7bc",
+          "schema:validFrom": "2023-06-02T00:00:00",
+          "schema:validThrough": "2023-06-02T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a3eeb3ae-001e-3b41-a70b-4d1cbced78e2",
+          "schema:validFrom": "2023-11-04T00:00:00",
+          "schema:validThrough": "2023-11-04T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c356ab2b-b638-3509-b025-90adafd90ba4",
+          "schema:validFrom": "2023-08-01T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c7f00730-6b47-30fd-b2cb-b0661af8590a",
+          "schema:validFrom": "2023-10-23T00:00:00",
+          "schema:validThrough": "2023-10-27T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d2b20894-fc25-38ea-91b4-bedacbfca045",
+          "schema:validFrom": "2023-01-06T00:00:00",
+          "schema:validThrough": "2023-01-06T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d7f9a500-2b00-305b-8496-ef841c74f458",
+          "schema:validFrom": "2023-09-15T00:00:00",
+          "schema:validThrough": "2023-09-17T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f550998f-d4d5-3583-a55d-ffbdd9aa3414",
+          "schema:validFrom": "2023-12-02T00:00:00",
+          "schema:validThrough": "2023-12-02T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/65c93456-0984-3a13-aac5-3ae5946a15d8",
+      "schema:email": [
+        "snebout@angouleme-tourisme.com"
+      ],
+      "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.angouleme-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-29",
+  "lastUpdateDatatourisme": "2023-06-30T05:42:47.356Z"
+}

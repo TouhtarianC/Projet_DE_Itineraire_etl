@@ -1,0 +1,796 @@
+{
+  "@id": "https://data.datatourisme.fr/13/adcd649f-d774-321e-b546-490cb08a357f",
+  "dc:identifier": "5669462",
+  "@type": [
+    "Castle",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RemarkableBuilding"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Eremitage des berühmten Schriftstellers Jean-Louis Guez de Balzac aus der Charente...\r\n\r\nDas am Ufer der Charente errichtete Schloss Balzac liegt 8 km nördlich von Angoulême und ist als ISMH (XIII., XVII. und XVIII. Jahrhundert) klassifiziert und trägt das Label Maison des Illustres."
+    ],
+    "en": [
+      "Hermitage of the famous writer from Charente Jean-Louis Guez de Balzac...\r\n\r\nBuilt on the banks of the Charente, the castle of Balzac located 8 km north of Angoulême is classified ISMH (XIIIth, XVIIth and XVIIIth centuries) and labeled Maison des Illustres."
+    ],
+    "it": [
+      "Eremo del famoso scrittore Jean-Louis Guez de Balzac, originario della Charente...\r\n\r\nCostruito sulle rive della Charente, il castello di Balzac, situato a 8 km a nord di Angoulême, è classificato come ISMH (XIII, XVII e XVIII secolo) e ha ottenuto il marchio Maison des Illustres."
+    ],
+    "fr": [
+      "Ermitage du célèbre écrivain charentais Jean-Louis Guez de Balzac...\r\n\r\nÉdifié en bordure de la Charente, le château de Balzac situé à 8 km au nord d'Angoulême est classé ISMH (XIIIème, XVIIème et XVIIIème siècles) et labellisé Maison des Illustres."
+    ],
+    "nl": [
+      "Hermitage van de beroemde schrijver Jean-Louis Guez de Balzac uit Charente...\r\n\r\nHet kasteel van Balzac, gebouwd aan de oevers van de Charente, ligt 8 km ten noorden van Angoulême en is geklasseerd als ISMH (13e, 17e en 18e eeuw) en heeft het label Maison des Illustres gekregen."
+    ],
+    "es": [
+      "Ermita del famoso escritor Jean-Louis Guez de Balzac de Charente...\r\n\r\nConstruido a orillas de la Charente, el castillo de Balzac, situado a 8 km al norte de Angulema, está clasificado como ISMH (siglos XIII, XVII y XVIII) y ha recibido la etiqueta Maison des Illustres."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Château de Balzac"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q2968417"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f3e52c30-0b82-3a81-a3e7-ace55fe15c08",
+    "dc:identifier": "2053",
+    "schema:email": [
+      "snebout@angouleme-tourisme.com"
+    ],
+    "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.angouleme-tourisme.com/"
+    ],
+    "lastUpdateDatatourisme": "2022-12-19T06:44:07.571Z"
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/35642436-ad43-389c-90f6-d18453dcc7d1",
+      "schema:email": [
+        "chateaudebalzac@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 5 45 68 15 16",
+        "+33 6 87 26 74 78"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.chateaudebalzac.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/4ab14f8d-37e8-3a81-bd8f-1a96b35bb34c",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0f34c761-8749-3dda-9eac-a44ecffa7eaf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4583e0b8-34ee-37f7-94a6-ab2b833619de",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/478a533d-68af-3bcb-9a57-4574c146b5f8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5057eb3c-bdc0-3225-86c2-0d3df849b8aa",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/563c883b-9ddb-3fc8-95f8-100c64960816",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Eremitage des berühmten Schriftstellers Jean-Louis Guez de Balzac aus der Charente...\r\n\r\nDas am Ufer der Charente errichtete Schloss Balzac liegt 8 km nördlich von Angoulême und ist als ISMH (XIII., XVII. und XVIII. Jahrhundert) klassifiziert und trägt das Label Maison des Illustres."
+        ],
+        "en": [
+          "Hermitage of the famous writer from Charente Jean-Louis Guez de Balzac...\r\n\r\nBuilt on the banks of the Charente, the castle of Balzac located 8 km north of Angoulême is classified ISMH (XIIIth, XVIIth and XVIIIth centuries) and labeled Maison des Illustres."
+        ],
+        "it": [
+          "Eremo del famoso scrittore Jean-Louis Guez de Balzac, originario della Charente...\r\n\r\nCostruito sulle rive della Charente, il castello di Balzac, situato a 8 km a nord di Angoulême, è classificato come ISMH (XIII, XVII e XVIII secolo) e ha ottenuto il marchio Maison des Illustres."
+        ],
+        "fr": [
+          "Ermitage du célèbre écrivain charentais Jean-Louis Guez de Balzac...\r\n\r\nÉdifié en bordure de la Charente, le château de Balzac situé à 8 km au nord d'Angoulême est classé ISMH (XIIIème, XVIIème et XVIIIème siècles) et labellisé Maison des Illustres."
+        ],
+        "nl": [
+          "Hermitage van de beroemde schrijver Jean-Louis Guez de Balzac uit Charente...\r\n\r\nHet kasteel van Balzac, gebouwd aan de oevers van de Charente, ligt 8 km ten noorden van Angoulême en is geklasseerd als ISMH (13e, 17e en 18e eeuw) en heeft het label Maison des Illustres gekregen."
+        ],
+        "es": [
+          "Ermita del famoso escritor Jean-Louis Guez de Balzac de Charente...\r\n\r\nConstruido a orillas de la Charente, el castillo de Balzac, situado a 8 km al norte de Angulema, está clasificado como ISMH (siglos XIII, XVII y XVIII) y ha recibido la etiqueta Maison des Illustres."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/ea676d65-36c3-3ca7-9c32-b4a64aa3442a",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/41a3e17e-fc72-307e-972f-2b79b6fa5369",
+          "ebucore:isCoveredBy": "CC BY-SA 4.0",
+          "ebucore:title": {
+            "fr": [
+              "Balzac2.4"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "rosier"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/5a4df1f8-e44a-31a4-a5c6-dac2cf53c7f4",
+          "ebucore:fileSize": [
+            618407
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1536,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/0/05/Balzac2.4.JPG"
+          ],
+          "ebucore:width": 2048,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/27a1da2e-a3b2-3a7d-9a31-72b7f32b07dd",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5f3ee76a-54ab-3d0d-b377-c7b0d0f26232",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ade7a3df-8202-316f-840b-b8930fedb49e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e85fc1e1-27c4-3bb1-8fb5-3f5214391562",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ebfa1826-882a-36c0-b449-381c5504de0a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/77d4281a-87a9-3ef1-a14f-2d3d0abbb9b6",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/6d0a60cc-8b78-3fc7-ac90-62d9d6003f5f",
+          "schema:addressLocality": "Balzac",
+          "schema:postalCode": "16430",
+          "schema:streetAddress": [
+            "Route du Château"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16026",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Balzac"
+              ],
+              "pt": [
+                "Balzac"
+              ],
+              "en": [
+                "Balzac"
+              ],
+              "it": [
+                "Balzac"
+              ],
+              "fr": [
+                "Balzac"
+              ],
+              "nl": [
+                "Balzac"
+              ],
+              "es": [
+                "Balzac"
+              ]
+            },
+            "insee": "16026",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/869fdb2e-9e9a-3085-bc2d-3dae0027cc2d",
+        "schema:latitude": "45.707628",
+        "schema:longitude": "0.109108",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/29267eb6-5f08-3c6c-a3c7-f168c254e3cd",
+          "schema:validFrom": "2023-09-16T00:00:00",
+          "schema:validThrough": "2023-09-17T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Europäische Tage des Kulturerbes: Führungen um 11 Uhr, 15 Uhr und 16.30 Uhr"
+            ],
+            "en": [
+              "European Heritage Days: guided tours at 11am, 3pm and 4:30pm"
+            ],
+            "it": [
+              "Giornate europee del patrimonio: visite guidate alle 11.00, alle 15.00 e alle 16.30"
+            ],
+            "fr": [
+              "Journées Européennes du Patrimoine : visites guidées à 11h, 15h et 16h30"
+            ],
+            "es": [
+              "Jornadas Europeas de Patrimonio: visitas guiadas a las 11:00, 15:00 y 16:30 horas"
+            ],
+            "nl": [
+              "Europese erfgoeddagen: rondleidingen om 11 uur, 15 uur en 16.30 uur"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/583e1569-b488-37bd-8e39-0db02bc3f5ea",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/5e1671d0-9b5c-31dd-9d6f-d132cc966e1f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ebedefa3-12ee-3cf9-9524-c9d95ab794d6",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f22630e9-fc43-364f-af5a-b1c4711fb61f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f9462555-9a82-3f40-a94a-8d703d172a08",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dd23912b-fee1-361a-9fc6-69778ae204cb",
+          "schema:validFrom": "2023-07-12T00:00:00",
+          "schema:validThrough": "2023-08-20T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Geführte Touren um 17 Uhr"
+            ],
+            "en": [
+              "Guided tours at 5pm"
+            ],
+            "it": [
+              "Visite guidate alle 17.00"
+            ],
+            "fr": [
+              "Visites guidées à 17h"
+            ],
+            "es": [
+              "Visitas guiadas a las 17 horas"
+            ],
+            "nl": [
+              "Rondleidingen om 17 uur"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/1441f6e0-7e35-34d5-afc0-3c9428f4ec14",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/329f7a7e-9b97-39ba-8b01-51655c5bcca6",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/be2f0087-caf5-3500-9a29-2fc2423be0ac",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c4d34f73-247a-31e5-b8d8-333b9dd382ee",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c4d98028-a163-36e2-88d5-0bae7e746f48",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/65c93456-0984-3a13-aac5-3ae5946a15d8",
+      "schema:email": [
+        "snebout@angouleme-tourisme.com"
+      ],
+      "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.angouleme-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-03",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.385Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/8a761dbf-a1c9-3a81-9442-7110236c8f48",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/805b7777-b866-36fd-ba99-1e958db6a937",
+          "schema:maxPrice": [
+            "10",
+            "8"
+          ],
+          "schema:minPrice": [
+            "10",
+            "8"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/b7060339-ca72-3d70-93f5-c2ba4dc91fa0",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-08-20",
+              "startDate": "2023-07-12"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ec7564a1-ce36-3de7-aedf-c789b04efc9e",
+          "schema:maxPrice": [
+            "5",
+            "8"
+          ],
+          "schema:minPrice": [
+            "5",
+            "8"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/c8946b1a-e8ef-3c91-9d6f-33978aa86939",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-09-17",
+              "startDate": "2023-09-16"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "@id": "https://data.datatourisme.fr/13/ad84568a-fa92-317e-a4d5-f3cac23baf7a",
+  "dc:identifier": "5912936",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das Museum \"Vandré il y a 100 ans\" ist ein Museum für lokale Traditionen, das sich der Ethnologie und der Geschichte des Dorfes Vandré widmet.\r\nEs ist das einzige ländliche Museum in der Ebene von Aunis und spiegelt ein erhaltenes lokales Zeugnis wider.\r\nZugang nur nach vorheriger Anmeldung."
+    ],
+    "en": [
+      "The museum \"Vandré 100 years ago\" is a museum of local traditions dedicated to the ethnology and history of the village of Vandré.\r\nIt is the only rural museum of the Aunis plain and the reflection of a preserved local testimony.\r\nAccessible by appointment."
+    ],
+    "it": [
+      "Il museo \"Vandré 100 anni fa\" è un museo delle tradizioni locali dedicato all'etnologia e alla storia del villaggio di Vandré.\r\nÈ l'unico museo rurale della pianura di Aunis e riflette una testimonianza locale conservata.\r\nAccessibile su appuntamento."
+    ],
+    "fr": [
+      "Le musée \"Vandré il y a 100 ans\" est un musée de traditions locales consacré à l’ethnologie et à l’histoire du village de Vandré. \r\nIl est l’unique musée rural de la plaine d’Aunis et le reflet d’un témoignage local préservé.\r\nAccessible sur RDV."
+    ],
+    "nl": [
+      "Het museum \"Vandré 100 jaar geleden\" is een museum van plaatselijke tradities gewijd aan de etnologie en de geschiedenis van het dorp Vandré.\r\nHet is het enige plattelandsmuseum in de Aunis-vlakte en weerspiegelt een bewaard gebleven lokale getuigenis.\r\nToegankelijk op afspraak."
+    ],
+    "es": [
+      "El museo \"Vandré hace 100 años\" es un museo de tradiciones locales dedicado a la etnología y la historia del pueblo de Vandré.\r\nEs el único museo rural de la llanura de Aunis y refleja un testimonio local preservado.\r\nAccesible con cita previa."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Musée Vandré il y a 100 ans"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q3330829"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/296472c9-542a-34d4-b88d-543508116cbc",
+    "dc:identifier": "2070",
+    "schema:email": [
+      "aurore.mdc@aunis-maraispoitevin.com",
+      "madeleine.dasilva@aunis-maraispoitevin.com"
+    ],
+    "schema:legalName": "Office de Tourisme Aunis Marais Poitevin",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.aunis-maraispoitevin.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/c2b4c4f7-7ede-3eb0-b3cb-c49203298ace",
+      "schema:email": [
+        "biblio.vandre@yahoo.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 68 88 64",
+        "+33 6 40 91 85 38"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/a6acc0c0-0ded-3fa5-afcf-9f0520b79084",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/57cc4bf5-78c1-3919-83e6-7ad9732b744c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b751c1cb-8f85-3152-8d37-99119d69d100",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/eb386cc0-d8ce-3784-8e95-d22d9c771c70",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f585bf6a-410c-3b21-9507-bc12a95ccedd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f6a1ba4f-5549-3a00-871e-72b209a907f1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das Museum \"Vandré il y a 100 ans\" ist ein Museum für lokale Traditionen, das sich der Ethnologie und der Geschichte des Dorfes Vandré widmet.\r\nEs ist das einzige ländliche Museum in der Ebene von Aunis und spiegelt ein erhaltenes lokales Zeugnis wider.\r\nZugang nur nach vorheriger Anmeldung."
+        ],
+        "en": [
+          "The museum \"Vandré 100 years ago\" is a museum of local traditions dedicated to the ethnology and history of the village of Vandré.\r\nIt is the only rural museum of the Aunis plain and the reflection of a preserved local testimony.\r\nAccessible by appointment."
+        ],
+        "it": [
+          "Il museo \"Vandré 100 anni fa\" è un museo delle tradizioni locali dedicato all'etnologia e alla storia del villaggio di Vandré.\r\nÈ l'unico museo rurale della pianura di Aunis e riflette una testimonianza locale conservata.\r\nAccessibile su appuntamento."
+        ],
+        "fr": [
+          "Le musée \"Vandré il y a 100 ans\" est un musée de traditions locales consacré à l’ethnologie et à l’histoire du village de Vandré. \r\nIl est l’unique musée rural de la plaine d’Aunis et le reflet d’un témoignage local préservé.\r\nAccessible sur RDV."
+        ],
+        "nl": [
+          "Het museum \"Vandré 100 jaar geleden\" is een museum van plaatselijke tradities gewijd aan de etnologie en de geschiedenis van het dorp Vandré.\r\nHet is het enige plattelandsmuseum in de Aunis-vlakte en weerspiegelt een bewaard gebleven lokale getuigenis.\r\nToegankelijk op afspraak."
+        ],
+        "es": [
+          "El museo \"Vandré hace 100 años\" es un museo de tradiciones locales dedicado a la etnología y la historia del pueblo de Vandré.\r\nEs el único museo rural de la llanura de Aunis y refleja un testimonio local preservado.\r\nAccesible con cita previa."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0346e0e9-d42d-375e-a69b-18b59795469b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2fa3375b-bc73-36c4-985e-df22aaa1ecc1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/59d99b8a-2b20-3b87-b5a4-9d81ff02bfdf",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c6c87937-efa7-3746-82e6-35e52ca4a1de",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e5e46661-c194-32c7-8463-3f07735e8bb5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/2b924363-11ea-3578-8cda-e12da9618830",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/938161d6-afd8-3445-9da7-e8966a1fc503",
+          "schema:addressLocality": "La Devise",
+          "schema:postalCode": "17700",
+          "schema:streetAddress": [
+            "3 rue de la Vilette",
+            "Vandré"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17457",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "La Devise"
+              ],
+              "pt": [
+                "La Devise"
+              ],
+              "en": [
+                "La Devise"
+              ],
+              "it": [
+                "La Devise"
+              ],
+              "fr": [
+                "La Devise"
+              ],
+              "nl": [
+                "La Devise"
+              ],
+              "es": [
+                "La Devise"
+              ]
+            },
+            "insee": "17457",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/db4f209f-a0b2-316d-8b23-b2881d40e4e8",
+        "schema:latitude": "46.056328",
+        "schema:longitude": "-0.763946",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/5f65abf0-e81e-3b2f-b104-592938cdbac8",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Nach Vereinbarung geöffnet."
+            ],
+            "en": [
+              "Open by appointment."
+            ],
+            "it": [
+              "Aperto su appuntamento."
+            ],
+            "fr": [
+              "Ouvert sur rendez-vous."
+            ],
+            "nl": [
+              "Open op afspraak."
+            ],
+            "es": [
+              "Abierto con cita previa."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/0b1e99db-aceb-3e68-ab25-22c76c9c366b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/4a0bccbe-c5bc-33a4-ba82-732d88cd04ac",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/55b42dd6-8553-31a7-a14e-80640d7b7bfd",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/87609f86-6850-3583-93e4-024aa5dd2bb2",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e7dc883d-789c-3a92-aba9-6dbbfd9b20f7",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/a31bfa88-8451-397d-9df1-b4fcba0f5590",
+      "schema:email": [
+        "madeleine.dasilva@aunis-maraispoitevin.com"
+      ],
+      "schema:legalName": "Office de Tourisme Aunis Marais Poitevin",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.aunis-maraispoitevin.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-01-30",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.852Z"
+}

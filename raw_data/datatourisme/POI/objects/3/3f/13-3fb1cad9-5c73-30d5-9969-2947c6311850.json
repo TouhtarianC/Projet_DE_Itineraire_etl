@@ -1,0 +1,464 @@
+{
+  "@id": "https://data.datatourisme.fr/13/3fb1cad9-5c73-30d5-9969-2947c6311850",
+  "dc:identifier": "5782182",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Verkauf von Cognac, Pineau und Landweinen. Die ganze Woche über und am Wochenende nach Vereinbarung geöffnet.\r\n\r\nUnabhängiger Winzer"
+    ],
+    "en": [
+      "Sale of cognac, pineau and local wines. Open all week and weekends by appointment.\r\n\r\nIndependent winegrower"
+    ],
+    "it": [
+      "Vendita di cognac, pineau e vini locali. Aperto tutta la settimana e nei fine settimana su appuntamento.\r\n\r\nVignaiolo indipendente"
+    ],
+    "fr": [
+      "Vente de cognac, pineau et vins de pays. Ouvert toute la semaine et le week-end sur rendez-vous.\r\n\r\nVigneron Indépendant"
+    ],
+    "nl": [
+      "Verkoop van cognac, pineau en lokale wijnen. De hele week open en in het weekend op afspraak.\r\n\r\nOnafhankelijke wijnboer"
+    ],
+    "es": [
+      "Venta de coñac, pineau y vinos locales. Abierto toda la semana y los fines de semana con cita previa.\r\n\r\nViticultor independiente"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Domaine de la Margotterie - Chateau des Matards - Pineau Cognac"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/15ed945f-478a-328c-a161-a6f62e665dda",
+      "schema:email": [
+        "info@vignobles-terrigeol.com"
+      ],
+      "schema:telephone": [
+        "+33 5 57 32 61 96"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.vignobles-terrigeol.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/44a1e06f-f089-304b-9a9e-d759595a4983",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/a45b363a-fcb6-3390-8298-7992114308b5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/acc25395-3750-3715-81d5-534e71174e76",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bf45c7d2-fd8b-3727-bb68-bab2a28f91b4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/eedc388d-7b65-3043-8df8-57326b911d78",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f7c1e07b-5fb5-3614-ae6e-1de3bda7318f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Verkauf von Cognac, Pineau und Landweinen. Die ganze Woche über und am Wochenende nach Vereinbarung geöffnet.\r\n\r\nUnabhängiger Winzer"
+        ],
+        "en": [
+          "Sale of cognac, pineau and local wines. Open all week and weekends by appointment.\r\n\r\nIndependent winegrower"
+        ],
+        "it": [
+          "Vendita di cognac, pineau e vini locali. Aperto tutta la settimana e nei fine settimana su appuntamento.\r\n\r\nVignaiolo indipendente"
+        ],
+        "fr": [
+          "Vente de cognac, pineau et vins de pays. Ouvert toute la semaine et le week-end sur rendez-vous.\r\n\r\nVigneron Indépendant"
+        ],
+        "nl": [
+          "Verkoop van cognac, pineau en lokale wijnen. De hele week open en in het weekend op afspraak.\r\n\r\nOnafhankelijke wijnboer"
+        ],
+        "es": [
+          "Venta de coñac, pineau y vinos locales. Abierto toda la semana y los fines de semana con cita previa.\r\n\r\nViticultor independiente"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/12a709e7-9811-32c5-800d-2a87801ddb1e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/440bba5b-db7f-35e3-b78a-47fbaa3559bd",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/64cc3175-ed79-3e06-8f10-fca6aee466cb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/78027f3e-c9dd-3637-9e7a-1920927e8fa0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9d2bd6b4-f165-3724-832f-90bd31ab7420",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/37f5f2e5-983f-309e-9a4a-e35cb7209348",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/7663fda0-074b-3a21-bf5b-156f682c86b0",
+          "schema:addressLocality": "Saint-Bonnet-sur-Gironde",
+          "schema:postalCode": "17150",
+          "schema:streetAddress": [
+            "1 La Margotterie"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17312",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Bonnet-sur-Gironde"
+              ],
+              "pt": [
+                "Saint-Bonnet-sur-Gironde"
+              ],
+              "en": [
+                "Saint-Bonnet-sur-Gironde"
+              ],
+              "it": [
+                "Saint-Bonnet-sur-Gironde"
+              ],
+              "fr": [
+                "Saint-Bonnet-sur-Gironde"
+              ],
+              "nl": [
+                "Saint-Bonnet-sur-Gironde"
+              ],
+              "es": [
+                "Saint-Bonnet-sur-Gironde"
+              ]
+            },
+            "insee": "17312",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/6fb76996-f4a3-3b18-8b11-0961fe801f54",
+        "schema:latitude": "45.3329",
+        "schema:longitude": "-0.616866",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-01",
+  "lastUpdateDatatourisme": "2023-06-02T05:50:19.181Z"
+}

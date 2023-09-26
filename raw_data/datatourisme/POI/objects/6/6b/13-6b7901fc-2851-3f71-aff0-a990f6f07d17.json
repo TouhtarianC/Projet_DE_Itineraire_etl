@@ -1,0 +1,732 @@
+{
+  "@id": "https://data.datatourisme.fr/13/6b7901fc-2851-3f71-aff0-a990f6f07d17",
+  "dc:identifier": "5762176",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "DefenceSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Heute ist es ein historisches Denkmal und das Haus, in dem Napoleon sich den Engländern ergab."
+    ],
+    "en": [
+      "Now a historical monument, it is the house in which Napoleon surrendered to the English."
+    ],
+    "it": [
+      "Oggi monumento storico, è la casa in cui Napoleone si arrese agli inglesi."
+    ],
+    "fr": [
+      "Aujourd'hui monument historique, c'est la maison dans laquelle Napoléon se rendit aux Anglais."
+    ],
+    "nl": [
+      "Nu een historisch monument, het is het huis waarin Napoleon zich overgaf aan de Engelsen."
+    ],
+    "es": [
+      "Convertida en monumento histórico, es la casa en la que Napoleón se rindió a los ingleses."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Napoleon-Museum"
+    ],
+    "en": [
+      "Napoleon Museum"
+    ],
+    "fr": [
+      "Musée Napoléon"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q3330672"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/9afefc52-942c-383c-bc1f-14b2139b09ba",
+    "dc:identifier": "2055",
+    "schema:email": [
+      "chloe.mailler@rochefort-ocean.com",
+      "christine.nourisson@rochefort-ocean.com",
+      "chrystelle.ecale@rochefort-ocean.com",
+      "lea.origlia@rochefort-ocean.com",
+      "sandrine.bouron@rochefort-ocean.com"
+    ],
+    "schema:legalName": "Office de Tourisme Rochefort Océan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.rochefort-ocean.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/eccc32f7-463e-3583-8fef-0e90ee0b0854",
+      "schema:email": [
+        "regie.ile-aix@rmn.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 84 66 40"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://musees-nationaux-malmaison.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/df5b476c-1c2e-3d72-9591-58ebfffba61a",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/405b2f87-87f3-3a64-bada-3f7e78c1661f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/493f5f14-1c79-3421-b2b5-72a4e312be76",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4f4a1d2a-f7ae-3b06-8817-34ffdd067be9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Heute ist es ein historisches Denkmal und das Haus, in dem Napoleon sich den Engländern ergab."
+        ],
+        "en": [
+          "Now a historical monument, it is the house in which Napoleon surrendered to the English."
+        ],
+        "it": [
+          "Oggi monumento storico, è la casa in cui Napoleone si arrese agli inglesi."
+        ],
+        "fr": [
+          "Aujourd'hui monument historique, c'est la maison dans laquelle Napoléon se rendit aux Anglais."
+        ],
+        "nl": [
+          "Nu een historisch monument, het is het huis waarin Napoleon zich overgaf aan de Engelsen."
+        ],
+        "es": [
+          "Convertida en monumento histórico, es la casa en la que Napoleón se rindió a los ingleses."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/909520b0-ba4c-37b1-aaeb-1dec3e4b450c",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/88ec0993-59aa-3d52-a694-264066342f0d",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Musée napoléonien-Ile d'Aix1"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Ji-Elle (https://commons.wikimedia.org/wiki/User:Ji-Elle)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/0f24ef88-df83-3551-8118-a3b7b1e56cf3",
+          "ebucore:fileSize": [
+            1077347
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 2580,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/0/04/Mus%C3%A9e_napol%C3%A9onien-Ile_d%27Aix1.jpg"
+          ],
+          "ebucore:width": 3480,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/5e7317d2-15e4-3165-8ca3-ec6455213e79",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e3a254fc-c82e-31bb-bbad-72eb56a09826",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f46497a5-2e4c-3c50-9628-e8086e7cbdcc",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/3391395a-0214-36f7-a55d-3beb05d3d291",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/48bb6e28-755f-3f00-8677-750b3a61c09d",
+          "schema:addressLocality": "Île-d'Aix",
+          "schema:postalCode": "17123",
+          "schema:streetAddress": [
+            "30 rue Napoléon"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17004",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Île-d'Aix"
+              ],
+              "pt": [
+                "Île-d'Aix"
+              ],
+              "en": [
+                "Île-d'Aix"
+              ],
+              "it": [
+                "Île-d'Aix"
+              ],
+              "fr": [
+                "Île-d'Aix"
+              ],
+              "nl": [
+                "Île-d'Aix"
+              ],
+              "es": [
+                "Île-d'Aix"
+              ]
+            },
+            "insee": "17004",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/a05564fb-8bf2-3cf3-be11-356cbf2af1c4",
+        "schema:latitude": "46.01281",
+        "schema:longitude": "-1.174812",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/1fbddf67-8292-3284-8aa2-fb4bc396d314",
+          "schema:validFrom": "2023-04-01T00:00:00",
+          "schema:validThrough": "2023-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Letzter Einlass 17.15 Uhr. Schließung des Museums 18.00 Uhr."
+            ],
+            "en": [
+              "Last admissions 5:15 pm. The museum closes at 6:00 pm."
+            ],
+            "it": [
+              "Ultimo ingresso alle 17.15. Il museo chiude alle 18:00."
+            ],
+            "fr": [
+              "Dernières admissions 17h15. Fermeture du musée 18h00."
+            ],
+            "es": [
+              "Últimas entradas a las 17.15 h. El museo cierra a las 18:00."
+            ],
+            "nl": [
+              "Laatste toegang 17.15 uur. Het museum sluit om 18.00 uur."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/0587a8bb-95a5-368b-ae11-38563de70f98",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/45c1afe7-f3b4-3dff-a8bf-985903e95c52",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/5e0f067b-a51b-3815-acd3-4b42d8fc1c83",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/84608ff5-99c3-347c-a4a8-0ffb6c97960c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c62b0446-6ecf-3a5a-bfcd-7cd0d3a1733f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ee376313-1a37-38c6-aa50-e69602143786",
+          "schema:validFrom": "2023-10-01T00:00:00",
+          "schema:validThrough": "2023-03-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Letzter Einlass 16.15 Uhr. Schließung des Museums 17.00 Uhr."
+            ],
+            "en": [
+              "Last admissions 4:15 pm. The museum closes at 5:00 pm."
+            ],
+            "it": [
+              "Ultimo ingresso alle 16:15. Il museo chiude alle 17:00."
+            ],
+            "fr": [
+              "Dernières admissions 16h15. Fermeture du musée 17h00."
+            ],
+            "es": [
+              "Última entrada a las 16:15. El museo cierra a las 17:00."
+            ],
+            "nl": [
+              "Laatste toegang 16:15. Het museum sluit om 17:00."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/0d4f1e18-1d75-3b8c-9440-2644ca4abef3",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/4c98773e-3f42-3f50-a0f0-7f0212f1eff5",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6b19816b-1a90-39dc-a2f2-971f5174ecfc",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/77b71e3d-28fb-3082-825e-1557b826e533",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e9516b72-91d6-3913-9d29-2df7bdea554a",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fed90c24-5b4e-374e-b413-9c9ae527b242",
+      "schema:email": [
+        "chloe.mailler@rochefort-ocean.com",
+        "christine.nourisson@rochefort-ocean.com",
+        "chrystelle.ecale@rochefort-ocean.com",
+        "lea.origlia@rochefort-ocean.com",
+        "sandrine.bouron@rochefort-ocean.com"
+      ],
+      "schema:legalName": "Office de Tourisme Rochefort Océan",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.rochefort-ocean.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-04-13",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.394Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/2fce2532-875f-3ad8-b110-58b082bb4efc",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/52e06a0c-795b-302f-8493-b4bbc1409369",
+          "schema:maxPrice": [
+            "4",
+            "4.5"
+          ],
+          "schema:minPrice": [
+            "4",
+            "4.5"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/9472807c-2fd5-360d-be1c-729ffb831f35",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-03-31",
+              "startDate": "2022-04-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

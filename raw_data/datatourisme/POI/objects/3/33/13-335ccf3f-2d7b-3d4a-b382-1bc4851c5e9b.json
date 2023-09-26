@@ -1,0 +1,435 @@
+{
+  "@id": "https://data.datatourisme.fr/13/335ccf3f-2d7b-3d4a-b382-1bc4851c5e9b",
+  "dc:identifier": "5774486",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die ehrenamtlichen Bibliothekarinnen begrüßen Sie für Ihre Ausleihe von Romanen, Comics, Dokumentarfilmen, Alben, Großdruckausgaben, Mangas, CDs...\r\nDie Bibliothek besteht aus einer Erwachsenen-, Teenager- und Jugendabteilung."
+    ],
+    "en": [
+      "The volunteer librarians welcome you to borrow novels, comics, documentaries, albums, large print editions, mangas, CDs...\r\nLibrary composed of an adult, teenager and youth section."
+    ],
+    "it": [
+      "I bibliotecari volontari vi invitano a prendere in prestito romanzi, fumetti, documentari, album, edizioni a caratteri grandi, manga, CD, ecc.\r\nLa biblioteca ha una sezione per adulti, per ragazzi e per giovani."
+    ],
+    "fr": [
+      "Les bibliothécaires volontaires vous accueillent pour vos emprunts de romans, bandes-dessinées, documentaires, albums, éditions gros caractères, mangas, CD...\r\nBibliothèque composée d'un rayon adulte, ado et jeunesse."
+    ],
+    "es": [
+      "Los bibliotecarios voluntarios le invitan a tomar prestados novelas, cómics, documentales, álbumes, ediciones de gran tamaño, mangas, CDs, etc.\r\nLa biblioteca cuenta con una sección para adultos, otra para adolescentes y otra para jóvenes."
+    ],
+    "nl": [
+      "De vrijwillige bibliothecarissen heten u welkom om romans, strips, documentaires, albums, grootletterboeken, manga's, cd's, enz. te lenen.\r\nDe bibliotheek heeft een afdeling voor volwassenen, tieners en jongeren."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Bibliothèque Municipale d'Étaules"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/42674d2e-9d06-35cb-8870-bf826cfbfa35",
+      "schema:email": [
+        "bibliotheque@ville-etaules17.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 36 59 74"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.bibliotheque-etaules17.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b0624d01-2bb2-33ae-978e-2d3349b7b9c0",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0cf129cf-148d-326b-90fe-8fc2bb87052d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/87bbd7bb-362d-3b2b-9c7c-33236425b122",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a404bb65-f8f7-3a3c-a4ae-e6a808699ced",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c2501d47-b1ff-39af-af4e-eb5f13cc2ae1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f9bd8982-734b-3cd3-8aa0-708c8c6e970f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die ehrenamtlichen Bibliothekarinnen begrüßen Sie für Ihre Ausleihe von Romanen, Comics, Dokumentarfilmen, Alben, Großdruckausgaben, Mangas, CDs...\r\nDie Bibliothek besteht aus einer Erwachsenen-, Teenager- und Jugendabteilung."
+        ],
+        "en": [
+          "The volunteer librarians welcome you to borrow novels, comics, documentaries, albums, large print editions, mangas, CDs...\r\nLibrary composed of an adult, teenager and youth section."
+        ],
+        "it": [
+          "I bibliotecari volontari vi invitano a prendere in prestito romanzi, fumetti, documentari, album, edizioni a caratteri grandi, manga, CD, ecc.\r\nLa biblioteca ha una sezione per adulti, per ragazzi e per giovani."
+        ],
+        "fr": [
+          "Les bibliothécaires volontaires vous accueillent pour vos emprunts de romans, bandes-dessinées, documentaires, albums, éditions gros caractères, mangas, CD...\r\nBibliothèque composée d'un rayon adulte, ado et jeunesse."
+        ],
+        "es": [
+          "Los bibliotecarios voluntarios le invitan a tomar prestados novelas, cómics, documentales, álbumes, ediciones de gran tamaño, mangas, CDs, etc.\r\nLa biblioteca cuenta con una sección para adultos, otra para adolescentes y otra para jóvenes."
+        ],
+        "nl": [
+          "De vrijwillige bibliothecarissen heten u welkom om romans, strips, documentaires, albums, grootletterboeken, manga's, cd's, enz. te lenen.\r\nDe bibliotheek heeft een afdeling voor volwassenen, tieners en jongeren."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0ac2d720-0dec-3030-89a8-b9b0f95a9790",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/10b58db5-76a5-3019-add5-34d7b0e8ee45",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/39290502-d834-3b35-8d3c-8a4bff3c38f0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6eec5362-c436-318d-a7a9-4fdc0b994753",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/dd5e945a-9183-370c-a425-d2960589567c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/1f69963c-9d05-316a-a128-6cfa08a0846c",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/8085c074-65a7-38e9-9d97-8043de21ebfa",
+          "schema:addressLocality": "Étaules",
+          "schema:postalCode": "17750",
+          "schema:streetAddress": [
+            "3 rue de la Poste"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17155",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Étaules"
+              ],
+              "pt": [
+                "Étaules"
+              ],
+              "en": [
+                "Étaules"
+              ],
+              "it": [
+                "Étaules"
+              ],
+              "fr": [
+                "Étaules"
+              ],
+              "nl": [
+                "Étaules"
+              ],
+              "es": [
+                "Étaules"
+              ]
+            },
+            "insee": "17155",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/c25e7b79-181b-32e2-b604-cf33cfe7d734",
+        "schema:latitude": "45.733257",
+        "schema:longitude": "-1.099905",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-08-05",
+  "lastUpdateDatatourisme": "2023-02-01T18:07:36.12Z"
+}

@@ -1,0 +1,530 @@
+{
+  "@id": "https://data.datatourisme.fr/13/5389fb0e-f4cf-3f6f-8d3b-5d702ba65dd4",
+  "dc:identifier": "5707369",
+  "@type": [
+    "schema:Landform",
+    "Beach",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Der Strand von Planginot ist ideal in der Nähe des Dorfes La Brée les bains gelegen. Er ist ein familienfreundlicher Strand, der zum Baden einlädt."
+    ],
+    "en": [
+      "Planginot beach is ideally located near the village of La Brée les bains. It is a family beach suitable for swimming."
+    ],
+    "it": [
+      "La spiaggia di Planginot è situata in posizione ideale vicino al villaggio di La Brée les bains. È una spiaggia per famiglie adatta alla balneazione."
+    ],
+    "fr": [
+      "La plage de Planginot est idéalement située à proximité du village de La Brée les bains. C'est une plage familiale propice à la baignade."
+    ],
+    "es": [
+      "La playa de Planginot está idealmente situada cerca del pueblo de La Brée les bains. Es una playa familiar apta para el baño."
+    ],
+    "nl": [
+      "Het strand van Planginot is ideaal gelegen bij het dorp La Brée les bains. Het is een familiestrand dat geschikt is om te zwemmen."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Plage de La-Brée-les-Bains"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/9b181194-2d32-3daf-9473-8f61d1056c32",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3db01c41-737b-3125-a532-9b37d5186d3e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/84dd3c80-eb40-3244-bdef-f445b4bad22b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/87d54792-1b55-3a08-b042-cc10ac2956de",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a8a59a7b-e356-3dc1-af0d-ac437d93d072",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f5c73606-078d-37ed-b216-3c3f57297ac2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Der Strand von Planginot ist ideal in der Nähe des Dorfes La Brée les bains gelegen. Er ist ein familienfreundlicher Strand, der zum Baden einlädt."
+        ],
+        "en": [
+          "Planginot beach is ideally located near the village of La Brée les bains. It is a family beach suitable for swimming."
+        ],
+        "it": [
+          "La spiaggia di Planginot è situata in posizione ideale vicino al villaggio di La Brée les bains. È una spiaggia per famiglie adatta alla balneazione."
+        ],
+        "fr": [
+          "La plage de Planginot est idéalement située à proximité du village de La Brée les bains. C'est une plage familiale propice à la baignade."
+        ],
+        "es": [
+          "La playa de Planginot está idealmente situada cerca del pueblo de La Brée les bains. Es una playa familiar apta para el baño."
+        ],
+        "nl": [
+          "Het strand van Planginot is ideaal gelegen bij het dorp La Brée les bains. Het is een familiestrand dat geschikt is om te zwemmen."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Bathing",
+      "@type": [
+        "AccommodationAmenity",
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Baden"
+        ],
+        "pt": [
+          "Banho"
+        ],
+        "en": [
+          "Bathing"
+        ],
+        "it": [
+          "Bagno"
+        ],
+        "fr": [
+          "Baignade"
+        ],
+        "nl": [
+          "Zwemmen"
+        ],
+        "es": [
+          "Baño"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0197cb80-3168-3f57-9b6e-6213bf26c9a5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/37e7b9ac-1559-3053-9ada-af4e9b25427c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5f33d61b-4411-3ff4-b22a-fc5b5e24672b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7aeab1f6-d95b-37b0-bb8c-883dd868c760",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b3e42163-c729-3786-a85d-7ce1a0c0c1ed",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/4718b9e0-08c3-32d0-9d2e-ee7abf2d4ec0",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/fb20f641-f93b-34e5-b824-3d1c5950c917",
+          "schema:addressLocality": "La Brée-les-Bains",
+          "schema:postalCode": "17840",
+          "schema:streetAddress": [
+            "Plage de Planginot"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17486",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "La Brée-les-Bains"
+              ],
+              "pt": [
+                "La Brée-les-Bains"
+              ],
+              "en": [
+                "La Brée-les-Bains"
+              ],
+              "it": [
+                "La Brée-les-Bains"
+              ],
+              "fr": [
+                "La Brée-les-Bains"
+              ],
+              "nl": [
+                "La Brée-les-Bains"
+              ],
+              "es": [
+                "La Brée-les-Bains"
+              ]
+            },
+            "insee": "17486",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/b5098bc2-2505-3c8e-86ff-42d2277a3c34",
+        "schema:latitude": "46.017324",
+        "schema:longitude": "-1.348552",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/ac85ea09-e568-3eb4-b09b-8bb05649a7db",
+          "schema:closes": "19:00:00",
+          "schema:opens": "11:00:00",
+          "schema:validFrom": "2023-07-08T00:00:00",
+          "schema:validThrough": "2023-08-27T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Bewachter Strand"
+            ],
+            "en": [
+              "Watched beach"
+            ],
+            "it": [
+              "Spiaggia sorvegliata"
+            ],
+            "fr": [
+              "Plage surveillée"
+            ],
+            "es": [
+              "Playa vigilada"
+            ],
+            "nl": [
+              "Bewaakt strand"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/3bd2b73d-be21-34c3-9342-01c07319ed44",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/76bd7d29-bcee-364c-adcd-bbdd5284ad0d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/806af8af-055f-3856-b917-b77c43706f00",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a654e69e-55bf-3a5a-a565-754f4080ff35",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/db2fbd64-bc3a-374f-a45f-2a11cdad94e3",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/80009736-71af-3484-9792-2b3de63306d1",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-27",
+  "lastUpdateDatatourisme": "2023-06-28T05:53:37.701Z"
+}

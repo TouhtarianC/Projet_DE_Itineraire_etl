@@ -1,0 +1,464 @@
+{
+  "@id": "https://data.datatourisme.fr/13/0362d1df-3bfb-343a-b50f-82ce879c2db2",
+  "dc:identifier": "5754045",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Verkauf auf dem Weingut von Cognac, Pineau des Charentes, Landwein und Traubensaft.\r\nBesichtigung der Weinkeller, der Brennerei und des Weinbergs.\r\nKostenlose Verkostungen montags bis freitags von 8 bis 12 Uhr und von 14 bis 18 Uhr sowie samstags nach Vereinbarung"
+    ],
+    "en": [
+      "Sale of cognac, pineau des Charentes, local wine and grape juice at the property.\r\nVisit of the cellars, the distillery and the vineyard.\r\nFree tastings from Monday to Friday from 8am to 12pm and from 2pm to 6pm and Saturday by appointment"
+    ],
+    "it": [
+      "Vendita di cognac, pineau des Charentes, vino locale e succo d'uva presso la proprietà.\r\nVisita delle cantine, della distilleria e del vigneto.\r\nDegustazioni gratuite dal lunedì al venerdì dalle 8.00 alle 12.00 e dalle 14.00 alle 18.00 e il sabato su appuntamento"
+    ],
+    "fr": [
+      "Vente à la propriété de cognac, pineau des Charentes, vin de pays et jus de raisin.\r\nVisite des chais, de la distillerie, du vignoble.\r\nDégustations gratuites du lundi au vendredi de 8h à 12h et de 14h à 18h et samedi sur rendez-vous"
+    ],
+    "nl": [
+      "Verkoop van cognac, pineau des Charentes, lokale wijn en druivensap op het domein.\r\nBezoek aan de kelders, de distilleerderij en de wijngaard.\r\nGratis proeverijen van maandag tot vrijdag van 8 tot 12 uur en van 14 tot 18 uur en zaterdag op afspraak"
+    ],
+    "es": [
+      "Venta de coñac, pineau des Charentes, vino local y zumo de uva en la propiedad.\r\nVisita de las bodegas, la destilería y el viñedo.\r\nDegustaciones gratuitas de lunes a viernes de 8 a 12 y de 14 a 18 horas y los sábados con cita previa"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Le Renaudin - Pineau, Cognac"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/b6884837-1165-3eab-aa25-1e81b0c2c56d",
+      "schema:email": [
+        "expl.jonzac@educagri.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 48 04 44"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.agrocampus17.fr/index.php?id=renaudin_actualites"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/10f6cedb-def4-380a-9c3b-b565a3f4cf9e",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/6c45814d-d27c-3c8a-9a05-0fe3a2c847c5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ae407967-c227-31f7-9b66-c9087766ef8f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c0372cce-1462-373d-8685-2d99e56d111c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c2353979-4998-3598-8d80-69c80160674b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e2ef1346-9282-39e4-81db-3986f2a19991",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Verkauf auf dem Weingut von Cognac, Pineau des Charentes, Landwein und Traubensaft.\r\nBesichtigung der Weinkeller, der Brennerei und des Weinbergs.\r\nKostenlose Verkostungen montags bis freitags von 8 bis 12 Uhr und von 14 bis 18 Uhr sowie samstags nach Vereinbarung"
+        ],
+        "en": [
+          "Sale of cognac, pineau des Charentes, local wine and grape juice at the property.\r\nVisit of the cellars, the distillery and the vineyard.\r\nFree tastings from Monday to Friday from 8am to 12pm and from 2pm to 6pm and Saturday by appointment"
+        ],
+        "it": [
+          "Vendita di cognac, pineau des Charentes, vino locale e succo d'uva presso la proprietà.\r\nVisita delle cantine, della distilleria e del vigneto.\r\nDegustazioni gratuite dal lunedì al venerdì dalle 8.00 alle 12.00 e dalle 14.00 alle 18.00 e il sabato su appuntamento"
+        ],
+        "fr": [
+          "Vente à la propriété de cognac, pineau des Charentes, vin de pays et jus de raisin.\r\nVisite des chais, de la distillerie, du vignoble.\r\nDégustations gratuites du lundi au vendredi de 8h à 12h et de 14h à 18h et samedi sur rendez-vous"
+        ],
+        "nl": [
+          "Verkoop van cognac, pineau des Charentes, lokale wijn en druivensap op het domein.\r\nBezoek aan de kelders, de distilleerderij en de wijngaard.\r\nGratis proeverijen van maandag tot vrijdag van 8 tot 12 uur en van 14 tot 18 uur en zaterdag op afspraak"
+        ],
+        "es": [
+          "Venta de coñac, pineau des Charentes, vino local y zumo de uva en la propiedad.\r\nVisita de las bodegas, la destilería y el viñedo.\r\nDegustaciones gratuitas de lunes a viernes de 8 a 12 y de 14 a 18 horas y los sábados con cita previa"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/83cf17a2-1db1-31b7-a2d6-9e07c54730f8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/896d6a1b-4669-3220-b881-ef28e9f61e16",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/90e07838-743b-3ec9-82ee-66991f97262f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fc1d5c69-7f26-3bc2-9ebe-c0c7da298178",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fe127752-1c59-3e68-964e-00a3bb073dae",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b51e9125-963b-3aee-ade9-21ae2642b593",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/431f1a01-459a-3dd7-a558-3c6e2a706424",
+          "schema:addressLocality": "Saint-Germain-de-Lusignan",
+          "schema:postalCode": "17500",
+          "schema:streetAddress": [
+            "10 chez Renaudin"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17339",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Germain-de-Lusignan"
+              ],
+              "pt": [
+                "Saint-Germain-de-Lusignan"
+              ],
+              "en": [
+                "Saint-Germain-de-Lusignan"
+              ],
+              "it": [
+                "Saint-Germain-de-Lusignan"
+              ],
+              "fr": [
+                "Saint-Germain-de-Lusignan"
+              ],
+              "nl": [
+                "Saint-Germain-de-Lusignan"
+              ],
+              "es": [
+                "Saint-Germain-de-Lusignan"
+              ]
+            },
+            "insee": "17339",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/841f3b08-c35c-3dde-8602-ba696b9e7904",
+        "schema:latitude": "45.456826",
+        "schema:longitude": "-0.412614",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-01",
+  "lastUpdateDatatourisme": "2023-06-02T05:50:19.276Z"
+}

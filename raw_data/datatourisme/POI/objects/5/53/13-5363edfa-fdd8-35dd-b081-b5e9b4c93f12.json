@@ -1,0 +1,548 @@
+{
+  "@id": "https://data.datatourisme.fr/13/5363edfa-fdd8-35dd-b081-b5e9b4c93f12",
+  "dc:identifier": "5708717",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das Museum zeigt eine Fischerei, die auf uralte Traditionen zurückgeht und deren Prinzip es ist, den Fisch mit allerlei passiven Tricks, die im Wasser ausgelegt werden, in die Falle zu locken."
+    ],
+    "en": [
+      "The museum presents a fishing, heir to ancestral traditions, which has as a principle to trap the fish by all sorts of passive stratagems put in the water."
+    ],
+    "it": [
+      "Il museo presenta una forma di pesca che affonda le sue origini in antiche tradizioni e si basa sul principio di catturare i pesci in una trappola utilizzando ogni tipo di strategia passiva."
+    ],
+    "fr": [
+      "Le musée présente une pêche, héritière de traditions ancestrales, qui a pour principe de prendre le poisson au piège par toutes sortes de stratagèmes passifs mis au fil de l’eau."
+    ],
+    "nl": [
+      "Het museum presenteert een vorm van visserij die zijn oorsprong vindt in oude tradities en gebaseerd is op het principe van het vangen van vis in een fuik met behulp van allerlei passieve strategieën."
+    ],
+    "es": [
+      "El museo presenta una forma de pesca que tiene sus orígenes en antiguas tradiciones y se basa en el principio de capturar peces en una trampa utilizando todo tipo de estrategias pasivas."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Fishing Museum"
+    ],
+    "fr": [
+      "Musée de la pêche aux lignes et aux engins"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f8c0c968-6328-35cd-9333-08b1a494967f",
+    "dc:identifier": "2060",
+    "schema:email": [
+      "a.tonin@saintes-tourisme.fr",
+      "f.herbec@saintes-tourisme.fr",
+      "l.conan@saintes-tourisme.fr"
+    ],
+    "schema:legalName": "Office de Tourisme de Saintes & la Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.saintes-tourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/d7405135-b89c-35f0-ba46-b610ef8da0b5",
+      "schema:email": [
+        "jpf.girard@wanadoo.fr"
+      ],
+      "schema:telephone": [
+        "+33 6 08 82 00 49"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/92e95379-ed7a-3616-b74b-7d8fa2d9c0c0",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/487b0104-2cdd-3605-9b03-b2b05002eaae",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7844ef21-04b9-3003-9faf-4cd4790eb086",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bc05d89c-c94c-33af-afb5-6d9330aaac99",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/edcba560-8668-3354-84bc-1eb4f1a7a9af",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fe7a8282-f03f-3dd3-946a-670c82543ddb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das Museum zeigt eine Fischerei, die auf uralte Traditionen zurückgeht und deren Prinzip es ist, den Fisch mit allerlei passiven Tricks, die im Wasser ausgelegt werden, in die Falle zu locken."
+        ],
+        "en": [
+          "The museum presents a fishing, heir to ancestral traditions, which has as a principle to trap the fish by all sorts of passive stratagems put in the water."
+        ],
+        "it": [
+          "Il museo presenta una forma di pesca che affonda le sue origini in antiche tradizioni e si basa sul principio di catturare i pesci in una trappola utilizzando ogni tipo di strategia passiva."
+        ],
+        "fr": [
+          "Le musée présente une pêche, héritière de traditions ancestrales, qui a pour principe de prendre le poisson au piège par toutes sortes de stratagèmes passifs mis au fil de l’eau."
+        ],
+        "nl": [
+          "Het museum presenteert een vorm van visserij die zijn oorsprong vindt in oude tradities en gebaseerd is op het principe van het vangen van vis in een fuik met behulp van allerlei passieve strategieën."
+        ],
+        "es": [
+          "El museo presenta una forma de pesca que tiene sus orígenes en antiguas tradiciones y se basa en el principio de capturar peces en una trampa utilizando todo tipo de estrategias pasivas."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/29649bec-1ec7-33db-8af1-02cf250a4d47",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3dcc8f07-c04b-38f2-be08-1d76d2d9fb28",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4ea57f92-9a4c-394b-9163-3863a9df84f1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b25fbb35-f60e-3fe6-a488-c1ed9b522ea7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ecfb4cc2-9b46-366d-862a-a25ee3e3ada1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/053540a8-e446-39fe-ab84-afa78adcacd4",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/ae92f002-e010-35bb-9172-d1d0dbf69c4f",
+          "schema:addressLocality": "Chaniers",
+          "schema:postalCode": "17610",
+          "schema:streetAddress": [
+            "Maison éclusière de la Baine"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17086",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Chaniers"
+              ],
+              "pt": [
+                "Chaniers"
+              ],
+              "en": [
+                "Chaniers"
+              ],
+              "it": [
+                "Chaniers"
+              ],
+              "fr": [
+                "Chaniers"
+              ],
+              "nl": [
+                "Chaniers"
+              ],
+              "es": [
+                "Chaniers"
+              ]
+            },
+            "insee": "17086",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/cf3a9d2e-07e5-3268-9b0c-74ad30bfd33b",
+        "schema:latitude": "45.71303",
+        "schema:longitude": "-0.5504",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3f7235ef-5c20-3ed2-8d27-2be5cb1fc75e",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-09-16T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Dienstag, Donnerstag, Samstag: offen\n\nFür Gruppen nach Vereinbarung."
+            ],
+            "en": [
+              "Tuesday, Thursday, Saturday: open\n\nFor groups, by appointment."
+            ],
+            "it": [
+              "Martedì, giovedì, sabato: aperto\n\nPer i gruppi, su appuntamento."
+            ],
+            "fr": [
+              "Mardi, Jeudi, Samedi : ouvert\n\nPour les groupes, sur rendez-vous."
+            ],
+            "es": [
+              "Martes, jueves y sábado: abierto\n\nPara grupos, con cita previa."
+            ],
+            "nl": [
+              "Dinsdag, donderdag, zaterdag: open\n\nVoor groepen, op afspraak."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/00f3dad6-b426-321d-b308-a139e9abda2a",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/14e19996-3a68-32f1-83f1-90f311f18a52",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/7cad8265-28c2-395b-a87e-916f1e284a93",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/95516fc8-e13a-3928-8f26-f0be91516a13",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/9f1505cf-786b-3ec1-a765-de987084e693",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/6788b742-800e-3e07-a704-c6181e0a8dd1",
+      "schema:email": [
+        "a.tonin@saintes-tourisme.fr",
+        "f.herbec@saintes-tourisme.fr",
+        "l.conan@saintes-tourisme.fr"
+      ],
+      "schema:legalName": "Office de Tourisme de Saintes & la Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.saintes-tourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-02-13",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.905Z"
+}

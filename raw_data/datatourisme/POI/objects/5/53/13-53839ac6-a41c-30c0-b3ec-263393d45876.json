@@ -1,0 +1,243 @@
+{
+  "@id": "https://data.datatourisme.fr/13/53839ac6-a41c-30c0-b3ec-263393d45876",
+  "dc:identifier": "5736498",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Bibliothèque"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/cbef4632-1026-3840-8bc3-216d4774c8a9",
+    "dc:identifier": "2075",
+    "schema:email": [
+      "a.ponchon@charentestourisme.com"
+    ],
+    "schema:legalName": "Destination Vals de Saintonge / Charentes Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.destinationvalsdesaintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/bc26243e-eba8-3117-ab9a-57019a85e4c6",
+      "schema:telephone": [
+        "+33 5 46 90 25 26"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/727e89a8-8010-37f3-bcdc-35b2731bbd71",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/5ccee597-ea7a-3c66-baf7-700b973a5acd",
+          "schema:addressLocality": "Archingeay",
+          "schema:postalCode": "17380",
+          "schema:streetAddress": [
+            "1 rue des écoles"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17017",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Archingeay"
+              ],
+              "pt": [
+                "Archingeay"
+              ],
+              "en": [
+                "Archingeay"
+              ],
+              "it": [
+                "Archingeay"
+              ],
+              "fr": [
+                "Archingeay"
+              ],
+              "nl": [
+                "Archingeay"
+              ],
+              "es": [
+                "Archingeay"
+              ]
+            },
+            "insee": "17017",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/bb350ae5-2a0a-3b41-9faf-114e2f07445a",
+        "schema:latitude": "45.92941",
+        "schema:longitude": "-0.707021",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/4fa9e2c8-cea7-3399-9f62-28ebcff26450",
+      "schema:email": [
+        "a.ponchon@charentestourisme.com"
+      ],
+      "schema:legalName": "Destination Vals de Saintonge / Charentes Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.destinationvalsdesaintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-03-09",
+  "lastUpdateDatatourisme": "2023-05-26T05:53:38.336Z"
+}

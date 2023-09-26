@@ -1,0 +1,556 @@
+{
+  "@id": "https://data.datatourisme.fr/13/5dba0085-4129-3e1a-8cc8-30bcfac34b39",
+  "dc:identifier": "6588684",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "kirche eines kleinen Dorfes in den Vals de Saintonge."
+    ],
+    "en": [
+      "church of a small village in the Vals de Saintonge region."
+    ],
+    "it": [
+      "chiesa di un piccolo villaggio della Vals de Saintonge."
+    ],
+    "fr": [
+      "église d'un  petit village des Vals de Saintonge."
+    ],
+    "nl": [
+      "kerk van een klein dorp in de Vals de Saintonge."
+    ],
+    "es": [
+      "iglesia de un pequeño pueblo de los Vals de Saintonge."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "église - Bercloux"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q38389192"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/cbef4632-1026-3840-8bc3-216d4774c8a9",
+    "dc:identifier": "2075",
+    "schema:email": [
+      "a.ponchon@charentestourisme.com"
+    ],
+    "schema:legalName": "Destination Vals de Saintonge / Charentes Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.destinationvalsdesaintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/1f6d1fc9-5c46-36b4-9cb9-7da780a0b1b6",
+      "schema:email": [
+        "mairie@bercloux17770.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 95 97 69"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/70dd2642-53c9-36cc-88c9-0a83be945aa0",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1974ad49-864b-309f-b6ab-62c769857a86",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a09bd9cf-db00-3457-8ced-2ce6dec67422",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b5d512d7-447d-34fe-b730-5d3fd4b13458",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d137bd2a-fc53-36d0-84e4-49c1a317fb91",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e53daeae-6b84-33cf-ac3c-372080f2bf45",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "kirche eines kleinen Dorfes in den Vals de Saintonge."
+        ],
+        "en": [
+          "church of a small village in the Vals de Saintonge region."
+        ],
+        "it": [
+          "chiesa di un piccolo villaggio della Vals de Saintonge."
+        ],
+        "fr": [
+          "église d'un  petit village des Vals de Saintonge."
+        ],
+        "nl": [
+          "kerk van een klein dorp in de Vals de Saintonge."
+        ],
+        "es": [
+          "iglesia de un pequeño pueblo de los Vals de Saintonge."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/cf6cfa1d-e25e-37a8-92f8-b536c3619a2e",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/f517767e-74f8-33eb-9e2f-d9365b2df2d9",
+          "ebucore:isCoveredBy": "CC BY-SA 4.0",
+          "ebucore:title": {
+            "fr": [
+              "Eglise Assomption Bercloux"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "De Jaucourt (https://commons.wikimedia.org/wiki/User:De_Jaucourt)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/3e0db2ce-1065-3f74-adae-c5e5f43eb0ef",
+          "ebucore:fileSize": [
+            99062
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 600,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/9/9b/Eglise_Assomption_Bercloux.JPG"
+          ],
+          "ebucore:width": 800,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/36063c67-dddb-3ace-8b4c-8a5c7fe8cb01",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/42bd5561-9794-3d43-8853-ac8a1b1dd68d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4795d539-d67b-398d-b7cc-fc855b118326",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cac63298-7d03-3fdf-aeac-a577c22114b6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e06f1962-f294-312a-8fb7-33a456b197a8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0f18d0fb-aa7b-366f-9a7f-b763e59dd514",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/734c224f-954a-371b-9507-fe3ff2b6f715",
+          "schema:addressLocality": "Bercloux",
+          "schema:postalCode": "17770",
+          "schema:streetAddress": [
+            "Rue de la Mairie"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17042",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Bercloux"
+              ],
+              "pt": [
+                "Bercloux"
+              ],
+              "en": [
+                "Bercloux"
+              ],
+              "it": [
+                "Bercloux"
+              ],
+              "fr": [
+                "Bercloux"
+              ],
+              "nl": [
+                "Bercloux"
+              ],
+              "es": [
+                "Bercloux"
+              ]
+            },
+            "insee": "17042",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/f8c91d77-cb04-34ea-b35c-2866851acc5f",
+        "schema:latitude": "45.835264",
+        "schema:longitude": "-0.472155",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/4fa9e2c8-cea7-3399-9f62-28ebcff26450",
+      "schema:email": [
+        "a.ponchon@charentestourisme.com"
+      ],
+      "schema:legalName": "Destination Vals de Saintonge / Charentes Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.destinationvalsdesaintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-30",
+  "lastUpdateDatatourisme": "2023-07-01T05:49:48.683Z"
+}

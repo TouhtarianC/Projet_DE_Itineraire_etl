@@ -1,0 +1,539 @@
+{
+  "@id": "https://data.datatourisme.fr/13/5eb8f301-2a9e-3904-bdca-5af26b4b7fa7",
+  "dc:identifier": "5697533",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Tauchen Sie ein in die Atmosphäre vergangener Zeiten (Ende des 19. und Anfang des 20. Jahrhunderts) und machen Sie sich mit dem Alltag in 7 Themenräumen vertraut: Handwerk, Landwirtschaft, Weinkeller, Raum des gemeinsamen Lebens, Klassenzimmer, Schmiede und Kneipe."
+    ],
+    "en": [
+      "Come and immerse yourself in the atmosphere of the past (late 19th and early 20th century) and familiarise yourself with its daily life through 7 themed rooms: handicrafts, agriculture, winery, common room, classroom, smithy and bistro."
+    ],
+    "it": [
+      "Venite a immergervi nell'atmosfera di un tempo (fine XIX e inizio XX secolo) e a familiarizzare con la sua vita quotidiana attraverso 7 sale tematiche: artigianato, agricoltura, cantina, sala comune, aula, fucina e bistrot."
+    ],
+    "fr": [
+      "Venez vous plonger dans l'ambiance d'autrefois (fin XIXème siècle et début XXème) et vous familiariser avec son quotidien à travers 7 salles à thèmes : artisanat, agriculture, chai, salle de la vie commune, salle de classe, forge et bistro."
+    ],
+    "es": [
+      "Venga a sumergirse en el ambiente de antaño (finales del siglo XIX y principios del XX) y familiarícese con su vida cotidiana a través de 7 salas temáticas: artesanía, agricultura, bodega, sala común, aula, fragua y bistró."
+    ],
+    "nl": [
+      "Dompel u onder in de sfeer van weleer (eind 19e, begin 20e eeuw) en maak kennis met het dagelijkse leven in 7 thematische zalen: ambachten, landbouw, kelder, gemeenschappelijke ruimte, klaslokaal, smederij en bistro."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Handicraft and Rural Museum"
+    ],
+    "fr": [
+      "Musée Artisanal et Rural de Clion"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/60b3d4dd-fc24-35f8-be95-38a86b7bfd59",
+      "schema:email": [
+        "clion.musee@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 5 46 70 47 03",
+        "+33 7 69 83 41 24"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.museeartisanaletruralclion.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/d20846e2-15a3-3a92-951a-cc5800cb6207",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/37adcf31-612b-3614-9a3f-fca91a8c1f44",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5c728d1d-721e-36f1-a279-abac917f8e98",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7364925e-db9a-3850-96ed-9f73574d4cff",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8e8c663f-6347-3eb6-8497-effc50d0f073",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Tauchen Sie ein in die Atmosphäre vergangener Zeiten (Ende des 19. und Anfang des 20. Jahrhunderts) und machen Sie sich mit dem Alltag in 7 Themenräumen vertraut: Handwerk, Landwirtschaft, Weinkeller, Raum des gemeinsamen Lebens, Klassenzimmer, Schmiede und Kneipe."
+        ],
+        "en": [
+          "Come and immerse yourself in the atmosphere of the past (late 19th and early 20th century) and familiarise yourself with its daily life through 7 themed rooms: handicrafts, agriculture, winery, common room, classroom, smithy and bistro."
+        ],
+        "it": [
+          "Venite a immergervi nell'atmosfera di un tempo (fine XIX e inizio XX secolo) e a familiarizzare con la sua vita quotidiana attraverso 7 sale tematiche: artigianato, agricoltura, cantina, sala comune, aula, fucina e bistrot."
+        ],
+        "fr": [
+          "Venez vous plonger dans l'ambiance d'autrefois (fin XIXème siècle et début XXème) et vous familiariser avec son quotidien à travers 7 salles à thèmes : artisanat, agriculture, chai, salle de la vie commune, salle de classe, forge et bistro."
+        ],
+        "es": [
+          "Venga a sumergirse en el ambiente de antaño (finales del siglo XIX y principios del XX) y familiarícese con su vida cotidiana a través de 7 salas temáticas: artesanía, agricultura, bodega, sala común, aula, fragua y bistró."
+        ],
+        "nl": [
+          "Dompel u onder in de sfeer van weleer (eind 19e, begin 20e eeuw) en maak kennis met het dagelijkse leven in 7 thematische zalen: ambachten, landbouw, kelder, gemeenschappelijke ruimte, klaslokaal, smederij en bistro."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/11fdfed9-41bb-300f-9a11-816322e34db2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/855fe269-a6bd-3cac-9aa0-7c992919dea4",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a75ab537-88c8-3b32-b468-a9b95a34b7a8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c9ce2498-2b0e-36db-b53f-0aacbb113f6b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/00e4a448-ba1e-32bb-accf-99427719b7d0",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/f2250599-6b34-3986-a67f-42ec8063d2dd",
+          "schema:addressLocality": "Clion",
+          "schema:postalCode": "17240",
+          "schema:streetAddress": [
+            "Musée artisanal et rural",
+            "Parc de l'ancien Presbytère"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17111",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Clion"
+              ],
+              "pt": [
+                "Clion"
+              ],
+              "en": [
+                "Clion"
+              ],
+              "it": [
+                "Clion"
+              ],
+              "fr": [
+                "Clion"
+              ],
+              "nl": [
+                "Clion"
+              ],
+              "es": [
+                "Clion"
+              ]
+            },
+            "insee": "17111",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/f79e8cdd-324c-3a3c-879c-a81bf082aead",
+        "schema:latitude": "45.479782",
+        "schema:longitude": "-0.50054",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/06320e5c-9938-3c1d-a747-2a00ae104b66",
+          "schema:closes": "18:30:00",
+          "schema:opens": "14:30:00",
+          "schema:validFrom": "2023-06-01T00:00:00",
+          "schema:validThrough": "2023-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Für Gruppen (mindestens 10 Personen) von März bis Oktober nur mit Reservierung geöffnet."
+            ],
+            "en": [
+              "Open for groups (minimum 10 people) from March to October only on reservation."
+            ],
+            "it": [
+              "Aperto per gruppi (minimo 10 persone) da marzo a ottobre solo su prenotazione."
+            ],
+            "fr": [
+              "Ouvert pour les groupes (minimum 10 personnes) de mars à octobre uniquement sur réservation."
+            ],
+            "nl": [
+              "Open voor groepen (minimaal 10 personen) van maart tot oktober alleen op reservering."
+            ],
+            "es": [
+              "Abierto para grupos (mínimo 10 personas) de marzo a octubre sólo previa reserva."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/16335446-ceeb-3ece-ac00-894a5d3c95e0",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/27d7e379-640e-322e-b800-b78f5344c6dc",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/34def1e7-354a-31c3-bdb6-4af41d527b43",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/b5754c21-c408-3b49-b528-4c599b7aeb8f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d2829dc8-7492-303d-8ec0-f20bb59aa92f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/83119aae-fade-3788-9a33-e54383f018e8",
+          "schema:closes": "17:30:00",
+          "schema:opens": "14:30:00",
+          "schema:validFrom": "2023-04-18T00:00:00",
+          "schema:validThrough": "2023-05-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-21",
+  "lastUpdateDatatourisme": "2023-06-22T05:53:28.802Z"
+}

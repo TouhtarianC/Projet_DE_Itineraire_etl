@@ -1,0 +1,546 @@
+{
+  "@id": "https://data.datatourisme.fr/13/b7819715-d051-373f-bea6-06a5965c5fcd",
+  "dc:identifier": "5706221",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Szenografie über den Baum und den Wald in Haute-Saintonge"
+    ],
+    "en": [
+      "Scenography on the tree and the forest of Haute-Saintonge"
+    ],
+    "it": [
+      "Scenografia sull'albero e la foresta della Haute-Saintonge"
+    ],
+    "fr": [
+      "Scénographie sur l'arbre et la forêt de Haute-Saintonge"
+    ],
+    "nl": [
+      "Scenografie over de boom en het bos van Haute-Saintonge"
+    ],
+    "es": [
+      "Escenografía sobre el árbol y el bosque de Haute-Saintonge"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Scénographie Maison de la Forêt"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/169779d3-852b-32ce-8b1a-1724dbf5217d",
+    "dc:identifier": "2178",
+    "schema:email": [
+      "audrey.tapiero@charente-maritime.fr",
+      "ocilia.iturrart@charente-maritime.fr"
+    ],
+    "schema:legalName": "Echappées Nature / Département de la Charente-Maritime",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.charente-maritime.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/11b35978-de23-3600-b0eb-7c7d60130ac4",
+      "schema:email": [
+        "maisondelaforet@haute-saintonge.org"
+      ],
+      "schema:telephone": [
+        "+33 5 46 04 43 67"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.maisondelaforet.org/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/cd993a40-ec58-3e61-a43e-9b46b97751d3",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0482415c-60de-3aaf-b76c-40189756675b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/11075621-d490-3850-a033-2a40dfac5faf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c5d0c85b-49bd-3446-85b5-fbc3148d6d09",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ec1f15d9-138d-34dd-9bb7-275b64556833",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fea46c7d-0daf-3533-b1f7-c426db32dbbb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Szenografie über den Baum und den Wald in Haute-Saintonge"
+        ],
+        "en": [
+          "Scenography on the tree and the forest of Haute-Saintonge"
+        ],
+        "it": [
+          "Scenografia sull'albero e la foresta della Haute-Saintonge"
+        ],
+        "fr": [
+          "Scénographie sur l'arbre et la forêt de Haute-Saintonge"
+        ],
+        "nl": [
+          "Scenografie over de boom en het bos van Haute-Saintonge"
+        ],
+        "es": [
+          "Escenografía sobre el árbol y el bosque de Haute-Saintonge"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/067164a5-9b1c-3bed-93ab-184a11e4c99d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/0a1e02cc-d0fa-3817-8625-ed0f907aac4e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6a81b1a2-6fd9-3905-8d95-b4bc22ae5a2c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7d53932b-e970-3670-bea4-15ddb462b722",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8d97634c-2310-36d9-927b-fb25a3f5e7e1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/eae3a448-f93d-3add-adbc-700579b40f90",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/29fc2e4e-f832-3488-89f3-1d288c99ca21",
+          "schema:addressLocality": "Montlieu-la-Garde",
+          "schema:postalCode": "17210",
+          "schema:streetAddress": [
+            "tout vent"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17243",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Montlieu-la-Garde"
+              ],
+              "pt": [
+                "Montlieu-la-Garde"
+              ],
+              "en": [
+                "Montlieu-la-Garde"
+              ],
+              "it": [
+                "Montlieu-la-Garde"
+              ],
+              "fr": [
+                "Montlieu-la-Garde"
+              ],
+              "nl": [
+                "Montlieu-la-Garde"
+              ],
+              "es": [
+                "Montlieu-la-Garde"
+              ]
+            },
+            "insee": "17243",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/bd3ba183-8348-3cca-8cf4-c56ef86fcba7",
+        "schema:latitude": "45.243855",
+        "schema:longitude": "-0.272953",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/e9de22f6-8114-3350-a1db-56dcba101ea5",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Gemäß den Öffnungszeiten des Maison de la forêt, einem Standort von Échappées Nature"
+            ],
+            "en": [
+              "According to the opening hours of the Maison de la forêt, a site of the Échappées Nature"
+            ],
+            "it": [
+              "Secondo gli orari di apertura della Maison de la forêt, un sito del Parco Naturale di Échappées, il museo è stato aperto per la prima volta"
+            ],
+            "fr": [
+              "Selon les horaires d'ouverture de la Maison de la forêt, un site des Échappées Nature"
+            ],
+            "nl": [
+              "Volgens de openingstijden van het Maison de la forêt, een site van de Échappées Nature"
+            ],
+            "es": [
+              "Según los horarios de apertura de la Maison de la forêt, sitio de la Naturaleza de Échappées"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/066cf05e-1edc-32ea-9a75-a48aef8fbf45",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/12c12d30-aa95-3cbc-9972-b91c52762c8b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/8682bbb3-b449-3dc0-a755-0e6f3ec98196",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/8cf90cf1-89f6-376a-a0b4-e7f1791237c0",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ea087a78-c25e-3a85-aa67-457881a7e527",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b423eca3-3f21-3e47-9e34-3054bd401857",
+      "schema:email": [
+        "audrey.tapiero@charente-maritime.fr",
+        "ocilia.iturrart@charente-maritime.fr"
+      ],
+      "schema:legalName": "Echappées Nature / Département de la Charente-Maritime",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.charente-maritime.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-05-16",
+  "lastUpdateDatatourisme": "2023-05-17T05:49:33.803Z"
+}

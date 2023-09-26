@@ -1,0 +1,546 @@
+{
+  "@id": "https://data.datatourisme.fr/13/12b20c3a-5112-35b3-acdd-76934acc127e",
+  "dc:identifier": "6316539",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "La Tonnellerie, ist heute ein Ort, an dem Ausstellungen zeitgenössischer Künstler stattfinden."
+    ],
+    "en": [
+      "La Tonnellerie, is today a place for exhibitions of contemporary artists."
+    ],
+    "it": [
+      "La Tonnellerie è oggi sede di mostre di artisti contemporanei."
+    ],
+    "fr": [
+      "La Tonnellerie, est aujourd'hui un lieu d'accueil d'expositions d'artistes contemporains."
+    ],
+    "nl": [
+      "La Tonnellerie is nu een locatie voor tentoonstellingen van hedendaagse kunstenaars."
+    ],
+    "es": [
+      "La Tonnellerie acoge actualmente exposiciones de artistas contemporáneos."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Tonnellerie"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/f492fe86-0677-3749-b00d-68f8e793968e",
+      "schema:email": [
+        "contact.brouage@charente-maritime.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 85 80 60"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.brouage.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/be8de9e6-5dba-31f3-bbd5-a3e6e307a9bc",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/560d6c2a-8e9a-325b-ac60-b47fc5c73845",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5da07251-0d85-32ca-9dd1-b684f8f1db62",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/746eb53d-01cd-3cdd-96b1-4e81016e7898",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a0de8ee0-b5b6-3666-81ff-bda9d74862e7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cab970d8-c151-3c82-9a86-b72e47be41e8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "La Tonnellerie, ist heute ein Ort, an dem Ausstellungen zeitgenössischer Künstler stattfinden."
+        ],
+        "en": [
+          "La Tonnellerie, is today a place for exhibitions of contemporary artists."
+        ],
+        "it": [
+          "La Tonnellerie è oggi sede di mostre di artisti contemporanei."
+        ],
+        "fr": [
+          "La Tonnellerie, est aujourd'hui un lieu d'accueil d'expositions d'artistes contemporains."
+        ],
+        "nl": [
+          "La Tonnellerie is nu een locatie voor tentoonstellingen van hedendaagse kunstenaars."
+        ],
+        "es": [
+          "La Tonnellerie acoge actualmente exposiciones de artistas contemporáneos."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/07954659-b88f-37da-a869-db9eb9ae819b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/08252695-850d-3a1f-ac08-343717fc844a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b880f902-86bc-3f30-b37e-3572251a7cc7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cc0db551-cb02-3a84-b8f4-40b014f2cc79",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ebc68d9a-0fdd-3165-8758-2beef701057d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/3708c7c7-eae4-3f49-ba59-d610a0b5dad1",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/907210da-bc2e-32c4-a11a-90838f4151b6",
+          "schema:addressLocality": "Marennes-Hiers-Brouage",
+          "schema:postalCode": "17320",
+          "schema:streetAddress": [
+            "1 Rue du Port",
+            "Brouage"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17219",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "pt": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "en": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "it": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "fr": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "nl": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "es": [
+                "Marennes-Hiers-Brouage"
+              ]
+            },
+            "insee": "17219",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/51e9975c-35ba-3043-9b56-738292aa8542",
+        "schema:latitude": "45.866926",
+        "schema:longitude": "-1.067655",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/4aa48fc3-6a7b-3677-995b-e74de43f127b",
+          "schema:validFrom": "2023-04-08T00:00:00",
+          "schema:validThrough": "2023-10-29T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag: offen"
+            ],
+            "en": [
+              "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday: open"
+            ],
+            "it": [
+              "Lunedì, martedì, mercoledì, giovedì, venerdì, sabato, domenica: aperto"
+            ],
+            "fr": [
+              "Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi, Dimanche : ouvert"
+            ],
+            "nl": [
+              "Maandag, dinsdag, woensdag, donderdag, vrijdag, zaterdag, zondag: open"
+            ],
+            "es": [
+              "Lunes, martes, miércoles, jueves, viernes, sábado y domingo: abierto"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/1f7dc883-96ad-3942-9c2a-626e636ef07f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/62705a26-fa65-3a65-8469-1e5bea3f67ef",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c7b932e8-7abd-3713-a859-47ac0c9cf271",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d5c33012-1b9a-3bd8-88b0-8275efcc80f9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/dffefd2c-d524-3e1d-80d7-5c1981b02ecc",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/d7f018c3-c1ab-31f8-8901-4d29578edb89",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ile-oleron-marennes.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-04-28",
+  "lastUpdateDatatourisme": "2023-04-29T05:39:58.299Z"
+}

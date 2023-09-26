@@ -1,0 +1,726 @@
+{
+  "@id": "https://data.datatourisme.fr/13/9e143eb8-99b5-38ba-b7a9-e0ee2d8201d4",
+  "dc:identifier": "5709414",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Offen für alle"
+    ],
+    "en": [
+      "Open to all"
+    ],
+    "it": [
+      "Aperto a tutti"
+    ],
+    "fr": [
+      "Ouverte à tous"
+    ],
+    "nl": [
+      "Open voor iedereen"
+    ],
+    "es": [
+      "Abierto a todos"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Bibliothèque"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/b038448d-d46f-30a1-9940-3a4d9b332746",
+      "schema:email": [
+        "mairie@labree.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 47 83 11"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b2f933a1-fb85-3e74-85a4-fc3f11e4fd1e",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/445bc0fb-65b1-3e8f-b1bf-facb17439b6d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/954d10c1-92ad-3a1a-89f2-e1e21ddd8f4b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d6174672-3d8b-3446-91f2-f4e28deaa462",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dad72fba-b0e4-32ab-8bf1-7b5314653a4f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e0d5a5a4-3944-330c-a450-f35e20aaf73b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Offen für alle"
+        ],
+        "en": [
+          "Open to all"
+        ],
+        "it": [
+          "Aperto a tutti"
+        ],
+        "fr": [
+          "Ouverte à tous"
+        ],
+        "nl": [
+          "Open voor iedereen"
+        ],
+        "es": [
+          "Abierto a todos"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0a230ffb-ed0b-3d30-9eca-472daf51b532",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/31f6b08d-bf32-3554-8d41-0eb998e80820",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3e92ac7d-c77c-3b98-9570-ae954d9e154f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/968c9ded-8434-3d1d-b858-ac6710fa5eb0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a44eb996-b285-30e2-8c4c-cac16c0959bb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/56762d73-7e43-3f90-98d2-cf685640406f",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/a2babd31-50e4-3ec0-a3a3-c4c3a52f3bf5",
+          "schema:addressLocality": "La Brée-les-Bains",
+          "schema:postalCode": "17840",
+          "schema:streetAddress": [
+            "20 Rue des Ardillères"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17486",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "La Brée-les-Bains"
+              ],
+              "pt": [
+                "La Brée-les-Bains"
+              ],
+              "en": [
+                "La Brée-les-Bains"
+              ],
+              "it": [
+                "La Brée-les-Bains"
+              ],
+              "fr": [
+                "La Brée-les-Bains"
+              ],
+              "nl": [
+                "La Brée-les-Bains"
+              ],
+              "es": [
+                "La Brée-les-Bains"
+              ]
+            },
+            "insee": "17486",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/16e4dcae-3113-33d5-a814-b630d13a8cc3",
+        "schema:latitude": "46.013573",
+        "schema:longitude": "-1.353626",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/18ef86d7-5352-3242-9de7-9b7da45997a3",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-06-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Mittwoch: offen"
+            ],
+            "en": [
+              "Wednesday: open"
+            ],
+            "it": [
+              "Mercoledì: aperto"
+            ],
+            "fr": [
+              "Mercredi : ouvert"
+            ],
+            "nl": [
+              "Woensdag: open"
+            ],
+            "es": [
+              "Miércoles: abierto"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/6f9fc192-4093-38b8-9ff5-7c9bd501ce5b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/77145a01-dfe0-3b62-89e0-615014ea2866",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a6632c43-a733-347e-9744-1c42399650ed",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a73c226d-df9d-3fab-b348-a8af1ddc46a1",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f3aed5ac-7455-33de-93d7-acec5368f9e5",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9d48b3db-b4cb-3f74-9090-15b6fc3d9691",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Dienstag, Mittwoch, Donnerstag, Freitag, Samstag: offen"
+            ],
+            "en": [
+              "Tuesday, Wednesday, Thursday, Friday, Saturday: open"
+            ],
+            "it": [
+              "Martedì, mercoledì, giovedì, venerdì, sabato: aperto"
+            ],
+            "fr": [
+              "Mardi, Mercredi, Jeudi, Vendredi, Samedi : ouvert"
+            ],
+            "es": [
+              "Martes, miércoles, jueves, viernes y sábado: abierto"
+            ],
+            "nl": [
+              "Dinsdag, woensdag, donderdag, vrijdag, zaterdag: open"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/151ea614-a342-366e-b009-fdc05d08adfb",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/4a51f0e1-33ea-37e1-b2e4-486bfb3bf711",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/9cbf31dd-b8d1-352d-ba79-1187e9bd0634",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d4705583-dd1f-3ea0-a42f-e1acacc6ff1f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/eaac3fb9-3a84-398f-b8bc-cfbbb731385b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9ef79900-a1dd-3d67-96ba-08e434d44a35",
+          "schema:validFrom": "2023-09-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Mittwoch: offen"
+            ],
+            "en": [
+              "Wednesday: open"
+            ],
+            "it": [
+              "Mercoledì: aperto"
+            ],
+            "fr": [
+              "Mercredi : ouvert"
+            ],
+            "nl": [
+              "Woensdag: open"
+            ],
+            "es": [
+              "Miércoles: abierto"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/18f0c53e-57dc-35c8-8e5a-170e82c47d80",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a3ac2243-ba83-3375-8ea7-ab12d9204088",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c4736e66-6af0-30c6-91bd-c22c3dbcb798",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d230fc17-17d9-3e65-bc26-960a29881aef",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f6c9c3ef-2420-3997-9bff-f670ee98bb08",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/80009736-71af-3484-9792-2b3de63306d1",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-19",
+  "lastUpdateDatatourisme": "2023-07-20T05:54:46.166Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/a3a8c741-0172-3d11-8b7a-ee3209f0c4f1",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/728131d4-c844-370e-9ddf-c54cc7a5a361",
+          "schema:maxPrice": [
+            "10"
+          ],
+          "schema:minPrice": [
+            "10"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

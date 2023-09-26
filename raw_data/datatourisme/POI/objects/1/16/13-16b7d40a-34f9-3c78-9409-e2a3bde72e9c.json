@@ -1,0 +1,542 @@
+{
+  "@id": "https://data.datatourisme.fr/13/16b7d40a-34f9-3c78-9409-e2a3bde72e9c",
+  "dc:identifier": "5696889",
+  "@type": [
+    "Castle",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RemarkableBuilding"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "In der Verlängerung des Place de Verdun befindet sich das Schloss Fournier. Mit seinem märchenhaften Aussehen wurde es 1877 erbaut."
+    ],
+    "en": [
+      "In the extension of the Place de Verdun, is the Château Fournier. It looks like a fairy tale and was built in 1877."
+    ],
+    "it": [
+      "Nel prolungamento di Place de Verdun si trova lo Château Fournier. È stato costruito nel 1877 e sembra una favola."
+    ],
+    "fr": [
+      "Dans le prolongement de la place de Verdun, se trouve le château Fournier. Aux allures de conte de fées, il a été construit en 1877."
+    ],
+    "nl": [
+      "In het verlengde van de Place de Verdun ligt het Château Fournier. Het is gebouwd in 1877 en ziet eruit als een sprookje."
+    ],
+    "es": [
+      "En la prolongación de la plaza de Verdún, se encuentra el castillo Fournier. Se construyó en 1877 y parece un cuento de hadas."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Château Fournier"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q104226449"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/cabb5d14-d9a3-33bc-bbf6-8b89cb13be90",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/27e1b783-8d5f-3b1c-a432-ad77b81846df",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6844dc9e-7c76-396b-850a-619f6616ccb3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8324a6b3-ecd3-3df6-943c-19890be3a8ef",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b9a99cd7-cc9e-3fc5-971a-94214e0026d6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e2d37f9f-1ce1-36bf-a733-436e2e950194",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "In der Verlängerung des Place de Verdun befindet sich das Schloss Fournier. Mit seinem märchenhaften Aussehen wurde es 1877 erbaut."
+        ],
+        "en": [
+          "In the extension of the Place de Verdun, is the Château Fournier. It looks like a fairy tale and was built in 1877."
+        ],
+        "it": [
+          "Nel prolungamento di Place de Verdun si trova lo Château Fournier. È stato costruito nel 1877 e sembra una favola."
+        ],
+        "fr": [
+          "Dans le prolongement de la place de Verdun, se trouve le château Fournier. Aux allures de conte de fées, il a été construit en 1877."
+        ],
+        "nl": [
+          "In het verlengde van de Place de Verdun ligt het Château Fournier. Het is gebouwd in 1877 en ziet eruit als een sprookje."
+        ],
+        "es": [
+          "En la prolongación de la plaza de Verdún, se encuentra el castillo Fournier. Se construyó en 1877 y parece un cuento de hadas."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/1e2bc70c-0a81-3b6e-85a4-6a9ae21215f5",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/4960a650-d6d5-3e3f-a8ea-91be07902fb1",
+          "ebucore:isCoveredBy": "CC BY-SA 4.0",
+          "ebucore:title": {
+            "fr": [
+              "FR 17 Saint-Georges-d'Oléron - Château Fournier"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "KiwiNeko14 (https://commons.wikimedia.org/wiki/User:KiwiNeko14)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/82598d77-a72f-37cf-a3b9-9d07bd9589d8",
+          "ebucore:fileSize": [
+            1625773
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 2448,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/6/6c/FR_17_Saint-Georges-d%27Ol%C3%A9ron_-_Ch%C3%A2teau_Fournier.jpg"
+          ],
+          "ebucore:width": 3264,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/04fc0243-dd38-31a7-9c00-32a380ecf4d7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/237f61f5-4ce1-300a-ab75-dda66417cac1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2be1e77a-6ad5-3965-b049-9beb7d57b701",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/aa01267a-67d0-3cd4-b684-992e7351e6e2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c8da4b0d-ad24-3c80-af7e-b0cca4a0ed75",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/e868aa21-1671-3309-a282-be811181203b",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/7544c753-7736-3b04-acaf-639dc87f0a3d",
+          "schema:addressLocality": "Saint-Georges-d'Oléron",
+          "schema:postalCode": "17190",
+          "schema:streetAddress": [
+            "9, Rue des dames"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17337",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Georges-d'Oléron"
+              ],
+              "pt": [
+                "Saint-Georges-d'Oléron"
+              ],
+              "en": [
+                "Saint-Georges-d'Oléron"
+              ],
+              "it": [
+                "Saint-Georges-d'Oléron"
+              ],
+              "fr": [
+                "Saint-Georges-d'Oléron"
+              ],
+              "nl": [
+                "Saint-Georges-d'Oléron"
+              ],
+              "es": [
+                "Saint-Georges-d'Oléron"
+              ]
+            },
+            "insee": "17337",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/e9ba6eb2-bed9-3f8a-9edf-ff62decd447b",
+        "schema:latitude": "45.979134",
+        "schema:longitude": "-1.333703",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/80009736-71af-3484-9792-2b3de63306d1",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-04-03",
+  "lastUpdateDatatourisme": "2023-06-01T05:41:13.964Z"
+}

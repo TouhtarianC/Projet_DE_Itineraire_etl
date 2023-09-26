@@ -1,0 +1,501 @@
+{
+  "@id": "https://data.datatourisme.fr/13/5b1d22a1-9ddf-31d2-b3aa-4497bc68e78c",
+  "dc:identifier": "5698382",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Lassen Sie sich von der Erzählung eines jungen Schiffbrüchigen auf der Pointe de Chassiron leiten. Hören Sie ihm zu, wenn er Ihnen seine Geschichte erzählt, die mit authentischen Gegenständen, erklärenden Modellen, Filmaufnahmen und Zeugenaussagen illustriert wird..."
+    ],
+    "en": [
+      "Let yourself be guided by the story of a young castaway on the Pointe de Chassiron. Listen to him tell you his story, illustrated with authentic objects, explanatory models, filmed images, testimonials..."
+    ],
+    "it": [
+      "Lasciatevi guidare dalla storia di un giovane naufrago sulla Pointe de Chassiron. Ascoltate la sua storia, illustrata con oggetti autentici, modelli esplicativi, immagini filmate, testimonianze..."
+    ],
+    "fr": [
+      "Laissez-vous guider par le récit d’un jeune naufragé sur la Pointe de Chassiron. Ecoutez-le vous conter son histoire, illustrée d’objets authentiques, de maquettes explicatives, d’images filmées, de témoignages..."
+    ],
+    "nl": [
+      "Laat u leiden door het verhaal van een jonge schipbreukeling op de Pointe de Chassiron. Luister hoe hij zijn verhaal vertelt, geïllustreerd met authentieke voorwerpen, verklarende modellen, gefilmde beelden, getuigenissen..."
+    ],
+    "es": [
+      "Déjese guiar por la historia de un joven náufrago en la Punta de Chassiron. Escuche cómo cuenta su historia, ilustrada con objetos auténticos, maquetas explicativas, imágenes filmadas, testimonios..."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Musée du Phare de Chassiron"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/6e470925-8716-324a-981b-0a95abeb97a3",
+      "schema:email": [
+        "chassiron@chassiron.net"
+      ],
+      "schema:telephone": [
+        "+33 5 46 75 18 62"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/8d28e5b3-5661-3601-91a8-e1865d7546eb",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/28fd39c2-c326-36cd-a1cf-ac7ebe928fab",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/73f64d04-08b1-35bc-8987-217d28bb97a2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8a5787f7-d422-36a3-9ada-e966e6506703",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/934aeb9e-ccd2-3b42-a94a-556b8a590dc6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bf926481-535d-38c8-a95a-9a55eef4c067",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Lassen Sie sich von der Erzählung eines jungen Schiffbrüchigen auf der Pointe de Chassiron leiten. Hören Sie ihm zu, wenn er Ihnen seine Geschichte erzählt, die mit authentischen Gegenständen, erklärenden Modellen, Filmaufnahmen und Zeugenaussagen illustriert wird..."
+        ],
+        "en": [
+          "Let yourself be guided by the story of a young castaway on the Pointe de Chassiron. Listen to him tell you his story, illustrated with authentic objects, explanatory models, filmed images, testimonials..."
+        ],
+        "it": [
+          "Lasciatevi guidare dalla storia di un giovane naufrago sulla Pointe de Chassiron. Ascoltate la sua storia, illustrata con oggetti autentici, modelli esplicativi, immagini filmate, testimonianze..."
+        ],
+        "fr": [
+          "Laissez-vous guider par le récit d’un jeune naufragé sur la Pointe de Chassiron. Ecoutez-le vous conter son histoire, illustrée d’objets authentiques, de maquettes explicatives, d’images filmées, de témoignages..."
+        ],
+        "nl": [
+          "Laat u leiden door het verhaal van een jonge schipbreukeling op de Pointe de Chassiron. Luister hoe hij zijn verhaal vertelt, geïllustreerd met authentieke voorwerpen, verklarende modellen, gefilmde beelden, getuigenissen..."
+        ],
+        "es": [
+          "Déjese guiar por la historia de un joven náufrago en la Punta de Chassiron. Escuche cómo cuenta su historia, ilustrada con objetos auténticos, maquetas explicativas, imágenes filmadas, testimonios..."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0bd87aac-bc0a-32d8-9c9b-0ed65f027255",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/659da5c3-7b90-3314-9d1f-92924f013782",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7286c6be-4473-3812-a9a2-5590b6fa9574",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b895a112-2c6c-3ed0-a474-2f41afa9342b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d02125c5-677e-34c7-92da-db4949eadbd0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/4347f091-9a0d-3da8-9284-4670779b82f1",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/249bf4dc-1b72-38d7-8ba0-7178f6f829b4",
+          "schema:addressLocality": "Saint-Denis-d'Oléron",
+          "schema:postalCode": "17650",
+          "schema:streetAddress": [
+            "Phare de Chassiron"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17323",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "pt": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "en": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "it": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "fr": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "nl": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "es": [
+                "Saint-Denis-d'Oléron"
+              ]
+            },
+            "insee": "17323",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/0132453b-048c-348b-a4e0-b9c6704ef160",
+        "schema:latitude": "46.046771",
+        "schema:longitude": "-1.410779",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/0732f24a-f442-3f91-8b51-91b84005de2d",
+          "schema:closes": "19:00:00",
+          "schema:opens": "10:00:00",
+          "schema:validFrom": "2023-09-01T00:00:00",
+          "schema:validThrough": "2023-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/1cd02053-2eb3-37c7-9276-c2cf9aeee33e",
+          "schema:closes": "19:00:00",
+          "schema:opens": "10:00:00",
+          "schema:validFrom": "2023-04-01T00:00:00",
+          "schema:validThrough": "2023-06-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3541332a-273e-3d34-bb8c-8ad246405a2b",
+          "schema:closes": "20:00:00",
+          "schema:opens": "10:00:00",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5de81860-0f96-3cca-8df3-bacf095a4657",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-03-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/63cf579c-93ea-3a40-99f7-d6df66267a6c",
+          "schema:validFrom": "2023-10-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/d7f018c3-c1ab-31f8-8901-4d29578edb89",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ile-oleron-marennes.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-02-20",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.858Z"
+}

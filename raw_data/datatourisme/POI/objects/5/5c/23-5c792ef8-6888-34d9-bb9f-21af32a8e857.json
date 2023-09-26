@@ -1,0 +1,982 @@
+{
+  "@id": "https://data.datatourisme.fr/23/5c792ef8-6888-34d9-bb9f-21af32a8e857",
+  "dc:identifier": "PCUAQU000V505I7A",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Entdecken Sie zu jeder Jahreszeit rund 60 temporäre oder permanente, monumentale oder diskrete Freiluftkunstwerke, die auf der 70 Hektar großen Ile de Vassivière verteilt sind.\nIm Jahr 2017 wurden zwei neue Freiluftwerke, \"Dehors\" von Liliana Motta und \"Antares-Mulde LS (Star-Rise Alignment)\" von Reto Pulfer, in den Skulpturenwald aufgenommen. Im Jahr 2019 wurde das Werk \"Moulages\" von Roland Cognet restauriert, ebenso wie das Werk \"Sans titre\" von Bernard Calet im Jahr 2020. Bald werden die Werke von Par Barclay (Vannhus), David Nash (Charred Wood and Green Moss) und Erik Samakh (Samen des Lichts) dank der Unterstützung von mehr als 70 begeisterten Unterstützern, die sich für zeitgenössische Kunst und die Natur interessieren, ein zweites Leben erhalten."
+    ],
+    "en": [
+      "Discover some sixty temporary or permanent, monumental or discreet outdoor works spread over the 70 hectares of Vassivière Island in all seasons.\nIn 2017, two new outdoor ?uvres, \"Dehors\" by Liliana Motta and \"Antares-Mulde LS (Star-Rise Alignment)\" by Reto Pulfer, were added to the Sculpture Wood. In 2019, Roland Cognet's Moulages was restored, as was Bernard Calet's Sans titre in 2020. Soon it will be time to give a second life to works by Par Barclay (Vannhus), David Nash (Charred Wood and Green Moss) and Erik Samakh (graines de lumière), thanks to over 70 contributors with a passion for contemporary art and nature."
+    ],
+    "it": [
+      "Scoprite una sessantina di opere all'aperto, temporanee o permanenti, monumentali o discrete, distribuite sui 70 ettari dell'isola di Vassivière, in tutte le stagioni.\nNel 2017, due nuove opere all'aperto, \"Dehors\" di Liliana Motta e \"Antares-Mulde LS (Allineamento delle stelle)\" di Reto Pulfer, si sono aggiunte al Bosco delle Sculture. Nel 2019 è stato restaurato Moulages di Roland Cognet e nel 2020 Untitled di Bernard Calet. Presto sarà il momento di dare una seconda vita alle opere di Par Barclay (Vannhus), David Nash (Charred Wood e Green Moss) e Erik Samakh (graines de lumière), grazie a più di 70 collaboratori appassionati di arte contemporanea e natura."
+    ],
+    "fr": [
+      "Découvrez en toutes saisons une soixantaine d’œuvres en plein air, temporaires ou permanentes, monumentales ou discrètes réparties sur les 70 hectares de l'île de Vassivière.\nEn 2017, deux nouvelles œuvres en plein air, \"Dehors\" de Liliana Motta et \"Antares-Mulde LS (Star-Rise Alignment)\" de Reto Pulfer, ont été ajoutées dans le Bois de sculptures. En 2019, l'oeuvre Moulages de Roland Cognet, a été restaurée, tout comme l'oeuvre Sans titre de Bernard Calet en 2020. Bientôt viendra le temps d'une seconde vie pour les œuvres de Par Barclay (Vannhus), de David Nash (Charred Wood and Green Moss) et d'Erik Samakh (graines de lumière), grâce à plus de 70 contibuteur.trices passionné.e.s d'art contemporain et de nature."
+    ],
+    "nl": [
+      "Ontdek een zestigtal tijdelijke of permanente, monumentale of discrete werken in de open lucht, verspreid over de 70 hectare van het eiland Vassivière, in alle seizoenen.\nIn 2017 werden twee nieuwe openluchtwerken, \"Dehors\" van Liliana Motta en \"Antares-Mulde LS (Star-Rise Alignment)\" van Reto Pulfer, toegevoegd aan het Sculptuurbos. In 2019 werd Moulages van Roland Cognet gerestaureerd, net als Untitled van Bernard Calet in 2020. Binnenkort is het tijd om werken van Par Barclay (Vannhus), David Nash (Charred Wood en Green Moss) en Erik Samakh (graines de lumière) een tweede leven te geven, dankzij meer dan 70 medewerkers met een passie voor hedendaagse kunst en natuur."
+    ],
+    "es": [
+      "Descubra unas sesenta obras al aire libre, temporales o permanentes, monumentales o discretas, repartidas por las 70 hectáreas de la isla Vassivière, en todas las estaciones.\nEn 2017, se añadieron al Bosque de Esculturas dos nuevas obras al aire libre, \"Dehors\" de Liliana Motta y \"Antares-Mulde LS (Alineación estrella-estrella)\" de Reto Pulfer. En 2019, se restauró \"Moulages\" de Roland Cognet, así como \"Sin título\" de Bernard Calet en 2020. Pronto llegará el momento de dar una segunda vida a obras de Par Barclay (Vannhus), David Nash (Charred Wood y Green Moss) y Erik Samakh (graines de lumière), gracias a más de 70 colaboradores apasionados por el arte contemporáneo y la naturaleza."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Bois de sculptures de l'Ile de Vassivière"
+    ],
+    "en": [
+      "Bois de sculptures de l'Ile de Vassivière"
+    ],
+    "fr": [
+      "Bois de sculptures de l'Ile de Vassivière"
+    ],
+    "nl": [
+      "Bois de sculptures de l'Ile de Vassivière"
+    ],
+    "es": [
+      "Bois de sculptures de l'Ile de Vassivière"
+    ]
+  },
+  "creationDate": "2023-01-27",
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/23/25119c7c-002a-38f6-9700-a7e1d58b05b8",
+    "dc:identifier": "2e95bfcf-97a6-453b-9dc8-c768d697a749",
+    "schema:legalName": "OT Lac de Vassivière",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/05dc9cb8-2fa5-383d-b87b-497de06649a2",
+      "schema:email": [
+        "sirtaqui@na-tourisme.com"
+      ],
+      "schema:legalName": "SIRTAQUI Nouvelle-Aquitaine",
+      "schema:logo": "http://aquitaine.media.tourinsoft.eu/upload/Logo-Sirtaqui-1280x405.jpg",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "rdfs:comment": {
+        "de": [
+          "Collecter, mettre en commun et diffuser le plus largement possible une information complète et de qualité au service de nos habitants et de nos visiteurs : voici les objectifs du SIRTAQUI, Système d’Information Régional Touristique de Nouvelle-AQUItaine. Le dispositif est mis en œuvre conjointement par le Comité Régional de Tourisme de Nouvelle-Aquitaine, les services touristiques de la Corrèze, de la Creuse, de la Dordogne, de la Gironde, des Landes, du Lot-et-Garonne, des Pyrénées-Atlantiques, des Deux-Sèvres, de la Vienne et de la Haute-Vienne, en collaboration avec les Offices de Tourisme, et avec le soutien financier de l’Europe et du Conseil Régional."
+        ],
+        "en": [
+          "Collecter, mettre en commun et diffuser le plus largement possible une information complète et de qualité au service de nos habitants et de nos visiteurs : voici les objectifs du SIRTAQUI, Système d’Information Régional Touristique de Nouvelle-AQUItaine. Le dispositif est mis en œuvre conjointement par le Comité Régional de Tourisme de Nouvelle-Aquitaine, les services touristiques de la Corrèze, de la Creuse, de la Dordogne, de la Gironde, des Landes, du Lot-et-Garonne, des Pyrénées-Atlantiques, des Deux-Sèvres, de la Vienne et de la Haute-Vienne, en collaboration avec les Offices de Tourisme, et avec le soutien financier de l’Europe et du Conseil Régional."
+        ],
+        "it": [
+          "L'obiettivo di SIRTAQUI, il Sistema Regionale di Informazione Turistica della Nuova Aquitania, è quello di raccogliere, mettere in comune e diffondere il più possibile informazioni complete e di qualità a beneficio dei nostri residenti e visitatori. Il sistema è realizzato congiuntamente dal Comité Régional de Tourisme de Nouvelle-Aquitaine, dai servizi turistici di Corrèze, Creuse, Dordogne, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques, Deux-Sèvres, Vienne e Haute-Vienne, in collaborazione con gli Uffici del Turismo e con il sostegno finanziario dell'Europa e del Conseil Régional."
+        ],
+        "fr": [
+          "Collecter, mettre en commun et diffuser le plus largement possible une information complète et de qualité au service de nos habitants et de nos visiteurs : voici les objectifs du SIRTAQUI, Système d’Information Régional Touristique de Nouvelle-AQUItaine. Le dispositif est mis en œuvre conjointement par le Comité Régional de Tourisme de Nouvelle-Aquitaine, les services touristiques de la Corrèze, de la Creuse, de la Dordogne, de la Gironde, des Landes, du Lot-et-Garonne, des Pyrénées-Atlantiques, des Deux-Sèvres, de la Vienne et de la Haute-Vienne, en collaboration avec les Offices de Tourisme, et avec le soutien financier de l’Europe et du Conseil Régional."
+        ],
+        "nl": [
+          "Collecter, mettre en commun et diffuser le plus largement possible une information complète et de qualité au service de nos habitants et de nos visiteurs : voici les objectifs du SIRTAQUI, Système d’Information Régional Touristique de Nouvelle-AQUItaine. Le dispositif est mis en œuvre conjointement par le Comité Régional de Tourisme de Nouvelle-Aquitaine, les services touristiques de la Corrèze, de la Creuse, de la Dordogne, de la Gironde, des Landes, du Lot-et-Garonne, des Pyrénées-Atlantiques, des Deux-Sèvres, de la Vienne et de la Haute-Vienne, en collaboration avec les Offices de Tourisme, et avec le soutien financier de l’Europe et du Conseil Régional."
+        ],
+        "es": [
+          "Collecter, mettre en commun et diffuser le plus largement possible une information complète et de qualité au service de nos habitants et de nos visiteurs : voici les objectifs du SIRTAQUI, Système d’Information Régional Touristique de Nouvelle-AQUItaine. Le dispositif est mis en œuvre conjointement par le Comité Régional de Tourisme de Nouvelle-Aquitaine, les services touristiques de la Corrèze, de la Creuse, de la Dordogne, de la Gironde, des Landes, du Lot-et-Garonne, des Pyrénées-Atlantiques, des Deux-Sèvres, de la Vienne et de la Haute-Vienne, en collaboration avec les Offices de Tourisme, et avec le soutien financier de l’Europe et du Conseil Régional."
+        ]
+      },
+      "foaf:homepage": [
+        "http://www.sirtaqui-aquitaine.com/"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/eef27e75-4a23-313e-a6ee-797e7b64a1cd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "rdfs:comment"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3e2445d5-4e6d-3e4b-8027-dc6af4f5fd84",
+      "schema:email": [
+        "communication@ciapiledevassiviere.com"
+      ],
+      "schema:telephone": [
+        "+33 5 55 69 27 27"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ciapiledevassiviere.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3e2445d5-4e6d-3e4b-8027-dc6af4f5fd84",
+      "schema:email": [
+        "communication@ciapiledevassiviere.com"
+      ],
+      "schema:telephone": [
+        "+33 5 55 69 27 27"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ciapiledevassiviere.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6acf6611-9146-3437-accf-b9eb67c7b011",
+      "schema:email": [
+        "communication@ciapiledevassiviere.com"
+      ],
+      "schema:legalName": "Bois de sculptures de l'Ile de Vassivière",
+      "schema:telephone": [
+        "+33 5 55 69 27 27"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ciapiledevassiviere.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/4cf66c65-c6a8-30e5-9c34-a248344fb640",
+      "dc:description": {
+        "de": [
+          "Entdecken Sie zu jeder Jahreszeit rund 60 temporäre oder permanente, monumentale oder diskrete Freiluftkunstwerke, die auf der 70 Hektar großen Ile de Vassivière verteilt sind.\nIm Jahr 2017 wurden zwei neue Freiluftwerke, \"Dehors\" von Liliana Motta und \"Antares-Mulde LS (Star-Rise Alignment)\" von Reto Pulfer, in den Skulpturenwald aufgenommen. Im Jahr 2019 wurde das Werk \"Moulages\" von Roland Cognet restauriert, ebenso wie das Werk \"Sans titre\" von Bernard Calet im Jahr 2020. Bald werden die Werke von Par Barclay (Vannhus), David Nash (Charred Wood and Green Moss) und Erik Samakh (Samen des Lichts) dank der Unterstützung von mehr als 70 begeisterten Unterstützern, die sich für zeitgenössische Kunst und die Natur interessieren, ein zweites Leben erhalten."
+        ],
+        "en": [
+          "Discover some sixty temporary or permanent, monumental or discreet outdoor works spread over the 70 hectares of Vassivière Island in all seasons.\nIn 2017, two new outdoor ?uvres, \"Dehors\" by Liliana Motta and \"Antares-Mulde LS (Star-Rise Alignment)\" by Reto Pulfer, were added to the Sculpture Wood. In 2019, Roland Cognet's Moulages was restored, as was Bernard Calet's Sans titre in 2020. Soon it will be time to give a second life to works by Par Barclay (Vannhus), David Nash (Charred Wood and Green Moss) and Erik Samakh (graines de lumière), thanks to over 70 contributors with a passion for contemporary art and nature."
+        ],
+        "it": [
+          "Scoprite una sessantina di opere all'aperto, temporanee o permanenti, monumentali o discrete, distribuite sui 70 ettari dell'isola di Vassivière, in tutte le stagioni.\nNel 2017, due nuove opere all'aperto, \"Dehors\" di Liliana Motta e \"Antares-Mulde LS (Allineamento delle stelle)\" di Reto Pulfer, si sono aggiunte al Bosco delle Sculture. Nel 2019 è stato restaurato Moulages di Roland Cognet e nel 2020 Untitled di Bernard Calet. Presto sarà il momento di dare una seconda vita alle opere di Par Barclay (Vannhus), David Nash (Charred Wood e Green Moss) e Erik Samakh (graines de lumière), grazie a più di 70 collaboratori appassionati di arte contemporanea e natura."
+        ],
+        "fr": [
+          "Découvrez en toutes saisons une soixantaine d’œuvres en plein air, temporaires ou permanentes, monumentales ou discrètes réparties sur les 70 hectares de l'île de Vassivière.\nEn 2017, deux nouvelles œuvres en plein air, \"Dehors\" de Liliana Motta et \"Antares-Mulde LS (Star-Rise Alignment)\" de Reto Pulfer, ont été ajoutées dans le Bois de sculptures. En 2019, l'oeuvre Moulages de Roland Cognet, a été restaurée, tout comme l'oeuvre Sans titre de Bernard Calet en 2020. Bientôt viendra le temps d'une seconde vie pour les œuvres de Par Barclay (Vannhus), de David Nash (Charred Wood and Green Moss) et d'Erik Samakh (graines de lumière), grâce à plus de 70 contibuteur.trices passionné.e.s d'art contemporain et de nature."
+        ],
+        "nl": [
+          "Ontdek een zestigtal tijdelijke of permanente, monumentale of discrete werken in de open lucht, verspreid over de 70 hectare van het eiland Vassivière, in alle seizoenen.\nIn 2017 werden twee nieuwe openluchtwerken, \"Dehors\" van Liliana Motta en \"Antares-Mulde LS (Star-Rise Alignment)\" van Reto Pulfer, toegevoegd aan het Sculptuurbos. In 2019 werd Moulages van Roland Cognet gerestaureerd, net als Untitled van Bernard Calet in 2020. Binnenkort is het tijd om werken van Par Barclay (Vannhus), David Nash (Charred Wood en Green Moss) en Erik Samakh (graines de lumière) een tweede leven te geven, dankzij meer dan 70 medewerkers met een passie voor hedendaagse kunst en natuur."
+        ],
+        "es": [
+          "Descubra unas sesenta obras al aire libre, temporales o permanentes, monumentales o discretas, repartidas por las 70 hectáreas de la isla Vassivière, en todas las estaciones.\nEn 2017, se añadieron al Bosque de Esculturas dos nuevas obras al aire libre, \"Dehors\" de Liliana Motta y \"Antares-Mulde LS (Alineación estrella-estrella)\" de Reto Pulfer. En 2019, se restauró \"Moulages\" de Roland Cognet, así como \"Sin título\" de Bernard Calet en 2020. Pronto llegará el momento de dar una segunda vida a obras de Par Barclay (Vannhus), David Nash (Charred Wood y Green Moss) y Erik Samakh (graines de lumière), gracias a más de 70 colaboradores apasionados por el arte contemporáneo y la naturaleza."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/12483aac-aa94-3904-9061-2cc606111c55",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/1337e6f3-ce84-3b90-b620-c0b093308134",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/54d7aa10-8053-3000-8f4c-379ef373583e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6d75f559-392a-346e-b4ae-a40c69743d39",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6e217179-2ea5-3359-a234-ac771aabeab6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ac17908f-d321-30c0-a925-e7bda7b2b6d5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b3000b83-8eb1-3931-b21c-b1d011c06d2a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b9886c41-012e-36ce-abfc-9989f734d598",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e35e2164-9128-3d83-a641-e7068ce7ae83",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/eb85273d-cf68-3c51-a6de-bc4224fea7a5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Entdecken Sie zu jeder Jahreszeit rund 60 temporäre oder permanente, monumentale oder diskrete Freiluftkunstwerke, die auf der 70 Hektar großen Ile de Vassivière verteilt sind.\nIm Jahr 2017 wurden zwei neue Freiluftwerke, \"Dehors\" von Liliana Motta und \"Antares-Mulde LS (Star-Rise Alignment)\" von Reto Pulfer, in den Skulpturenwald aufgenommen. Im Jahr 2019 wurde das Werk \"Moulages\" von Roland Cognet restauriert, ebenso wie das Werk \"Sans titre\" von Bernard Calet im Jahr 2020. Bald werden die Werke von Par Barclay (Vannhus), David Nash (Charred Wood and Green Moss) und Erik Samakh (Samen des Lichts) dank der Unterstützung von mehr als 70 begeisterten Unterstützern, die sich für zeitgenössische Kunst und die Natur interessieren, ein zweites Leben erhalten."
+        ],
+        "en": [
+          "Discover some sixty temporary or permanent, monumental or discreet outdoor works spread over the 70 hectares of Vassivière Island in all seasons.\nIn 2017, two new outdoor ?uvres, \"Dehors\" by Liliana Motta and \"Antares-Mulde LS (Star-Rise Alignment)\" by Reto Pulfer, were added to the Sculpture Wood. In 2019, Roland Cognet's Moulages was restored, as was Bernard Calet's Sans titre in 2020. Soon it will be time to give a second life to works by Par Barclay (Vannhus), David Nash (Charred Wood and Green Moss) and Erik Samakh (graines de lumière), thanks to over 70 contributors with a passion for contemporary art and nature."
+        ],
+        "it": [
+          "Scoprite una sessantina di opere all'aperto, temporanee o permanenti, monumentali o discrete, distribuite sui 70 ettari dell'isola di Vassivière, in tutte le stagioni.\nNel 2017, due nuove opere all'aperto, \"Dehors\" di Liliana Motta e \"Antares-Mulde LS (Allineamento delle stelle)\" di Reto Pulfer, si sono aggiunte al Bosco delle Sculture. Nel 2019 è stato restaurato Moulages di Roland Cognet e nel 2020 Untitled di Bernard Calet. Presto sarà il momento di dare una seconda vita alle opere di Par Barclay (Vannhus), David Nash (Charred Wood e Green Moss) e Erik Samakh (graines de lumière), grazie a più di 70 collaboratori appassionati di arte contemporanea e natura."
+        ],
+        "fr": [
+          "Découvrez en toutes saisons une soixantaine d’œuvres en plein air, temporaires ou permanentes, monumentales ou discrètes réparties sur les 70 hectares de l'île de Vassivière.\nEn 2017, deux nouvelles œuvres en plein air, \"Dehors\" de Liliana Motta et \"Antares-Mulde LS (Star-Rise Alignment)\" de Reto Pulfer, ont été ajoutées dans le Bois de sculptures. En 2019, l'oeuvre Moulages de Roland Cognet, a été restaurée, tout comme l'oeuvre Sans titre de Bernard Calet en 2020. Bientôt viendra le temps d'une seconde vie pour les œuvres de Par Barclay (Vannhus), de David Nash (Charred Wood and Green Moss) et d'Erik Samakh (graines de lumière), grâce à plus de 70 contibuteur.trices passionné.e.s d'art contemporain et de nature."
+        ],
+        "nl": [
+          "Ontdek een zestigtal tijdelijke of permanente, monumentale of discrete werken in de open lucht, verspreid over de 70 hectare van het eiland Vassivière, in alle seizoenen.\nIn 2017 werden twee nieuwe openluchtwerken, \"Dehors\" van Liliana Motta en \"Antares-Mulde LS (Star-Rise Alignment)\" van Reto Pulfer, toegevoegd aan het Sculptuurbos. In 2019 werd Moulages van Roland Cognet gerestaureerd, net als Untitled van Bernard Calet in 2020. Binnenkort is het tijd om werken van Par Barclay (Vannhus), David Nash (Charred Wood en Green Moss) en Erik Samakh (graines de lumière) een tweede leven te geven, dankzij meer dan 70 medewerkers met een passie voor hedendaagse kunst en natuur."
+        ],
+        "es": [
+          "Descubra unas sesenta obras al aire libre, temporales o permanentes, monumentales o discretas, repartidas por las 70 hectáreas de la isla Vassivière, en todas las estaciones.\nEn 2017, se añadieron al Bosque de Esculturas dos nuevas obras al aire libre, \"Dehors\" de Liliana Motta y \"Antares-Mulde LS (Alineación estrella-estrella)\" de Reto Pulfer. En 2019, se restauró \"Moulages\" de Roland Cognet, así como \"Sin título\" de Bernard Calet en 2020. Pronto llegará el momento de dar una segunda vida a obras de Par Barclay (Vannhus), David Nash (Charred Wood y Green Moss) y Erik Samakh (graines de lumière), gracias a más de 70 colaboradores apasionados por el arte contemporáneo y la naturaleza."
+        ]
+      }
+    }
+  ],
+  "hasMainRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/f0436c11-2309-30b9-98da-a4fb8b925b9b",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/727f9869-f34c-30a3-b1b2-355ca99c8061",
+          "ebucore:isCoveredBy": "By-NC-ND 4.0",
+          "ebucore:title": {
+            "fr": [
+              "Bois de sculptures de l'Ile de Vassivière_1"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Bois de sculptures de l'Ile de Vassivière"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/ff2b3246-660c-36dd-97c6-c7172d1b095a",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "http://aquitaine.media.tourinsoft.eu/Upload/181007832149.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasNeighborhood": [
+    {
+      "@id": "kb:InTheCountryside",
+      "@type": [
+        "SpatialEnvironmentTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Auf dem Land"
+        ],
+        "pt": [
+          "No campo"
+        ],
+        "en": [
+          "In the countryside"
+        ],
+        "it": [
+          "In campagna"
+        ],
+        "fr": [
+          "A la campagne"
+        ],
+        "nl": [
+          "Op het platteland"
+        ],
+        "es": [
+          "En el campo"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Lakeside",
+      "@type": [
+        "SpatialEnvironmentTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Ufer eines Sees oder Gewässers"
+        ],
+        "pt": [
+          "Margem de lago ou de plano de água"
+        ],
+        "en": [
+          "Lakeside"
+        ],
+        "it": [
+          "Bordo lago o sulle rive di un corpo d'acqua"
+        ],
+        "fr": [
+          "Bord de lac ou de plan d'eau"
+        ],
+        "nl": [
+          "Aan een meer of waterpartij"
+        ],
+        "es": [
+          "A orillas de un lago o de un cuerpo de agua"
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/af4a6f6d-de7e-3ab9-8e4c-da803f3ae28e",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/c736dcfe-2eed-37b6-8806-07f807be4c27",
+          "ebucore:isCoveredBy": "By-NC-ND 4.0",
+          "ebucore:title": {
+            "fr": [
+              "Bois de sculptures de l'Ile de Vassivière_5"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Bois de sculptures de l'Ile de Vassivière"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/a6a9d586-9419-3e9b-a7c9-fbaa19f74644",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "http://aquitaine.media.tourinsoft.eu/Upload/181007832951.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f0436c11-2309-30b9-98da-a4fb8b925b9b",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/727f9869-f34c-30a3-b1b2-355ca99c8061",
+          "ebucore:isCoveredBy": "By-NC-ND 4.0",
+          "ebucore:title": {
+            "fr": [
+              "Bois de sculptures de l'Ile de Vassivière_1"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Bois de sculptures de l'Ile de Vassivière"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/ff2b3246-660c-36dd-97c6-c7172d1b095a",
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:locator": [
+            "http://aquitaine.media.tourinsoft.eu/Upload/181007832149.jpg"
+          ],
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:InTheCountryside",
+      "@type": [
+        "SpatialEnvironmentTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Auf dem Land"
+        ],
+        "pt": [
+          "No campo"
+        ],
+        "en": [
+          "In the countryside"
+        ],
+        "it": [
+          "In campagna"
+        ],
+        "fr": [
+          "A la campagne"
+        ],
+        "nl": [
+          "Op het platteland"
+        ],
+        "es": [
+          "En el campo"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Lakeside",
+      "@type": [
+        "SpatialEnvironmentTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Ufer eines Sees oder Gewässers"
+        ],
+        "pt": [
+          "Margem de lago ou de plano de água"
+        ],
+        "en": [
+          "Lakeside"
+        ],
+        "it": [
+          "Bordo lago o sulle rive di un corpo d'acqua"
+        ],
+        "fr": [
+          "Bord de lac ou de plan d'eau"
+        ],
+        "nl": [
+          "Aan een meer of waterpartij"
+        ],
+        "es": [
+          "A orillas de un lago o de un cuerpo de agua"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/6e022411-8c66-3e93-b89f-4eb9efbd1a0d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ad8295e1-01e6-3cb8-b002-4a8c2e848281",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d8b6907b-3946-3ff3-a9f0-43954f981a56",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e0880fe6-7d59-376d-8275-d0366209109e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ecb1d208-b9f4-3a59-b929-c9da361dadf2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f8e16390-9bf5-3846-8136-6a954aa3b519",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/5e7e8f2d-249b-3b93-84c5-ca4c0270dc6b",
+          "schema:addressLocality": "Beaumont-du-Lac",
+          "schema:postalCode": "87120",
+          "schema:streetAddress": [
+            "Ile de Vassivière"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:87009",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Beaumont-du-Lac"
+              ],
+              "pt": [
+                "Beaumont-du-Lac"
+              ],
+              "en": [
+                "Beaumont-du-Lac"
+              ],
+              "it": [
+                "Beaumont-du-Lac"
+              ],
+              "fr": [
+                "Beaumont-du-Lac"
+              ],
+              "nl": [
+                "Beaumont-du-Lac"
+              ],
+              "es": [
+                "Beaumont-du-Lac"
+              ]
+            },
+            "insee": "87009",
+            "isPartOfDepartment": {
+              "@id": "kb:France7587",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Haute-Vienne"
+                ],
+                "pt": [
+                  "Haute-Vienne"
+                ],
+                "en": [
+                  "Haute-Vienne"
+                ],
+                "it": [
+                  "Haute-Vienne"
+                ],
+                "fr": [
+                  "Haute-Vienne"
+                ],
+                "nl": [
+                  "Haute-Vienne"
+                ],
+                "es": [
+                  "Haute-Vienne"
+                ]
+              },
+              "insee": "87",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/b08fd765-5374-3f66-aa07-539cc3c30ecf",
+        "schema:latitude": "45.8019721",
+        "schema:longitude": "1.8659049",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/3e2445d5-4e6d-3e4b-8027-dc6af4f5fd84",
+      "schema:email": [
+        "communication@ciapiledevassiviere.com"
+      ],
+      "schema:telephone": [
+        "+33 5 55 69 27 27"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ciapiledevassiviere.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-04-26",
+  "lastUpdateDatatourisme": "2023-07-23T23:27:13.961Z"
+}

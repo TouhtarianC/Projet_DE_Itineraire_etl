@@ -1,0 +1,641 @@
+{
+  "@id": "https://data.datatourisme.fr/13/5d8ce1f2-0c72-32d3-86a0-0e999b0bb502",
+  "dc:identifier": "5712245",
+  "@type": [
+    "Castle",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RemarkableBuilding"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Ganz oben auf dem Hügel, der die weite Ebene überragt, die vom Chemin Boisne, der Römerstraße, die Saintes mit Perigueux verbindet, durchquert wird, nimmt das Schloss Bouteville eine der schönsten Positionen im Westen der Charente ein."
+    ],
+    "en": [
+      "At the top of the hill overlooking the vast plain crossed by the Chemin Boisne, the Roman road that links Saintes to Périgueux, the castle of Bouteville occupies one of the most beautiful positions in Western Charente."
+    ],
+    "it": [
+      "In cima alla collina che domina la vasta pianura attraversata dallo Chemin Boisne, la strada romana che collegava Saintes a Périgueux, il castello di Bouteville occupa una delle posizioni più belle della Charente occidentale."
+    ],
+    "fr": [
+      "Tout au haut de la colline dominant la vaste plaine traversée par le Chemin Boisne, la voie romaine qui relie Saintes à Périgueux, le château de Bouteville occupe une des plus belles positions de l’Ouest Charente."
+    ],
+    "nl": [
+      "Het kasteel van Bouteville ligt op de top van de heuvel en kijkt uit over de grote vlakte die wordt doorkruist door de Chemin Boisne, de Romeinse weg die Saintes met Périgueux verbond. Het ligt op een van de mooiste plekken van de westelijke Charente."
+    ],
+    "es": [
+      "En la cima de la colina que domina la vasta llanura atravesada por el Chemin Boisne, la calzada romana que une Saintes con Périgueux, el castillo de Bouteville ocupa una de las posiciones más bellas de la Charente occidental."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Château de Bouteville"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q1561049"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/0ae3f79a-3023-3b6c-85a6-f7d298ba1310",
+    "dc:identifier": "2065",
+    "schema:email": [
+      "elodie@destination-cognac.com",
+      "emmanuelle@destination-cognac.com",
+      "evelyne@destination-cognac.com",
+      "pascale@destination-cognac.com"
+    ],
+    "schema:legalName": "Destination Cognac",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.destination-cognac.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/86afe8bd-c84c-3932-819c-428b12a7f331",
+      "schema:email": [
+        "mairie.bouteville@orange.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 97 51 65"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b9f3eeda-01c8-3dc1-8a24-5449a2089f9e",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/09c2c09a-8a0c-36e7-86a3-1a4ecb9ac1c1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5dcb83b5-eef7-3bd3-846a-d7445d51894a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7a92b44c-3522-3f2b-95a0-7db7ce92ac41",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a48c5ebc-777d-3aa4-811e-447dc2d48d85",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f2d9ee06-ca89-3535-91f0-bfabeb4a1616",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Ganz oben auf dem Hügel, der die weite Ebene überragt, die vom Chemin Boisne, der Römerstraße, die Saintes mit Perigueux verbindet, durchquert wird, nimmt das Schloss Bouteville eine der schönsten Positionen im Westen der Charente ein."
+        ],
+        "en": [
+          "At the top of the hill overlooking the vast plain crossed by the Chemin Boisne, the Roman road that links Saintes to Périgueux, the castle of Bouteville occupies one of the most beautiful positions in Western Charente."
+        ],
+        "it": [
+          "In cima alla collina che domina la vasta pianura attraversata dallo Chemin Boisne, la strada romana che collegava Saintes a Périgueux, il castello di Bouteville occupa una delle posizioni più belle della Charente occidentale."
+        ],
+        "fr": [
+          "Tout au haut de la colline dominant la vaste plaine traversée par le Chemin Boisne, la voie romaine qui relie Saintes à Périgueux, le château de Bouteville occupe une des plus belles positions de l’Ouest Charente."
+        ],
+        "nl": [
+          "Het kasteel van Bouteville ligt op de top van de heuvel en kijkt uit over de grote vlakte die wordt doorkruist door de Chemin Boisne, de Romeinse weg die Saintes met Périgueux verbond. Het ligt op een van de mooiste plekken van de westelijke Charente."
+        ],
+        "es": [
+          "En la cima de la colina que domina la vasta llanura atravesada por el Chemin Boisne, la calzada romana que une Saintes con Périgueux, el castillo de Bouteville ocupa una de las posiciones más bellas de la Charente occidental."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/af700e5e-2f0f-36a0-83a3-7ae74348b413",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/01e22406-a4d9-309f-ad4a-38c27f5b3871",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Bouteville castle1"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Jack ma (https://commons.wikimedia.org/wiki/User:Jack_ma)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/e8df8a3a-f32d-344d-983e-7bdc9af9b329",
+          "ebucore:fileSize": [
+            266274
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1200,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bouteville_castle1.JPG"
+          ],
+          "ebucore:width": 1600,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/3f3d025c-7bbf-3859-a3f0-23d5b407e3df",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/915e8437-e94c-3fd1-8fb0-1cd65d900e17",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ac52dead-ce56-3c41-ba67-4af630ccb4ea",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e468af27-7b5d-319b-8aa1-ae52bd79eeeb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f135a600-7362-3d2b-8c9c-3809f213b030",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b289b9ce-6296-37b5-9111-7fe67849aa87",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/20735be7-eb89-31f5-a6c5-bc2a1b4bcc16",
+          "schema:addressLocality": "Bouteville",
+          "schema:postalCode": "16120",
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16057",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Bouteville"
+              ],
+              "pt": [
+                "Bouteville"
+              ],
+              "en": [
+                "Bouteville"
+              ],
+              "it": [
+                "Bouteville"
+              ],
+              "fr": [
+                "Bouteville"
+              ],
+              "nl": [
+                "Bouteville"
+              ],
+              "es": [
+                "Bouteville"
+              ]
+            },
+            "insee": "16057",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/11f05987-0ef9-32f9-94c8-b4b6a4b33e60",
+        "schema:latitude": "45.599228",
+        "schema:longitude": "-0.136235",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/5860faa2-d9e0-3937-850e-f03db504e64d",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Aktuelle Bauphase nur von außen sichtbar."
+            ],
+            "en": [
+              "Work phase in progress only visible from the outside."
+            ],
+            "it": [
+              "Fase di lavoro in corso visibile solo dall'esterno."
+            ],
+            "fr": [
+              "Phase de travaux en cours uniquement visible de l'extérieur."
+            ],
+            "nl": [
+              "Lopende werkfase alleen zichtbaar van buitenaf."
+            ],
+            "es": [
+              "Fase de trabajo en curso sólo visible desde el exterior."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/50749e37-1b7c-30fe-b150-d17a134f904c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/7e59675f-f82c-3e54-843d-18da8b1bb234",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/86171719-df8e-384c-9ca1-ad497b3be17a",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a730831c-df9e-3fe6-acde-6d369fbe55b9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f42b93e2-3a63-3f65-9443-7f88d24eff9c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b2f223ca-b3f8-38b3-9aef-bb09899fb1d3",
+      "schema:email": [
+        "elodie@destination-cognac.com",
+        "emmanuelle@destination-cognac.com",
+        "evelyne@destination-cognac.com",
+        "pascale@destination-cognac.com"
+      ],
+      "schema:legalName": "Destination Cognac",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.destination-cognac.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-03-25",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.83Z"
+}

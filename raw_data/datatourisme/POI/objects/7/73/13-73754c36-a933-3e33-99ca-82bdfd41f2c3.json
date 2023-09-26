@@ -1,0 +1,409 @@
+{
+  "@id": "https://data.datatourisme.fr/13/73754c36-a933-3e33-99ca-82bdfd41f2c3",
+  "dc:identifier": "5761184",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Kultur und Bibliothek für alle"
+    ],
+    "en": [
+      "Culture and library for all."
+    ],
+    "it": [
+      "Cultura e biblioteca per tutti."
+    ],
+    "fr": [
+      "Culture et bibliothèque pour tous."
+    ],
+    "nl": [
+      "Cultuur en bibliotheek voor iedereen."
+    ],
+    "es": [
+      "Cultura y biblioteca para todos."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Bibliothek auf der Ile d'Aix"
+    ],
+    "en": [
+      "Library of the Isle of Aix"
+    ],
+    "fr": [
+      "Bibliothèque de l'Ile d'Aix"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/9afefc52-942c-383c-bc1f-14b2139b09ba",
+    "dc:identifier": "2055",
+    "schema:email": [
+      "chloe.mailler@rochefort-ocean.com",
+      "christine.nourisson@rochefort-ocean.com",
+      "chrystelle.ecale@rochefort-ocean.com",
+      "lea.origlia@rochefort-ocean.com",
+      "sandrine.bouron@rochefort-ocean.com"
+    ],
+    "schema:legalName": "Office de Tourisme Rochefort Océan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.rochefort-ocean.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/0fd75982-8796-3b94-9a6f-3a00c4a6121c",
+      "schema:telephone": [
+        "+33 6 56 88 17 35"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/972fcc88-113c-39cb-8ffc-5e0710f0ff5f",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1536a26a-209f-3409-bd7f-0ec1977fca1b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5f000402-d14a-349f-8300-99c899bfb24e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7bed98bc-6ade-3c98-9fca-8d87bd68355a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Kultur und Bibliothek für alle"
+        ],
+        "en": [
+          "Culture and library for all."
+        ],
+        "it": [
+          "Cultura e biblioteca per tutti."
+        ],
+        "fr": [
+          "Culture et bibliothèque pour tous."
+        ],
+        "nl": [
+          "Cultuur en bibliotheek voor iedereen."
+        ],
+        "es": [
+          "Cultura y biblioteca para todos."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0262a6f0-20d8-361e-99ec-c64d955851dc",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3db1249b-1180-3fdd-9510-4f90f40c89a1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/907602a0-0cc9-3bd3-868c-5b249ae0192d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b2d784e4-7663-3e1b-9c50-69cb42ee19a0",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/462092f9-451e-38bd-a6b8-f52cc8bb942b",
+          "schema:addressLocality": "Île-d'Aix",
+          "schema:postalCode": "17123",
+          "schema:streetAddress": [
+            "chemin du Bois Joly"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17004",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Île-d'Aix"
+              ],
+              "pt": [
+                "Île-d'Aix"
+              ],
+              "en": [
+                "Île-d'Aix"
+              ],
+              "it": [
+                "Île-d'Aix"
+              ],
+              "fr": [
+                "Île-d'Aix"
+              ],
+              "nl": [
+                "Île-d'Aix"
+              ],
+              "es": [
+                "Île-d'Aix"
+              ]
+            },
+            "insee": "17004",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/38919a44-cf96-3e26-ae92-be12817d4d82",
+        "schema:latitude": "46.017798",
+        "schema:longitude": "-1.17463",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3fe73c4c-07af-3dce-94fb-8ef125d5f876",
+          "schema:closes": "18:30:00",
+          "schema:opens": "16:00:00",
+          "schema:validFrom": "2023-10-01T00:00:00",
+          "schema:validThrough": "2023-06-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d10e8e72-8a02-32b8-862d-654c6200331a",
+          "schema:closes": "19:00:00",
+          "schema:opens": "16:00:00",
+          "schema:validFrom": "2023-09-01T00:00:00",
+          "schema:validThrough": "2023-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f6b7fe15-7d33-35ab-a75f-6d4c92100be7",
+          "schema:closes": "19:00:00",
+          "schema:opens": "17:00:00",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fed90c24-5b4e-374e-b413-9c9ae527b242",
+      "schema:email": [
+        "chloe.mailler@rochefort-ocean.com",
+        "christine.nourisson@rochefort-ocean.com",
+        "chrystelle.ecale@rochefort-ocean.com",
+        "lea.origlia@rochefort-ocean.com",
+        "sandrine.bouron@rochefort-ocean.com"
+      ],
+      "schema:legalName": "Office de Tourisme Rochefort Océan",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.rochefort-ocean.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-10-18",
+  "lastUpdateDatatourisme": "2023-02-01T18:07:36.166Z"
+}

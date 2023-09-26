@@ -1,0 +1,585 @@
+{
+  "@id": "https://data.datatourisme.fr/13/7571521a-d9da-32bb-b030-cdafe1458ad6",
+  "dc:identifier": "5686618",
+  "@type": [
+    "CulturalSite",
+    "Farm",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace",
+    "TeachingFarm",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Besuchen Sie eine Hirschfarm und eine Nussbaumplantage.\r\nBei einem Besuch können Sie unsere Hirsch- und Rehzucht nur wenige Meter von Ihnen entfernt bei ihrer Mahlzeit beobachten."
+    ],
+    "en": [
+      "Visit a deer farm and a walnut tree plantation.\r\nDuring a visit you will be able to observe our deer farm a few meters away from you during their meal."
+    ],
+    "it": [
+      "Visita a un allevamento di cervi e a una piantagione di noci.\r\nDurante la visita potrete osservare il nostro allevamento di cervi a pochi metri da voi mentre mangiano."
+    ],
+    "fr": [
+      "Visite d'un élevage de cerfs et d'une plantation de noyers.\r\nLors d'une visite vous pourrez observer notre élevage de biches et cerfs à quelques mètres de vous lors de leur repas."
+    ],
+    "es": [
+      "Visite una granja de ciervos y una plantación de nogales.\r\nDurante la visita podrá observar nuestra granja de ciervos a pocos metros de usted mientras comen."
+    ],
+    "nl": [
+      "Bezoek aan een hertenboerderij en een notenboomplantage.\r\nTijdens een bezoek kunt u op enkele meters afstand onze hertenboerderij observeren tijdens hun maaltijd."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Les 2 Noix'Elles - La Forêt du Brame"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/2d405b36-7158-33f1-ad7c-1e31a96b3af3",
+    "dc:identifier": "2062",
+    "schema:email": [
+      "a.bucciero@rochefoucauld-perigord.fr",
+      "j.aksahin@rochefoucauld-perigord.fr"
+    ],
+    "schema:legalName": "Office de Tourisme La Rochefoucauld Porte du Périgord",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://tourisme.rochefoucauld-perigord.fr/",
+      "https://tourisme.rochefoucauld-perigord.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3b1e33ff-305d-3d87-9d53-42b6bf246df6",
+      "schema:email": [
+        "info@laforetdubrame.fr"
+      ],
+      "schema:telephone": [
+        "+33 6 37 37 23 17",
+        "+33 6 84 13 31 98"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.les2noixelles.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/fd01e5fc-e5d9-3d63-9973-b76b1e967ed8",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/106e0bcf-af27-329b-9c77-322405b982ae",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/181715e7-382c-3014-9718-cd18647e3d17",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3d11e236-9820-39d4-b7c2-abc48bfd4214",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bed73ce1-f0e3-3f92-bf7e-1929f55deab3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fa40cc4a-41fe-3348-b308-3574eb7c8862",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Besuchen Sie eine Hirschfarm und eine Nussbaumplantage.\r\nBei einem Besuch können Sie unsere Hirsch- und Rehzucht nur wenige Meter von Ihnen entfernt bei ihrer Mahlzeit beobachten."
+        ],
+        "en": [
+          "Visit a deer farm and a walnut tree plantation.\r\nDuring a visit you will be able to observe our deer farm a few meters away from you during their meal."
+        ],
+        "it": [
+          "Visita a un allevamento di cervi e a una piantagione di noci.\r\nDurante la visita potrete osservare il nostro allevamento di cervi a pochi metri da voi mentre mangiano."
+        ],
+        "fr": [
+          "Visite d'un élevage de cerfs et d'une plantation de noyers.\r\nLors d'une visite vous pourrez observer notre élevage de biches et cerfs à quelques mètres de vous lors de leur repas."
+        ],
+        "es": [
+          "Visite una granja de ciervos y una plantación de nogales.\r\nDurante la visita podrá observar nuestra granja de ciervos a pocos metros de usted mientras comen."
+        ],
+        "nl": [
+          "Bezoek aan een hertenboerderij en een notenboomplantage.\r\nTijdens een bezoek kunt u op enkele meters afstand onze hertenboerderij observeren tijdens hun maaltijd."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/65a7121a-3b86-33f0-a899-1800fdd0fd24",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/924266eb-2bb5-36fa-9b5b-376c8988dbc9",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/aa16cc34-7434-3c1b-953b-4df7a5f4b5bb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b311cf44-145d-30ef-9f1c-95ee1be3354e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d51ba891-5eb6-3044-aacc-8f04a7c87be2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/1e0a362e-6215-3426-aa85-201bd4a3f02c",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/112a972c-3ab1-3585-909a-2663e0961d3b",
+          "schema:addressLocality": "Mainzac",
+          "schema:postalCode": "16380",
+          "schema:streetAddress": [
+            "1 Domaine de la Breuille"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16203",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Mainzac"
+              ],
+              "pt": [
+                "Mainzac"
+              ],
+              "en": [
+                "Mainzac"
+              ],
+              "it": [
+                "Mainzac"
+              ],
+              "fr": [
+                "Mainzac"
+              ],
+              "nl": [
+                "Mainzac"
+              ],
+              "es": [
+                "Mainzac"
+              ]
+            },
+            "insee": "16203",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/cfed3fa9-0271-3c91-a663-5ea48b901d6a",
+        "schema:latitude": "45.550288",
+        "schema:longitude": "0.477184",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/4695ff83-ed86-3bdb-854a-c9e2d7a148e8",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Im Rest des Jahres Empfang von Gruppen nach Voranmeldung."
+            ],
+            "en": [
+              "The rest of the year, groups welcome on reservation."
+            ],
+            "it": [
+              "Il resto dell'anno, i gruppi sono benvenuti su prenotazione."
+            ],
+            "fr": [
+              "Le reste de l'année, accueil groupes sur réservation."
+            ],
+            "es": [
+              "El resto del año, se admiten grupos con reserva."
+            ],
+            "nl": [
+              "De rest van het jaar zijn groepen welkom op reservering."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/33ee4349-e194-3b27-a504-82b3e00e229f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/7338f510-9a79-31b0-b0f5-a5d18208ace0",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/7c45b19c-5774-35aa-bc43-7cdeab997feb",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/8ab6c2e0-b9c0-3449-9430-4c71f0d4c203",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/deb1f620-c1ac-3bd2-b9e7-f2110684815e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/d8487018-17a3-3a77-bf06-0a8864ca0573",
+      "schema:email": [
+        "j.aksahin@rochefoucauld-perigord.fr"
+      ],
+      "schema:legalName": "Office de Tourisme La Rochefoucauld Porte du Périgord",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://tourisme.rochefoucauld-perigord.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-05-26",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.264Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/8d7f4f9e-15d0-3571-b271-ae39f7c59c58",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/30578ff3-03aa-3731-bd60-41fc229b1ea8",
+          "schema:maxPrice": [
+            "5",
+            "7"
+          ],
+          "schema:minPrice": [
+            "5",
+            "7"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/7efc8c84-5920-3f85-b414-fa0027bd7fcf",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-08-31",
+              "startDate": "2023-07-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

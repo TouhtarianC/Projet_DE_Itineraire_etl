@@ -1,0 +1,530 @@
+{
+  "@id": "https://data.datatourisme.fr/13/4557c253-6acc-30b4-9a4b-30c8f3061a4d",
+  "dc:identifier": "5735273",
+  "@type": [
+    "schema:Landform",
+    "Beach",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Er ist einer der schönsten Strände der Insel Oléron und wird von Kiefernwäldern gesäumt. Er ist auch bekannt für seine Wassersportarten."
+    ],
+    "en": [
+      "Bordered by the pine forest, it is one of the most beautiful beaches of the island of Oleron. It is also famous for its water sports."
+    ],
+    "it": [
+      "Circondata dalla pineta, è una delle spiagge più belle dell'isola di Oleron. È anche rinomata per gli sport acquatici."
+    ],
+    "fr": [
+      "Bordée par la fôret de pins, c'est l'une des plus belles plages de l'île d'Oléron. Elle est également réputée pour els sports de glisse."
+    ],
+    "es": [
+      "Bordeada por el bosque de pinos, es una de las playas más bellas de la isla de Oleron. También es conocida por sus deportes acuáticos."
+    ],
+    "nl": [
+      "Begrensd door het dennenbos, is het een van de mooiste stranden van het eiland Oleron. Het staat ook bekend om zijn watersporten."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "La Grande plage"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/5416d69b-ed18-3285-bcaa-9ee1f9161d10",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/38d1ceb7-83bd-3969-bab1-b42e7046095d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/758fcdab-ef30-3a81-b382-6fb5dd34c3ba",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9c711179-7ebc-3a7c-8efe-f41f8a71f1db",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c756ebbb-8836-3c09-9650-e7558da43caa",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f8a56230-de2e-3e29-9ba5-9f8567e6c257",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Er ist einer der schönsten Strände der Insel Oléron und wird von Kiefernwäldern gesäumt. Er ist auch bekannt für seine Wassersportarten."
+        ],
+        "en": [
+          "Bordered by the pine forest, it is one of the most beautiful beaches of the island of Oleron. It is also famous for its water sports."
+        ],
+        "it": [
+          "Circondata dalla pineta, è una delle spiagge più belle dell'isola di Oleron. È anche rinomata per gli sport acquatici."
+        ],
+        "fr": [
+          "Bordée par la fôret de pins, c'est l'une des plus belles plages de l'île d'Oléron. Elle est également réputée pour els sports de glisse."
+        ],
+        "es": [
+          "Bordeada por el bosque de pinos, es una de las playas más bellas de la isla de Oleron. También es conocida por sus deportes acuáticos."
+        ],
+        "nl": [
+          "Begrensd door het dennenbos, is het een van de mooiste stranden van het eiland Oleron. Het staat ook bekend om zijn watersporten."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Bathing",
+      "@type": [
+        "AccommodationAmenity",
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Baden"
+        ],
+        "pt": [
+          "Banho"
+        ],
+        "en": [
+          "Bathing"
+        ],
+        "it": [
+          "Bagno"
+        ],
+        "fr": [
+          "Baignade"
+        ],
+        "nl": [
+          "Zwemmen"
+        ],
+        "es": [
+          "Baño"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/28cd4aeb-b485-3fd1-a4cc-6ad2daed937c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8d4d3501-d8c4-311e-862c-ddc59aea7608",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/981ed492-9e8b-3b8b-b489-e6dd94dd93e7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c21c967e-700d-31cb-8f94-992e8355863c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f1cb0ab5-b121-36b8-b930-850c4586ea92",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/40a15ebe-3b4a-369a-958a-c2abd2e35fd9",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/232385dc-7936-3aa4-b5ef-70bb9c08f505",
+          "schema:addressLocality": "Saint-Trojan-les-Bains",
+          "schema:postalCode": "17370",
+          "schema:streetAddress": [
+            "Grande plage"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17411",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Trojan-les-Bains"
+              ],
+              "pt": [
+                "Saint-Trojan-les-Bains"
+              ],
+              "en": [
+                "Saint-Trojan-les-Bains"
+              ],
+              "it": [
+                "Saint-Trojan-les-Bains"
+              ],
+              "fr": [
+                "Saint-Trojan-les-Bains"
+              ],
+              "nl": [
+                "Saint-Trojan-les-Bains"
+              ],
+              "es": [
+                "Saint-Trojan-les-Bains"
+              ]
+            },
+            "insee": "17411",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/a5f5cf23-6332-3213-b8cf-aa3fed8d867b",
+        "schema:latitude": "45.840455",
+        "schema:longitude": "-1.248814",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/ac85ea09-e568-3eb4-b09b-8bb05649a7db",
+          "schema:closes": "19:00:00",
+          "schema:opens": "11:00:00",
+          "schema:validFrom": "2023-07-08T00:00:00",
+          "schema:validThrough": "2023-08-27T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Bewachter Strand"
+            ],
+            "en": [
+              "Watched beach"
+            ],
+            "it": [
+              "Spiaggia sorvegliata"
+            ],
+            "fr": [
+              "Plage surveillée"
+            ],
+            "es": [
+              "Playa vigilada"
+            ],
+            "nl": [
+              "Bewaakt strand"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/3bd2b73d-be21-34c3-9342-01c07319ed44",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/76bd7d29-bcee-364c-adcd-bbdd5284ad0d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/806af8af-055f-3856-b917-b77c43706f00",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a654e69e-55bf-3a5a-a565-754f4080ff35",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/db2fbd64-bc3a-374f-a45f-2a11cdad94e3",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/80009736-71af-3484-9792-2b3de63306d1",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-27",
+  "lastUpdateDatatourisme": "2023-06-28T05:53:37.599Z"
+}

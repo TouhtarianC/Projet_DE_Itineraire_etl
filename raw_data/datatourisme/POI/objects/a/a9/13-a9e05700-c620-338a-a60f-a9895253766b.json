@@ -1,0 +1,532 @@
+{
+  "@id": "https://data.datatourisme.fr/13/a9e05700-c620-338a-a60f-a9895253766b",
+  "dc:identifier": "5742581",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Familie Vallet, die das Château Montifaud besitzt, stellt Assemblagen- und Jahrgangscognacs her, die ausschließlich aus einem 150 Hektar großen Weinberg stammen, der auf den besten Terroirs der Petite und Grande Champagne liegt."
+    ],
+    "en": [
+      "The Vallet family, owners of Château Montifaud, produce blended and vintage cognacs exclusively from a vineyard of 120 hectares, located on the best terroirs in Petite and Grande Champagne."
+    ],
+    "it": [
+      "La famiglia Vallet, proprietaria di Château Montifaud, produce cognac blended e vintage esclusivamente da un vigneto di 150 ettari situato nei migliori terroir della Petite e Grande Champagne."
+    ],
+    "fr": [
+      "La famille Vallet, propriétaire du Château Montifaud, produit des cognac d'assemblages et millésimés, issus exclusivement d'un vignoble de 150 hectares, situé sur les meilleurs terroirs en Petite et Grande Champagne."
+    ],
+    "zh": [
+      "蒙蒂佛城堡的拥有者Vallet家族仅在120公顷的葡萄园中生产混合和老式干邑白兰地，葡萄园分布在Petite和Grande Champagne最好的风土上。"
+    ],
+    "es": [
+      "La familia Vallet, propietaria de Château Montifaud, produce coñacs de mezcla y de añada exclusivamente a partir de un viñedo de 150 hectáreas situado en los mejores terruños de la Petite y Grande Champagne."
+    ],
+    "nl": [
+      "De familie Vallet, eigenaren van Château Montifaud, produceert blended en vintage cognacs uitsluitend van een 150 hectare grote wijngaard gelegen op de beste terroirs in Petite en Grande Champagne."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Montifaud castle - Pineau Cognac - Gin Osmoz"
+    ],
+    "fr": [
+      "Château Montifaud - Pineau Cognac - Gin Osmoz"
+    ],
+    "zh": [
+      "Montifaud（蒙蒂佛）城堡-皮诺科涅克白兰地-杜松子酒"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5b097ddf-e4ce-3975-98e4-76f0b1e6b09d",
+      "schema:email": [
+        "visites@chateau-montifaud.com"
+      ],
+      "schema:telephone": [
+        "+33 5 46 49 50 77"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.chateau-montifaud.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/e1dcbd3f-a332-3992-965a-fa0b7cc3b226",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/077c1c8b-61fe-3858-a444-1840faeee222",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5a23a6bc-c7d1-3b98-90c5-f14e9854cfaf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/92a86080-503a-3dd0-8e35-177580dafc4d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b8a600f6-1fb2-33dc-9b8d-b1de5ed37922",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Familie Vallet, die das Château Montifaud besitzt, stellt Assemblagen- und Jahrgangscognacs her, die ausschließlich aus einem 150 Hektar großen Weinberg stammen, der auf den besten Terroirs der Petite und Grande Champagne liegt."
+        ],
+        "en": [
+          "The Vallet family, owners of Château Montifaud, produce blended and vintage cognacs exclusively from a vineyard of 120 hectares, located on the best terroirs in Petite and Grande Champagne."
+        ],
+        "it": [
+          "La famiglia Vallet, proprietaria di Château Montifaud, produce cognac blended e vintage esclusivamente da un vigneto di 150 ettari situato nei migliori terroir della Petite e Grande Champagne."
+        ],
+        "fr": [
+          "La famille Vallet, propriétaire du Château Montifaud, produit des cognac d'assemblages et millésimés, issus exclusivement d'un vignoble de 150 hectares, situé sur les meilleurs terroirs en Petite et Grande Champagne."
+        ],
+        "zh": [
+          "蒙蒂佛城堡的拥有者Vallet家族仅在120公顷的葡萄园中生产混合和老式干邑白兰地，葡萄园分布在Petite和Grande Champagne最好的风土上。"
+        ],
+        "es": [
+          "La familia Vallet, propietaria de Château Montifaud, produce coñacs de mezcla y de añada exclusivamente a partir de un viñedo de 150 hectáreas situado en los mejores terruños de la Petite y Grande Champagne."
+        ],
+        "nl": [
+          "De familie Vallet, eigenaren van Château Montifaud, produceert blended en vintage cognacs uitsluitend van een 150 hectare grote wijngaard gelegen op de beste terroirs in Petite en Grande Champagne."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/436bc574-71ee-3b52-b7eb-bfb3c61efc9e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/93ef036f-5ec9-36b6-bb85-6e1545ad8b3a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a40e7578-1c03-3f55-a37d-4294a75c4738",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ec644fbb-d443-3e31-a5b4-f428c6cf328a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/7aa75672-d317-3794-ab61-c6904f7342c1",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/323206c9-ec92-38b9-bd9e-7919355f153c",
+          "schema:addressLocality": "Jarnac-Champagne",
+          "schema:postalCode": "17520",
+          "schema:streetAddress": [
+            "36, route d'Archiac"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17192",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Jarnac-Champagne"
+              ],
+              "pt": [
+                "Jarnac-Champagne"
+              ],
+              "en": [
+                "Jarnac-Champagne"
+              ],
+              "it": [
+                "Jarnac-Champagne"
+              ],
+              "fr": [
+                "Jarnac-Champagne"
+              ],
+              "nl": [
+                "Jarnac-Champagne"
+              ],
+              "es": [
+                "Jarnac-Champagne"
+              ]
+            },
+            "insee": "17192",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/3728a2ab-bac5-3507-93bb-7666a82e3f36",
+        "schema:latitude": "45.5588",
+        "schema:longitude": "-0.382115",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f1ccc291-551f-39d5-9d44-4f3385bd6922",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "nach Vereinbarung"
+            ],
+            "en": [
+              "by appointment"
+            ],
+            "it": [
+              "su appuntamento"
+            ],
+            "fr": [
+              "sur rendez-vous"
+            ],
+            "nl": [
+              "op afspraak"
+            ],
+            "es": [
+              "con cita previa"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/08a6139e-52fc-3f01-8a7d-d09f443f7211",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/17062bfd-4da0-35fa-a0a0-aa126539ca04",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/20181f35-fea7-3a36-b5f3-b016fe95e9a9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/b3cee381-54a8-3d44-881e-8afbd8e9da33",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d3bcde1d-c6e6-375f-860f-88f6ba9f2a0b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-18",
+  "lastUpdateDatatourisme": "2023-07-19T05:52:28.509Z"
+}

@@ -1,0 +1,722 @@
+{
+  "@id": "https://data.datatourisme.fr/13/9b650099-15b6-30c3-ba86-b3748e5ca487",
+  "dc:identifier": "5762167",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die einzige handwerkliche Spezialität der Insel mit über 70 Jahren Erfahrung, entdecken Sie das Know-how eines der letzten Perlmuttboote Frankreichs."
+    ],
+    "en": [
+      "Discover the one and only know-how of one of the last nacre makers of France, the unique handmade speciality of the island with more than 70 years eperience."
+    ],
+    "it": [
+      "Con oltre 70 anni di esperienza, venite a scoprire il know-how di uno degli ultimi produttori di perle in Francia."
+    ],
+    "fr": [
+      "Avec plus de 70 ans d’expérience, venez découvrir le savoir-faire de l'un des derniers nacriers de France."
+    ],
+    "nl": [
+      "Kom met meer dan 70 jaar ervaring de knowhow ontdekken van een van de laatste parelmakers in Frankrijk."
+    ],
+    "es": [
+      "Con más de 70 años de experiencia, venga a descubrir el saber hacer de uno de los últimos perleros de Francia."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Das Hause der Perlmutt"
+    ],
+    "en": [
+      "The House of the Mother-of-Pearl"
+    ],
+    "fr": [
+      "Maison de la Nacre"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/9afefc52-942c-383c-bc1f-14b2139b09ba",
+    "dc:identifier": "2055",
+    "schema:email": [
+      "chloe.mailler@rochefort-ocean.com",
+      "christine.nourisson@rochefort-ocean.com",
+      "chrystelle.ecale@rochefort-ocean.com",
+      "lea.origlia@rochefort-ocean.com",
+      "sandrine.bouron@rochefort-ocean.com"
+    ],
+    "schema:legalName": "Office de Tourisme Rochefort Océan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.rochefort-ocean.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/76a1c1fe-1e6e-3cc0-9be6-b60db102bbd1",
+      "schema:email": [
+        "h.gallet@laposte.net"
+      ],
+      "schema:telephone": [
+        "+33 5 46 84 66 17"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://kroundave.free.fr/gallet.htm"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/9c07dfde-1dac-38ef-8b58-773018651279",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2e36a125-5b25-36b7-afb3-09bdd5f1a15c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3b7ea72c-9b6d-3e35-b5e5-005c24c4b327",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ea0bbfe4-866b-3de0-ab02-9deba8896da6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die einzige handwerkliche Spezialität der Insel mit über 70 Jahren Erfahrung, entdecken Sie das Know-how eines der letzten Perlmuttboote Frankreichs."
+        ],
+        "en": [
+          "Discover the one and only know-how of one of the last nacre makers of France, the unique handmade speciality of the island with more than 70 years eperience."
+        ],
+        "it": [
+          "Con oltre 70 anni di esperienza, venite a scoprire il know-how di uno degli ultimi produttori di perle in Francia."
+        ],
+        "fr": [
+          "Avec plus de 70 ans d’expérience, venez découvrir le savoir-faire de l'un des derniers nacriers de France."
+        ],
+        "nl": [
+          "Kom met meer dan 70 jaar ervaring de knowhow ontdekken van een van de laatste parelmakers in Frankrijk."
+        ],
+        "es": [
+          "Con más de 70 años de experiencia, venga a descubrir el saber hacer de uno de los últimos perleros de Francia."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/5f449693-4a3d-3833-b867-5609a60f01ea",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b37cba49-7756-32e0-89f0-d4843d1aa7b1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ddd8342e-d409-3035-84e1-d45bc0988d26",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/e47c93e7-0929-3a1f-a74d-223681b8a201",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/3218b2d4-e922-3a9a-ab80-837fbb21a09c",
+          "schema:addressLocality": "Île-d'Aix",
+          "schema:postalCode": "17123",
+          "schema:streetAddress": [
+            "Place de l'Église"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17004",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Île-d'Aix"
+              ],
+              "pt": [
+                "Île-d'Aix"
+              ],
+              "en": [
+                "Île-d'Aix"
+              ],
+              "it": [
+                "Île-d'Aix"
+              ],
+              "fr": [
+                "Île-d'Aix"
+              ],
+              "nl": [
+                "Île-d'Aix"
+              ],
+              "es": [
+                "Île-d'Aix"
+              ]
+            },
+            "insee": "17004",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/2e2a2e07-14e4-33c8-ab43-55863b8e6a29",
+        "schema:latitude": "46.01247",
+        "schema:longitude": "-1.173447",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/206f460c-2824-3bd8-8524-6aa5ae261d65",
+          "schema:validFrom": "2023-04-01T00:00:00",
+          "schema:validThrough": "2023-07-09T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Eröffnung je nach Schiff"
+            ],
+            "en": [
+              "Opening by boat"
+            ],
+            "it": [
+              "Apertura in barca"
+            ],
+            "fr": [
+              "Ouverture selon les bateaux"
+            ],
+            "nl": [
+              "Opening per boot"
+            ],
+            "es": [
+              "Apertura en barco"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/48839e4b-ba19-3fe8-a8f4-d32adfa1c382",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/5f285bb6-99e0-3173-9e77-29a8ad2a16ae",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/8834a825-cafa-3ed2-aacc-28c6df46145f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/afad4f08-5d14-3146-a05a-bdf5fded0aa4",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f2106f9f-8a04-304f-8cba-b91fd2757d57",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/90c2fe42-b832-3fb9-ad62-91d2d6af149a",
+          "schema:validFrom": "2023-07-10T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Eröffnung je nach Schiff"
+            ],
+            "en": [
+              "Opening by boat"
+            ],
+            "it": [
+              "Apertura in barca"
+            ],
+            "fr": [
+              "Ouverture selon les bateaux"
+            ],
+            "nl": [
+              "Opening per boot"
+            ],
+            "es": [
+              "Apertura en barco"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/483a35c2-f531-35a2-a1a5-c9e82e676c3d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/488da1d1-d910-36fc-80a9-47470e509d33",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/5601c9a8-34ef-3bac-9481-f0881c9eada7",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c6df6507-d101-3666-870c-9f575f964a49",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/db6fb4d0-954a-311e-9da3-3eae3ed10f3f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d0d56e79-8e59-3fb2-967f-8e1015924f3d",
+          "schema:validFrom": "2023-09-01T00:00:00",
+          "schema:validThrough": "2023-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Eröffnung je nach Schiff"
+            ],
+            "en": [
+              "Opening by boat"
+            ],
+            "it": [
+              "Apertura in barca"
+            ],
+            "fr": [
+              "Ouverture selon les bateaux"
+            ],
+            "nl": [
+              "Opening per boot"
+            ],
+            "es": [
+              "Apertura en barco"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/2097d53f-6125-3f3b-b023-a9d54318c8ae",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/2193cb1e-e054-3cfe-baf5-c9d40b65b205",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6cf82963-1954-398c-b331-e20201d3e055",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/aef74b73-b859-3fd3-a1fe-95cac36d14a6",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/deb912ca-8ce0-3e06-815d-82f6053b2147",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fed90c24-5b4e-374e-b413-9c9ae527b242",
+      "schema:email": [
+        "chloe.mailler@rochefort-ocean.com",
+        "christine.nourisson@rochefort-ocean.com",
+        "chrystelle.ecale@rochefort-ocean.com",
+        "lea.origlia@rochefort-ocean.com",
+        "sandrine.bouron@rochefort-ocean.com"
+      ],
+      "schema:legalName": "Office de Tourisme Rochefort Océan",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.rochefort-ocean.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-09",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.309Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/b14594f1-18b5-37b4-8d51-9a77fdda98f3",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/152e2bae-2072-3155-8a2f-d6c0741fadaf",
+          "schema:maxPrice": [
+            "3.5",
+            "4.5"
+          ],
+          "schema:minPrice": [
+            "3.5"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/644bdfea-9da9-3263-b139-98b7bc45d30b",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-11-05",
+              "startDate": "2022-04-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

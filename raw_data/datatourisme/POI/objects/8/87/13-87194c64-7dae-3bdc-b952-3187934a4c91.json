@@ -1,0 +1,502 @@
+{
+  "@id": "https://data.datatourisme.fr/13/87194c64-7dae-3bdc-b952-3187934a4c91",
+  "dc:identifier": "5773244",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Dieser Garten wurde 1996 auf einem unbepflanzten landwirtschaftlichen Grundstück angelegt."
+    ],
+    "en": [
+      "Created in 1996, on an unplanted agricultural plot, we have created an English country style garden."
+    ],
+    "it": [
+      "Creato nel 1996, su un terreno agricolo non coltivato, abbiamo creato un giardino all'inglese."
+    ],
+    "fr": [
+      "Créé en 1996, sur une parcelle agricole vierge de toute plantation, nous avons confectionné un jardin de style anglais champêtre."
+    ],
+    "nl": [
+      "In 1996 aangelegd op een onbebouwd landbouwperceel, hebben wij een tuin in Engelse stijl aangelegd."
+    ],
+    "es": [
+      "Creado en 1996, en una parcela agrícola sin plantar, hemos creado un jardín de estilo inglés."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Jardin du Riollet"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/d5c32c2a-56dc-352d-9421-f7aecf16a888",
+      "schema:email": [
+        "jardinduriollet@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 6 50 65 54 30"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.jardinduriollet.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/c14e3040-5a64-31d0-92ec-27c823c2413d",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/811ba982-12af-392d-b09f-d823a5ea7f9e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/86bdf75b-9581-3fa7-9d0f-ea7661f955ec",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c6532471-126d-3593-8da0-a23bb74b9907",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d41006b5-3368-3ee3-8002-ddb132a5bd6e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f24c385d-ff51-3897-9732-de9387fd16bb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Dieser Garten wurde 1996 auf einem unbepflanzten landwirtschaftlichen Grundstück angelegt."
+        ],
+        "en": [
+          "Created in 1996, on an unplanted agricultural plot, we have created an English country style garden."
+        ],
+        "it": [
+          "Creato nel 1996, su un terreno agricolo non coltivato, abbiamo creato un giardino all'inglese."
+        ],
+        "fr": [
+          "Créé en 1996, sur une parcelle agricole vierge de toute plantation, nous avons confectionné un jardin de style anglais champêtre."
+        ],
+        "nl": [
+          "In 1996 aangelegd op een onbebouwd landbouwperceel, hebben wij een tuin in Engelse stijl aangelegd."
+        ],
+        "es": [
+          "Creado en 1996, en una parcela agrícola sin plantar, hemos creado un jardín de estilo inglés."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/928f3cbe-89cf-3b48-8d33-7c1d58726da4",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/aabddb2a-2999-3d23-80de-f96a3e9d1cd0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/bc33a0e0-af8b-3f69-b275-a03e0db8b0e4",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e1e4877a-c1aa-3c89-85d8-be18208efb0b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fff6117c-bbc9-3a56-8a86-05469083f51e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/1edf8acc-2da3-3a8c-9ffd-502e0f00b8f9",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/e2c6ec27-299d-31a3-b9f8-62e7f6e41f97",
+          "schema:addressLocality": "Le Chay",
+          "schema:postalCode": "17600",
+          "schema:streetAddress": [
+            "Route des trois ponts"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17097",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Le Chay"
+              ],
+              "pt": [
+                "Le Chay"
+              ],
+              "en": [
+                "Le Chay"
+              ],
+              "it": [
+                "Le Chay"
+              ],
+              "fr": [
+                "Le Chay"
+              ],
+              "nl": [
+                "Le Chay"
+              ],
+              "es": [
+                "Le Chay"
+              ]
+            },
+            "insee": "17097",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/92c51df1-8dd1-3f17-8d82-0d3c87e883c9",
+        "schema:latitude": "45.65959",
+        "schema:longitude": "-0.896557",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/4df69b74-424f-3db6-8d64-adfc2ae3370a",
+          "schema:validFrom": "2023-04-08T00:00:00",
+          "schema:validThrough": "2023-09-17T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-03-15",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.294Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/71f6fcc3-550a-32af-aa00-823bc2ae5589",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/12cecc32-47e7-3532-94d9-8e5b20daea90",
+          "schema:maxPrice": [
+            "4",
+            "8"
+          ],
+          "schema:minPrice": [
+            "4",
+            "8"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/2f372757-24fd-3df4-b9b9-47bd722292e4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-09-17",
+              "startDate": "2023-04-08"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

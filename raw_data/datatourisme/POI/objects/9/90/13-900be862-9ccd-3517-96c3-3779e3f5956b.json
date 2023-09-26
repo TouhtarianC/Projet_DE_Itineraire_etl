@@ -1,0 +1,515 @@
+{
+  "@id": "https://data.datatourisme.fr/13/900be862-9ccd-3517-96c3-3779e3f5956b",
+  "dc:identifier": "5673617",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Dieser Garten ist ein Spiegelbild der Fantasie der Besitzerin!"
+    ],
+    "en": [
+      "This garden is the reflection of the imagination of the owner."
+    ],
+    "it": [
+      "Questo giardino è il riflesso dell'immaginazione del proprietario!"
+    ],
+    "fr": [
+      "Ce jardin est le reflet de l'imagination de la propriétaire !"
+    ],
+    "es": [
+      "Este jardín es un reflejo de la imaginación de su propietario"
+    ],
+    "nl": [
+      "Deze tuin is een weerspiegeling van de fantasie van de eigenaar!"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Jard'Imagine"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/a96d3afe-c184-366b-beca-7a9f989fc7e7",
+    "dc:identifier": "2056",
+    "schema:email": [
+      "infotouristique@destination-nordcharente.com"
+    ],
+    "schema:legalName": "Office de tourisme Destination Nord Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ruffecois-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/78984009-c15f-3b46-94eb-274022a2033b",
+      "schema:email": [
+        "ml.mazoin@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 5 45 31 18 53",
+        "+33 6 86 54 00 95"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/32ffcd58-6845-37d2-a457-59dd925d896d",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/29ad3b70-e974-38f0-82b2-4cd1f1ceb505",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6cfc7e8e-8c4d-32fd-9732-bab0e8829e7d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d15b2782-9dde-3556-9b8d-8bcb67455fdc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e1959ee1-efb9-39c5-8c09-26f0a9a8e0cc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Dieser Garten ist ein Spiegelbild der Fantasie der Besitzerin!"
+        ],
+        "en": [
+          "This garden is the reflection of the imagination of the owner."
+        ],
+        "it": [
+          "Questo giardino è il riflesso dell'immaginazione del proprietario!"
+        ],
+        "fr": [
+          "Ce jardin est le reflet de l'imagination de la propriétaire !"
+        ],
+        "es": [
+          "Este jardín es un reflejo de la imaginación de su propietario"
+        ],
+        "nl": [
+          "Deze tuin is een weerspiegeling van de fantasie van de eigenaar!"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/43c5039c-1114-3cae-a9c9-57f452e5a6df",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4b13f76b-847a-3e6c-9863-5453df3cb1e3",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/52be5048-a1ab-33ed-a21e-d4b379af6269",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/60f05f09-645b-3270-a7bd-8ce03d26fda1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/30746de5-2881-3c71-bcbd-849bc965480d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/18a9c346-a054-3af7-9491-f2c7472cde07",
+          "schema:addressLocality": "Bioussac",
+          "schema:postalCode": "16700",
+          "schema:streetAddress": [
+            "1 rue de la clé des champs"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16044",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Bioussac"
+              ],
+              "pt": [
+                "Bioussac"
+              ],
+              "en": [
+                "Bioussac"
+              ],
+              "it": [
+                "Bioussac"
+              ],
+              "fr": [
+                "Bioussac"
+              ],
+              "nl": [
+                "Bioussac"
+              ],
+              "es": [
+                "Bioussac"
+              ]
+            },
+            "insee": "16044",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/ea69305f-6f35-3687-8de4-0c7543d449e9",
+        "schema:latitude": "46.034455",
+        "schema:longitude": "0.25749",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/6986fba9-2ddc-3d2b-b659-3f9c533b1df6",
+          "schema:validFrom": "2023-06-01T00:00:00",
+          "schema:validThrough": "2023-10-29T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Nur mit Reservierung"
+            ],
+            "en": [
+              "Only by reservation"
+            ],
+            "it": [
+              "Solo su prenotazione"
+            ],
+            "fr": [
+              "Uniquement sur réservation"
+            ],
+            "es": [
+              "Sólo con reserva"
+            ],
+            "nl": [
+              "Alleen op reservering"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/3b130448-5904-3aaa-b6e3-78e4a19effdb",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/3b57ff14-5e8f-3104-ba3b-0250a64ca853",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/607f1a9d-0127-3d5c-9097-185436b3bdaf",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/9ce34d3b-0368-36bf-ab1b-4c02c778d37b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/b1f2e0f6-4000-3a76-9b9a-55bab5b1fc94",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/515fb63a-6beb-307d-a0d6-d59e3e2d3f76",
+      "schema:email": [
+        "infotouristique@destination-nordcharente.com"
+      ],
+      "schema:legalName": "Office de tourisme Destination Nord Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ruffecois-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-22",
+  "lastUpdateDatatourisme": "2023-06-23T05:50:54.419Z"
+}

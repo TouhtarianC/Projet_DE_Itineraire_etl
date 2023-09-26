@@ -1,0 +1,544 @@
+{
+  "@id": "https://data.datatourisme.fr/13/ace68f2c-f485-3979-b31b-7c3b125b69cc",
+  "dc:identifier": "5693448",
+  "@type": [
+    "schema:Landform",
+    "Beach",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "beaufsichtigtes Baden (vom 1. Juli bis 31. August, dienstags bis sonntags von 13:30-19:30 Uhr),"
+    ],
+    "en": [
+      "supervised swimming (from July 1st to August 31st, Tuesday to Sunday from 1:30 to 7:30 pm),"
+    ],
+    "it": [
+      "nuoto sorvegliato (dal 1° luglio al 31 agosto, dal martedì alla domenica, dalle 13.30 alle 19.30),"
+    ],
+    "fr": [
+      "baignade surveillée (du 1er juillet au 31 août, du mardi au dimanche de 13h30-19h30),"
+    ],
+    "nl": [
+      "zwemmen onder toezicht (van 1 juli t/m 31 augustus, dinsdag t/m zondag, 13.30-19.30 uur),"
+    ],
+    "es": [
+      "natación vigilada (del 1 de julio al 31 de agosto, de martes a domingo, de 13.30 a 19.30 h),"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Plage de la Guerlie"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/584b98aa-c2dd-3f59-ae2c-f19ca4ccb75e",
+    "dc:identifier": "2052",
+    "schema:email": [
+      "fatiha.guetarni@charente-limousine.fr",
+      "marc.vachot@charente-limousine.fr"
+    ],
+    "schema:legalName": "Office de Tourisme Charente Limousine",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/23c689e5-3f46-36cc-b201-3d47f508c543",
+      "schema:email": [
+        "contact@charente-limousine.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 71 07 79",
+        "+33 5 45 84 14 08"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.charente-limousine.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/ab495543-260c-363d-ba53-10432b97eaec",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/106eec93-68a6-3f77-a33b-9de36aa170f7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/63c15739-8c85-3687-8008-3759d7e991f6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6c9e780d-e265-3624-9457-86c1c16f98fe",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b3477791-84c7-3811-970f-1f3c0f491461",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f89c60ac-632f-3d8d-987a-49e19e09e871",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "beaufsichtigtes Baden (vom 1. Juli bis 31. August, dienstags bis sonntags von 13:30-19:30 Uhr),"
+        ],
+        "en": [
+          "supervised swimming (from July 1st to August 31st, Tuesday to Sunday from 1:30 to 7:30 pm),"
+        ],
+        "it": [
+          "nuoto sorvegliato (dal 1° luglio al 31 agosto, dal martedì alla domenica, dalle 13.30 alle 19.30),"
+        ],
+        "fr": [
+          "baignade surveillée (du 1er juillet au 31 août, du mardi au dimanche de 13h30-19h30),"
+        ],
+        "nl": [
+          "zwemmen onder toezicht (van 1 juli t/m 31 augustus, dinsdag t/m zondag, 13.30-19.30 uur),"
+        ],
+        "es": [
+          "natación vigilada (del 1 de julio al 31 de agosto, de martes a domingo, de 13.30 a 19.30 h),"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Bathing",
+      "@type": [
+        "AccommodationAmenity",
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Baden"
+        ],
+        "pt": [
+          "Banho"
+        ],
+        "en": [
+          "Bathing"
+        ],
+        "it": [
+          "Bagno"
+        ],
+        "fr": [
+          "Baignade"
+        ],
+        "nl": [
+          "Zwemmen"
+        ],
+        "es": [
+          "Baño"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/1979b75f-26b5-3c39-aa5a-da434b87fc81",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/30bff0b4-775b-32dc-9d4f-4f8d4fa22549",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5195290a-fd14-3556-9d1a-95084cffc195",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6aed3299-a638-3cea-a281-56030fb9de8b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8ddd9ed0-6f11-3c2c-9ef4-43fde63d3cc3",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/1e907b32-67c7-3316-9f58-6483d8b51e81",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/f4440a84-80c7-3b6a-a36b-24e9bbdc028b",
+          "schema:addressLocality": "Pressignac",
+          "schema:postalCode": "16150",
+          "schema:streetAddress": [
+            "La guerlie"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16270",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Pressignac"
+              ],
+              "pt": [
+                "Pressignac"
+              ],
+              "en": [
+                "Pressignac"
+              ],
+              "it": [
+                "Pressignac"
+              ],
+              "fr": [
+                "Pressignac"
+              ],
+              "nl": [
+                "Pressignac"
+              ],
+              "es": [
+                "Pressignac"
+              ]
+            },
+            "insee": "16270",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/f1f4f9c4-bc2e-3316-a003-896cd1f99eca",
+        "schema:latitude": "45.807549",
+        "schema:longitude": "0.704466",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/836485b8-b6b9-31c3-afbe-a0fa68ac7b7c",
+          "schema:closes": "19:00:00",
+          "schema:opens": "13:30:00",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Geöffnet im Juli und August beaufsichtigtes Baden"
+            ],
+            "en": [
+              "Open in July and August supervised swimming"
+            ],
+            "it": [
+              "Aperto in luglio e agosto con nuoto controllato"
+            ],
+            "fr": [
+              "Ouvert en juillet et août baignade surveillée"
+            ],
+            "nl": [
+              "Open in juli en augustus met zwemmen onder toezicht"
+            ],
+            "es": [
+              "Abierto en julio y agosto con baño vigilado"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/042ba602-9ab1-303b-9a31-465e40aef675",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/55181978-955c-3250-8337-9fc7d8bd7ee3",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/90a92874-be20-3611-883b-e9ddc3f2e182",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ee64abd7-e9ba-3266-9a25-445becce5fc1",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/fab3bc2d-b434-37b5-b81c-fab148e1c3a3",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ca729d9a-b370-39c8-8ff2-ebfbb796dad5",
+      "schema:email": [
+        "fatiha.guetarni@charente-limousine.fr",
+        "marc.vachot@charente-limousine.fr"
+      ],
+      "schema:legalName": "Office de Tourisme Charente Limousine",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-11",
+  "lastUpdateDatatourisme": "2023-07-12T05:43:07.58Z"
+}

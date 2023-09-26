@@ -1,0 +1,883 @@
+{
+  "@id": "https://data.datatourisme.fr/13/0b3e0aca-56e8-3be1-a583-1efc8da6af59",
+  "dc:identifier": "5673613",
+  "@type": [
+    "Castle",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RemarkableBuilding"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Ehemalige Festung aus dem 12. und 15. Jahrhundert. Jahrhundert. Die Burg wurde während der Revolution in ein Wirtschaftsgebäude umgewandelt und vollständig restauriert. Sie überragt das Tal der Charente."
+    ],
+    "en": [
+      "Ancient castle stronghold dating from the 12th and 15th century. Transformed into a barn for the farm during the revolution then fully restored, the castle dominates the valley of Nanteuil."
+    ],
+    "it": [
+      "Un ex castello fortificato risalente ai secoli XII e XV. Trasformato in edificio agricolo durante la Rivoluzione e completamente restaurato, il castello domina la valle della Charente."
+    ],
+    "fr": [
+      "Ancien château fort des XIIe et XVe siècles. Transformé en bâtiment de ferme à la Révolution et entièrement restauré, le château domine la vallée de la Charente."
+    ],
+    "nl": [
+      "Voormalig versterkt kasteel uit de 12e en 15e eeuw. Het kasteel, dat tijdens de Revolutie werd omgebouwd tot boerderij en volledig werd gerestaureerd, kijkt uit over de vallei van de Charente."
+    ],
+    "es": [
+      "Antiguo castillo fortificado de los siglos XII y XV. Transformado en granja durante la Revolución y totalmente restaurado, el castillo domina el valle del Charente."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Château de Bayers"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q2968454"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/a96d3afe-c184-366b-beca-7a9f989fc7e7",
+    "dc:identifier": "2056",
+    "schema:email": [
+      "infotouristique@destination-nordcharente.com"
+    ],
+    "schema:legalName": "Office de tourisme Destination Nord Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ruffecois-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a827833c-0ad1-3734-a4e5-d09556ccfe95",
+      "schema:email": [
+        "anne.degorce@outlook.com"
+      ],
+      "schema:telephone": [
+        "+33 6 07 54 19 15"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.chateaubayers.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b850b400-d63a-3329-b380-a7a9e6478c92",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0304d679-8b2d-358d-abee-ecced014e938",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a2c6ea31-6fb8-3721-8092-40c571a338a1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c2e1ff5a-65b0-37cb-83ef-a6f9d938f26c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e85b913f-582c-3691-aff3-8587dfd6b28d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Ehemalige Festung aus dem 12. und 15. Jahrhundert. Jahrhundert. Die Burg wurde während der Revolution in ein Wirtschaftsgebäude umgewandelt und vollständig restauriert. Sie überragt das Tal der Charente."
+        ],
+        "en": [
+          "Ancient castle stronghold dating from the 12th and 15th century. Transformed into a barn for the farm during the revolution then fully restored, the castle dominates the valley of Nanteuil."
+        ],
+        "it": [
+          "Un ex castello fortificato risalente ai secoli XII e XV. Trasformato in edificio agricolo durante la Rivoluzione e completamente restaurato, il castello domina la valle della Charente."
+        ],
+        "fr": [
+          "Ancien château fort des XIIe et XVe siècles. Transformé en bâtiment de ferme à la Révolution et entièrement restauré, le château domine la vallée de la Charente."
+        ],
+        "nl": [
+          "Voormalig versterkt kasteel uit de 12e en 15e eeuw. Het kasteel, dat tijdens de Revolutie werd omgebouwd tot boerderij en volledig werd gerestaureerd, kijkt uit over de vallei van de Charente."
+        ],
+        "es": [
+          "Antiguo castillo fortificado de los siglos XII y XV. Transformado en granja durante la Revolución y totalmente restaurado, el castillo domina el valle del Charente."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/bada4042-84d7-374b-874c-24c17956bdf9",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/f76daa71-a64c-33aa-8915-5d503e60594b",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Bayers ch1"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Jack ma (https://commons.wikimedia.org/wiki/User:Jack_ma)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/10fe3384-7112-3977-8b6d-c11ebf9f6b6e",
+          "ebucore:fileSize": [
+            259250
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1200,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/f/f1/Bayers_ch1.JPG"
+          ],
+          "ebucore:width": 1600,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/28ac43ce-26a6-32e8-a5e8-ba594bc4a2bd",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/79a4db86-1681-3358-b665-78cdb158f873",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/87101aa0-e078-382a-88e8-60d37c2a384a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/eb8efe2c-e868-350c-99c0-1db0e2e66366",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/eb46dc16-dda7-3cd8-b151-60128f736b9b",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/c7167695-a7ba-3578-a0a3-5dcaaae8693c",
+          "schema:addressLocality": "Aunac-sur-Charente",
+          "schema:postalCode": "16460",
+          "schema:streetAddress": [
+            "1 impasse du château",
+            "Bayers"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16023",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Aunac-sur-Charente"
+              ],
+              "pt": [
+                "Aunac-sur-Charente"
+              ],
+              "en": [
+                "Aunac-sur-Charente"
+              ],
+              "it": [
+                "Aunac-sur-Charente"
+              ],
+              "fr": [
+                "Aunac-sur-Charente"
+              ],
+              "nl": [
+                "Aunac-sur-Charente"
+              ],
+              "es": [
+                "Aunac-sur-Charente"
+              ]
+            },
+            "insee": "16023",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/de817475-04b3-3051-bfb7-e1af9917c051",
+        "schema:latitude": "45.920277",
+        "schema:longitude": "0.229172",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/6a3cdd98-cded-3a77-a0fd-071c0099fc70",
+          "schema:validFrom": "2023-04-09T00:00:00",
+          "schema:validThrough": "2023-07-08T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Für Gruppen ab 5 Erwachsenen nur nach Vereinbarung geöffnet"
+            ],
+            "en": [
+              "Open only by appointment for groups of 5 or more adults"
+            ],
+            "it": [
+              "Aperto su appuntamento solo per gruppi di 5 o più adulti"
+            ],
+            "fr": [
+              "Ouvert uniquement sur RDV pour les groupes à partir de 5 adultes"
+            ],
+            "nl": [
+              "Alleen open op afspraak voor groepen van 5 of meer volwassenen"
+            ],
+            "es": [
+              "Abierto sólo con cita previa para grupos de 5 o más adultos"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/21020891-10b4-3c52-a078-7baf6ef84a97",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/38b21df1-b722-365f-b0e1-ade08e4e66e5",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/39478881-4db1-3832-bf25-4d84633e1bbb",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/49761632-314f-34af-92ae-fcdb5969d973",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/8455d11c-9fc9-32ee-a131-43a7f3194aae",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9c1f7e5b-face-3222-9ee3-9201d8ee6680",
+          "schema:validFrom": "2023-09-08T00:00:00",
+          "schema:validThrough": "2023-10-16T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Für Gruppen ab 5 Erwachsenen nur nach Vereinbarung geöffnet"
+            ],
+            "en": [
+              "Open only by appointment for groups of 5 or more adults"
+            ],
+            "it": [
+              "Aperto su appuntamento solo per gruppi di 5 o più adulti"
+            ],
+            "fr": [
+              "Ouvert uniquement sur RDV pour les groupes à partir de 5 adultes"
+            ],
+            "nl": [
+              "Alleen open op afspraak voor groepen van 5 of meer volwassenen"
+            ],
+            "es": [
+              "Abierto sólo con cita previa para grupos de 5 o más adultos"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/68c64016-f114-3a5b-8b68-0f332396349b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/cc1a5930-a44e-3147-8de7-632decca2ed9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d6162371-cac9-3f26-8906-3c85ba576b72",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d8c21bdd-bc52-31a1-8f99-0179243fc56f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f5e58b7f-b899-399c-8875-67170734c92e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e534dec5-3847-30c1-858d-f60dae12d812",
+          "schema:validFrom": "2023-07-09T00:00:00",
+          "schema:validThrough": "2023-09-07T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Freie Besichtigungen von 12:00 bis 15:00 Uhr\r\nGeführte Besichtigungen um 15 Uhr und 16:30 Uhr."
+            ],
+            "en": [
+              "Free visits from 12:00 to 15:00\r\nGuided tours at 3pm and 4:30pm."
+            ],
+            "it": [
+              "Visite autoguidate dalle 12.00 alle 15.00\r\nVisite guidate alle 15.00 e alle 16.30."
+            ],
+            "fr": [
+              "Visites libres de 12h à 15h\r\nVisites guidées à 15h et à 16h30."
+            ],
+            "nl": [
+              "Zelf rondleidingen van 12 tot 15 uur\r\nRondleidingen om 15.00 en 16.30 uur."
+            ],
+            "es": [
+              "Visitas autoguiadas de 12.00 a 15.00 horas\r\nVisitas guiadas a las 15.00 y 16.30 horas."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/53fe0195-309b-3393-9e52-eb4f2c2b6bd8",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6166b4a4-fcc8-36b6-b8a6-9330e6e102b3",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/7cf4c4eb-0ac1-3b44-a3b3-5f893a69a320",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d5af9950-8f9e-394b-8995-7bb7d3ec73d4",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/fe77b169-8a04-3c5b-8fcf-7ec5b11b6c08",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/515fb63a-6beb-307d-a0d6-d59e3e2d3f76",
+      "schema:email": [
+        "infotouristique@destination-nordcharente.com"
+      ],
+      "schema:legalName": "Office de tourisme Destination Nord Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ruffecois-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-03-08",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.274Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/f0e0b42d-0454-3276-b3d7-cfbf912e62d5",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/570a6025-f5d4-39d0-8632-8cdbadd8792f",
+          "schema:maxPrice": [
+            "6"
+          ],
+          "schema:minPrice": [
+            "4"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/b681c164-51da-3ef6-9f2d-29c3a181c208",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-09-07",
+              "startDate": "2023-07-09"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c59aadbf-c743-3f80-997f-292c69eee0dd",
+          "schema:maxPrice": [
+            "5",
+            "6.5"
+          ],
+          "schema:minPrice": [
+            "4",
+            "5"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/db0ace2b-ade8-3505-98f2-dee51087b292",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-07-08",
+              "startDate": "2023-04-09"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/da21c71d-87dc-32fe-b8dd-b2d938ae85bf",
+          "schema:maxPrice": [
+            "5",
+            "6"
+          ],
+          "schema:minPrice": [
+            "4",
+            "5"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/67aac824-a5c2-3ed9-a48d-38feecbeb5df",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-10-16",
+              "startDate": "2023-09-08"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

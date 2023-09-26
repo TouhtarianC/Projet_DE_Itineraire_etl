@@ -1,0 +1,462 @@
+{
+  "@id": "https://data.datatourisme.fr/13/3ea953e8-9e55-39b4-8dc6-d47613c80954",
+  "dc:identifier": "5772939",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Kirche Saint-Georges ist eine Pfarrkirche in Saint-Georges-de-Didonne. Sie gehört zur Pfarrei Royan-Côte de Beauté, zum Dekanat Royan und zur Diözese La Rochelle und Saintes."
+    ],
+    "en": [
+      "The church Saint-Georges is a parish church located in Saint-Georges-de-Didonne. It belongs to the parish of Royan-Côte de Beauté, the deanery of Royan and the diocese of La Rochelle and Saintes."
+    ],
+    "it": [
+      "La chiesa di Saint-Georges è una chiesa parrocchiale situata a Saint-Georges-de-Didonne. Appartiene alla parrocchia di Royan-Côte de Beauté, al decanato di Royan e alla diocesi di La Rochelle e Saintes."
+    ],
+    "fr": [
+      "L’église Saint-Georges est une église paroissiale située à Saint-Georges-de-Didonne.. Elle appartient à la paroisse de Royan-Côte de Beauté, au doyenné de Royan et au diocèse de La Rochelle et Saintes."
+    ],
+    "es": [
+      "La iglesia de Saint-Georges es una iglesia parroquial situada en Saint-Georges-de-Didonne. Pertenece a la parroquia de Royan-Côte de Beauté, al decanato de Royan y a la diócesis de La Rochelle y Saintes."
+    ],
+    "nl": [
+      "De kerk van Saint-Georges is een parochiekerk in Saint-Georges-de-Didonne. Het behoort tot de parochie Royan-Côte de Beauté, het decanaat Royan en het bisdom La Rochelle en Saintes."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Église Saint-Georges"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/6845ad53-b141-3c79-8679-b266adf173e0",
+      "schema:telephone": [
+        "+33 5 46 05 07 27"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.saintgeorgesdedidonne.fr/patrimoine/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/ef8156d3-6a4d-3715-bd58-44ee186b4c0e",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1a501765-c8e5-33e0-af4b-cff99f8b501d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4a0f5e50-03b7-34d5-8191-5951d1d9e3db",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bd767269-c019-396b-a8f0-db7c1b74ee6a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e5c156cf-bb56-3b0f-908c-b002cebba843",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f4e5b95d-ec76-34d1-b40e-214dc34248c2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Kirche Saint-Georges ist eine Pfarrkirche in Saint-Georges-de-Didonne. Sie gehört zur Pfarrei Royan-Côte de Beauté, zum Dekanat Royan und zur Diözese La Rochelle und Saintes."
+        ],
+        "en": [
+          "The church Saint-Georges is a parish church located in Saint-Georges-de-Didonne. It belongs to the parish of Royan-Côte de Beauté, the deanery of Royan and the diocese of La Rochelle and Saintes."
+        ],
+        "it": [
+          "La chiesa di Saint-Georges è una chiesa parrocchiale situata a Saint-Georges-de-Didonne. Appartiene alla parrocchia di Royan-Côte de Beauté, al decanato di Royan e alla diocesi di La Rochelle e Saintes."
+        ],
+        "fr": [
+          "L’église Saint-Georges est une église paroissiale située à Saint-Georges-de-Didonne.. Elle appartient à la paroisse de Royan-Côte de Beauté, au doyenné de Royan et au diocèse de La Rochelle et Saintes."
+        ],
+        "es": [
+          "La iglesia de Saint-Georges es una iglesia parroquial situada en Saint-Georges-de-Didonne. Pertenece a la parroquia de Royan-Côte de Beauté, al decanato de Royan y a la diócesis de La Rochelle y Saintes."
+        ],
+        "nl": [
+          "De kerk van Saint-Georges is een parochiekerk in Saint-Georges-de-Didonne. Het behoort tot de parochie Royan-Côte de Beauté, het decanaat Royan en het bisdom La Rochelle en Saintes."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0edc89ed-314f-3375-bce0-a6746b15d4df",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/57fe8b7a-da1b-31fb-b3ca-a2b554a4dc9f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5dabc914-ee16-3b31-ba89-602f4c92f880",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d0a434c4-d1be-3304-bbda-cf9baa4acc4b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f510c4be-b6f8-387a-a353-993e5c45ef34",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0664dd37-bc21-33df-8f3c-57b85b27e3bc",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/c0604b0d-ca99-31dd-9986-0d93d930095d",
+          "schema:addressLocality": "Saint-Georges-de-Didonne",
+          "schema:postalCode": "17110",
+          "schema:streetAddress": [
+            "Place de l'Église"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17333",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Georges-de-Didonne"
+              ],
+              "pt": [
+                "Saint-Georges-de-Didonne"
+              ],
+              "en": [
+                "Saint-Georges-de-Didonne"
+              ],
+              "it": [
+                "Saint-Georges-de-Didonne"
+              ],
+              "fr": [
+                "Saint-Georges-de-Didonne"
+              ],
+              "nl": [
+                "Saint-Georges-de-Didonne"
+              ],
+              "es": [
+                "Saint-Georges-de-Didonne"
+              ]
+            },
+            "insee": "17333",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/77fad42d-3bd1-3995-bbd2-a2e6516ceeb3",
+        "schema:latitude": "45.60268",
+        "schema:longitude": "-0.998163",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-08-05",
+  "lastUpdateDatatourisme": "2023-02-26T06:41:26.129Z"
+}

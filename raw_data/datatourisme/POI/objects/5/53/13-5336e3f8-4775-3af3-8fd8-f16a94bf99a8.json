@@ -1,0 +1,467 @@
+{
+  "@id": "https://data.datatourisme.fr/13/5336e3f8-4775-3af3-8fd8-f16a94bf99a8",
+  "dc:identifier": "5772299",
+  "@type": [
+    "schema:Landform",
+    "Beach",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Am Ortsausgang von Saint-Palais-sur-Mer, vor dem Strand der Grande Côte, machen Sie einen Halt am Strand von Concié, einer kleinen Bucht, die von auf Stelzen gebauten Karrees gesäumt wird."
+    ],
+    "en": [
+      "On the outskirts of Saint-Palais-sur-Mer, before the beach of the Grande Côte, stop at the beach of Concié, a small cove lined with \"carrelet\" on stilts."
+    ],
+    "it": [
+      "Alla periferia di Saint-Palais-sur-Mer, prima della spiaggia della Grande Côte, fermatevi alla spiaggia della Concié, una piccola insenatura fiancheggiata da palafitte."
+    ],
+    "fr": [
+      "A la sortie de Saint-Palais-sur-Mer, avant la plage de la Grande Côte, faites une halte à la plage du Concié, petite crique bordée de carrelet sur pilotis."
+    ],
+    "nl": [
+      "Stop aan de rand van Saint-Palais-sur-Mer, vóór het strand van de Grande Côte, bij het strand van Concié, een kleine inham met paalwoningen."
+    ],
+    "es": [
+      "En las afueras de Saint-Palais-sur-Mer, antes de la playa de la Grande Côte, deténgase en la playa de Concié, una pequeña cala bordeada de palafitos."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Plage du Concié"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5ad963eb-13cd-3729-bba0-2de859b1a01f",
+      "schema:email": [
+        "contact@royanatlantique.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 08 21 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.royanatlantique.fr/sur-place/plages-charente-maritime/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/30cf3ded-9759-37e1-a426-6177bc7bf381",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0ac56cc2-cf5a-37c7-bb4c-1734af499185",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/37bd8aef-a07a-3e31-9f65-8fc045990b29",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4b373d0b-0d80-313f-8e63-5e5c49449129",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5c784e55-c04c-3131-8930-d43d61621e81",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bb086bc9-eacc-3a69-b5b2-3c4ea0c2b460",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Am Ortsausgang von Saint-Palais-sur-Mer, vor dem Strand der Grande Côte, machen Sie einen Halt am Strand von Concié, einer kleinen Bucht, die von auf Stelzen gebauten Karrees gesäumt wird."
+        ],
+        "en": [
+          "On the outskirts of Saint-Palais-sur-Mer, before the beach of the Grande Côte, stop at the beach of Concié, a small cove lined with \"carrelet\" on stilts."
+        ],
+        "it": [
+          "Alla periferia di Saint-Palais-sur-Mer, prima della spiaggia della Grande Côte, fermatevi alla spiaggia della Concié, una piccola insenatura fiancheggiata da palafitte."
+        ],
+        "fr": [
+          "A la sortie de Saint-Palais-sur-Mer, avant la plage de la Grande Côte, faites une halte à la plage du Concié, petite crique bordée de carrelet sur pilotis."
+        ],
+        "nl": [
+          "Stop aan de rand van Saint-Palais-sur-Mer, vóór het strand van de Grande Côte, bij het strand van Concié, een kleine inham met paalwoningen."
+        ],
+        "es": [
+          "En las afueras de Saint-Palais-sur-Mer, antes de la playa de la Grande Côte, deténgase en la playa de Concié, una pequeña cala bordeada de palafitos."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Bathing",
+      "@type": [
+        "AccommodationAmenity",
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Baden"
+        ],
+        "pt": [
+          "Banho"
+        ],
+        "en": [
+          "Bathing"
+        ],
+        "it": [
+          "Bagno"
+        ],
+        "fr": [
+          "Baignade"
+        ],
+        "nl": [
+          "Zwemmen"
+        ],
+        "es": [
+          "Baño"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/12f221e7-4ea5-301a-9933-42e88d42600c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/483cb70d-c4be-3465-973a-2c91a2d39fef",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8d1b9a78-1334-3654-920a-fcd9ec839710",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b11d42f9-8411-3b37-8e15-04f50189231a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c0f4e561-4cec-3a07-aa31-2d0581633327",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/714988c7-2bfb-35cb-8544-a39843bad437",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/5a0986c9-affe-35da-994c-fc575e52ffa7",
+          "schema:addressLocality": "Saint-Palais-sur-Mer",
+          "schema:postalCode": "17420",
+          "schema:streetAddress": [
+            "Le Concié"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17380",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Palais-sur-Mer"
+              ],
+              "pt": [
+                "Saint-Palais-sur-Mer"
+              ],
+              "en": [
+                "Saint-Palais-sur-Mer"
+              ],
+              "it": [
+                "Saint-Palais-sur-Mer"
+              ],
+              "fr": [
+                "Saint-Palais-sur-Mer"
+              ],
+              "nl": [
+                "Saint-Palais-sur-Mer"
+              ],
+              "es": [
+                "Saint-Palais-sur-Mer"
+              ]
+            },
+            "insee": "17380",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/239e067d-cf7f-3dd9-91e8-7abac7ca90b3",
+        "schema:latitude": "45.647106",
+        "schema:longitude": "-1.10992",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-01",
+  "lastUpdateDatatourisme": "2023-06-02T05:50:19.154Z"
+}

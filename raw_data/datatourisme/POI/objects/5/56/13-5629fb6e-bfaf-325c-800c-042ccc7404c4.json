@@ -1,0 +1,458 @@
+{
+  "@id": "https://data.datatourisme.fr/13/5629fb6e-bfaf-325c-800c-042ccc7404c4",
+  "dc:identifier": "5672618",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Soyaux besitzt eine schöne, kürzlich renovierte romanische Kirche, die Eglise de Saint-Matthieu, die sich im Marktflecken befindet."
+    ],
+    "en": [
+      "Soyaux has a beautiful recently renovated Romanesque church, the church of Saint-Matthieu, located in the village."
+    ],
+    "it": [
+      "A Soyaux si trova una bella chiesa romanica, la chiesa di Saint-Matthieu, recentemente ristrutturata."
+    ],
+    "fr": [
+      "Soyaux possède une belle église romane rénovée récemment, l'église de Saint-Matthieu, située au bourg."
+    ],
+    "nl": [
+      "Soyaux heeft een prachtige, onlangs gerenoveerde Romaanse kerk, de kerk van Saint-Matthieu, gelegen in de stad."
+    ],
+    "es": [
+      "Soyaux cuenta con una hermosa iglesia románica recientemente renovada, la iglesia de Saint-Matthieu, situada en el pueblo."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Eglise Saint Matthieu"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f3e52c30-0b82-3a81-a3e7-ace55fe15c08",
+    "dc:identifier": "2053",
+    "schema:email": [
+      "snebout@angouleme-tourisme.com"
+    ],
+    "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.angouleme-tourisme.com/"
+    ],
+    "lastUpdateDatatourisme": "2022-12-19T06:44:07.571Z"
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/6d8f6052-771f-3311-99fa-0dc603b5fa1d",
+      "schema:telephone": [
+        "+33 5 45 97 83 50"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/343f92a9-1331-3798-a01f-e7dbca845cfa",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/15c829a2-0cb2-3d37-bca1-838f861f1d60",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2a8de307-f375-3705-90ae-ba619b92113d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/877edc22-27cf-364b-8d60-be87eb658566",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a37ab216-b6d6-3a21-9e96-2d7c47c3dc09",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d3bd99ec-4877-3ca6-8cec-8ff55f044cb7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Soyaux besitzt eine schöne, kürzlich renovierte romanische Kirche, die Eglise de Saint-Matthieu, die sich im Marktflecken befindet."
+        ],
+        "en": [
+          "Soyaux has a beautiful recently renovated Romanesque church, the church of Saint-Matthieu, located in the village."
+        ],
+        "it": [
+          "A Soyaux si trova una bella chiesa romanica, la chiesa di Saint-Matthieu, recentemente ristrutturata."
+        ],
+        "fr": [
+          "Soyaux possède une belle église romane rénovée récemment, l'église de Saint-Matthieu, située au bourg."
+        ],
+        "nl": [
+          "Soyaux heeft een prachtige, onlangs gerenoveerde Romaanse kerk, de kerk van Saint-Matthieu, gelegen in de stad."
+        ],
+        "es": [
+          "Soyaux cuenta con una hermosa iglesia románica recientemente renovada, la iglesia de Saint-Matthieu, situada en el pueblo."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/2c2b33d9-9a9f-33b4-8c9f-6b7b936f6022",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3d4a1fe5-61b4-3709-91f2-14e662dd61e3",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6f91ffdb-4753-3878-82d4-bb536cfcbe0c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8930abcc-f9ab-3371-ae7a-134dc6dccf60",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cb8f139e-fe9f-313b-bc93-d69cf889693d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f22b0485-862a-37b4-8a15-c2a0ab6cff68",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/76943681-2d02-31ca-aba3-79e4bcf07f68",
+          "schema:addressLocality": "Soyaux",
+          "schema:postalCode": "16800",
+          "schema:streetAddress": [
+            "place de l'Eglise"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16374",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Soyaux"
+              ],
+              "pt": [
+                "Soyaux"
+              ],
+              "en": [
+                "Soyaux"
+              ],
+              "it": [
+                "Soyaux"
+              ],
+              "fr": [
+                "Soyaux"
+              ],
+              "nl": [
+                "Soyaux"
+              ],
+              "es": [
+                "Soyaux"
+              ]
+            },
+            "insee": "16374",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/8db8a3bd-c1ac-3cb4-aede-0de1e6a3d5a9",
+        "schema:latitude": "45.643943",
+        "schema:longitude": "0.2043",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/1597cb90-b43d-3026-8f94-ba1e0060b71b",
+          "schema:closes": "17:30:00",
+          "schema:opens": "09:00:00",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/65c93456-0984-3a13-aac5-3ae5946a15d8",
+      "schema:email": [
+        "snebout@angouleme-tourisme.com"
+      ],
+      "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.angouleme-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-21",
+  "lastUpdateDatatourisme": "2023-06-22T05:53:28.892Z"
+}

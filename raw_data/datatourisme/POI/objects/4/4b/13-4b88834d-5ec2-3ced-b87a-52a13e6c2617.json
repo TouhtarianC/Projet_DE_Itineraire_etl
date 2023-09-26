@@ -1,0 +1,615 @@
+{
+  "@id": "https://data.datatourisme.fr/13/4b88834d-5ec2-3ced-b87a-52a13e6c2617",
+  "dc:identifier": "5658652",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das Museum von Angoulême bietet Ihnen Sammlungen, die von der Paläontologie der Charente über außereuropäische Kunst bis hin zu den Schönen Künsten reichen."
+    ],
+    "en": [
+      "The museum of Angoulême offers you collections ranging from the paleontology of the Charente, to Fine Arts and non-European arts."
+    ],
+    "it": [
+      "Il museo di Angoulême offre collezioni che spaziano dalla paleontologia della Charente, alle Belle Arti, alle arti extraeuropee."
+    ],
+    "fr": [
+      "Le musée d'Angoulême vous propose des collections allant de la paléontologie de la Charente, aux Beaux-Arts en passant par les arts extra-européens."
+    ],
+    "nl": [
+      "Het museum van Angoulême biedt collecties die gaan van de paleontologie van de Charente tot de schone kunsten en de niet-Europese kunsten."
+    ],
+    "es": [
+      "El museo de Angulema ofrece colecciones que van desde la paleontología de la Charente, pasando por las Bellas Artes, hasta las artes no europeas."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Musée d'Angoulême"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q3330189"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f3e52c30-0b82-3a81-a3e7-ace55fe15c08",
+    "dc:identifier": "2053",
+    "schema:email": [
+      "snebout@angouleme-tourisme.com"
+    ],
+    "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.angouleme-tourisme.com/"
+    ],
+    "lastUpdateDatatourisme": "2022-12-19T06:44:07.571Z"
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3b9a3d25-d399-34b6-80cf-26992ce4d968",
+      "schema:email": [
+        "musees@mairie-angouleme.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 95 79 88"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://maam.angouleme.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/cfc0d298-3e84-3859-affe-797e0d7a3b9d",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/771bc747-1cdc-31c8-a84e-1052cea66993",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a0d5a3f3-01e1-3625-b1c7-548886680dce",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cf7b455d-1dff-3e24-aa7f-8bc9f5f413ee",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e76c958f-05b4-31cd-b665-f9c638819ac8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f996cfbc-7aaf-3797-8886-03d3ef695a8b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das Museum von Angoulême bietet Ihnen Sammlungen, die von der Paläontologie der Charente über außereuropäische Kunst bis hin zu den Schönen Künsten reichen."
+        ],
+        "en": [
+          "The museum of Angoulême offers you collections ranging from the paleontology of the Charente, to Fine Arts and non-European arts."
+        ],
+        "it": [
+          "Il museo di Angoulême offre collezioni che spaziano dalla paleontologia della Charente, alle Belle Arti, alle arti extraeuropee."
+        ],
+        "fr": [
+          "Le musée d'Angoulême vous propose des collections allant de la paléontologie de la Charente, aux Beaux-Arts en passant par les arts extra-européens."
+        ],
+        "nl": [
+          "Het museum van Angoulême biedt collecties die gaan van de paleontologie van de Charente tot de schone kunsten en de niet-Europese kunsten."
+        ],
+        "es": [
+          "El museo de Angulema ofrece colecciones que van desde la paleontología de la Charente, pasando por las Bellas Artes, hasta las artes no europeas."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/b639f908-2b29-3e0b-b2a4-e66d02a5d97a",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/809b0a91-c007-3068-92dc-d80555d38aeb",
+          "ebucore:isCoveredBy": "CC BY 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Arriere musee"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Nicrid16 (https://commons.wikimedia.org/w/index.php?title=User:Nicrid16&amp;action=edit&amp;redlink=1)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/76196f33-3c07-3e31-bee2-c560c2e2a1db",
+          "ebucore:fileSize": [
+            5064608
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 2304,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/8/8e/Arriere_musee.jpg"
+          ],
+          "ebucore:width": 3072,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/4cd04822-4cd8-3aa0-bb90-858eabc8d227",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/583dc5a9-3f31-3bec-a93b-8b585b5d70e5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b5753dde-0e8f-3fa2-ab7f-8f42b5c50c41",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e1ce1e2e-36b0-3539-9749-38fd333a41c3",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e2a5aeea-89f2-33ef-b493-30626ed53c34",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/e933bb4c-67e9-3a11-8c38-d796fdc99ed4",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/93453f7a-18b1-3226-b47b-ec8fb414358a",
+          "schema:addressLocality": "Angoulême",
+          "schema:postalCode": "16000",
+          "schema:streetAddress": [
+            "Rue Corneille",
+            "Square Girard II"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16015",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Angoulême"
+              ],
+              "pt": [
+                "Angoulême"
+              ],
+              "en": [
+                "Angoulême"
+              ],
+              "it": [
+                "Angoulême"
+              ],
+              "fr": [
+                "Angoulême"
+              ],
+              "nl": [
+                "Angoulême"
+              ],
+              "es": [
+                "Angoulême"
+              ]
+            },
+            "insee": "16015",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/e84d284f-9739-32d8-a14a-4522221573f5",
+        "schema:latitude": "45.649098",
+        "schema:longitude": "0.152267",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/6c809197-9371-3886-af54-ee8021c94adf",
+          "schema:validFrom": "2023-10-01T00:00:00",
+          "schema:validThrough": "2023-05-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/85103c8e-41a2-36ae-b796-1339e2fcd202",
+          "schema:validFrom": "2023-06-01T00:00:00",
+          "schema:validThrough": "2023-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ff9eefc1-f19d-3c5d-9768-3303f930357f",
+          "schema:validFrom": "2023-12-31T00:00:00",
+          "schema:validThrough": "2023-05-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/65c93456-0984-3a13-aac5-3ae5946a15d8",
+      "schema:email": [
+        "snebout@angouleme-tourisme.com"
+      ],
+      "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.angouleme-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-03",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.368Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/04fe97e6-6e13-3646-a0a3-f52aba743044",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/16608e6f-afa3-39a0-acfa-242172e8ba39",
+          "schema:maxPrice": [
+            "3.2",
+            "5.3"
+          ],
+          "schema:minPrice": [
+            "3.2",
+            "5.3"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/1c8b7d71-6c31-386a-a184-093e375c5972",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2024-05-31",
+              "startDate": "2022-12-30"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

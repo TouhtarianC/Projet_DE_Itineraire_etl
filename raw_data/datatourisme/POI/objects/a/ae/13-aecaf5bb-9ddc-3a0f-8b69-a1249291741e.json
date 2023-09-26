@@ -1,0 +1,337 @@
+{
+  "@id": "https://data.datatourisme.fr/13/aecaf5bb-9ddc-3a0f-8b69-a1249291741e",
+  "dc:identifier": "5761140",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Médiathèque Municipale de Soubise"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/9afefc52-942c-383c-bc1f-14b2139b09ba",
+    "dc:identifier": "2055",
+    "schema:email": [
+      "chloe.mailler@rochefort-ocean.com",
+      "christine.nourisson@rochefort-ocean.com",
+      "chrystelle.ecale@rochefort-ocean.com",
+      "lea.origlia@rochefort-ocean.com",
+      "sandrine.bouron@rochefort-ocean.com"
+    ],
+    "schema:legalName": "Office de Tourisme Rochefort Océan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.rochefort-ocean.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/d8cb1b60-af42-38bc-bef7-8047c00234f9",
+      "schema:email": [
+        "soubisemediatheque@orange.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 84 94 94"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/7a7c0680-3e11-32b0-ab33-6740a002ab2b",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/9e0b3305-aab8-3518-b0e4-6caac6f148f1",
+          "schema:addressLocality": "Soubise",
+          "schema:postalCode": "17780",
+          "schema:streetAddress": [
+            "parking salle des fêtes",
+            "rue de la Vieille Grolière"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17429",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Soubise"
+              ],
+              "pt": [
+                "Soubise"
+              ],
+              "en": [
+                "Soubise"
+              ],
+              "it": [
+                "Soubise"
+              ],
+              "fr": [
+                "Soubise"
+              ],
+              "nl": [
+                "Soubise"
+              ],
+              "es": [
+                "Soubise"
+              ]
+            },
+            "insee": "17429",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/373b715d-cdc5-377c-9d19-3fc3d6decb24",
+        "schema:latitude": "45.924397",
+        "schema:longitude": "-1.008724",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/fd819f5a-7dc9-3396-86d0-52833be5aa8f",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Die Öffnungszeiten \r\nSCHULZEIT\r\nMontag: 09.30-10.30 Uhr und 14.30-17.30 Uhr\r\nDienstag: 09.30-10.30\r\nMittwoch: 09.30-10.30 Uhr und 14.30-17.30 Uhr\r\nDonnerstag: 09.30-10.30 Uhr und 14.30-17.30 Uhr\r\nFreitag: 09.30-10.30 Uhr und 14.30-17.30 Uhr\r\nSCHULFERIENZEITRÄUME\r\nMontag: 09:30-12:00 und 14:30-17:30 Uhr\r\nDienstag: 09:30-12:00\r\nMittwoch: 09h30-12:00 und 14h30-17h30\r\nDonnerstag: 09h30-12:00 und 14h30-17h30\r\nFreitag: 09h30-12:00 und 14h30-17h30"
+            ],
+            "en": [
+              "Opening hours \r\nSCHOOL PERIODS\r\nMonday : 09h30-10h30 and 14h30-17h30\r\nTuesday : 09h30-10h30\r\nWednesday : 09h30-10h30 and 14h30-17h30\r\nThursday : 09h30-10h30 and 14h30-17h30\r\nFriday : 09h30-10h30 and 14h30-17h30\r\nSCHOOL VACATIONS\r\nMonday : 09h30-12:00 and 14h30-17h30\r\nTuesday : 09h30-12:00\r\nWednesday : 09h30-12:00 and 14h30-17h30\r\nThursday : 09h30-12:00 and 14h30-17h30\r\nFriday : 09h30-12:00 and 14h30-17h30"
+            ],
+            "it": [
+              "Orari di apertura \r\nPERIODI SCOLASTICI\r\nLunedì: 09h30-10h30 e 14h30-17h30\r\nMartedì: 9.30-10.30\r\nMercoledì: 9.30-10.30 e 14.30-17.30\r\nGiovedì: 9.30-10.30 e 14.30-17.30\r\nVenerdì: 09h30-10h30 e 14h30-17h30\r\nVACANZE SCOLASTICHE\r\nLunedì: 09:30-12:00 e 14:30-17:30\r\nMartedì: 9:30-12:00\r\nMercoledì: 09h30-12:00 e 14h30-17h30\r\nGiovedì: 09h30-12:00 e 14h30-17h30\r\nVenerdì: 9:30-12:00 e 14:30-17:30"
+            ],
+            "fr": [
+              "Les horaires d'ouverture : \r\nPERIODES SCOLAIRES \r\nLundi : 09h30-10h30 et 14h30-17h30 \r\nMardi : 09h30-10h30 \r\nMercredi : 09h30-10h30 et 14h30-17h30 \r\nJeudi : 09h30-10h30 et 14h30-17h30 \r\nVendredi : 09h30-10h30 et 14h30-17h30 \r\nPERIODES VACANCES SCOLAIRES \r\nLundi : 09h30-12:00 et 14h30-17h30 \r\nMardi : 09h30-12:00 \r\nMercredi : 09h30-12:00 et 14h30-17h30 \r\nJeudi : 09h30-12:00 et 14h30-17h30 \r\nVendredi : 09h30-12:00 et 14h30-17h30"
+            ],
+            "nl": [
+              "Openingstijden \r\nSCHOOLPERIODES\r\nMaandag: 09:30-10:30 en 14:30-17:30\r\nDinsdag: 9.30-10.30 uur\r\nWoensdag: 9.30-10.30 uur en 14.30-5.30 uur\r\nDonderdag: 9.30-10.30 uur en 14.30-17.30 uur\r\nVrijdag : 09h30-10h30 en 14h30-17h30\r\nSCHOOLVAKANTIES\r\nMaandag: 09:30-12:00 en 14:30-17:30\r\nDinsdag: 9u30-12u00\r\nWoensdag : 09u30-12u00 en 14u30-17u30\r\nDonderdag : 09u30-12u00 en 14u30-17u30\r\nVrijdag: 9:30-12:00 en 14:30-5:30"
+            ],
+            "es": [
+              "Horario de apertura \r\nPERÍODOS ESCOLARES\r\nLunes: 09h30-10h30 y 14h30-17h30\r\nMartes: 9.30-10.30\r\nMiércoles: de 9.30 a 22.30 y de 14.30 a 17.30\r\nJueves: de 9.30 a 22.30 y de 14.30 a 17.30\r\nViernes : 09h30-10h30 y 14h30-17h30\r\nVACACIONES ESCOLARES\r\nLunes: 09:30-12:00 y 14:30-17:30\r\nMartes: 9:30-12:00\r\nMiércoles : 09h30-12:00 y 14h30-17h30\r\nJueves : 09h30-12:00 y 14h30-17h30\r\nViernes: 9:30-12:00 y 14:30-17:30"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/0a1aa065-3feb-3854-9b0f-16fff8167d1a",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/3e3f1a3a-9f56-3ae0-bea9-c94db34e6035",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6ff081cb-17bc-3e4f-9ab5-5a10a8179db8",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/cdd28d1f-e2d0-37e7-adac-7c60334f1f9a",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d51d1799-0612-34ab-b1a7-dd59cb0968af",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fed90c24-5b4e-374e-b413-9c9ae527b242",
+      "schema:email": [
+        "chloe.mailler@rochefort-ocean.com",
+        "christine.nourisson@rochefort-ocean.com",
+        "chrystelle.ecale@rochefort-ocean.com",
+        "lea.origlia@rochefort-ocean.com",
+        "sandrine.bouron@rochefort-ocean.com"
+      ],
+      "schema:legalName": "Office de Tourisme Rochefort Océan",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.rochefort-ocean.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-07-10",
+  "lastUpdateDatatourisme": "2023-02-01T18:07:35.933Z"
+}

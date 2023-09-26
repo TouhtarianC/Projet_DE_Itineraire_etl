@@ -1,0 +1,582 @@
+{
+  "@id": "https://data.datatourisme.fr/13/2936a384-1ede-3d6e-ac55-5ebd821bc382",
+  "dc:identifier": "6107497",
+  "@type": [
+    "CulturalSite",
+    "Farm",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace",
+    "TeachingFarm",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Viehzuchtbetrieb in der Gemeinde Saint-Romain-de-Benet. Les Alpaguettes ist der Name, den wir unserem Landgut als Hommage an unsere Huacaya-Alpakas gegeben haben: Quilla, Calun und Nazca."
+    ],
+    "en": [
+      "Farm of breeding located on the commune of Saint-Romain-de-Benet. Les Alpaguettes, is the name we gave to our domain in homage to our huacayas alpacas: Quilla, Calun and Nazca."
+    ],
+    "it": [
+      "Allevamento situato nel comune di Saint-Romain-de-Benet. Les Alpaguettes è il nome che abbiamo dato alla nostra tenuta in omaggio alle nostre huacayas: Quilla, Calun e Nazca."
+    ],
+    "fr": [
+      "Ferme d'élevage située sur la commune de Saint-Romain-de-Benet. Les Alpaguettes, c’est le nom que l’on a donné à notre domaine en l’hommage à nos alpagas huacayas : Quilla, Calun et Nazca."
+    ],
+    "es": [
+      "Granja de cría situada en el municipio de Saint-Romain-de-Benet. Les Alpaguettes es el nombre que hemos dado a nuestra finca en homenaje a nuestras huacayas: Quilla, Calun y Nazca."
+    ],
+    "nl": [
+      "Fokkerij in de gemeente Saint-Romain-de-Benet. Les Alpaguettes is de naam die wij aan ons domein hebben gegeven als eerbetoon aan onze huacayas: Quilla, Calun en Nazca."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Les Alpaguettes"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/73ca4e3f-d174-3ad4-baaa-885956aa75aa",
+      "schema:email": [
+        "lesalpaguettes17@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 6 79 93 80 41"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://lesalpaguettes.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/1e6941e4-b35b-3440-95e1-a4b90bb26cf6",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/4a3f6180-0c8f-3b22-9722-c97a6e8a81b6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/939597d4-6800-3189-a9a0-20adf0b62e36",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d4451336-1192-308a-bb70-961946275916",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d58e2a3f-f873-3663-b5e3-695b028ec7f1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ee0ea64d-5ede-3203-9a80-fd857ff33dee",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Viehzuchtbetrieb in der Gemeinde Saint-Romain-de-Benet. Les Alpaguettes ist der Name, den wir unserem Landgut als Hommage an unsere Huacaya-Alpakas gegeben haben: Quilla, Calun und Nazca."
+        ],
+        "en": [
+          "Farm of breeding located on the commune of Saint-Romain-de-Benet. Les Alpaguettes, is the name we gave to our domain in homage to our huacayas alpacas: Quilla, Calun and Nazca."
+        ],
+        "it": [
+          "Allevamento situato nel comune di Saint-Romain-de-Benet. Les Alpaguettes è il nome che abbiamo dato alla nostra tenuta in omaggio alle nostre huacayas: Quilla, Calun e Nazca."
+        ],
+        "fr": [
+          "Ferme d'élevage située sur la commune de Saint-Romain-de-Benet. Les Alpaguettes, c’est le nom que l’on a donné à notre domaine en l’hommage à nos alpagas huacayas : Quilla, Calun et Nazca."
+        ],
+        "es": [
+          "Granja de cría situada en el municipio de Saint-Romain-de-Benet. Les Alpaguettes es el nombre que hemos dado a nuestra finca en homenaje a nuestras huacayas: Quilla, Calun y Nazca."
+        ],
+        "nl": [
+          "Fokkerij in de gemeente Saint-Romain-de-Benet. Les Alpaguettes is de naam die wij aan ons domein hebben gegeven als eerbetoon aan onze huacayas: Quilla, Calun en Nazca."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/031e85f4-7af7-3b3a-983c-e2595426b5c8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/532b6ea4-e877-3708-89c6-659d687b61fc",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/62ce618d-09f3-3ddf-9c87-3acdef85e852",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/73a29945-fa54-3712-870b-59da27242d2f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e534f67c-85b5-30bc-a0f5-2caaff1ed6bc",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/550281d9-b883-3162-bc8c-872bce134c42",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/e579dc20-c960-39d0-abc9-4b24ced2a0b3",
+          "schema:addressLocality": "Saint-Romain-de-Benet",
+          "schema:postalCode": "17600",
+          "schema:streetAddress": [
+            "20 rue du Haut Vouillac"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17393",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Romain-de-Benet"
+              ],
+              "pt": [
+                "Saint-Romain-de-Benet"
+              ],
+              "en": [
+                "Saint-Romain-de-Benet"
+              ],
+              "it": [
+                "Saint-Romain-de-Benet"
+              ],
+              "fr": [
+                "Saint-Romain-de-Benet"
+              ],
+              "nl": [
+                "Saint-Romain-de-Benet"
+              ],
+              "es": [
+                "Saint-Romain-de-Benet"
+              ]
+            },
+            "insee": "17393",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/4026c1bc-155c-3930-b34a-1e32dcd3a9c9",
+        "schema:latitude": "45.703463",
+        "schema:longitude": "-0.879167",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/8c1c3780-29c2-37f3-902c-9bf8f99110d5",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Besuch nur nach Vereinbarung"
+            ],
+            "en": [
+              "Visit by appointment only"
+            ],
+            "it": [
+              "Visita solo su appuntamento"
+            ],
+            "fr": [
+              "Visite uniquement sur rendez-vous"
+            ],
+            "es": [
+              "Visita con cita previa"
+            ],
+            "nl": [
+              "Bezoek alleen op afspraak"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/0f753c90-0924-3326-b4fb-62762257f710",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/39e91c3a-bcc2-3385-87ed-d0972f405b45",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/aa481e54-a16a-33a0-a644-a3f15cdba11e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/de9c720a-9921-3298-93fa-7454b2ffdf43",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f1ad661f-da60-322b-940b-7a72b2cccae3",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-21",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.263Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/cd1b6997-3dbc-33b8-8f10-d27a5a269925",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f6d14d8b-bafa-355d-a98f-7c422c29e8b0",
+          "schema:minPrice": [
+            "2",
+            "5"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

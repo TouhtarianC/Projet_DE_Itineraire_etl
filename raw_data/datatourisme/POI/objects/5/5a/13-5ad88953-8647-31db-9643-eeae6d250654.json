@@ -1,0 +1,459 @@
+{
+  "@id": "https://data.datatourisme.fr/13/5ad88953-8647-31db-9643-eeae6d250654",
+  "dc:identifier": "5709449",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Machen Sie einen Rundgang um die Abbaye aux Dames und entdecken Sie den neu gestalteten Garten der Nonnen. Als Bonus erhalten Sie einen herrlichen Blick auf das Kopfende der Abteikirche und ihren Glockenturm in Form eines Tannenzapfens."
+    ],
+    "en": [
+      "Discover the nun's garden recently recreated. Bonus : the wonderful view over the radiating chapel and the tower bell in a pice cone form."
+    ],
+    "it": [
+      "Fate una visita all'Abbaye aux Dames e scoprite il giardino delle suore, ridisegnato. Come bonus, una magnifica vista sul chevet della chiesa abbaziale e sul suo campanile a forma di pigna."
+    ],
+    "fr": [
+      "Faites le tour de l'Abbaye aux Dames et découvrez le jardin des moniales réaménagé. En prime, une magnifique vue sur le chevet de l'abbatiale et son clocher en forme de pomme de pin."
+    ],
+    "es": [
+      "Descubre el jardín de las monjas recreado recientemente. Lo mejor : la hermosa vista sobre la cabecera y el campanario en forma de piña."
+    ],
+    "nl": [
+      "Bezoek de Abbaye aux Dames en ontdek de heringerichte nonnen tuin. Als bonus een prachtig uitzicht op het chevet van de abdijkerk en de dennenappelvormige klokkentoren."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Abbaye aux Dames's garden"
+    ],
+    "fr": [
+      "Jardins de l'Abbaye aux Dames"
+    ],
+    "es": [
+      "Jardín de la Abbaye aux Dames"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f8c0c968-6328-35cd-9333-08b1a494967f",
+    "dc:identifier": "2060",
+    "schema:email": [
+      "a.tonin@saintes-tourisme.fr",
+      "f.herbec@saintes-tourisme.fr",
+      "l.conan@saintes-tourisme.fr"
+    ],
+    "schema:legalName": "Office de Tourisme de Saintes & la Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.saintes-tourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/0329c219-b543-35a2-84b0-1986e8f3a1a1",
+      "schema:email": [
+        "info@abbayeauxdames.org"
+      ],
+      "schema:telephone": [
+        "+33 5 46 97 48 48"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.abbayeauxdames.org/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b3627e65-6928-3880-8f3e-f8ce4bbfa9e0",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/4cc2f75b-5158-3a14-b76f-326b1e02ea33",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6b437f81-8d4d-37ba-a3c6-df988b39a90d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bd659d24-adcb-3e0c-9119-82259e82c40e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Machen Sie einen Rundgang um die Abbaye aux Dames und entdecken Sie den neu gestalteten Garten der Nonnen. Als Bonus erhalten Sie einen herrlichen Blick auf das Kopfende der Abteikirche und ihren Glockenturm in Form eines Tannenzapfens."
+        ],
+        "en": [
+          "Discover the nun's garden recently recreated. Bonus : the wonderful view over the radiating chapel and the tower bell in a pice cone form."
+        ],
+        "it": [
+          "Fate una visita all'Abbaye aux Dames e scoprite il giardino delle suore, ridisegnato. Come bonus, una magnifica vista sul chevet della chiesa abbaziale e sul suo campanile a forma di pigna."
+        ],
+        "fr": [
+          "Faites le tour de l'Abbaye aux Dames et découvrez le jardin des moniales réaménagé. En prime, une magnifique vue sur le chevet de l'abbatiale et son clocher en forme de pomme de pin."
+        ],
+        "es": [
+          "Descubre el jardín de las monjas recreado recientemente. Lo mejor : la hermosa vista sobre la cabecera y el campanario en forma de piña."
+        ],
+        "nl": [
+          "Bezoek de Abbaye aux Dames en ontdek de heringerichte nonnen tuin. Als bonus een prachtig uitzicht op het chevet van de abdijkerk en de dennenappelvormige klokkentoren."
+        ]
+      }
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/6e866798-cae5-351c-9e8d-963661217e60",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:LabelRating_AccueilVelo",
+        "@type": [
+          "LabelRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "Accueil Vélo"
+          ],
+          "pt": [
+            "Accueil Vélo"
+          ],
+          "en": [
+            "Accueil Vélo"
+          ],
+          "it": [
+            "Accueil Vélo"
+          ],
+          "fr": [
+            "Accueil Vélo"
+          ],
+          "nl": [
+            "Accueil Vélo"
+          ],
+          "es": [
+            "Accueil Vélo"
+          ]
+        },
+        "isCompliantWith": [
+          "PlaceOfInterest"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/693cce50-2fb0-3aaa-be7e-7d2597620fce",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b745b488-f627-3f9e-9191-f71e531a5450",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/bc9a6b5e-fb22-36cc-b312-799e482de5db",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/62e5eeb4-33f6-3b24-82b1-eb51f2770da1",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d0015044-e453-39e3-b895-1c8bfa8357b6",
+          "schema:addressLocality": "Saintes",
+          "schema:postalCode": "17100",
+          "schema:streetAddress": [
+            "11 place de l'Abbaye"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17415",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saintes"
+              ],
+              "pt": [
+                "Saintes"
+              ],
+              "en": [
+                "Saintes"
+              ],
+              "it": [
+                "Saintes"
+              ],
+              "fr": [
+                "Saintes"
+              ],
+              "nl": [
+                "Saintes"
+              ],
+              "es": [
+                "Saintes"
+              ]
+            },
+            "insee": "17415",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/29e23bfd-1223-3a9e-9265-fe485b825ebe",
+        "schema:latitude": "45.744677",
+        "schema:longitude": "-0.624772",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/6788b742-800e-3e07-a704-c6181e0a8dd1",
+      "schema:email": [
+        "a.tonin@saintes-tourisme.fr",
+        "f.herbec@saintes-tourisme.fr",
+        "l.conan@saintes-tourisme.fr"
+      ],
+      "schema:legalName": "Office de Tourisme de Saintes & la Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.saintes-tourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-01-27",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.777Z"
+}

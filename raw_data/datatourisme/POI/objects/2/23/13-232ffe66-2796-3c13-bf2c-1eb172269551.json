@@ -1,0 +1,420 @@
+{
+  "@id": "https://data.datatourisme.fr/13/232ffe66-2796-3c13-bf2c-1eb172269551",
+  "dc:identifier": "5762181",
+  "@type": [
+    "Bridge",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RemarkableBuilding"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "In Tonnay-Charente befindet sich eine der ältesten Hängebrücken Europas."
+    ],
+    "en": [
+      "Launched in 1842 on the plans of Louis Dor, the Suspension Bridge is one of the oldest ones in Europe."
+    ],
+    "it": [
+      "Questo ponte, inaugurato nel 1842 su progetto di Louis Dor, è uno dei più antichi ponti sospesi d'Europa."
+    ],
+    "fr": [
+      "Ce pont inauguré en 1842 sur les plans de Louis Dor, est l'un des plus ancien pont suspendu d'Europe."
+    ],
+    "es": [
+      "Este puente, inaugurado en 1842 según el diseño de Louis Dor, es uno de los puentes colgantes más antiguos de Europa."
+    ],
+    "nl": [
+      "Deze brug, ingehuldigd in 1842 naar ontwerp van Louis Dor, is een van de oudste hangbruggen van Europa."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Hängebrücke"
+    ],
+    "en": [
+      "Suspension Bridge"
+    ],
+    "fr": [
+      "Pont Suspendu"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/9afefc52-942c-383c-bc1f-14b2139b09ba",
+    "dc:identifier": "2055",
+    "schema:email": [
+      "chloe.mailler@rochefort-ocean.com",
+      "christine.nourisson@rochefort-ocean.com",
+      "chrystelle.ecale@rochefort-ocean.com",
+      "lea.origlia@rochefort-ocean.com",
+      "sandrine.bouron@rochefort-ocean.com"
+    ],
+    "schema:legalName": "Office de Tourisme Rochefort Océan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.rochefort-ocean.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/bc2a0c39-0de8-3952-9111-49e26bc1a145",
+      "schema:telephone": [
+        "+33 5 46 82 14 30"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.tonnay-charente.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/6bd80db3-5186-33e9-a0be-6180a22edbf0",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/4ce25838-cf83-3ee2-b39a-2779d51c461f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4fb8f4f0-7792-3475-8d59-0d9586bda7cd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/61b61a55-354b-3d89-bb1f-ea2a47dce6a8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "In Tonnay-Charente befindet sich eine der ältesten Hängebrücken Europas."
+        ],
+        "en": [
+          "Launched in 1842 on the plans of Louis Dor, the Suspension Bridge is one of the oldest ones in Europe."
+        ],
+        "it": [
+          "Questo ponte, inaugurato nel 1842 su progetto di Louis Dor, è uno dei più antichi ponti sospesi d'Europa."
+        ],
+        "fr": [
+          "Ce pont inauguré en 1842 sur les plans de Louis Dor, est l'un des plus ancien pont suspendu d'Europe."
+        ],
+        "es": [
+          "Este puente, inaugurado en 1842 según el diseño de Louis Dor, es uno de los puentes colgantes más antiguos de Europa."
+        ],
+        "nl": [
+          "Deze brug, ingehuldigd in 1842 naar ontwerp van Louis Dor, is een van de oudste hangbruggen van Europa."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/8eb7631c-b900-37d6-8a77-a342cbb8dd9e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b6cb73ab-623a-342e-a0ba-429529fa7fdb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c4e3a419-0a8f-3b95-85ce-9e5f4fc34302",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/e263ce73-560b-3b8a-88f1-4c6c2b813092",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/4e3a6035-f83d-3493-8816-4948446fac9d",
+          "schema:addressLocality": "Tonnay-Charente",
+          "schema:postalCode": "17430",
+          "schema:streetAddress": [
+            "2 rue Alsace Lorraine"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17449",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Tonnay-Charente"
+              ],
+              "pt": [
+                "Tonnay-Charente"
+              ],
+              "en": [
+                "Tonnay-Charente"
+              ],
+              "it": [
+                "Tonnay-Charente"
+              ],
+              "fr": [
+                "Tonnay-Charente"
+              ],
+              "nl": [
+                "Tonnay-Charente"
+              ],
+              "es": [
+                "Tonnay-Charente"
+              ]
+            },
+            "insee": "17449",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/e51f01b5-6e8e-3894-9cfb-9b15aa8defaa",
+        "schema:latitude": "45.94163",
+        "schema:longitude": "-0.885429",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fed90c24-5b4e-374e-b413-9c9ae527b242",
+      "schema:email": [
+        "chloe.mailler@rochefort-ocean.com",
+        "christine.nourisson@rochefort-ocean.com",
+        "chrystelle.ecale@rochefort-ocean.com",
+        "lea.origlia@rochefort-ocean.com",
+        "sandrine.bouron@rochefort-ocean.com"
+      ],
+      "schema:legalName": "Office de Tourisme Rochefort Océan",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.rochefort-ocean.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-04-26",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.874Z"
+}

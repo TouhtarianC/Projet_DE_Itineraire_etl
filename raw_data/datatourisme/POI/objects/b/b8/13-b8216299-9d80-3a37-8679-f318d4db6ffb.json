@@ -1,0 +1,560 @@
+{
+  "@id": "https://data.datatourisme.fr/13/b8216299-9d80-3a37-8679-f318d4db6ffb",
+  "dc:identifier": "5718718",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Sie werden von dieser Kirche mit dem stolzen Aussehen einer Burg nicht enttäuscht sein..\r\nUnd das aus gutem Grund: Ihre Fassade wird von zwei Pfefferscharten flankiert, die durch einen zinnenbewehrten Wehrgang miteinander verbunden sind - Überreste einer Befestigungsanlage, die wahrscheinlich aus dem 15."
+    ],
+    "en": [
+      "You won't be disappointed by this castle-like church..\r\nAnd for good reason, its facade is flanked by two pepperpot watchtowers linked by a crenellated parapet walk, the remains of a fortification probably dating back to the 15th century."
+    ],
+    "it": [
+      "Non rimarrete delusi da questa chiesa dall'aspetto orgoglioso di un castello?\r\nE per una buona ragione: la sua facciata è fiancheggiata da due torri di guardia pezzate collegate da un parapetto merlato, resti di una fortificazione che risale probabilmente al XV secolo."
+    ],
+    "fr": [
+      "Vous ne serez pas déçus par cette église à la fière allure de château…\r\nEt pour cause, sa façade est flanquée de deux échauguettes en poivrières reliées par un chemin de ronde crénelé, vestiges d’une fortification remontant sans doute au 15ème siècle."
+    ],
+    "nl": [
+      "U zult niet teleurgesteld worden door deze kerk met zijn trotse kasteelachtige uiterlijk..\r\nEn met reden, de gevel wordt geflankeerd door twee gepeperde wachttorens die verbonden zijn door een gekanteelde loopbrug, de overblijfselen van een fortificatie die waarschijnlijk dateert uit de 15e eeuw."
+    ],
+    "es": [
+      "No le decepcionará esta iglesia con su orgulloso aspecto de castillo..\r\nY con razón, su fachada está flanqueada por dos torres de vigilancia salpicadas de pimienta y unidas por un parapeto almenado, restos de una fortificación que probablemente data del siglo XV."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Eglise Saint-Vivien - Ecoyeux"
+    ],
+    "fr": [
+      "Eglise Saint-Vivien d'Ecoyeux"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q3584681"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f8c0c968-6328-35cd-9333-08b1a494967f",
+    "dc:identifier": "2060",
+    "schema:email": [
+      "a.tonin@saintes-tourisme.fr",
+      "f.herbec@saintes-tourisme.fr",
+      "l.conan@saintes-tourisme.fr"
+    ],
+    "schema:legalName": "Office de Tourisme de Saintes & la Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.saintes-tourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/38943172-7e0c-3475-8614-96550489efb7",
+      "schema:telephone": [
+        "+33 5 46 95 96 51"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/db11bfe9-a6e4-3192-be79-27ea351ed3a1",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/07e1a3a2-cb2f-37a3-8a6b-b0ddf46edab9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/1aac19b7-a943-3eb9-805e-d03337ff9239",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4fe6a667-6ab9-3e67-8934-c8533c14823a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c1f40dcf-4a5e-3195-83d5-6f8e22f1aca4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dbed6c4c-7975-3313-897a-376ac61ae159",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Sie werden von dieser Kirche mit dem stolzen Aussehen einer Burg nicht enttäuscht sein..\r\nUnd das aus gutem Grund: Ihre Fassade wird von zwei Pfefferscharten flankiert, die durch einen zinnenbewehrten Wehrgang miteinander verbunden sind - Überreste einer Befestigungsanlage, die wahrscheinlich aus dem 15."
+        ],
+        "en": [
+          "You won't be disappointed by this castle-like church..\r\nAnd for good reason, its facade is flanked by two pepperpot watchtowers linked by a crenellated parapet walk, the remains of a fortification probably dating back to the 15th century."
+        ],
+        "it": [
+          "Non rimarrete delusi da questa chiesa dall'aspetto orgoglioso di un castello?\r\nE per una buona ragione: la sua facciata è fiancheggiata da due torri di guardia pezzate collegate da un parapetto merlato, resti di una fortificazione che risale probabilmente al XV secolo."
+        ],
+        "fr": [
+          "Vous ne serez pas déçus par cette église à la fière allure de château…\r\nEt pour cause, sa façade est flanquée de deux échauguettes en poivrières reliées par un chemin de ronde crénelé, vestiges d’une fortification remontant sans doute au 15ème siècle."
+        ],
+        "nl": [
+          "U zult niet teleurgesteld worden door deze kerk met zijn trotse kasteelachtige uiterlijk..\r\nEn met reden, de gevel wordt geflankeerd door twee gepeperde wachttorens die verbonden zijn door een gekanteelde loopbrug, de overblijfselen van een fortificatie die waarschijnlijk dateert uit de 15e eeuw."
+        ],
+        "es": [
+          "No le decepcionará esta iglesia con su orgulloso aspecto de castillo..\r\nY con razón, su fachada está flanqueada por dos torres de vigilancia salpicadas de pimienta y unidas por un parapeto almenado, restos de una fortificación que probablemente data del siglo XV."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/2ce31e14-4bcd-35a3-a9e0-5d80ea6b26e4",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/86739ff1-3355-396a-8e85-b3b41abc6504",
+          "ebucore:isCoveredBy": "CC BY-SA 4.0",
+          "ebucore:title": {
+            "fr": [
+              "Écoyeux (17) Église Saint-Vivien 03"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "GO69 (https://commons.wikimedia.org/wiki/User:GO69)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/b01dca68-5079-3d33-bdfb-e59fd9f2c20a",
+          "ebucore:fileSize": [
+            1674016
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1751,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/d/d6/%C3%89coyeux_%2817%29_%C3%89glise_Saint-Vivien_03.JPG"
+          ],
+          "ebucore:width": 1768,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/1a693460-2655-3608-ac29-c7a73a811560",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/1a96975f-4d0e-3d0a-b52b-3ce642687b82",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2e55c7fc-8622-3ce1-8cb4-e8ba4c844bc2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/43f64ae4-9d71-354d-827c-2f8cd6121774",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7cc72697-1822-35ae-bccd-77a97c51579c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/533e6c69-9517-37a7-93de-3c008a16b61b",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/01462cc6-4ae1-37c1-a9f1-674a1a63476c",
+          "schema:addressLocality": "Écoyeux",
+          "schema:postalCode": "17770",
+          "schema:streetAddress": [
+            "Impasse de l'Eglise"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17147",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Écoyeux"
+              ],
+              "pt": [
+                "Écoyeux"
+              ],
+              "en": [
+                "Écoyeux"
+              ],
+              "it": [
+                "Écoyeux"
+              ],
+              "fr": [
+                "Écoyeux"
+              ],
+              "nl": [
+                "Écoyeux"
+              ],
+              "es": [
+                "Écoyeux"
+              ]
+            },
+            "insee": "17147",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/3107662e-c6ec-3088-bb40-a474df8b4b5a",
+        "schema:latitude": "45.822222",
+        "schema:longitude": "-0.505223",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/6788b742-800e-3e07-a704-c6181e0a8dd1",
+      "schema:email": [
+        "a.tonin@saintes-tourisme.fr",
+        "f.herbec@saintes-tourisme.fr",
+        "l.conan@saintes-tourisme.fr"
+      ],
+      "schema:legalName": "Office de Tourisme de Saintes & la Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.saintes-tourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-12-13",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.715Z"
+}

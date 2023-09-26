@@ -1,0 +1,663 @@
+{
+  "@id": "https://data.datatourisme.fr/13/7299aee2-82e1-323d-9830-02f57b20fe56",
+  "dc:identifier": "5681825",
+  "@type": [
+    "CulturalSite",
+    "Mill",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die einzige funktionierende Gezeitenmühle der Region bietet Ihnen ein umfangreiches Unterhaltungsprogramm an"
+    ],
+    "en": [
+      "Located in the marshes of the river Seudre, le Moulin des Loges is a tide mill still functional and can be visited to this day."
+    ],
+    "it": [
+      "L'unico mulino a marea funzionante della regione offre un'ampia gamma di attività"
+    ],
+    "fr": [
+      "L'unique moulin à marée en fonctionnement de la région vous propose un large programme d'animations"
+    ],
+    "es": [
+      "El único molino de mareas en funcionamiento de la región ofrece una amplia gama de actividades"
+    ],
+    "nl": [
+      "De enige werkende getijdenmolen in de regio biedt een breed scala aan activiteiten"
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Moulin des Loges"
+    ],
+    "fr": [
+      "Moulin des Loges"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/845102e9-ddab-3e88-af4c-afdb6f088891",
+      "schema:email": [
+        "moulin-des-loges@marennes-oleron.com"
+      ],
+      "schema:telephone": [
+        "+33 7 82 31 42 27"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.moulin-des-loges.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/6be120a2-7251-3c99-a896-48a37bb65231",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3b127e85-8bcb-3dc7-a6ab-3a77c4aab945",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/84251607-a91a-3e42-9e60-b468d6f1138c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/aeb2e798-4ab9-3bf3-9f6b-9e18c1e5be8e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c383371d-8d2e-3286-9a80-cd31f5e21198",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die einzige funktionierende Gezeitenmühle der Region bietet Ihnen ein umfangreiches Unterhaltungsprogramm an"
+        ],
+        "en": [
+          "Located in the marshes of the river Seudre, le Moulin des Loges is a tide mill still functional and can be visited to this day."
+        ],
+        "it": [
+          "L'unico mulino a marea funzionante della regione offre un'ampia gamma di attività"
+        ],
+        "fr": [
+          "L'unique moulin à marée en fonctionnement de la région vous propose un large programme d'animations"
+        ],
+        "es": [
+          "El único molino de mareas en funcionamiento de la región ofrece una amplia gama de actividades"
+        ],
+        "nl": [
+          "De enige werkende getijdenmolen in de regio biedt een breed scala aan activiteiten"
+        ]
+      }
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/6e866798-cae5-351c-9e8d-963661217e60",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:LabelRating_AccueilVelo",
+        "@type": [
+          "LabelRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "Accueil Vélo"
+          ],
+          "pt": [
+            "Accueil Vélo"
+          ],
+          "en": [
+            "Accueil Vélo"
+          ],
+          "it": [
+            "Accueil Vélo"
+          ],
+          "fr": [
+            "Accueil Vélo"
+          ],
+          "nl": [
+            "Accueil Vélo"
+          ],
+          "es": [
+            "Accueil Vélo"
+          ]
+        },
+        "isCompliantWith": [
+          "PlaceOfInterest"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:BicycleTouring",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Radtourismus"
+        ],
+        "pt": [
+          "Cicloturismo"
+        ],
+        "en": [
+          "Bicycle touring"
+        ],
+        "it": [
+          "Cicloturismo"
+        ],
+        "fr": [
+          "Cyclotourisme"
+        ],
+        "nl": [
+          "Fietstoerisme"
+        ],
+        "es": [
+          "Cicloturismo"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Bike",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Fahrrad"
+        ],
+        "pt": [
+          "Bicicleta"
+        ],
+        "en": [
+          "Bike"
+        ],
+        "it": [
+          "Bicicletta"
+        ],
+        "fr": [
+          "Vélo"
+        ],
+        "nl": [
+          "Fiets"
+        ],
+        "es": [
+          "Bicicleta"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0bbab7bf-c0cd-3f08-80f8-2e8a840b952e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/559b26d8-0951-3c09-9717-9ae50cbb9572",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7560d47a-bd74-3fcb-83f6-8385846614fc",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/bd8daf74-d5ed-386a-9bd3-3df1b81c2d43",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/d532f53c-c180-3f77-9cb9-81227379c8d3",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/ed8a97f7-2378-3359-b1ce-7580869b397e",
+          "schema:addressLocality": "Saint-Just-Luzac",
+          "schema:postalCode": "17320",
+          "schema:streetAddress": [
+            "Route de Mauzac"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17351",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Just-Luzac"
+              ],
+              "pt": [
+                "Saint-Just-Luzac"
+              ],
+              "en": [
+                "Saint-Just-Luzac"
+              ],
+              "it": [
+                "Saint-Just-Luzac"
+              ],
+              "fr": [
+                "Saint-Just-Luzac"
+              ],
+              "nl": [
+                "Saint-Just-Luzac"
+              ],
+              "es": [
+                "Saint-Just-Luzac"
+              ]
+            },
+            "insee": "17351",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/32d934ab-9425-3bc0-b1d5-cf8d58163e46",
+        "schema:latitude": "45.806513",
+        "schema:longitude": "-1.092501",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/4eef348d-278e-32d1-9955-76baa0fe8913",
+          "schema:validFrom": "2023-05-19T00:00:00",
+          "schema:validThrough": "2023-09-17T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Die Agenda der Animationen ist auf der Website www.moulin-des-loges.com zu finden"
+            ],
+            "en": [
+              "The calendar of events is on the website www.moulin-des-loges.com"
+            ],
+            "it": [
+              "Il calendario degli eventi è disponibile sul sito web www.moulin-des-loges.com"
+            ],
+            "fr": [
+              "L'agenda des animations est sur le site internet www.moulin-des-loges.com"
+            ],
+            "es": [
+              "El calendario de eventos está en el sitio web www.moulin-des-loges.com"
+            ],
+            "nl": [
+              "De evenementenkalender staat op de website www.moulin-des-loges.com"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/25f0db0d-da5e-371c-97aa-39b2323820fa",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/44caf612-a649-3e1d-a014-c3fa222a0c9b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6aefb4ef-ee4a-30e1-b068-5c412c5ee76e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a744b0a1-e790-3693-ac01-2dfd6b116910",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c31879f8-4e32-3add-aca3-df2b21a44dc8",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/d7f018c3-c1ab-31f8-8901-4d29578edb89",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ile-oleron-marennes.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-04-11",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.303Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/9519465d-a4ff-33e3-b208-37d2c974ea2c",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/aa704d97-cdc6-3e12-a9ae-5b4c8dbd81a3",
+          "schema:maxPrice": [
+            "15",
+            "3",
+            "4",
+            "5"
+          ],
+          "schema:minPrice": [
+            "15",
+            "3",
+            "4",
+            "5"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/2bedf6d0-f915-3319-9dcd-3a5c8fad212b",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-09-17",
+              "startDate": "2023-05-19"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,492 @@
+{
+  "@id": "https://data.datatourisme.fr/13/5ccd26f4-ef0a-3b89-a7ae-a715cc288b68",
+  "dc:identifier": "5712201",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Dieser unter Berücksichtigung der Biodiversität angelegte Terrassengarten bildet eine Masche im weitläufigen ökologischen Gefüge des Charente-Tals."
+    ],
+    "en": [
+      "This terraced garden, designed with respect for biodiversity, is part of the vast ecological fabric of the Charente valley."
+    ],
+    "it": [
+      "Questo giardino terrazzato, progettato nel rispetto della biodiversità, fa parte del vasto tessuto ecologico della valle della Charente."
+    ],
+    "fr": [
+      "Ce jardin en terrasse conçu dans le respect de la biodiversité constitue une maille du vaste tissu écologique de la vallée de la Charente."
+    ],
+    "es": [
+      "Este jardín en terrazas, diseñado con respeto a la biodiversidad, forma parte del amplio tejido ecológico del valle de la Charente."
+    ],
+    "nl": [
+      "Deze terrastuin, ontworpen met respect voor de biodiversiteit, maakt deel uit van het uitgestrekte ecologische weefsel van de Charente-vallei."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Les Jardins Respectueux"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/0ae3f79a-3023-3b6c-85a6-f7d298ba1310",
+    "dc:identifier": "2065",
+    "schema:email": [
+      "elodie@destination-cognac.com",
+      "emmanuelle@destination-cognac.com",
+      "evelyne@destination-cognac.com",
+      "pascale@destination-cognac.com"
+    ],
+    "schema:legalName": "Destination Cognac",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.destination-cognac.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/52f88986-7de4-339b-a1ef-b6375cd8ce13",
+      "schema:email": [
+        "jardinrespectueux@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 5 45 80 81 15"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://lesjardinsrespectueux.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/0d17d459-6e0c-3a31-a796-78e8ea271191",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0b5d12b3-c686-3302-9eb5-66d1b93375a9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5fa8d2af-3b82-3b1b-afe3-522a68c72af1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7200a504-f963-37d3-ae50-c2606f6d7802",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Dieser unter Berücksichtigung der Biodiversität angelegte Terrassengarten bildet eine Masche im weitläufigen ökologischen Gefüge des Charente-Tals."
+        ],
+        "en": [
+          "This terraced garden, designed with respect for biodiversity, is part of the vast ecological fabric of the Charente valley."
+        ],
+        "it": [
+          "Questo giardino terrazzato, progettato nel rispetto della biodiversità, fa parte del vasto tessuto ecologico della valle della Charente."
+        ],
+        "fr": [
+          "Ce jardin en terrasse conçu dans le respect de la biodiversité constitue une maille du vaste tissu écologique de la vallée de la Charente."
+        ],
+        "es": [
+          "Este jardín en terrazas, diseñado con respeto a la biodiversidad, forma parte del amplio tejido ecológico del valle de la Charente."
+        ],
+        "nl": [
+          "Deze terrastuin, ontworpen met respect voor de biodiversiteit, maakt deel uit van het uitgestrekte ecologische weefsel van de Charente-vallei."
+        ]
+      }
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/6e866798-cae5-351c-9e8d-963661217e60",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:LabelRating_AccueilVelo",
+        "@type": [
+          "LabelRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "Accueil Vélo"
+          ],
+          "pt": [
+            "Accueil Vélo"
+          ],
+          "en": [
+            "Accueil Vélo"
+          ],
+          "it": [
+            "Accueil Vélo"
+          ],
+          "fr": [
+            "Accueil Vélo"
+          ],
+          "nl": [
+            "Accueil Vélo"
+          ],
+          "es": [
+            "Accueil Vélo"
+          ]
+        },
+        "isCompliantWith": [
+          "PlaceOfInterest"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/10be3f0a-3a03-39d9-9e98-35fdeda2bffb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e58ec595-1a6d-3bc2-b062-f32f9de0e309",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ea3af0d1-6179-3f48-b128-9a43594b77a1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f37ac39e-2cbc-3c4a-ba71-debbaff093c4",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/9204e932-1ef0-322f-827b-15bf8c8fefbd",
+          "schema:addressLocality": "Châteaubernard",
+          "schema:postalCode": "16100",
+          "schema:streetAddress": [
+            "65 rue de Bellevue"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16089",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Châteaubernard"
+              ],
+              "pt": [
+                "Châteaubernard"
+              ],
+              "en": [
+                "Châteaubernard"
+              ],
+              "it": [
+                "Châteaubernard"
+              ],
+              "fr": [
+                "Châteaubernard"
+              ],
+              "nl": [
+                "Châteaubernard"
+              ],
+              "es": [
+                "Châteaubernard"
+              ]
+            },
+            "insee": "16089",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/7fb5a2e6-99fb-31b0-abea-4e860fe1b585",
+        "schema:latitude": "45.686956",
+        "schema:longitude": "-0.289898",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/68f1f6a6-decb-3d2e-9ec2-e0d8af72979a",
+          "schema:closes": "18:00:00",
+          "schema:opens": "09:00:00",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b2f223ca-b3f8-38b3-9aef-bb09899fb1d3",
+      "schema:email": [
+        "elodie@destination-cognac.com",
+        "emmanuelle@destination-cognac.com",
+        "evelyne@destination-cognac.com",
+        "pascale@destination-cognac.com"
+      ],
+      "schema:legalName": "Destination Cognac",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.destination-cognac.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-03-01",
+  "lastUpdateDatatourisme": "2023-03-02T06:41:27.931Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/3ba235a0-1618-3237-9da8-38d2b5172755",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/31776d84-4f59-39e4-a530-ba6f031ce80c",
+          "schema:maxPrice": [
+            "3"
+          ],
+          "schema:minPrice": [
+            "3"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

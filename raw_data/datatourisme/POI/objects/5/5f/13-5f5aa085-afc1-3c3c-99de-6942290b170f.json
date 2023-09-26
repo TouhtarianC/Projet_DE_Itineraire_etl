@@ -1,0 +1,538 @@
+{
+  "@id": "https://data.datatourisme.fr/13/5f5aa085-afc1-3c3c-99de-6942290b170f",
+  "dc:identifier": "5671723",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Kirche St Jean-Baptiste de Voeuil et Giget (12. und 15. Jh.)."
+    ],
+    "en": [
+      "Church of St Jean-Baptiste de Voeuil et Giget (XII and XV th centuries)."
+    ],
+    "it": [
+      "Chiesa di San Jean-Baptiste de Voeuil et Giget (XII e XV secolo)."
+    ],
+    "fr": [
+      "Eglise St Jean-Baptiste de Voeuil et Giget (XII et XV èmes siècles)."
+    ],
+    "nl": [
+      "Kerk van St Jean-Baptiste de Voeuil et Giget (12e en 15e eeuw)."
+    ],
+    "es": [
+      "Iglesia de San Juan Bautista de Voeuil y Giget (siglos XII y XV)."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Eglise St Jean Baptiste de Voeuil et Giget"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f3e52c30-0b82-3a81-a3e7-ace55fe15c08",
+    "dc:identifier": "2053",
+    "schema:email": [
+      "snebout@angouleme-tourisme.com"
+    ],
+    "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.angouleme-tourisme.com/"
+    ],
+    "lastUpdateDatatourisme": "2022-12-19T06:44:07.571Z"
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/0cb28207-40f2-351e-9f60-8e254380631e",
+      "schema:telephone": [
+        "+33 5 45 67 95 18"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/af57e46c-426e-3039-8871-4df18f3e3563",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/243fe9d0-79eb-3f73-8ccb-b89e10db282c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/75312bb4-1573-3684-b6da-1191bbe1ca57",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b9ae1834-c93f-3534-bf80-3236de2032b0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d504000d-411c-3b4f-859f-a5d15a3fea61",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ef53db56-1dc3-3cda-b881-0c41c1cb9a52",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Kirche St Jean-Baptiste de Voeuil et Giget (12. und 15. Jh.)."
+        ],
+        "en": [
+          "Church of St Jean-Baptiste de Voeuil et Giget (XII and XV th centuries)."
+        ],
+        "it": [
+          "Chiesa di San Jean-Baptiste de Voeuil et Giget (XII e XV secolo)."
+        ],
+        "fr": [
+          "Eglise St Jean-Baptiste de Voeuil et Giget (XII et XV èmes siècles)."
+        ],
+        "nl": [
+          "Kerk van St Jean-Baptiste de Voeuil et Giget (12e en 15e eeuw)."
+        ],
+        "es": [
+          "Iglesia de San Juan Bautista de Voeuil y Giget (siglos XII y XV)."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/11730863-db5e-3193-a19e-c72b8d333be4",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3e9f9837-12d4-39b7-9d37-31a98c5492e2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/af11fe3b-6a22-3b77-9159-bd7d2e3ad98b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b27e4bcd-6cde-3dd3-9195-7dce619ddd7f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b679648e-b29b-3499-906c-92bd30200c63",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/52168e88-aac7-3077-9099-110e51800f55",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/57e2249a-23eb-36f2-b095-a546f34ff3a2",
+          "schema:addressLocality": "Vœuil-et-Giget",
+          "schema:postalCode": "16400",
+          "schema:streetAddress": [
+            "rue de Montmoreau"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16418",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Vœuil-et-Giget"
+              ],
+              "pt": [
+                "Vœuil-et-Giget"
+              ],
+              "en": [
+                "Vœuil-et-Giget"
+              ],
+              "it": [
+                "Vœuil-et-Giget"
+              ],
+              "fr": [
+                "Vœuil-et-Giget"
+              ],
+              "nl": [
+                "Vœuil-et-Giget"
+              ],
+              "es": [
+                "Vœuil-et-Giget"
+              ]
+            },
+            "insee": "16418",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/29bcbe3f-4dbf-3f6c-87f5-31c70c0942d8",
+        "schema:latitude": "45.585064",
+        "schema:longitude": "0.154389",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/e74d1f43-e393-3a5d-b54f-a48cfc97c9a5",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "auf Anfrage im Rathaus 05 45 67 95 18"
+            ],
+            "en": [
+              "on request at the town hall 05 45 67 95 18"
+            ],
+            "it": [
+              "su richiesta al municipio 05 45 67 95 18"
+            ],
+            "fr": [
+              "sur demande à la mairie 05 45 67  95 18"
+            ],
+            "nl": [
+              "op aanvraag bij het gemeentehuis 05 45 67 95 18"
+            ],
+            "es": [
+              "a petición en el ayuntamiento 05 45 67 95 18"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/6ced91d8-3ad0-328f-9c85-0273a1ac04ad",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6e7f2ec6-9240-3765-be86-011de4f1acc6",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/91ba6d33-5048-3739-b579-abe6f756e6ce",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/cf31efac-acd1-34de-918e-975c4189f9bd",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e834a6a0-9011-3d1c-9f2f-185fb0fbb772",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/65c93456-0984-3a13-aac5-3ae5946a15d8",
+      "schema:email": [
+        "snebout@angouleme-tourisme.com"
+      ],
+      "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.angouleme-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-21",
+  "lastUpdateDatatourisme": "2023-06-22T05:53:28.882Z"
+}

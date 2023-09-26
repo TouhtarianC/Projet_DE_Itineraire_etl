@@ -1,0 +1,462 @@
+{
+  "@id": "https://data.datatourisme.fr/13/41e33a50-03d5-3c1b-a935-bac70875d795",
+  "dc:identifier": "5777707",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Verkauf von Cognac, Pineau, Likören und Traubensaft.\r\nBesichtigung mit Verkostung montags bis samstags von 9 bis 19 Uhr nach Vereinbarung des Weinbergs, der Destillerie und der Weinkeller möglich. Sonntags geschlossen."
+    ],
+    "en": [
+      "Sale of cognac, pineau, liqueurs and grape juice.\r\nVisit with tasting possible from Monday to Saturday from 9 am to 7 pm by appointment of the vineyard, the distillery and the cellars. Closed on Sundays."
+    ],
+    "it": [
+      "Vendita di cognac, pineau, liquori e succo d'uva.\r\nVisita con degustazione possibile dal lunedì al sabato dalle 9 alle 19 su appuntamento del vigneto, della distilleria e delle cantine. Chiuso la domenica."
+    ],
+    "fr": [
+      "Vente de cognac, pineau, liqueurs et jus de raisin.\r\nVisite avec dégustation possible du lundi au samedi de 9h à 19h sur rendez-vous du vignoble, de la distillerie et des chais. Fermé le dimanche."
+    ],
+    "nl": [
+      "Verkoop van cognac, pineau, likeuren en druivensap.\r\nBezoek met proeverij mogelijk van maandag tot zaterdag van 9 tot 19 uur op afspraak van de wijngaard, de distilleerderij en de kelders. Gesloten op zondag."
+    ],
+    "es": [
+      "Venta de coñac, pineau, licores y zumo de uva.\r\nVisita con degustación posible de lunes a sábado de 9 a 19 horas con cita previa del viñedo, la destilería y las bodegas. Cerrado los domingos."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Pineau Cognac - Sigogneaud Gilles"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/d38ecbdb-fc1b-3679-bef3-921b74b97b5f",
+      "schema:email": [
+        "gillesigogneaud@orange.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 70 00 95",
+        "+33 6 81 09 67 48"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/6b50e1a6-55aa-333a-9179-de0d61d5d35b",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0e25d849-d830-3708-ae04-08d1a6d10b9d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/16c490b9-562e-3b8d-bf75-9d23da649425",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/27d04521-e2d6-37a4-adb9-7ec182ee0c29",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5ca025ba-6b30-39ec-98e4-c7b736793c30",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6449544b-c95e-3575-ab89-0df199eaedfb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Verkauf von Cognac, Pineau, Likören und Traubensaft.\r\nBesichtigung mit Verkostung montags bis samstags von 9 bis 19 Uhr nach Vereinbarung des Weinbergs, der Destillerie und der Weinkeller möglich. Sonntags geschlossen."
+        ],
+        "en": [
+          "Sale of cognac, pineau, liqueurs and grape juice.\r\nVisit with tasting possible from Monday to Saturday from 9 am to 7 pm by appointment of the vineyard, the distillery and the cellars. Closed on Sundays."
+        ],
+        "it": [
+          "Vendita di cognac, pineau, liquori e succo d'uva.\r\nVisita con degustazione possibile dal lunedì al sabato dalle 9 alle 19 su appuntamento del vigneto, della distilleria e delle cantine. Chiuso la domenica."
+        ],
+        "fr": [
+          "Vente de cognac, pineau, liqueurs et jus de raisin.\r\nVisite avec dégustation possible du lundi au samedi de 9h à 19h sur rendez-vous du vignoble, de la distillerie et des chais. Fermé le dimanche."
+        ],
+        "nl": [
+          "Verkoop van cognac, pineau, likeuren en druivensap.\r\nBezoek met proeverij mogelijk van maandag tot zaterdag van 9 tot 19 uur op afspraak van de wijngaard, de distilleerderij en de kelders. Gesloten op zondag."
+        ],
+        "es": [
+          "Venta de coñac, pineau, licores y zumo de uva.\r\nVisita con degustación posible de lunes a sábado de 9 a 19 horas con cita previa del viñedo, la destilería y las bodegas. Cerrado los domingos."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/53b32ffe-7c32-3859-8cfd-12b811930f4b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/707c32f0-b764-3e03-94e1-c97d825e5486",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b3301d1d-d659-3dc2-b29c-2db5559bcae0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cadb1764-bf0c-3795-ab77-13f0005293b1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cb4041a2-3449-3636-bfdc-82c6d59c5c90",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f31d2c3d-96c4-30f6-93aa-2631107d6742",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/32e27c14-8f70-39ff-8564-6cf777cb9ef3",
+          "schema:addressLocality": "Saint-Ciers-Champagne",
+          "schema:postalCode": "17520",
+          "schema:streetAddress": [
+            "\"Chez Paraise\""
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17316",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Ciers-Champagne"
+              ],
+              "pt": [
+                "Saint-Ciers-Champagne"
+              ],
+              "en": [
+                "Saint-Ciers-Champagne"
+              ],
+              "it": [
+                "Saint-Ciers-Champagne"
+              ],
+              "fr": [
+                "Saint-Ciers-Champagne"
+              ],
+              "nl": [
+                "Saint-Ciers-Champagne"
+              ],
+              "es": [
+                "Saint-Ciers-Champagne"
+              ]
+            },
+            "insee": "17316",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/0bb0b196-7bb0-3404-a868-465b3be25632",
+        "schema:latitude": "45.464023",
+        "schema:longitude": "-0.304595",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-02",
+  "lastUpdateDatatourisme": "2023-06-03T05:42:26.1Z"
+}

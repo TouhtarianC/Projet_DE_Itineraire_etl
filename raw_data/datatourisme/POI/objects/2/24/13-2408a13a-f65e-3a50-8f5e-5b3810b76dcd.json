@@ -1,0 +1,557 @@
+{
+  "@id": "https://data.datatourisme.fr/13/2408a13a-f65e-3a50-8f5e-5b3810b76dcd",
+  "dc:identifier": "5774416",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Kirche Saint-Romain in der Gemeinde Saint-Romain-de-Benet ist ein eher untypisches Bauwerk, das aus mehreren Wiederaufbaukampagnen hervorgegangen ist, die sich über fast acht Jahrhunderte erstreckten."
+    ],
+    "en": [
+      "The church of Saint-Romain, located in the commune of Saint-Romain-de-Benet, is a rather atypical-looking building, the result of several reconstruction campaigns that took place over nearly eight centuries."
+    ],
+    "it": [
+      "La chiesa di Saint-Romain, situata nel comune di Saint-Romain-de-Benet, è un edificio dall'aspetto piuttosto atipico, frutto di diverse ricostruzioni nel corso di quasi otto secoli."
+    ],
+    "fr": [
+      "L'église Saint-Romain, située sur la commune de Saint-Romain-de-Benet, est un édifice d'aspect assez atypique est issu de plusieurs campagnes de reconstructions, qui s'étalèrent sur près de huit siècles."
+    ],
+    "es": [
+      "La iglesia de Saint-Romain, situada en el municipio de Saint-Romain-de-Benet, es un edificio de aspecto bastante atípico, resultado de varias campañas de reconstrucción a lo largo de casi ocho siglos."
+    ],
+    "nl": [
+      "De kerk van Saint-Romain, gelegen in de gemeente Saint-Romain-de-Benet, is een nogal atypisch uitziend gebouw, het resultaat van verschillende verbouwingen gedurende bijna acht eeuwen."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Église Saint-Romain"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q22955703"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/2d5dd8be-bb6c-3c37-806e-4ba136e15a74",
+      "schema:telephone": [
+        "+33 5 46 02 00 10"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/afd136a4-646b-3738-bc5d-063a6cb638dd",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0318fc1b-6657-33c1-8b58-e966ed82a868",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/50ebac07-ed67-3eb1-8505-083d5a1afb99",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/881c1cc1-36c2-353d-a5d2-9260cdb58fa2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ecdc5776-b2ae-3ff4-9c53-f56a9bbbe7bd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ffdd67a6-6cfa-37f6-ae42-a1948bc0ba25",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Kirche Saint-Romain in der Gemeinde Saint-Romain-de-Benet ist ein eher untypisches Bauwerk, das aus mehreren Wiederaufbaukampagnen hervorgegangen ist, die sich über fast acht Jahrhunderte erstreckten."
+        ],
+        "en": [
+          "The church of Saint-Romain, located in the commune of Saint-Romain-de-Benet, is a rather atypical-looking building, the result of several reconstruction campaigns that took place over nearly eight centuries."
+        ],
+        "it": [
+          "La chiesa di Saint-Romain, situata nel comune di Saint-Romain-de-Benet, è un edificio dall'aspetto piuttosto atipico, frutto di diverse ricostruzioni nel corso di quasi otto secoli."
+        ],
+        "fr": [
+          "L'église Saint-Romain, située sur la commune de Saint-Romain-de-Benet, est un édifice d'aspect assez atypique est issu de plusieurs campagnes de reconstructions, qui s'étalèrent sur près de huit siècles."
+        ],
+        "es": [
+          "La iglesia de Saint-Romain, situada en el municipio de Saint-Romain-de-Benet, es un edificio de aspecto bastante atípico, resultado de varias campañas de reconstrucción a lo largo de casi ocho siglos."
+        ],
+        "nl": [
+          "De kerk van Saint-Romain, gelegen in de gemeente Saint-Romain-de-Benet, is een nogal atypisch uitziend gebouw, het resultaat van verschillende verbouwingen gedurende bijna acht eeuwen."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/75602464-eaef-3d20-9f74-236c81477ccb",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/0892d8fd-e248-3126-b3a6-60a22b52a92b",
+          "ebucore:isCoveredBy": "CC BY 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Saint-Romain-de-Benet et les vignobles"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Cobber17 (https://commons.wikimedia.org/wiki/User:Cobber17)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/866d77c1-79a7-3739-a667-54b8afb95175",
+          "ebucore:fileSize": [
+            4510847
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 2736,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/1/12/Saint-Romain-de-Benet_et_les_vignobles.JPG"
+          ],
+          "ebucore:width": 3648,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0b29df06-481b-3aa9-a590-14d2eada5153",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5c72e01a-ea6c-336b-b27b-808c5ee3df80",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/88079ae4-6477-3d87-80eb-3c955f571e1f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a8d0602a-fa26-3944-b6ad-25e5642e3f5f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d3f20e2f-1792-3ff5-b477-e5a0af440106",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/5c1b764e-872c-3762-9ee5-3f93f27fe321",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/f53dc8d8-6254-313b-94ac-7a638aa7d24a",
+          "schema:addressLocality": "Saint-Romain-de-Benet",
+          "schema:postalCode": "17600",
+          "schema:streetAddress": [
+            "Rue de la Poste"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17393",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Romain-de-Benet"
+              ],
+              "pt": [
+                "Saint-Romain-de-Benet"
+              ],
+              "en": [
+                "Saint-Romain-de-Benet"
+              ],
+              "it": [
+                "Saint-Romain-de-Benet"
+              ],
+              "fr": [
+                "Saint-Romain-de-Benet"
+              ],
+              "nl": [
+                "Saint-Romain-de-Benet"
+              ],
+              "es": [
+                "Saint-Romain-de-Benet"
+              ]
+            },
+            "insee": "17393",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/cc8b0161-40f0-38af-be07-6f69c163f274",
+        "schema:latitude": "45.69137",
+        "schema:longitude": "-0.848549",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-05-24",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.702Z"
+}

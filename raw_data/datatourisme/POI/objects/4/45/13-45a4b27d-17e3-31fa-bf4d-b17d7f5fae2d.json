@@ -1,0 +1,553 @@
+{
+  "@id": "https://data.datatourisme.fr/13/45a4b27d-17e3-31fa-bf4d-b17d7f5fae2d",
+  "dc:identifier": "5875741",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Museum, das in einer der ersten kommunalen Schulen eingerichtet ist, die im 19. Jahrhundert in der Charente gebaut wurden."
+    ],
+    "en": [
+      "Museum that was installed in one of the first schools built in Charente in the 19th century."
+    ],
+    "it": [
+      "Museo ospitato in una delle prime scuole comunali costruite nella Charente nel XIX secolo."
+    ],
+    "fr": [
+      "Musée installé dans une des premières écoles communales construites en Charente au 19ème siècle."
+    ],
+    "nl": [
+      "Museum gevestigd in een van de eerste gemeentelijke scholen die in de 19e eeuw in de Charente werden gebouwd."
+    ],
+    "es": [
+      "Museo ubicado en una de las primeras escuelas comunales construidas en la Charente en el siglo XIX."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Musée de l'école"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/a96d3afe-c184-366b-beca-7a9f989fc7e7",
+    "dc:identifier": "2056",
+    "schema:email": [
+      "infotouristique@destination-nordcharente.com"
+    ],
+    "schema:legalName": "Office de tourisme Destination Nord Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ruffecois-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/2a9de657-f9b4-37f9-9d69-fc8d15d7afa7",
+      "schema:email": [
+        "lduchiron@orange.fr"
+      ],
+      "schema:telephone": [
+        "+33 6 89 19 77 39"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/2f10bfa6-9acd-382b-ac05-fb8729612e1e",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/39901e3c-1520-3337-b310-0c6f42bf76da",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9696584d-1e18-35d2-ad96-63947eb1cd35",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b1789f74-4c76-310a-9c10-4128c0e1d6ab",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c9a7eb80-eea4-3966-a13a-84eefbe05ea3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Museum, das in einer der ersten kommunalen Schulen eingerichtet ist, die im 19. Jahrhundert in der Charente gebaut wurden."
+        ],
+        "en": [
+          "Museum that was installed in one of the first schools built in Charente in the 19th century."
+        ],
+        "it": [
+          "Museo ospitato in una delle prime scuole comunali costruite nella Charente nel XIX secolo."
+        ],
+        "fr": [
+          "Musée installé dans une des premières écoles communales construites en Charente au 19ème siècle."
+        ],
+        "nl": [
+          "Museum gevestigd in een van de eerste gemeentelijke scholen die in de 19e eeuw in de Charente werden gebouwd."
+        ],
+        "es": [
+          "Museo ubicado en una de las primeras escuelas comunales construidas en la Charente en el siglo XIX."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/889bc1b7-e6c7-394a-b67c-cff8d3e4ea85",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/93dd2d73-d12b-3b8f-b279-fa4fd0955bdf",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a00d27a5-356d-3858-9c9f-10986a98ac29",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/bcc6685f-c36c-3c60-a4a2-956f4260af42",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b9cda8b0-e8f5-3d80-8d7b-c24a4c9ce28d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/807dad44-9f3e-3432-a35d-4eb9bc5100ca",
+          "schema:addressLocality": "Saint-Fraigne",
+          "schema:postalCode": "16140",
+          "schema:streetAddress": [
+            "1, D737",
+            "Le bourg"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16317",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Fraigne"
+              ],
+              "pt": [
+                "Saint-Fraigne"
+              ],
+              "en": [
+                "Saint-Fraigne"
+              ],
+              "it": [
+                "Saint-Fraigne"
+              ],
+              "fr": [
+                "Saint-Fraigne"
+              ],
+              "nl": [
+                "Saint-Fraigne"
+              ],
+              "es": [
+                "Saint-Fraigne"
+              ]
+            },
+            "insee": "16317",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/9340cbc0-da91-38bd-a7a3-0853fdb78d70",
+        "schema:latitude": "45.953023",
+        "schema:longitude": "-0.00906",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/9c205660-a5f8-3e2a-bae8-d1bc4abcd079",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Auf RDV"
+            ],
+            "en": [
+              "By appointment"
+            ],
+            "it": [
+              "Su appuntamento"
+            ],
+            "fr": [
+              "Sur RDV"
+            ],
+            "nl": [
+              "Op afspraak"
+            ],
+            "es": [
+              "Con cita previa"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/50cb2dd0-0b7b-395d-bfbc-b62bedfabe91",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/5a479462-9350-3345-8795-782041631b03",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/80d5a89f-4225-3d7e-afd2-1c60c440adfc",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/876fa3b8-45d7-3808-8f0a-664431077c0f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a6b9198d-5582-37a4-8743-8ce0dd986b8c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/515fb63a-6beb-307d-a0d6-d59e3e2d3f76",
+      "schema:email": [
+        "infotouristique@destination-nordcharente.com"
+      ],
+      "schema:legalName": "Office de tourisme Destination Nord Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ruffecois-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-03",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.353Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/f46d213d-29b8-343f-890e-98ffea0e7422",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f2d3c240-3fe2-3a63-9e4d-1f58937f077b",
+          "schema:maxPrice": [
+            "1",
+            "3"
+          ],
+          "schema:minPrice": [
+            "1",
+            "3"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

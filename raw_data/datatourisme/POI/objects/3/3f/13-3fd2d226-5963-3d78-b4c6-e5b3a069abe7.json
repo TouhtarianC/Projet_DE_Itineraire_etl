@@ -1,0 +1,585 @@
+{
+  "@id": "https://data.datatourisme.fr/13/3fd2d226-5963-3d78-b4c6-e5b3a069abe7",
+  "dc:identifier": "6107442",
+  "@type": [
+    "CulturalSite",
+    "Farm",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace",
+    "TeachingFarm",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Pädagogischer Bauernhof und Eselreiten auf halbem Weg zwischen Corme-Écluse und Semussac. Sie möchten Ihren Freunden und Verwandten eine unbekannte Tätigkeit näher bringen. Besuchen Sie uns auf unserem Bauernhof, um sich über unseren Beruf als Landwirt auszutauschen und zu teilen."
+    ],
+    "en": [
+      "Educational farm and donkey ride halfway between Corme-Ecluse and Semussac. You wish to make discover an unknown activity to your close relations. Come and join us on our farm in order to exchange and share about our profession of farmer."
+    ],
+    "it": [
+      "Fattoria didattica e passeggiata con gli asini a metà strada tra Corme-Écluse e Semussac. Volete far scoprire un'attività sconosciuta ai vostri parenti più stretti. Venite a trovarci nella nostra azienda agricola per scambiare e condividere informazioni sulla nostra professione di agricoltori."
+    ],
+    "fr": [
+      "Ferme pédagogique et balade à dos d'âne à mi-chemin entre Corme-Écluse et Semussac. Vous souhaitez faire découvrir une activité méconnue à vos proches. Venez nous rejoindre sur notre ferme afin d'échanger et partager sur notre métier d'agriculteur."
+    ],
+    "es": [
+      "Granja educativa y paseo en burro a medio camino entre Corme-Écluse y Semussac. Desea hacer descubrir una actividad desconocida para sus allegados. Acompáñenos a nuestra granja para intercambiar y compartir información sobre nuestra profesión de agricultores."
+    ],
+    "nl": [
+      "Educatieve boerderij en ezeltocht halverwege tussen Corme-Écluse en Semussac. U wilt een onbekende activiteit laten ontdekken door uw naasten. Kom naar onze boerderij om informatie over ons beroep als landbouwer uit te wisselen en te delen."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Ferme Pédagogique de La Cressonnière"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/223f2266-ac5b-30ce-9795-c4afd65079a9",
+      "schema:email": [
+        "mac.steph@orange.fr"
+      ],
+      "schema:telephone": [
+        "+33 6 40 10 09 43",
+        "+33 6 42 03 46 16"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lesanesdelacressonniere.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/43f52977-a231-35a3-b043-74f320d725b1",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/08da9ff1-92ae-3d6e-ae40-e44eab67806a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/75f15647-beed-35e0-90c8-cc284ae5f894",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8b1a2325-a5af-39c9-8e24-287608e7337f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ba899a1c-5528-3bf4-bfe2-b0b3fc8f8afb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dcad5224-ce2b-32b8-be79-135717b2e146",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Pädagogischer Bauernhof und Eselreiten auf halbem Weg zwischen Corme-Écluse und Semussac. Sie möchten Ihren Freunden und Verwandten eine unbekannte Tätigkeit näher bringen. Besuchen Sie uns auf unserem Bauernhof, um sich über unseren Beruf als Landwirt auszutauschen und zu teilen."
+        ],
+        "en": [
+          "Educational farm and donkey ride halfway between Corme-Ecluse and Semussac. You wish to make discover an unknown activity to your close relations. Come and join us on our farm in order to exchange and share about our profession of farmer."
+        ],
+        "it": [
+          "Fattoria didattica e passeggiata con gli asini a metà strada tra Corme-Écluse e Semussac. Volete far scoprire un'attività sconosciuta ai vostri parenti più stretti. Venite a trovarci nella nostra azienda agricola per scambiare e condividere informazioni sulla nostra professione di agricoltori."
+        ],
+        "fr": [
+          "Ferme pédagogique et balade à dos d'âne à mi-chemin entre Corme-Écluse et Semussac. Vous souhaitez faire découvrir une activité méconnue à vos proches. Venez nous rejoindre sur notre ferme afin d'échanger et partager sur notre métier d'agriculteur."
+        ],
+        "es": [
+          "Granja educativa y paseo en burro a medio camino entre Corme-Écluse y Semussac. Desea hacer descubrir una actividad desconocida para sus allegados. Acompáñenos a nuestra granja para intercambiar y compartir información sobre nuestra profesión de agricultores."
+        ],
+        "nl": [
+          "Educatieve boerderij en ezeltocht halverwege tussen Corme-Écluse en Semussac. U wilt een onbekende activiteit laten ontdekken door uw naasten. Kom naar onze boerderij om informatie over ons beroep als landbouwer uit te wisselen en te delen."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/090827e1-5630-3d7d-b728-60cb88ded0c0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2601223c-e71d-348e-ae53-01f32a148023",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3d6b935c-479e-32df-b501-13f384fc25ba",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a3a46150-d9c2-3c1d-9fa6-e0f3f23726c5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fa4940a3-0b81-3de8-99e7-fbec775b0005",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/773fad7d-8092-3e9f-bf4d-1fb7ce699397",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/6b4ea8e3-a7b0-338d-b08b-7efa68558b36",
+          "schema:addressLocality": "Corme-Écluse",
+          "schema:postalCode": "17600",
+          "schema:streetAddress": [
+            "Fief du Clône"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17119",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Corme-Écluse"
+              ],
+              "pt": [
+                "Corme-Écluse"
+              ],
+              "en": [
+                "Corme-Écluse"
+              ],
+              "it": [
+                "Corme-Écluse"
+              ],
+              "fr": [
+                "Corme-Écluse"
+              ],
+              "nl": [
+                "Corme-Écluse"
+              ],
+              "es": [
+                "Corme-Écluse"
+              ]
+            },
+            "insee": "17119",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/9d4b3b70-826e-30ec-acb7-1fcee7de2066",
+        "schema:latitude": "45.614897",
+        "schema:longitude": "-0.88475",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/4bd28ca5-c71b-34ab-888e-487955519d5c",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Während der Schulferien von Montag bis Samstag geöffnet. Den Rest des Jahres mittwochs und samstags geöffnet."
+            ],
+            "en": [
+              "Open from Monday to Saturday during school vacations. The rest of the year open on Wednesday and Saturday."
+            ],
+            "it": [
+              "Aperto dal lunedì al sabato durante le vacanze scolastiche. Il resto dell'anno è aperto il mercoledì e il sabato."
+            ],
+            "fr": [
+              "Ouvert du lundi au samedi durant les vacances scolaires. Le reste de l'année ouvert le mercredi et samedi."
+            ],
+            "nl": [
+              "Geopend van maandag tot zaterdag tijdens de schoolvakanties. De rest van het jaar open op woensdag en zaterdag."
+            ],
+            "es": [
+              "Abierto de lunes a sábado durante las vacaciones escolares. El resto del año abre los miércoles y sábados."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/499e2a28-6424-3549-afe2-6ae41bc61694",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/541ecbd4-9658-35a2-8ad4-2b8e079f9fec",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/5ff8c0cb-29f3-39f4-b0a2-c0cdf21efe3d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/703dc49a-944d-3d9c-b035-17127ab58bc2",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/7ead0f62-996f-3543-913f-a40015800a81",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-03-10",
+  "lastUpdateDatatourisme": "2023-03-11T06:57:04.744Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/d773fb4b-f0b5-30b9-9f90-aaa7f8e70b25",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/a69832e4-a767-31af-ac9d-a458391edeec",
+          "schema:maxPrice": [
+            "7"
+          ],
+          "schema:minPrice": [
+            "7"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

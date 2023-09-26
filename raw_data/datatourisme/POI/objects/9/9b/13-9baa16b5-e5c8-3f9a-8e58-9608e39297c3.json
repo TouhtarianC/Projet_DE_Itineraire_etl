@@ -1,0 +1,683 @@
+{
+  "@id": "https://data.datatourisme.fr/13/9baa16b5-e5c8-3f9a-8e58-9608e39297c3",
+  "dc:identifier": "5774327",
+  "@type": [
+    "CulturalSite",
+    "Lighthouse",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Der Leuchtturm von Vallières ist ein unumgängliches historisches Denkmal von Saint-Georges und bietet Ihnen einen unvergesslichen Panoramablick auf die umliegenden Conches und den Horizont des Ozeans."
+    ],
+    "en": [
+      "The Vallières Lighthouse is a historic monument in Saint-Georges and offers an unforgettable panoramic view of the surrounding conches and the ocean horizon."
+    ],
+    "it": [
+      "Il Faro di Vallières è un monumento storico di Saint-Georges e offre una vista panoramica indimenticabile sulle conche circostanti e sull'orizzonte oceanico."
+    ],
+    "fr": [
+      "Monument Historique incontournable de Saint-Georges, le Phare de Vallières vous offrira une vue panoramique inoubliable sur les conches avoisinantes et l'horizon océanique."
+    ],
+    "es": [
+      "El faro de Vallières es un monumento histórico de Saint-Georges y ofrece una inolvidable vista panorámica de las caracolas circundantes y del horizonte oceánico."
+    ],
+    "nl": [
+      "De vuurtoren van Vallières is een historisch monument in Saint-Georges en biedt een onvergetelijk panoramisch uitzicht op de omliggende kreken en de horizon van de oceaan."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Phare de Vallières"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q3378425"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a746782e-13d6-37ff-92a1-ec280c5ed191",
+      "schema:email": [
+        "mairie@sgdd.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 05 07 27",
+        "+33 5 46 05 58 05"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.saintgeorgesdedidonne.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/e4646c48-a984-3134-af97-7af25c0c5005",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3e30e41c-5dd5-38d5-90f0-5dac5c467268",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/634d6d65-078b-3905-b1ee-2e1675775ab8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7b75e72b-a197-3020-9d1c-f91486cd86f1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7bb963a7-6b0c-31f3-913e-a1573d98e3be",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d956195b-df20-39bf-8802-0a7a9e5c9461",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Der Leuchtturm von Vallières ist ein unumgängliches historisches Denkmal von Saint-Georges und bietet Ihnen einen unvergesslichen Panoramablick auf die umliegenden Conches und den Horizont des Ozeans."
+        ],
+        "en": [
+          "The Vallières Lighthouse is a historic monument in Saint-Georges and offers an unforgettable panoramic view of the surrounding conches and the ocean horizon."
+        ],
+        "it": [
+          "Il Faro di Vallières è un monumento storico di Saint-Georges e offre una vista panoramica indimenticabile sulle conche circostanti e sull'orizzonte oceanico."
+        ],
+        "fr": [
+          "Monument Historique incontournable de Saint-Georges, le Phare de Vallières vous offrira une vue panoramique inoubliable sur les conches avoisinantes et l'horizon océanique."
+        ],
+        "es": [
+          "El faro de Vallières es un monumento histórico de Saint-Georges y ofrece una inolvidable vista panorámica de las caracolas circundantes y del horizonte oceánico."
+        ],
+        "nl": [
+          "De vuurtoren van Vallières is een historisch monument in Saint-Georges en biedt een onvergetelijk panoramisch uitzicht op de omliggende kreken en de horizon van de oceaan."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/26b52706-8500-3c53-91e2-22eeb31bb55c",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/5e3baccc-157a-30a7-a73f-bb0c5c629a1d",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Phare de Vallières 2"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Dimimis (https://commons.wikimedia.org/wiki/User:Dimimis)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/515a68ca-6fb8-358d-a683-aa0d8dc5acc9",
+          "ebucore:fileSize": [
+            3627577
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 4320,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/0/00/Phare_de_Valli%C3%A8res_2.JPG"
+          ],
+          "ebucore:width": 3240,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/18f5febb-481c-386b-88c6-03d47d45a463",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/27829522-bc4c-3a3b-9b8e-9b9f749545ba",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2dcd7774-6c4b-3609-a256-00e095382d63",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/342609e2-b9ba-38b6-8123-727359ac481f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f0a50814-9dcd-3e0b-adb1-0d20f9b9ba14",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/8e2d433a-a5e8-3955-a9a9-9fc4189e4fb2",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/9ef06533-74c5-3da9-ada4-7a33421c1493",
+          "schema:addressLocality": "Saint-Georges-de-Didonne",
+          "schema:postalCode": "17110",
+          "schema:streetAddress": [
+            "96 rue du Port"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17333",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Georges-de-Didonne"
+              ],
+              "pt": [
+                "Saint-Georges-de-Didonne"
+              ],
+              "en": [
+                "Saint-Georges-de-Didonne"
+              ],
+              "it": [
+                "Saint-Georges-de-Didonne"
+              ],
+              "fr": [
+                "Saint-Georges-de-Didonne"
+              ],
+              "nl": [
+                "Saint-Georges-de-Didonne"
+              ],
+              "es": [
+                "Saint-Georges-de-Didonne"
+              ]
+            },
+            "insee": "17333",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/3acfac4f-3be2-3603-b691-dc7ae761ec1f",
+        "schema:latitude": "45.59822",
+        "schema:longitude": "-1.008103",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/bfe5da85-c7e7-3c43-8dc8-53f548b04659",
+          "schema:validFrom": "2023-06-16T00:00:00",
+          "schema:validThrough": "2023-09-17T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Geöffnet von 10:00 bis 12:30 Uhr und von 15:30 bis 19:00 Uhr"
+            ],
+            "en": [
+              "Open from 10am to 12:30pm and from 3:30pm to 7pm"
+            ],
+            "it": [
+              "Aperto dalle 10.00 alle 12.30 e dalle 15.30 alle 19.00"
+            ],
+            "fr": [
+              "Ouvert de 10h à 12h30 et de 15h30 à 19h"
+            ],
+            "nl": [
+              "Open van 10.00 tot 12.30 uur en van 15.30 tot 19.00 uur"
+            ],
+            "es": [
+              "Abierto de 10.00 a 12.30 h. y de 15.30 a 19.00 h"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/500b4689-887b-3566-a5c5-fcc69049ed5d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/74e70242-36c2-34ca-aecb-c524eaaf636a",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/87c394ac-4cf1-37c6-ac84-6c91114257b7",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ae53a3a7-47e9-305c-9a69-3ce2715687d8",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d357df94-1fc1-3081-887a-ee6446dc6551",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-05-25",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.281Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/7a87d735-c7fc-3151-b600-e2d99775dc62",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/52ff5799-c0f8-3fac-81d6-eea3039aa8a0",
+          "schema:maxPrice": [
+            "1.5",
+            "3"
+          ],
+          "schema:minPrice": [
+            "1.5",
+            "3"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/70f002f5-d951-3d7c-b9df-ac212f3b0c18",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-09-17",
+              "startDate": "2023-06-16"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

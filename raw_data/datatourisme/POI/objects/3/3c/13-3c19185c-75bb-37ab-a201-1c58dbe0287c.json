@@ -1,0 +1,542 @@
+{
+  "@id": "https://data.datatourisme.fr/13/3c19185c-75bb-37ab-a201-1c58dbe0287c",
+  "dc:identifier": "5707367",
+  "@type": [
+    "schema:Landform",
+    "Beach",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Dieser Sandstrand ist ideal zum Baden für die ganze Familie. Er befindet sich in der Nähe des Yachthafens von Saint-Denis und zahlreicher Restaurants und Geschäfte. Er verfügt über einen kostenlosen Parkplatz in der Nähe."
+    ],
+    "en": [
+      "This sandy beach is ideal for family bathing, it is located near the marina of Saint-Denis and many restaurants and shops. Free parking is available nearby."
+    ],
+    "it": [
+      "Questa spiaggia sabbiosa è ideale per i bagni in famiglia e si trova vicino al porto turistico di Saint-Denis e a numerosi ristoranti e negozi. Nelle vicinanze si trova un parcheggio gratuito."
+    ],
+    "fr": [
+      "Cette plage de sable est idéale pour la baignade en famille, elle est située à proximité du port de plaisance de Saint-Denis et de nombreux restaurants et commerces. Elle dispose d'un parking gratuit à proximité."
+    ],
+    "es": [
+      "Esta playa de arena es ideal para el baño en familia y está situada cerca del puerto deportivo de Saint-Denis y de numerosos restaurantes y tiendas. Hay aparcamiento gratuito en las inmediaciones."
+    ],
+    "nl": [
+      "Dit zandstrand is ideaal om met het gezin te zwemmen en ligt vlakbij de jachthaven van Saint-Denis en vele restaurants en winkels. Er is gratis parkeergelegenheid in de buurt."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Plage de la Boirie"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/42483d24-f870-381f-a66b-ca2f095f8356",
+      "schema:telephone": [
+        "+33 5 46 47 85 48"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/4f2ebf83-43e8-395d-bdd4-dc99680ffd5b",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/23ede667-3d49-3838-a907-636345526521",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/580c80cf-3c79-31c3-b4b2-e728b1dd8695",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7a86f996-0c63-361f-83d9-fa9042ccb582",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7e6a1100-b416-368e-bbdc-fa37e5c7dea1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8d083b4a-4f22-3374-9f19-15f1cb2c1f9c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Dieser Sandstrand ist ideal zum Baden für die ganze Familie. Er befindet sich in der Nähe des Yachthafens von Saint-Denis und zahlreicher Restaurants und Geschäfte. Er verfügt über einen kostenlosen Parkplatz in der Nähe."
+        ],
+        "en": [
+          "This sandy beach is ideal for family bathing, it is located near the marina of Saint-Denis and many restaurants and shops. Free parking is available nearby."
+        ],
+        "it": [
+          "Questa spiaggia sabbiosa è ideale per i bagni in famiglia e si trova vicino al porto turistico di Saint-Denis e a numerosi ristoranti e negozi. Nelle vicinanze si trova un parcheggio gratuito."
+        ],
+        "fr": [
+          "Cette plage de sable est idéale pour la baignade en famille, elle est située à proximité du port de plaisance de Saint-Denis et de nombreux restaurants et commerces. Elle dispose d'un parking gratuit à proximité."
+        ],
+        "es": [
+          "Esta playa de arena es ideal para el baño en familia y está situada cerca del puerto deportivo de Saint-Denis y de numerosos restaurantes y tiendas. Hay aparcamiento gratuito en las inmediaciones."
+        ],
+        "nl": [
+          "Dit zandstrand is ideaal om met het gezin te zwemmen en ligt vlakbij de jachthaven van Saint-Denis en vele restaurants en winkels. Er is gratis parkeergelegenheid in de buurt."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Bathing",
+      "@type": [
+        "AccommodationAmenity",
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Baden"
+        ],
+        "pt": [
+          "Banho"
+        ],
+        "en": [
+          "Bathing"
+        ],
+        "it": [
+          "Bagno"
+        ],
+        "fr": [
+          "Baignade"
+        ],
+        "nl": [
+          "Zwemmen"
+        ],
+        "es": [
+          "Baño"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/7841293e-3148-3802-98e8-c1840abda4d5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7a434c3d-9c7b-34d9-a5e2-5b396ff5ee60",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7d9e9d91-3b3a-31c1-b724-d1bf8305c496",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a61b9eab-d0f2-3d5c-8567-9c193472081c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c0f7fb04-e452-3032-a1f0-80fcad7e17ba",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/e2337e6f-d49d-3dfb-9e8b-443569a68783",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/7bb2621e-a97c-36e8-b6f9-56c5efd52d8b",
+          "schema:addressLocality": "Saint-Denis-d'Oléron",
+          "schema:postalCode": "17650",
+          "schema:streetAddress": [
+            "Plage de la Boirie"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17323",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "pt": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "en": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "it": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "fr": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "nl": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "es": [
+                "Saint-Denis-d'Oléron"
+              ]
+            },
+            "insee": "17323",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/c1935ff4-efda-35a0-b88d-7d9b8a8edec9",
+        "schema:latitude": "46.033821",
+        "schema:longitude": "-1.371936",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/ac85ea09-e568-3eb4-b09b-8bb05649a7db",
+          "schema:closes": "19:00:00",
+          "schema:opens": "11:00:00",
+          "schema:validFrom": "2023-07-08T00:00:00",
+          "schema:validThrough": "2023-08-27T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Bewachter Strand"
+            ],
+            "en": [
+              "Watched beach"
+            ],
+            "it": [
+              "Spiaggia sorvegliata"
+            ],
+            "fr": [
+              "Plage surveillée"
+            ],
+            "es": [
+              "Playa vigilada"
+            ],
+            "nl": [
+              "Bewaakt strand"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/3bd2b73d-be21-34c3-9342-01c07319ed44",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/76bd7d29-bcee-364c-adcd-bbdd5284ad0d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/806af8af-055f-3856-b917-b77c43706f00",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a654e69e-55bf-3a5a-a565-754f4080ff35",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/db2fbd64-bc3a-374f-a45f-2a11cdad94e3",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/80009736-71af-3484-9792-2b3de63306d1",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-27",
+  "lastUpdateDatatourisme": "2023-06-28T05:53:37.578Z"
+}

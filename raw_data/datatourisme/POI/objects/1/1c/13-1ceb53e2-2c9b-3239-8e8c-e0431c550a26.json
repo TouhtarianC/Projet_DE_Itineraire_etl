@@ -1,0 +1,674 @@
+{
+  "@id": "https://data.datatourisme.fr/13/1ceb53e2-2c9b-3239-8e8c-e0431c550a26",
+  "dc:identifier": "5676736",
+  "@type": [
+    "Castle",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RemarkableBuilding"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Mittelalterliche Burg aus dem 11., 13. und 15. Jahrhundert\r\nReservierung unter der Woche nach Vereinbarung."
+    ],
+    "en": [
+      "Medieval castle of the 11th, 13th, 15th centuries\r\nReservation during the week by appointment."
+    ],
+    "it": [
+      "Castello medievale dell'XI, XIII e XV secolo\r\nPrenotazione durante la settimana su appuntamento."
+    ],
+    "fr": [
+      "Château médiéval des XIe, XIIIe, XVe siècles. \r\nRéservation en semaine sur rendez-vous."
+    ],
+    "nl": [
+      "Middeleeuws kasteel uit de 11e, 13e en 15e eeuw\r\nReservering tijdens de week op afspraak."
+    ],
+    "es": [
+      "Castillo medieval de los siglos XI, XIII y XV\r\nReserva durante la semana con cita previa."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Château de Peyras"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q2970206"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/584b98aa-c2dd-3f59-ae2c-f19ca4ccb75e",
+    "dc:identifier": "2052",
+    "schema:email": [
+      "fatiha.guetarni@charente-limousine.fr",
+      "marc.vachot@charente-limousine.fr"
+    ],
+    "schema:legalName": "Office de Tourisme Charente Limousine",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/73b43d24-77f3-3f9f-b1e1-76654daece50",
+      "schema:email": [
+        "guy.broin@wanadoo.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 71 25 25"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://compagnonpeyras.wixsite.com/acceuil"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/852112cd-61b3-30cc-9a51-9364828198b8",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/288456ac-5652-3389-ab3c-8a9c34353355",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d36285bf-110e-322b-a3d3-13153b6deb00",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d85261e9-aeab-322f-9bb2-2b300715c34c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e004b934-6386-3e0c-88d5-d90fcd0c7cbd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e108c058-2898-376d-9984-ecafc4d37742",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Mittelalterliche Burg aus dem 11., 13. und 15. Jahrhundert\r\nReservierung unter der Woche nach Vereinbarung."
+        ],
+        "en": [
+          "Medieval castle of the 11th, 13th, 15th centuries\r\nReservation during the week by appointment."
+        ],
+        "it": [
+          "Castello medievale dell'XI, XIII e XV secolo\r\nPrenotazione durante la settimana su appuntamento."
+        ],
+        "fr": [
+          "Château médiéval des XIe, XIIIe, XVe siècles. \r\nRéservation en semaine sur rendez-vous."
+        ],
+        "nl": [
+          "Middeleeuws kasteel uit de 11e, 13e en 15e eeuw\r\nReservering tijdens de week op afspraak."
+        ],
+        "es": [
+          "Castillo medieval de los siglos XI, XIII y XV\r\nReserva durante la semana con cita previa."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/8e416925-fe1c-34a6-bf4f-91ab25c6b75a",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/401561f8-4ca4-3bb0-bbc2-44abcc8e4718",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Roumaz peyras4"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Jack ma (https://commons.wikimedia.org/wiki/User:Jack_ma)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/66d76cc2-58f0-3d5a-a383-c4d687196a87",
+          "ebucore:fileSize": [
+            328764
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1200,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/2/28/Roumaz_peyras4.JPG"
+          ],
+          "ebucore:width": 1600,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/103ffedc-60f7-3c01-a4da-060c40ff3748",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/1fd28f60-e5c8-3b71-bfa2-5fb5018939fa",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/61c3b645-5f56-3a0f-b58e-d0a890984849",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9e48c425-06b9-3407-b77e-9aa88e1f3bfc",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/df843972-1945-3783-b41b-9bc866df2f0e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b8d11f43-1c51-3b6b-9d38-ab141009ef04",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1ecba2df-c27a-30be-b51b-a79b0f6b7437",
+          "schema:addressLocality": "Terres-de-Haute-Charente",
+          "schema:postalCode": "16270",
+          "schema:streetAddress": [
+            "Château de Peyras"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16192",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Terres-de-Haute-Charente"
+              ],
+              "pt": [
+                "Terres-de-Haute-Charente"
+              ],
+              "en": [
+                "Terres-de-Haute-Charente"
+              ],
+              "it": [
+                "Terres-de-Haute-Charente"
+              ],
+              "fr": [
+                "Terres-de-Haute-Charente"
+              ],
+              "nl": [
+                "Terres-de-Haute-Charente"
+              ],
+              "es": [
+                "Terres-de-Haute-Charente"
+              ]
+            },
+            "insee": "16192",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/29feff2e-0f4c-306f-b1ee-d9a7efc3c22d",
+        "schema:latitude": "45.871681",
+        "schema:longitude": "0.606743",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/19804054-1afd-388a-908c-f316811e6162",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "ganzjährig jeden Sonntag von 14:30 bis 18:00 Uhr geöffnet"
+            ],
+            "en": [
+              "open every Sunday from 2:30 pm to 6 pm all year long"
+            ],
+            "it": [
+              "aperto ogni domenica dalle 14.30 alle 18.00 tutto l'anno"
+            ],
+            "fr": [
+              "ouvert tous les dimanches de 14h30 à 18h toute l'année"
+            ],
+            "nl": [
+              "elke zondag van 14.30 tot 18.00 uur geopend, het hele jaar door"
+            ],
+            "es": [
+              "abierto todos los domingos de 14.30 a 18.00 horas durante todo el año"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/6df7243c-ac16-35dc-87c2-5793ce0807ee",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/7a64c9fa-453c-353c-a7f4-414c0755c9f5",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/8e46b6a1-6170-3f6d-af62-baeb2c6048d4",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d59c789a-3bff-3c9f-af63-b90fa425ffc9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f2b6d91b-6cc0-3c83-bc43-620cd5a06ff5",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ca729d9a-b370-39c8-8ff2-ebfbb796dad5",
+      "schema:email": [
+        "fatiha.guetarni@charente-limousine.fr",
+        "marc.vachot@charente-limousine.fr"
+      ],
+      "schema:legalName": "Office de Tourisme Charente Limousine",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-01-12",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.29Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/36020721-c3f1-3905-b399-c8bf87b1403a",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/4be18cdf-bc12-34dc-8607-77f79d48b251",
+          "schema:maxPrice": [
+            "5",
+            "6"
+          ],
+          "schema:minPrice": [
+            "5",
+            "6"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

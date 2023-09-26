@@ -1,0 +1,393 @@
+{
+  "@id": "https://data.datatourisme.fr/13/17e0da30-095d-3353-91ff-cdf583293fc1",
+  "dc:identifier": "5761133",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Mediathek bietet eine Fläche von 300 Quadratmetern, die dem öffentlichen Raum gewidmet ist."
+    ],
+    "en": [
+      "The media library offers 300 square metres of public space."
+    ],
+    "it": [
+      "La mediateca offre 300 metri quadrati di spazio pubblico."
+    ],
+    "fr": [
+      "La médiathèque offre une surface de 300 mètres carrés dédiés à l'espace public."
+    ],
+    "es": [
+      "La mediateca ofrece 300 metros cuadrados de espacio público."
+    ],
+    "nl": [
+      "De mediatheek biedt 300 vierkante meter openbare ruimte."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Bibliothek Mediathek in Saint-Agnant"
+    ],
+    "en": [
+      "Bibliothek Mediathek in Saint-Agnant"
+    ],
+    "fr": [
+      "Bibliothèque Médiathèque de Saint-Agnant"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/9afefc52-942c-383c-bc1f-14b2139b09ba",
+    "dc:identifier": "2055",
+    "schema:email": [
+      "chloe.mailler@rochefort-ocean.com",
+      "christine.nourisson@rochefort-ocean.com",
+      "chrystelle.ecale@rochefort-ocean.com",
+      "lea.origlia@rochefort-ocean.com",
+      "sandrine.bouron@rochefort-ocean.com"
+    ],
+    "schema:legalName": "Office de Tourisme Rochefort Océan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.rochefort-ocean.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/4ec6f9e1-3c3b-32a7-bb95-93922120b192",
+      "schema:email": [
+        "mediathequesaintagnant@agglo-rochefortocean.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 83 25 26"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://mediatheques.agglo-rochefortocean.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/3d2a4175-aee0-388a-8d97-234c1034b9a1",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/109cd751-8757-3d85-9552-924527024f05",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6b5632ff-125a-3e52-aeeb-f45fd13a9973",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c9fc015e-8713-3b97-be4b-8fdcfd89fdb0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Mediathek bietet eine Fläche von 300 Quadratmetern, die dem öffentlichen Raum gewidmet ist."
+        ],
+        "en": [
+          "The media library offers 300 square metres of public space."
+        ],
+        "it": [
+          "La mediateca offre 300 metri quadrati di spazio pubblico."
+        ],
+        "fr": [
+          "La médiathèque offre une surface de 300 mètres carrés dédiés à l'espace public."
+        ],
+        "es": [
+          "La mediateca ofrece 300 metros cuadrados de espacio público."
+        ],
+        "nl": [
+          "De mediatheek biedt 300 vierkante meter openbare ruimte."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/54c2d1fa-2fbd-39bb-afe8-1ebe0523ba85",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/98483f7c-5382-3952-9df4-21d7bd78fee9",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e63a1699-9c45-3fff-9754-e6c8db687b4f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/1ccbdf8c-266e-3caf-b503-a54d55906f02",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/9ec746cc-adc6-375c-b4ed-34d148387679",
+          "schema:addressLocality": "Saint-Agnant",
+          "schema:postalCode": "17620",
+          "schema:streetAddress": [
+            "10 avenue Charles De Gaulle"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17308",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Agnant"
+              ],
+              "pt": [
+                "Saint-Agnant"
+              ],
+              "en": [
+                "Saint-Agnant"
+              ],
+              "it": [
+                "Saint-Agnant"
+              ],
+              "fr": [
+                "Saint-Agnant"
+              ],
+              "nl": [
+                "Saint-Agnant"
+              ],
+              "es": [
+                "Saint-Agnant"
+              ]
+            },
+            "insee": "17308",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/bce26020-1bf1-3b21-a1b2-3e9592864ce5",
+        "schema:latitude": "45.870679",
+        "schema:longitude": "-0.961562",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fed90c24-5b4e-374e-b413-9c9ae527b242",
+      "schema:email": [
+        "chloe.mailler@rochefort-ocean.com",
+        "christine.nourisson@rochefort-ocean.com",
+        "chrystelle.ecale@rochefort-ocean.com",
+        "lea.origlia@rochefort-ocean.com",
+        "sandrine.bouron@rochefort-ocean.com"
+      ],
+      "schema:legalName": "Office de Tourisme Rochefort Océan",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.rochefort-ocean.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-15",
+  "lastUpdateDatatourisme": "2023-06-16T05:49:27.349Z"
+}

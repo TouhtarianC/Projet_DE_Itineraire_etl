@@ -1,0 +1,360 @@
+{
+  "@id": "https://data.datatourisme.fr/13/534af399-11c8-322b-a4a5-4b8f2286ec64",
+  "dc:identifier": "5698856",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Natürlich findet man in La Malle d'Allionis auch die Dienstleistungen einer klassischen Mediathek: Bücher oder DVDs ausleihen, Zeitschriften konsultieren, für die Kleinen ... und für die Großen."
+    ],
+    "en": [
+      "Of course, at the Malle d'Allionis, you can find the services of a classic media library: borrowing books or DVDs, consulting magazines, for the little ones... and for the adults."
+    ],
+    "it": [
+      "Naturalmente, all'Allionis Malle si possono trovare i servizi di una classica mediateca: prestito di libri o DVD, consultazione di riviste, per i più piccoli... e per gli adulti."
+    ],
+    "fr": [
+      "Bien entendu, à la Malle d'Allionis, on trouve les services d'une médiathèque classique : emprunter des livres ou des DVD, consulter des revues, pour les petits ... et pour les grands."
+    ],
+    "es": [
+      "Por supuesto, en el Allionis Malle, podrá encontrar los servicios de una mediateca clásica: préstamo de libros o DVD, consulta de revistas, para los más pequeños... y para los mayores."
+    ],
+    "nl": [
+      "Natuurlijk kunt u in het Allionis Malle de diensten van een klassieke mediatheek vinden: boeken of dvd's lenen, tijdschriften raadplegen, voor de kleintjes ... en voor de volwassenen."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Médiathèque La Malle d'Allionis"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/fb2e2032-34df-3dee-9593-4e448ee88971",
+    "dc:identifier": "2071",
+    "schema:email": [
+      "as.legrand@chatelaillonplage.fr",
+      "camille.de-la-riviere@agglo-larochelle.fr",
+      "chloe.phelippot@agglo-larochelle.fr",
+      "emmanuelle.lucas@agglo-larochelle.fr",
+      "marine.morigault-suaudeau@agglo-larochelle.fr",
+      "sandra.idir@agglo-larochelle.fr"
+    ],
+    "schema:legalName": "Office de Tourisme de Châtelaillon-Plage",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.chatelaillon-plage-tourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/dd316278-26a1-3e19-8906-7b21fff8c1f8",
+      "schema:telephone": [
+        "+33 5 46 30 55 53"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.cafechatel.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/cd676c99-f436-3c81-8c07-b288b445bda9",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2d64e2bc-f147-36ac-a477-27cd5c40f8f7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4b51b2ef-1535-358e-a928-0b0728cd1588",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Natürlich findet man in La Malle d'Allionis auch die Dienstleistungen einer klassischen Mediathek: Bücher oder DVDs ausleihen, Zeitschriften konsultieren, für die Kleinen ... und für die Großen."
+        ],
+        "en": [
+          "Of course, at the Malle d'Allionis, you can find the services of a classic media library: borrowing books or DVDs, consulting magazines, for the little ones... and for the adults."
+        ],
+        "it": [
+          "Naturalmente, all'Allionis Malle si possono trovare i servizi di una classica mediateca: prestito di libri o DVD, consultazione di riviste, per i più piccoli... e per gli adulti."
+        ],
+        "fr": [
+          "Bien entendu, à la Malle d'Allionis, on trouve les services d'une médiathèque classique : emprunter des livres ou des DVD, consulter des revues, pour les petits ... et pour les grands."
+        ],
+        "es": [
+          "Por supuesto, en el Allionis Malle, podrá encontrar los servicios de una mediateca clásica: préstamo de libros o DVD, consulta de revistas, para los más pequeños... y para los mayores."
+        ],
+        "nl": [
+          "Natuurlijk kunt u in het Allionis Malle de diensten van een klassieke mediatheek vinden: boeken of dvd's lenen, tijdschriften raadplegen, voor de kleintjes ... en voor de volwassenen."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/bf29d24e-cda1-396e-a8b4-1a2cb842c5bd",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e57d0ce3-0e37-38d5-8409-35e0c9ae1a71",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/fcfbb632-ee46-3a50-affa-27b7461f90f8",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/04f0ec27-568b-31d7-a408-5142de6069a6",
+          "schema:addressLocality": "Châtelaillon-Plage",
+          "schema:postalCode": "17340",
+          "schema:streetAddress": [
+            "20, boulevard de la Libération",
+            "Cour intérieure de la mairie"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17094",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Châtelaillon-Plage"
+              ],
+              "pt": [
+                "Châtelaillon-Plage"
+              ],
+              "en": [
+                "Châtelaillon-Plage"
+              ],
+              "it": [
+                "Châtelaillon-Plage"
+              ],
+              "fr": [
+                "Châtelaillon-Plage"
+              ],
+              "nl": [
+                "Châtelaillon-Plage"
+              ],
+              "es": [
+                "Châtelaillon-Plage"
+              ]
+            },
+            "insee": "17094",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/232a40ee-a4ea-3347-ba63-f553659de3e6",
+        "schema:latitude": "46.073736",
+        "schema:longitude": "-1.090264",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5af94de4-a231-3ffd-bf1f-ff6a6af5a71c",
+      "schema:email": [
+        "as.legrand@chatelaillonplage.fr",
+        "chloe.phelippot@agglo-larochelle.fr",
+        "emmanuelle.lucas@agglo-larochelle.fr",
+        "marine.morigault-suaudeau@agglo-larochelle.fr",
+        "sandra.idir@agglo-larochelle.fr"
+      ],
+      "schema:legalName": "Office de Tourisme de Châtelaillon-Plage",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.chatelaillon-plage-tourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-12-14",
+  "lastUpdateDatatourisme": "2023-01-25T06:38:34.83Z"
+}

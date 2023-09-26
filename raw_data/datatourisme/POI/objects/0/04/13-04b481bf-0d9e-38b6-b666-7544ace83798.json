@@ -1,0 +1,543 @@
+{
+  "@id": "https://data.datatourisme.fr/13/04b481bf-0d9e-38b6-b666-7544ace83798",
+  "dc:identifier": "5719299",
+  "@type": [
+    "schema:LocalBusiness",
+    "CulturalSite",
+    "InterpretationCentre",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Werft Robert Léglise ist das letzte lokale Zeugnis des Holzschiffbaus auf der Insel Oléron. Entdecken Sie sie!"
+    ],
+    "en": [
+      "The Chantier Robert Léglise is the last local testimony of wooden shipbuilding on the Ile d'Oléron. To be discovered!"
+    ],
+    "it": [
+      "Il cantiere Robert Léglise è l'ultima testimonianza locale della costruzione di navi in legno sull'isola di Oleron. Da non perdere!"
+    ],
+    "fr": [
+      "Le Chantier Robert Léglise est le dernier témoignage local de la construction navale en bois sur l’île d’Oléron. A découvrir !"
+    ],
+    "es": [
+      "El astillero Robert Léglise es el último testimonio local de la construcción naval de madera en la isla de Oleron. Una visita obligada"
+    ],
+    "nl": [
+      "De Robert Léglise-scheepswerf is de laatste plaatselijke getuigenis van de houten scheepsbouw op het eiland Oleron. Een must-see!"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Chantier Naval Robert Léglise"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/f9cdd113-a453-3c3e-aa4c-e58db7999ba2",
+      "schema:email": [
+        "chantier-leglisepmo@orange.fr",
+        "chantierleglisepmo@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 6 60 76 47 58",
+        "+33 6 72 67 02 82"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/27040a4e-d2d8-3462-b747-de9fef7837f4",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/03d63f40-1df8-37c0-b9b0-73472da2f467",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/10555a5e-d5ba-3faa-8d5e-aba4d4960994",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/72c11fb8-ca20-3d33-ae37-c8bb1765e932",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9f6c5b22-48b1-35fd-8b06-cb2c1419b550",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c879a87e-460c-3c6e-b551-914b48f56489",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Werft Robert Léglise ist das letzte lokale Zeugnis des Holzschiffbaus auf der Insel Oléron. Entdecken Sie sie!"
+        ],
+        "en": [
+          "The Chantier Robert Léglise is the last local testimony of wooden shipbuilding on the Ile d'Oléron. To be discovered!"
+        ],
+        "it": [
+          "Il cantiere Robert Léglise è l'ultima testimonianza locale della costruzione di navi in legno sull'isola di Oleron. Da non perdere!"
+        ],
+        "fr": [
+          "Le Chantier Robert Léglise est le dernier témoignage local de la construction navale en bois sur l’île d’Oléron. A découvrir !"
+        ],
+        "es": [
+          "El astillero Robert Léglise es el último testimonio local de la construcción naval de madera en la isla de Oleron. Una visita obligada"
+        ],
+        "nl": [
+          "De Robert Léglise-scheepswerf is de laatste plaatselijke getuigenis van de houten scheepsbouw op het eiland Oleron. Een must-see!"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/049af3ce-1f4f-3791-86eb-5e2fc85b8a11",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8084397e-c559-3ca1-bff9-c940d2d85559",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b80b6e0d-7117-37f5-89fe-228168056e15",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/de0582bf-a603-33ef-aee2-6ef3fb5db39d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e1fc94c1-dce0-30fa-a585-6a6eec62a36d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0cf85fca-667a-376c-a970-d37e1eb24e40",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/70dbd4c3-7f41-387c-b833-dfff1cc15155",
+          "schema:addressLocality": "Le Château-d'Oléron",
+          "schema:postalCode": "17480",
+          "schema:streetAddress": [
+            "Avenue du Port"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17093",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Le Château-d'Oléron"
+              ],
+              "pt": [
+                "Le Château-d'Oléron"
+              ],
+              "en": [
+                "Le Château-d'Oléron"
+              ],
+              "it": [
+                "Le Château-d'Oléron"
+              ],
+              "fr": [
+                "Le Château-d'Oléron"
+              ],
+              "nl": [
+                "Le Château-d'Oléron"
+              ],
+              "es": [
+                "Le Château-d'Oléron"
+              ]
+            },
+            "insee": "17093",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/849088ee-13ec-37cf-91fc-38d90ffedbbc",
+        "schema:latitude": "45.884013",
+        "schema:longitude": "-1.192647",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/027926f3-02b1-3918-8cdc-304093f486b3",
+          "schema:validFrom": "2023-04-02T00:00:00",
+          "schema:validThrough": "2023-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "geöffnet Mittwoch von 9 bis 12 Uhr und von 15 bis 18 Uhr und Freitag von 15 bis 18 Uhr.\r\nÖffnung für Gruppen nach vorheriger Anfrage und je nach Verfügbarkeit.\r\nAuch an den Tagen des Kulturerbes am Samstag und Sonntag von 9 bis 12 Uhr und von 15 bis 18 Uhr geöffnet."
+            ],
+            "en": [
+              "open Wednesday from 9am to 12pm and from 3pm to 6pm and Friday from 3pm to 6pm.\r\nOpen for groups on request according to availability.\r\nAlso open for Heritage Days on Saturday and Sunday from 9am to 12pm and from 3pm to 6pm."
+            ],
+            "it": [
+              "aperto il mercoledì dalle 9.00 alle 12.00 e dalle 15.00 alle 18.00 e il venerdì dalle 15.00 alle 18.00.\r\nAperto per gruppi su richiesta, in base alla disponibilità.\r\nAperto anche per le Giornate del Patrimonio il sabato e la domenica dalle 9.00 alle 12.00 e dalle 15.00 alle 18.00."
+            ],
+            "fr": [
+              "ouvert mercredi de 9h à 12h et de 15h à 18h et vendredi de 15h à 18h.\r\nOuverture pour les groupes sur demande préalable en fonction des disponibilités.\r\nOuvert également pour les journées du patrimoine samedi et dimanche de 9h à 12h et de 15h à 18h."
+            ],
+            "nl": [
+              "open op woensdag van 9 tot 12 uur en van 15 tot 18 uur en op vrijdag van 15 tot 18 uur.\r\nOpen voor groepen op voorafgaand verzoek, afhankelijk van beschikbaarheid.\r\nOok open voor Open Monumentendagen op zaterdag en zondag van 9 tot 12 uur en van 15 tot 18 uur."
+            ],
+            "es": [
+              "abierto los miércoles de 9.00 a 12.00 y de 15.00 a 18.00 y los viernes de 15.00 a 18.00.\r\nAbierto para grupos previa petición, según disponibilidad.\r\nAbierto también para las Jornadas del Patrimonio el sábado y el domingo de 9:00 a 12:00 y de 15:00 a 18:00."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/11aa037c-7159-395b-9f59-7d9010a05990",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/36ad1801-9e6c-3187-9a04-17ce4ae8d6b3",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/37e7b180-963d-33cd-9b0f-7a7415020f20",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/57d9cf12-3eec-308e-bb3e-fee19e7f33f1",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f813e54b-8b7e-3277-9947-186efd8e7864",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/80009736-71af-3484-9792-2b3de63306d1",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-04-25",
+  "lastUpdateDatatourisme": "2023-06-01T05:41:13.888Z"
+}

@@ -1,0 +1,455 @@
+{
+  "@id": "https://data.datatourisme.fr/13/2c94729f-2f48-3115-bbef-783cb00a0827",
+  "dc:identifier": "6070210",
+  "@type": [
+    "schema:LocalBusiness",
+    "CulturalSite",
+    "InterpretationCentre",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Als Ort aller zeitgenössischen Kreationen erfindet sich die Fondation d'entreprise Martell durch ein multidisziplinäres Programm und die schrittweise Umgestaltung ihrer Räumlichkeiten immer wieder neu."
+    ],
+    "en": [
+      "A place for all contemporary creations, the Martell Corporate Foundation continues to reinvent itself through a multidisciplinary programme and the gradual transformation of its spaces."
+    ],
+    "it": [
+      "La Fondazione Martell è un luogo per tutti i tipi di creazioni contemporanee e continua a reinventarsi attraverso un programma multidisciplinare e la graduale trasformazione dei suoi spazi."
+    ],
+    "fr": [
+      "Lieu de toutes les créations contemporaines, la Fondation d’entreprise Martell continue de se réinventer à travers une programmation pluridisciplinaire et la transformation progressive de ses espaces."
+    ],
+    "es": [
+      "Lugar de todas las creaciones contemporáneas, la Fundación Corporativa Martell sigue reinventándose a través de un programa multidisciplinar y de la transformación progresiva de sus espacios."
+    ],
+    "nl": [
+      "De Martell Foundation is een plek voor allerlei hedendaagse creaties en blijft zichzelf opnieuw uitvinden door een multidisciplinair programma en de geleidelijke transformatie van haar ruimtes."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Fondation d'Entreprise Martell"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/0ae3f79a-3023-3b6c-85a6-f7d298ba1310",
+    "dc:identifier": "2065",
+    "schema:email": [
+      "elodie@destination-cognac.com",
+      "emmanuelle@destination-cognac.com",
+      "evelyne@destination-cognac.com",
+      "pascale@destination-cognac.com"
+    ],
+    "schema:legalName": "Destination Cognac",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.destination-cognac.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/adfb2216-1062-34cc-8a8e-3ae5b6cd5115",
+      "schema:email": [
+        "info@fondationdentreprisemartell.com"
+      ],
+      "schema:telephone": [
+        "+33 5 45 36 33 51"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.fondationdentreprisemartell.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/143de7a5-9201-3d63-9b50-78fa32c75f04",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/08836cb5-5ceb-3b45-a410-28091b6e6264",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/858fd1da-bb66-3005-a67b-ef4bcb4a872c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fe67fd97-08e4-3550-a18a-c3f27a4fe53e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Als Ort aller zeitgenössischen Kreationen erfindet sich die Fondation d'entreprise Martell durch ein multidisziplinäres Programm und die schrittweise Umgestaltung ihrer Räumlichkeiten immer wieder neu."
+        ],
+        "en": [
+          "A place for all contemporary creations, the Martell Corporate Foundation continues to reinvent itself through a multidisciplinary programme and the gradual transformation of its spaces."
+        ],
+        "it": [
+          "La Fondazione Martell è un luogo per tutti i tipi di creazioni contemporanee e continua a reinventarsi attraverso un programma multidisciplinare e la graduale trasformazione dei suoi spazi."
+        ],
+        "fr": [
+          "Lieu de toutes les créations contemporaines, la Fondation d’entreprise Martell continue de se réinventer à travers une programmation pluridisciplinaire et la transformation progressive de ses espaces."
+        ],
+        "es": [
+          "Lugar de todas las creaciones contemporáneas, la Fundación Corporativa Martell sigue reinventándose a través de un programa multidisciplinar y de la transformación progresiva de sus espacios."
+        ],
+        "nl": [
+          "De Martell Foundation is een plek voor allerlei hedendaagse creaties en blijft zichzelf opnieuw uitvinden door een multidisciplinair programma en de geleidelijke transformatie van haar ruimtes."
+        ]
+      }
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/6e866798-cae5-351c-9e8d-963661217e60",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:LabelRating_AccueilVelo",
+        "@type": [
+          "LabelRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "Accueil Vélo"
+          ],
+          "pt": [
+            "Accueil Vélo"
+          ],
+          "en": [
+            "Accueil Vélo"
+          ],
+          "it": [
+            "Accueil Vélo"
+          ],
+          "fr": [
+            "Accueil Vélo"
+          ],
+          "nl": [
+            "Accueil Vélo"
+          ],
+          "es": [
+            "Accueil Vélo"
+          ]
+        },
+        "isCompliantWith": [
+          "PlaceOfInterest"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/580cb533-c416-336a-b65d-f0decccc30eb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6780b2d3-c705-3d3b-933f-fa148177c1bb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/95baa1d1-ed90-3785-81ae-54cebda781d7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/8d0b5de2-38a7-3e21-801e-85930374b80a",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/a83c44a0-af34-38b9-9108-808d239a1b1c",
+          "schema:addressLocality": "Cognac",
+          "schema:postalCode": "16100",
+          "schema:streetAddress": [
+            "16 avenue Paul Firino Martell"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16102",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Cognac"
+              ],
+              "pt": [
+                "Cognac"
+              ],
+              "en": [
+                "Cognac"
+              ],
+              "it": [
+                "Cognac"
+              ],
+              "fr": [
+                "Cognac"
+              ],
+              "nl": [
+                "Cognac"
+              ],
+              "es": [
+                "Cognac"
+              ]
+            },
+            "insee": "16102",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/aef850f7-1655-352c-8b08-32a0be47d985",
+        "schema:latitude": "45.69179",
+        "schema:longitude": "-0.330918",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/bdf76129-c7fd-3f20-bcf9-76e1dd358cc8",
+          "schema:validFrom": "2023-04-07T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b2f223ca-b3f8-38b3-9aef-bb09899fb1d3",
+      "schema:email": [
+        "elodie@destination-cognac.com",
+        "emmanuelle@destination-cognac.com",
+        "evelyne@destination-cognac.com",
+        "pascale@destination-cognac.com"
+      ],
+      "schema:legalName": "Destination Cognac",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.destination-cognac.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-02-15",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.682Z"
+}

@@ -1,0 +1,435 @@
+{
+  "@id": "https://data.datatourisme.fr/13/7a31e3f4-6da5-3114-8c36-64a7cde3c1ce",
+  "dc:identifier": "5674905",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Diese Gärten liegen im Argentor-Tal in einem Dorf mit dem Label \"Petites Cités de caractère\" und bieten einen Ort der Ruhe, an dem Pflanzenvielfalt und Ästhetik miteinander verschmelzen."
+    ],
+    "en": [
+      "Situated next to the canal in a small village"
+    ],
+    "it": [
+      "Immersi nella valle dell'Argentor, in un villaggio con il marchio \"Petites Cités de caractère\", questi giardini offrono un luogo di tranquillità dove si combinano diversità di piante ed estetica."
+    ],
+    "fr": [
+      "Lovés dans la vallée de l'Argentor, dans un village labellisé \"Petites Cités de caractère\", ces jardins offrent un espace de quiétude où diversité des végétaux et esthétique se mêlent."
+    ],
+    "nl": [
+      "Genesteld in de vallei van de Argentor, in een dorp met het label \"Petites Cités de caractère\", bieden deze tuinen een plek van rust waar diversiteit van planten en esthetiek worden gecombineerd."
+    ],
+    "es": [
+      "Enclavados en el valle de Argentor, en un pueblo con la etiqueta \"Petites Cités de caractère\", estos jardines ofrecen un lugar de tranquilidad donde se combinan la diversidad de plantas y la estética."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Les Jardins de l'Argentor"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/a96d3afe-c184-366b-beca-7a9f989fc7e7",
+    "dc:identifier": "2056",
+    "schema:email": [
+      "infotouristique@destination-nordcharente.com"
+    ],
+    "schema:legalName": "Office de tourisme Destination Nord Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ruffecois-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/ae11ea24-ab9a-3600-92da-5cd27eb2cdc3",
+      "schema:email": [
+        "patrimoine@ccvaldecharente.fr"
+      ],
+      "schema:telephone": [
+        "+33 7 80 38 37 89"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ccvaldecharente.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/2dc152d4-a09f-325b-b4b3-d96fb8d34f32",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1aef1d83-bd6b-3be7-9fc0-60246d3c39cc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/1dacd4cc-7cb9-34e3-ad51-c1a76ad7a216",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4451defe-a530-3c07-914e-c9e1dad401c9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f771d231-2646-3ad1-85fd-3907c968c4ea",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Diese Gärten liegen im Argentor-Tal in einem Dorf mit dem Label \"Petites Cités de caractère\" und bieten einen Ort der Ruhe, an dem Pflanzenvielfalt und Ästhetik miteinander verschmelzen."
+        ],
+        "en": [
+          "Situated next to the canal in a small village"
+        ],
+        "it": [
+          "Immersi nella valle dell'Argentor, in un villaggio con il marchio \"Petites Cités de caractère\", questi giardini offrono un luogo di tranquillità dove si combinano diversità di piante ed estetica."
+        ],
+        "fr": [
+          "Lovés dans la vallée de l'Argentor, dans un village labellisé \"Petites Cités de caractère\", ces jardins offrent un espace de quiétude où diversité des végétaux et esthétique se mêlent."
+        ],
+        "nl": [
+          "Genesteld in de vallei van de Argentor, in een dorp met het label \"Petites Cités de caractère\", bieden deze tuinen een plek van rust waar diversiteit van planten en esthetiek worden gecombineerd."
+        ],
+        "es": [
+          "Enclavados en el valle de Argentor, en un pueblo con la etiqueta \"Petites Cités de caractère\", estos jardines ofrecen un lugar de tranquilidad donde se combinan la diversidad de plantas y la estética."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/58040f21-d45c-325b-b285-8ebfb38771eb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/676ba2e0-7efd-30fb-b359-c6cd986ac002",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7a700d3b-a4dc-35dd-a427-8cce91adabc5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7b1ab7bb-e4ea-310f-8f31-efcb1fdc4d8d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/c6a20fb8-c707-3e9c-ac01-912c70f353b4",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/0d4eba9c-0d5c-38d1-9550-0ded34583475",
+          "schema:addressLocality": "Nanteuil-en-Vallée",
+          "schema:postalCode": "16700",
+          "schema:streetAddress": [
+            "8 rue de la gare"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16242",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Nanteuil-en-Vallée"
+              ],
+              "pt": [
+                "Nanteuil-en-Vallée"
+              ],
+              "en": [
+                "Nanteuil-en-Vallée"
+              ],
+              "it": [
+                "Nanteuil-en-Vallée"
+              ],
+              "fr": [
+                "Nanteuil-en-Vallée"
+              ],
+              "nl": [
+                "Nanteuil-en-Vallée"
+              ],
+              "es": [
+                "Nanteuil-en-Vallée"
+              ]
+            },
+            "insee": "16242",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/338c44e8-7422-3f05-8c2c-d38b5240f225",
+        "schema:latitude": "45.999513",
+        "schema:longitude": "0.325728",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/515fb63a-6beb-307d-a0d6-d59e3e2d3f76",
+      "schema:email": [
+        "infotouristique@destination-nordcharente.com"
+      ],
+      "schema:legalName": "Office de tourisme Destination Nord Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ruffecois-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-22",
+  "lastUpdateDatatourisme": "2023-06-23T05:50:54.331Z"
+}

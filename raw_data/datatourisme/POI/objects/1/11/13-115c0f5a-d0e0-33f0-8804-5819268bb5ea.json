@@ -1,0 +1,726 @@
+{
+  "@id": "https://data.datatourisme.fr/13/115c0f5a-d0e0-33f0-8804-5819268bb5ea",
+  "dc:identifier": "5667310",
+  "@type": [
+    "Abbey",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Willkommen in der Abtei von Saint Amant de Boixe!"
+    ],
+    "en": [
+      "Welcome to the abbey of St Amant de Boixe!"
+    ],
+    "it": [
+      "Benvenuti all'Abbazia di Saint Amant de Boixe!"
+    ],
+    "fr": [
+      "Bienvenue à l'abbaye de Saint Amant de Boixe !"
+    ],
+    "nl": [
+      "Welkom in de abdij van Saint Amant de Boixe!"
+    ],
+    "es": [
+      "Bienvenido a la abadía de St Amant de Boixe"
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Abbaye de Saint Amant de Boixe"
+    ],
+    "ru": [
+      "Abbaye de Saint Amant de Boixe"
+    ],
+    "en": [
+      "Abbaye de Saint Amant de Boixe"
+    ],
+    "it": [
+      "Abbaye de Saint Amant de Boixe"
+    ],
+    "fr": [
+      "Abbaye de Saint Amant de Boixe"
+    ],
+    "zh": [
+      "Abbaye de Saint Amant de Boixe"
+    ],
+    "nl": [
+      "Abbaye de Saint Amant de Boixe"
+    ],
+    "es": [
+      "Abbaye de Saint Amant de Boixe"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q2820670"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/a96d3afe-c184-366b-beca-7a9f989fc7e7",
+    "dc:identifier": "2056",
+    "schema:email": [
+      "infotouristique@destination-nordcharente.com"
+    ],
+    "schema:legalName": "Office de tourisme Destination Nord Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ruffecois-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/d1fe5080-733b-30f6-a023-6ab18294193a",
+      "schema:email": [
+        "abbaye@saintamantdeboixe.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 94 24 27"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://abbayesaintamantdeboixe.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/666df4de-9120-3fdd-88f4-757dcdac215c",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/82e3f1e2-d7e2-3ae3-8884-ccc190ce0774",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9256c0b9-2c1b-30ab-b579-693a73d85039",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a6886847-d1ac-3c4f-96cf-fdccf7f2fe2c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Willkommen in der Abtei von Saint Amant de Boixe!"
+        ],
+        "en": [
+          "Welcome to the abbey of St Amant de Boixe!"
+        ],
+        "it": [
+          "Benvenuti all'Abbazia di Saint Amant de Boixe!"
+        ],
+        "fr": [
+          "Bienvenue à l'abbaye de Saint Amant de Boixe !"
+        ],
+        "nl": [
+          "Welkom in de abdij van Saint Amant de Boixe!"
+        ],
+        "es": [
+          "Bienvenido a la abadía de St Amant de Boixe"
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/001b9714-cb0b-35cb-99dc-ffdbac2b3a10",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/2d39c9ca-c201-3b36-94c5-b3483f95e528",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "St Amant de Boixe porterie"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "JarnaQuais (https://commons.wikimedia.org/wiki/User:JarnaQuais)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/07ada946-1bdf-34df-bcbd-2104830f4177",
+          "ebucore:fileSize": [
+            726261
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 856,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/6/6b/St_Amant_de_Boixe_porterie.jpg"
+          ],
+          "ebucore:width": 1280,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8635bddd-6b89-3d96-ab3e-b334cbb5e188",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/2490fafb-21a2-3152-9de8-1548a97a68ce",
+          "ebucore:isCoveredBy": "CC BY 2.5",
+          "ebucore:title": {
+            "fr": [
+              "Eglisevert"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Anaël Vignet"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/f02c393c-4fee-3136-b8fc-e1be19def8ab",
+          "ebucore:fileSize": [
+            56676
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 400,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/0/05/Eglisevert.jpg"
+          ],
+          "ebucore:width": 533,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/005918a7-f6a9-3c0b-8f0d-3d1a5c7109c5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6b4b1619-9b74-373f-9196-2b52bbabf468",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b360aec1-eb62-3239-968e-a2f39bba4892",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/4de981e1-3fda-3e43-a4ab-0c8fa5e9091c",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/81ea01e1-b6f4-36ea-b0d1-2c5fcc732098",
+          "schema:addressLocality": "Saint-Amant-de-Boixe",
+          "schema:postalCode": "16330",
+          "schema:streetAddress": [
+            "Place de l’abbaye"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16295",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Amant-de-Boixe"
+              ],
+              "pt": [
+                "Saint-Amant-de-Boixe"
+              ],
+              "en": [
+                "Saint-Amant-de-Boixe"
+              ],
+              "it": [
+                "Saint-Amant-de-Boixe"
+              ],
+              "fr": [
+                "Saint-Amant-de-Boixe"
+              ],
+              "nl": [
+                "Saint-Amant-de-Boixe"
+              ],
+              "es": [
+                "Saint-Amant-de-Boixe"
+              ]
+            },
+            "insee": "16295",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/b97a72dd-2b6f-3c45-b0b8-3d6a3eb85112",
+        "schema:latitude": "45.796198",
+        "schema:longitude": "0.133554",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/0c622480-9d21-3382-8758-8a91cbeb3bc0",
+          "schema:validFrom": "2023-09-01T00:00:00",
+          "schema:validThrough": "2023-12-22T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a9d367e6-7762-39b8-aa2a-b45c26837f94",
+          "schema:validFrom": "2023-01-22T00:00:00",
+          "schema:validThrough": "2023-05-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d4f35381-f6b5-3329-9646-24b23e37a128",
+          "schema:validFrom": "2023-06-01T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/515fb63a-6beb-307d-a0d6-d59e3e2d3f76",
+      "schema:email": [
+        "infotouristique@destination-nordcharente.com"
+      ],
+      "schema:legalName": "Office de tourisme Destination Nord Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ruffecois-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-06",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.261Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/012e4806-93a0-3dcd-898b-e1657e39eaf1",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/102886f9-5c40-3625-b31c-3a107cfb2939",
+          "schema:maxPrice": [
+            "3.5",
+            "5"
+          ],
+          "schema:minPrice": [
+            "3.5",
+            "5"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/dd3a66ae-dfb2-3a97-bc9f-2231d28005cf",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-05-30",
+              "startDate": "2023-01-22"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/623eb94b-0033-371d-aac5-3d1d8e378369",
+          "schema:maxPrice": [
+            "3.5",
+            "5"
+          ],
+          "schema:minPrice": [
+            "3.5",
+            "5"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/e71a9f22-4747-32d1-a27b-4f4e5da33246",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-22",
+              "startDate": "2023-09-01"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ab7efca4-f43b-3eb5-9239-e76bffb8a7aa",
+          "schema:maxPrice": [
+            "3.5",
+            "5"
+          ],
+          "schema:minPrice": [
+            "3.5",
+            "5"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/fd58ce9c-c9dc-3df2-b471-df1af23ba82b",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-08-31",
+              "startDate": "2023-06-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

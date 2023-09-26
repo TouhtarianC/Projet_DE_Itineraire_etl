@@ -1,0 +1,442 @@
+{
+  "@id": "https://data.datatourisme.fr/13/49184226-72b1-308b-80fa-33b8352b887b",
+  "dc:identifier": "5752136",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Im Chai du Rouissoir bieten wir Ihnen die Möglichkeit, den Beruf des Winzers auf spielerische Weise zu entdecken. Es gibt drei Wanderwege durch Weinberge, Wälder und Felder, die mit erklärenden Schildern markiert sind."
+    ],
+    "en": [
+      "At the Rouissoir cellar, we offer you a playful discovery of the winegrower's profession, with three footpaths through vineyards, woods and fields marked out with explanatory signs."
+    ],
+    "it": [
+      "Allo Chai du Rouissoir vi offriamo un modo divertente per scoprire il mestiere del viticoltore, con tre percorsi a piedi attraverso le vigne, i boschi e i campi contrassegnati da pannelli esplicativi."
+    ],
+    "fr": [
+      "Au Chai du Rouissoir, nous vous proposons une découverte ludique du métier du vigneron, avec trois sentiers pédestres à travers les vignes, les bois et les champs jalonnés par des panneaux explicatifs."
+    ],
+    "nl": [
+      "In de Chai du Rouissoir bieden wij u een leuke manier om het beroep van wijnbouwer te ontdekken, met drie wandelroutes door de wijngaarden, bossen en velden die zijn gemarkeerd met verklarende panelen."
+    ],
+    "es": [
+      "En el Chai du Rouissoir, le ofrecemos una forma divertida de descubrir el oficio de viticultor, con tres senderos a pie a través de las viñas, los bosques y los campos marcados con paneles explicativos."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Rouissoir cellar"
+    ],
+    "fr": [
+      "Chai du Rouissoir"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/57fe9d76-92d5-373a-9ee9-cdd5876e0c44",
+      "schema:email": [
+        "chaidurouissoir@hotmail.com"
+      ],
+      "schema:telephone": [
+        "+33 5 46 48 14 76",
+        "+33 6 89 95 08 22"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://vigneronautrement.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/499ca516-4f14-3572-9dc0-21f7fd06b520",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/600ded64-964b-3849-96c4-57db9c317cf6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8a74c4ac-1aa2-3a27-8bd0-7f22565f8ab0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dfbd0d57-d954-3552-9a75-005637bab80a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e4dd60bc-1e85-30e1-a5bc-72d45f59d56d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Im Chai du Rouissoir bieten wir Ihnen die Möglichkeit, den Beruf des Winzers auf spielerische Weise zu entdecken. Es gibt drei Wanderwege durch Weinberge, Wälder und Felder, die mit erklärenden Schildern markiert sind."
+        ],
+        "en": [
+          "At the Rouissoir cellar, we offer you a playful discovery of the winegrower's profession, with three footpaths through vineyards, woods and fields marked out with explanatory signs."
+        ],
+        "it": [
+          "Allo Chai du Rouissoir vi offriamo un modo divertente per scoprire il mestiere del viticoltore, con tre percorsi a piedi attraverso le vigne, i boschi e i campi contrassegnati da pannelli esplicativi."
+        ],
+        "fr": [
+          "Au Chai du Rouissoir, nous vous proposons une découverte ludique du métier du vigneron, avec trois sentiers pédestres à travers les vignes, les bois et les champs jalonnés par des panneaux explicatifs."
+        ],
+        "nl": [
+          "In de Chai du Rouissoir bieden wij u een leuke manier om het beroep van wijnbouwer te ontdekken, met drie wandelroutes door de wijngaarden, bossen en velden die zijn gemarkeerd met verklarende panelen."
+        ],
+        "es": [
+          "En el Chai du Rouissoir, le ofrecemos una forma divertida de descubrir el oficio de viticultor, con tres senderos a pie a través de las viñas, los bosques y los campos marcados con paneles explicativos."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/245f7b87-8355-31a7-ba03-f7a71c00c71c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/30e9a03a-7ad5-306d-b74b-d5cceed04b1f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8f80c4a7-66f6-396f-9e3a-3a296f1836e5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e06fc4fa-d8de-3051-ac55-0679ba3b4d60",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/54a833af-14f8-3ef3-9d82-604bf524b0b2",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/6e3ad065-8ae9-3c2b-954d-373abe05ce83",
+          "schema:addressLocality": "Ozillac",
+          "schema:postalCode": "17500",
+          "schema:streetAddress": [
+            "1 Roussillon"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17270",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ozillac"
+              ],
+              "pt": [
+                "Ozillac"
+              ],
+              "en": [
+                "Ozillac"
+              ],
+              "it": [
+                "Ozillac"
+              ],
+              "fr": [
+                "Ozillac"
+              ],
+              "nl": [
+                "Ozillac"
+              ],
+              "es": [
+                "Ozillac"
+              ]
+            },
+            "insee": "17270",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/8d3352b5-843e-3911-8d0c-4b8fd3794ad7",
+        "schema:latitude": "45.419542",
+        "schema:longitude": "-0.414246",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-08",
+  "lastUpdateDatatourisme": "2023-06-09T05:49:13.335Z"
+}

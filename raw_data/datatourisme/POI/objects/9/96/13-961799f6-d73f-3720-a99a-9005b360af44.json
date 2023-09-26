@@ -1,0 +1,462 @@
+{
+  "@id": "https://data.datatourisme.fr/13/961799f6-d73f-3720-a99a-9005b360af44",
+  "dc:identifier": "5702175",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Dieses Arboretum zeigt die Laub- und Nadelbäume der Region.\r\nEs wurde von den Schülern der Grundschule von Le Fouilloux angelegt."
+    ],
+    "en": [
+      "This arboretum presents the hardwoods and softwoods of the region.\r\nIt was created by the schoolchildren of the Fouilloux primary school."
+    ],
+    "it": [
+      "Questo arboreto presenta gli alberi di latifoglie e conifere della regione.\r\nÈ stato creato dagli alunni della scuola primaria di Fouilloux."
+    ],
+    "fr": [
+      "Cet arboretum présente les feuillus et les résineux de la région.\r\nIl a été crée par les écoliers de l'école primaire du Fouilloux."
+    ],
+    "es": [
+      "Este arboreto presenta los árboles de hoja caduca y de coníferas de la región.\r\nFue creado por los alumnos de la escuela primaria de Fouilloux."
+    ],
+    "nl": [
+      "Dit arboretum presenteert de loof- en naaldbomen van de regio.\r\nHet is gemaakt door de leerlingen van de Fouilloux basisschool."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Arboretum"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/490b8f26-eba3-3a62-84fc-f4eb14f83707",
+      "schema:email": [
+        "mairie@lefouilloux17.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 04 12 49"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/a7fda378-ddfd-37d0-bbc3-cbde8d2abec3",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/07a5b406-a3c4-3c0e-b8c7-4c14bd5ce72b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3938dec4-4fe5-35d7-9e0c-9f9b002d2201",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/403fb7bf-eccd-3e62-9fcf-739c6c3e86e3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/773499cd-3265-389f-b25f-5ecf57d03b5d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dd74714e-369f-3ab8-821a-5b6f670da665",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Dieses Arboretum zeigt die Laub- und Nadelbäume der Region.\r\nEs wurde von den Schülern der Grundschule von Le Fouilloux angelegt."
+        ],
+        "en": [
+          "This arboretum presents the hardwoods and softwoods of the region.\r\nIt was created by the schoolchildren of the Fouilloux primary school."
+        ],
+        "it": [
+          "Questo arboreto presenta gli alberi di latifoglie e conifere della regione.\r\nÈ stato creato dagli alunni della scuola primaria di Fouilloux."
+        ],
+        "fr": [
+          "Cet arboretum présente les feuillus et les résineux de la région.\r\nIl a été crée par les écoliers de l'école primaire du Fouilloux."
+        ],
+        "es": [
+          "Este arboreto presenta los árboles de hoja caduca y de coníferas de la región.\r\nFue creado por los alumnos de la escuela primaria de Fouilloux."
+        ],
+        "nl": [
+          "Dit arboretum presenteert de loof- en naaldbomen van de regio.\r\nHet is gemaakt door de leerlingen van de Fouilloux basisschool."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/2b65fdcc-edb3-3144-9382-d62573f4ed59",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5ff25f8a-8b1f-300b-8bac-78f4d49d40c1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/67c83e0f-07d2-384d-a855-1f004a284957",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/772e111b-a317-3b46-af4c-5cbacb6d2057",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d157b37b-fad9-3ffe-bbac-0ccaa9d6992a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/23841c90-e365-302d-bdf5-e02c541fb58f",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/a7e79061-ee4d-326b-aa2d-b82ff6766c09",
+          "schema:addressLocality": "Le Fouilloux",
+          "schema:postalCode": "17270",
+          "schema:streetAddress": [
+            "Le bourg"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17167",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Le Fouilloux"
+              ],
+              "pt": [
+                "Le Fouilloux"
+              ],
+              "en": [
+                "Le Fouilloux"
+              ],
+              "it": [
+                "Le Fouilloux"
+              ],
+              "fr": [
+                "Le Fouilloux"
+              ],
+              "nl": [
+                "Le Fouilloux"
+              ],
+              "es": [
+                "Le Fouilloux"
+              ]
+            },
+            "insee": "17167",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/4694d4e6-335c-3480-81ed-c1e6fca3398e",
+        "schema:latitude": "45.189958",
+        "schema:longitude": "-0.126199",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-12-21",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.888Z"
+}

@@ -1,0 +1,459 @@
+{
+  "@id": "https://data.datatourisme.fr/13/680a1a17-4a83-304e-90dc-36c5cbf87e8e",
+  "dc:identifier": "5990611",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Le Parc ist ein Wohnviertel von Royan im Osten der Gemeinde, das an die Gemeinde Saint-Georges-de-Didonne grenzt, von der es durch einen dünnen Wasserlauf, den Riveau de Boube (auch \"Riveau de Vallières\" genannt), und das Viertel Maisonfort getrennt ist."
+    ],
+    "en": [
+      "Le Parc is a residential area of Royan located in the east of the town, bordering the town of Saint-Georges-de-Didonne from which it is separated by a small river, the riveau de Boube (also known as \"riveau de Vallières\") and the district of Maisonfort."
+    ],
+    "it": [
+      "Le Parc è un quartiere residenziale di Royan situato nella parte orientale della città, al confine con la città di Saint-Georges-de-Didonne, da cui è separato da uno stretto fiume, il Riveau de Boube (noto anche come \"Riveau de Vallières\") e dalla zona di Maisonfort."
+    ],
+    "fr": [
+      "Le Parc est un quartier résidentiel de Royan situé à l'est de la commune, mitoyen de la commune de Saint-Georges-de-Didonne dont il est séparé par un mince cours d'eau, le riveau de Boube (dit aussi « riveau de Vallières ») et du quartier de Maisonfort."
+    ],
+    "nl": [
+      "Le Parc is een woonwijk van Royan gelegen in het oosten van de stad, grenzend aan de stad Saint-Georges-de-Didonne, waarvan het wordt gescheiden door een smalle rivier, het Riveau de Boube (ook bekend als het \"Riveau de Vallières\") en de wijk Maisonfort."
+    ],
+    "es": [
+      "Le Parc es una zona residencial de Royan situada al este de la ciudad, lindando con la localidad de Saint-Georges-de-Didonne, de la que está separada por un estrecho río, el Riveau de Boube (también conocido como \"Riveau de Vallières\") y la zona de Maisonfort."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Parc Émile Zola"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/cda1a92e-2b89-3ffb-a4de-2fdfb7474fb2",
+      "schema:telephone": [
+        "+33 5 46 39 56 56"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/1c82ff59-7633-3780-9d90-731bf9be1c23",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3934d299-d00c-3c09-bc6a-54dfda41f9bc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/41534555-d17e-3f42-bd34-dc23a68aab23",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/84da262b-7cde-3202-9028-4799cc0bced1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8afd442a-a179-31a1-9a07-32099423520f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/caab8f53-48cd-32fa-8859-b0c2db8e2b85",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Le Parc ist ein Wohnviertel von Royan im Osten der Gemeinde, das an die Gemeinde Saint-Georges-de-Didonne grenzt, von der es durch einen dünnen Wasserlauf, den Riveau de Boube (auch \"Riveau de Vallières\" genannt), und das Viertel Maisonfort getrennt ist."
+        ],
+        "en": [
+          "Le Parc is a residential area of Royan located in the east of the town, bordering the town of Saint-Georges-de-Didonne from which it is separated by a small river, the riveau de Boube (also known as \"riveau de Vallières\") and the district of Maisonfort."
+        ],
+        "it": [
+          "Le Parc è un quartiere residenziale di Royan situato nella parte orientale della città, al confine con la città di Saint-Georges-de-Didonne, da cui è separato da uno stretto fiume, il Riveau de Boube (noto anche come \"Riveau de Vallières\") e dalla zona di Maisonfort."
+        ],
+        "fr": [
+          "Le Parc est un quartier résidentiel de Royan situé à l'est de la commune, mitoyen de la commune de Saint-Georges-de-Didonne dont il est séparé par un mince cours d'eau, le riveau de Boube (dit aussi « riveau de Vallières ») et du quartier de Maisonfort."
+        ],
+        "nl": [
+          "Le Parc is een woonwijk van Royan gelegen in het oosten van de stad, grenzend aan de stad Saint-Georges-de-Didonne, waarvan het wordt gescheiden door een smalle rivier, het Riveau de Boube (ook bekend als het \"Riveau de Vallières\") en de wijk Maisonfort."
+        ],
+        "es": [
+          "Le Parc es una zona residencial de Royan situada al este de la ciudad, lindando con la localidad de Saint-Georges-de-Didonne, de la que está separada por un estrecho río, el Riveau de Boube (también conocido como \"Riveau de Vallières\") y la zona de Maisonfort."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/4a9aeff9-1a7f-3210-b776-b2a5162df3fc",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4c383e48-35fd-3476-90ee-d2a57eb6eb8d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7b4a7077-173c-3253-a252-efdd8058fa84",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/84d90056-9ef1-3361-ab6a-93baa7e6b923",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ade2e27e-83d3-3a78-89ec-c5ac64678615",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/3f3e2b2c-cd94-3477-b4ad-383d769e6f96",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/0a84d6c2-515c-30d7-9c40-3b1a19b6299c",
+          "schema:addressLocality": "Royan",
+          "schema:postalCode": "17200",
+          "schema:streetAddress": [
+            "Avenue Émile Zola"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17306",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Royan"
+              ],
+              "pt": [
+                "Royan"
+              ],
+              "en": [
+                "Royan"
+              ],
+              "it": [
+                "Royan"
+              ],
+              "fr": [
+                "Royan"
+              ],
+              "nl": [
+                "Royan"
+              ],
+              "es": [
+                "Royan"
+              ]
+            },
+            "insee": "17306",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/9682cf5b-b603-37ff-9170-efff732adcda",
+        "schema:latitude": "45.616834",
+        "schema:longitude": "-1.009317",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-12-09",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.687Z"
+}

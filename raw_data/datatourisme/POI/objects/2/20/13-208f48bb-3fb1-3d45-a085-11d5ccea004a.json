@@ -1,0 +1,461 @@
+{
+  "@id": "https://data.datatourisme.fr/13/208f48bb-3fb1-3d45-a085-11d5ccea004a",
+  "dc:identifier": "5732153",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die ehemalige Stiftskirche Saint-Jacques ist ein Wunder der romanischen Kunst und gehört zu den Reichtümern von Aubeterre-sur-Dronne, die Sie sich nicht entgehen lassen sollten."
+    ],
+    "en": [
+      "A marvel of romanesque art, the former collegiate church of Saint Jacques is one of the treasures of Aubeterre-sur-Dronne."
+    ],
+    "it": [
+      "Meraviglia dell'arte romanica, l'ex collegiata di Saint-Jacques è uno dei tesori di Aubeterre-sur-Dronne da non perdere."
+    ],
+    "fr": [
+      "Merveille de l'Art Roman, l'ancienne collégiale Saint-Jacques est une des richesses d'Aubeterre-sur-Dronne à ne pas manquer."
+    ],
+    "es": [
+      "Maravilla del arte románico, la antigua colegiata de Saint-Jacques es uno de los tesoros de Aubeterre-sur-Dronne que no debe perderse."
+    ],
+    "nl": [
+      "De voormalige collegiale kerk Saint-Jacques, een wonder van Romaanse kunst, is een van de niet te missen schatten van Aubeterre-sur-Dronne."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Église Saint-Jacques"
+    ],
+    "ru": [
+      "Église Saint-Jacques"
+    ],
+    "en": [
+      "Saint-Jacques Church"
+    ],
+    "it": [
+      "Église Saint-Jacques"
+    ],
+    "fr": [
+      "Église Saint-Jacques"
+    ],
+    "zh": [
+      "Église Saint-Jacques"
+    ],
+    "nl": [
+      "Église Saint-Jacques"
+    ],
+    "es": [
+      "Église Saint-Jacques"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/16ba7217-2e6a-3f1d-a54d-11ab6967e371",
+    "dc:identifier": "2063",
+    "schema:email": [
+      "direction@sudcharentetourisme.fr",
+      "noemie@sudcharentetourisme.fr"
+    ],
+    "schema:legalName": "Office de tourisme du Sud Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.sudcharentetourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/66816c4c-433e-33ec-9dba-ebd1b49a2331",
+      "schema:email": [
+        "mairie.aubeterre-sur-dronne@wanadoo.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 98 50 33"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.aubeterresurdronne.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/27fb16ca-6e3e-3d82-90a9-5ab5011520a0",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3426d372-4762-35ae-8343-2c7747760f26",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/44fa3f32-ead6-38a9-9524-8eecfad13df5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/84a7ccd3-ab1c-3bdb-aca7-0317a4421037",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cb571a07-0e9b-374d-8739-8a825db00f3b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die ehemalige Stiftskirche Saint-Jacques ist ein Wunder der romanischen Kunst und gehört zu den Reichtümern von Aubeterre-sur-Dronne, die Sie sich nicht entgehen lassen sollten."
+        ],
+        "en": [
+          "A marvel of romanesque art, the former collegiate church of Saint Jacques is one of the treasures of Aubeterre-sur-Dronne."
+        ],
+        "it": [
+          "Meraviglia dell'arte romanica, l'ex collegiata di Saint-Jacques è uno dei tesori di Aubeterre-sur-Dronne da non perdere."
+        ],
+        "fr": [
+          "Merveille de l'Art Roman, l'ancienne collégiale Saint-Jacques est une des richesses d'Aubeterre-sur-Dronne à ne pas manquer."
+        ],
+        "es": [
+          "Maravilla del arte románico, la antigua colegiata de Saint-Jacques es uno de los tesoros de Aubeterre-sur-Dronne que no debe perderse."
+        ],
+        "nl": [
+          "De voormalige collegiale kerk Saint-Jacques, een wonder van Romaanse kunst, is een van de niet te missen schatten van Aubeterre-sur-Dronne."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/bc57be6d-4e3d-3126-9dff-a2a349dca9d5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d5df2032-f946-3da0-8ecb-c5aeec0bcc32",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ec42e16a-ab0b-32cb-a822-28228bdcb275",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f03637a7-3012-35c6-95d8-434c8d6cdc84",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/2a9a5306-c482-37a8-9446-a09f16850f32",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/a8958925-8a90-305b-af91-b29c34f646dd",
+          "schema:addressLocality": "Aubeterre-sur-Dronne",
+          "schema:postalCode": "16390",
+          "schema:streetAddress": [
+            "26 A Rue Saint-Jacques",
+            "27, Rue Saint-Jacques"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16020",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Aubeterre-sur-Dronne"
+              ],
+              "pt": [
+                "Aubeterre-sur-Dronne"
+              ],
+              "en": [
+                "Aubeterre-sur-Dronne"
+              ],
+              "it": [
+                "Aubeterre-sur-Dronne"
+              ],
+              "fr": [
+                "Aubeterre-sur-Dronne"
+              ],
+              "nl": [
+                "Aubeterre-sur-Dronne"
+              ],
+              "es": [
+                "Aubeterre-sur-Dronne"
+              ]
+            },
+            "insee": "16020",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/5f00a87c-98cc-31f7-acf5-a2ae34f9a702",
+        "schema:latitude": "45.269987",
+        "schema:longitude": "0.169357",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/daf51b80-b0c4-303c-8cbc-28b00a2ee916",
+          "schema:closes": "19:00:00",
+          "schema:opens": "09:00:00",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/17ccf9a1-6b41-3eb9-a1e1-edf0fbbf90c5",
+      "schema:email": [
+        "direction@sudcharentetourisme.fr",
+        "noemie@sudcharentetourisme.fr"
+      ],
+      "schema:legalName": "Office de tourisme du Sud-Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.sudcharentetourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-04-15",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.767Z"
+}

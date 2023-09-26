@@ -1,0 +1,541 @@
+{
+  "@id": "https://data.datatourisme.fr/13/696181d1-2359-33bf-8bdc-c781ed454b61",
+  "dc:identifier": "5693206",
+  "@type": [
+    "CulturalSite",
+    "Mill",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Windmühle aus dem 17. Jahrhundert (1650), sie befindet sich in einem bemerkenswert guten Erhaltungszustand."
+    ],
+    "en": [
+      "Windmill of the 17th century (1650), it is in a remarkable state of conservation."
+    ],
+    "it": [
+      "Mulino a vento del XVII secolo (1650), in notevole stato di conservazione."
+    ],
+    "fr": [
+      "Moulin à vent du XVIIème siècle (1650), il est dans un état de conservation remarquable."
+    ],
+    "es": [
+      "Molino del siglo XVII (1650), se encuentra en un notable estado de conservación."
+    ],
+    "nl": [
+      "Deze windmolen uit de 17e eeuw (1650) verkeert in een opmerkelijke staat van onderhoud."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Moulin de la Plataine"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/0c6d8c76-a074-386d-ad12-4ddbae4926aa",
+      "schema:email": [
+        "s.jolivet@club-internet.fr"
+      ],
+      "schema:telephone": [
+        "+33 6 33 34 73 39"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/214655cd-2f9a-3db4-b96d-0f167e57024d",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0521784b-6cfe-3e72-ada0-614c30a02361",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4e2c219d-a4e1-361c-bed6-95a59c200837",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b12ec2d2-3bef-399a-9eab-daea06ef7381",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c4cdb178-60e0-3230-be22-8c8044fa8c0e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e1902e08-0b34-3859-a7df-9678a94822c8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Windmühle aus dem 17. Jahrhundert (1650), sie befindet sich in einem bemerkenswert guten Erhaltungszustand."
+        ],
+        "en": [
+          "Windmill of the 17th century (1650), it is in a remarkable state of conservation."
+        ],
+        "it": [
+          "Mulino a vento del XVII secolo (1650), in notevole stato di conservazione."
+        ],
+        "fr": [
+          "Moulin à vent du XVIIème siècle (1650), il est dans un état de conservation remarquable."
+        ],
+        "es": [
+          "Molino del siglo XVII (1650), se encuentra en un notable estado de conservación."
+        ],
+        "nl": [
+          "Deze windmolen uit de 17e eeuw (1650) verkeert in een opmerkelijke staat van onderhoud."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/5698686c-1f58-3828-9ed3-15b93bca9199",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7acd95af-8af9-3bcd-854d-d96ea48c7951",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/96419cb0-0006-3697-80be-b3b6f13d5344",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/dccd4184-ccac-393c-b89b-a4774e8d93a4",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e1ab87e6-78ca-3e46-b0df-565e37138911",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/6d86a4ac-5e5c-3d49-8f69-b15f1a221743",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/70305b5c-8b5f-3e98-95e3-e1995d14df34",
+          "schema:addressLocality": "Bourcefranc-le-Chapus",
+          "schema:postalCode": "17560",
+          "schema:streetAddress": [
+            "1 rue de la Plataine"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17058",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Bourcefranc-le-Chapus"
+              ],
+              "pt": [
+                "Bourcefranc-le-Chapus"
+              ],
+              "en": [
+                "Bourcefranc-le-Chapus"
+              ],
+              "it": [
+                "Bourcefranc-le-Chapus"
+              ],
+              "fr": [
+                "Bourcefranc-le-Chapus"
+              ],
+              "nl": [
+                "Bourcefranc-le-Chapus"
+              ],
+              "es": [
+                "Bourcefranc-le-Chapus"
+              ]
+            },
+            "insee": "17058",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/d017a482-e069-3da3-8c5f-5ad9152dcb30",
+        "schema:latitude": "45.849103",
+        "schema:longitude": "-1.144589",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/a0a054d8-65ea-3762-9898-0f4602117b3f",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Freier Zugang von außen nur außerhalb der Zeiten für kommentierte Besuche.\r\nKommentierte Besuche sind im Juli, August und an den Tagen des Kulturerbes im September möglich."
+            ],
+            "en": [
+              "Free access outside only outside the periods of guided tours.\r\nGuided tours are possible in July, August and on Heritage Days in September."
+            ],
+            "it": [
+              "Accesso libero all'esterno solo al di fuori dei periodi di visita guidata.\r\nVisite guidate possibili in luglio, agosto e durante le Giornate del Patrimonio in settembre."
+            ],
+            "fr": [
+              "Libre accès extérieur uniquement en dehors des périodes de visites commentées.\r\nVisites commentées possibles en juillet, août et les journées du Patrimoine en septembre."
+            ],
+            "nl": [
+              "Vrije toegang buiten alleen buiten de rondleidingen.\r\nRondleidingen mogelijk in juli, augustus en op Open Monumentendagen in september."
+            ],
+            "es": [
+              "Acceso libre al exterior sólo fuera de los periodos de visitas guiadas.\r\nPosibilidad de realizar visitas guiadas en julio, agosto y en las Jornadas del Patrimonio de septiembre."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/0b2b6a01-b513-318a-952e-4e4b2aa30e27",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/0bf20266-6ca8-3a91-8a67-4b32678d4fe1",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/40609359-ca32-30da-9f93-7b0e6e38b201",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/4a38ed1b-0fa7-3f64-91ed-5e78cfc38315",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ecd284df-e3ce-3b1b-93a2-5ac66db99955",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/80009736-71af-3484-9792-2b3de63306d1",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-08-24",
+  "lastUpdateDatatourisme": "2023-06-01T05:41:13.953Z"
+}

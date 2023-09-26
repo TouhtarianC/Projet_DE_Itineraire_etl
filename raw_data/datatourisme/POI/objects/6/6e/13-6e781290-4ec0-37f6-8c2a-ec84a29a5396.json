@@ -1,0 +1,590 @@
+{
+  "@id": "https://data.datatourisme.fr/13/6e781290-4ec0-37f6-8c2a-ec84a29a5396",
+  "dc:identifier": "5684104",
+  "@type": [
+    "Castle",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RemarkableBuilding"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Entdecken Sie das Château de la Roche Courbon, das auch als Dornröschenschloss bezeichnet wird. Schlendern Sie durch seine bemerkenswerten französischen Gärten, durchwandern Sie die Höhlen und den PréhistoZen-Parcours. Eine echte Reise durch die Zeit!"
+    ],
+    "en": [
+      "Discover the castle of La Roche Courbon, also named the castle of the sleeping beauty. Walk through the formal gardens rated Jardins Remarquables, walk down to the caves and PréhistoZen. A true journey back in time !"
+    ],
+    "it": [
+      "Scoprite lo Château de la Roche Courbon, soprannominato il castello della Bella Addormentata. Passeggiate nei suoi notevoli giardini francesi, esplorate le grotte e il sentiero PrehistoZen. Un vero e proprio viaggio nel tempo!"
+    ],
+    "fr": [
+      "Découvrez le Château de la Roche Courbon, surnommé le château de la belle au bois dormant. Déambulez dans ses Jardins Remarquables à la française, parcourez les grottes et le parcours PréhistoZen. Un véritable voyage à travers le temps !"
+    ],
+    "nl": [
+      "Ontdek het Château de la Roche Courbon, bijgenaamd het kasteel van Doornroosje. Dwaal door de opmerkelijke Franse tuinen, verken de grotten en het PrehistoZen pad. Een echte reis door de tijd!"
+    ],
+    "es": [
+      "Descubre el castillo de La Roche Courbon, también llamado el castillo de la bella durmiente. Deambula en los jardines a la francesa, descubre las cuevas y el recorrido PréhistoZen. Un viaje para volver al pasado !"
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Castle of La Roche Courbon"
+    ],
+    "fr": [
+      "Château de la Roche Courbon"
+    ],
+    "es": [
+      "Castillo de La Roche Courbon"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q428854"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f8363057-9d05-3dc5-843a-e693e7cdafe0",
+    "dc:identifier": "2425",
+    "schema:email": [
+      "administration@coeurdesaintonge.fr",
+      "bergonzoni@coeurdesaintonge.fr",
+      "gaillard@coeurdesaintonge.fr",
+      "tourisme@coeurdesaintonge.fr"
+    ],
+    "schema:legalName": "Communauté de communes Coeur de Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.coeurdesaintonge.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/aff50743-2c09-39d9-8fe1-073bfc3acf63",
+      "schema:email": [
+        "contact@larochecourbon.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 95 60 10"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.larochecourbon.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/c487632c-9e8d-3e98-9138-0a8c7f6b6f58",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/6319893f-be09-37f4-98ea-1f74d6cfc148",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/972aa406-3524-37f8-8ae4-d5dddc93d365",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f49917dd-c8f2-3b18-b77d-88827159553b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Entdecken Sie das Château de la Roche Courbon, das auch als Dornröschenschloss bezeichnet wird. Schlendern Sie durch seine bemerkenswerten französischen Gärten, durchwandern Sie die Höhlen und den PréhistoZen-Parcours. Eine echte Reise durch die Zeit!"
+        ],
+        "en": [
+          "Discover the castle of La Roche Courbon, also named the castle of the sleeping beauty. Walk through the formal gardens rated Jardins Remarquables, walk down to the caves and PréhistoZen. A true journey back in time !"
+        ],
+        "it": [
+          "Scoprite lo Château de la Roche Courbon, soprannominato il castello della Bella Addormentata. Passeggiate nei suoi notevoli giardini francesi, esplorate le grotte e il sentiero PrehistoZen. Un vero e proprio viaggio nel tempo!"
+        ],
+        "fr": [
+          "Découvrez le Château de la Roche Courbon, surnommé le château de la belle au bois dormant. Déambulez dans ses Jardins Remarquables à la française, parcourez les grottes et le parcours PréhistoZen. Un véritable voyage à travers le temps !"
+        ],
+        "nl": [
+          "Ontdek het Château de la Roche Courbon, bijgenaamd het kasteel van Doornroosje. Dwaal door de opmerkelijke Franse tuinen, verken de grotten en het PrehistoZen pad. Een echte reis door de tijd!"
+        ],
+        "es": [
+          "Descubre el castillo de La Roche Courbon, también llamado el castillo de la bella durmiente. Deambula en los jardines a la francesa, descubre las cuevas y el recorrido PréhistoZen. Un viaje para volver al pasado !"
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/911a6b10-7b00-3c66-9846-ef20e3c15dfc",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/dc61412e-534f-3e56-9281-be18e9fff504",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Château de la Roche-Courbon, façade"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Groumfy69 (https://commons.wikimedia.org/wiki/User:Groumfy69)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/c51aac28-6ce2-3f69-ba6b-0c4e438c9850",
+          "ebucore:fileSize": [
+            1086495
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1365,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/d/de/Ch%C3%A2teau_de_la_Roche-Courbon%2C_fa%C3%A7ade.JPG"
+          ],
+          "ebucore:width": 2048,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/62cdc22a-39da-36c2-a3e0-4d61980da0ac",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/bae12553-2ac1-363c-84c7-0e5ec906f7c7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/bf49b946-6789-336d-9ba5-afc01b679a65",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/5f29ddf2-f350-37e0-90d4-5e7f50e63dcf",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/31266f6f-4307-3d9c-8f3a-e7122b5d12ae",
+          "schema:addressLocality": "Saint-Porchaire",
+          "schema:postalCode": "17250",
+          "schema:streetAddress": [
+            "Rue de la belle au bois dormant"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17387",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Porchaire"
+              ],
+              "pt": [
+                "Saint-Porchaire"
+              ],
+              "en": [
+                "Saint-Porchaire"
+              ],
+              "it": [
+                "Saint-Porchaire"
+              ],
+              "fr": [
+                "Saint-Porchaire"
+              ],
+              "nl": [
+                "Saint-Porchaire"
+              ],
+              "es": [
+                "Saint-Porchaire"
+              ]
+            },
+            "insee": "17387",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/31eb9204-a78f-36a8-b158-12580807dcd2",
+        "schema:latitude": "45.836505",
+        "schema:longitude": "-0.782012",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d854034-3781-3e93-b379-40b2e981e8df",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-01-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7f9601a1-3edc-3266-a371-720276e12167",
+          "schema:validFrom": "2023-05-01T00:00:00",
+          "schema:validThrough": "2023-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9215a08c-c4e1-3eaf-afec-31620b00b709",
+          "schema:validFrom": "2023-03-22T00:00:00",
+          "schema:validThrough": "2023-04-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e034c301-2fb0-3ed6-bc5d-f1c64d16012d",
+          "schema:validFrom": "2023-02-01T00:00:00",
+          "schema:validThrough": "2023-03-21T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e98baaec-6dd9-3fbf-8f7e-97d767e14976",
+          "schema:validFrom": "2023-10-01T00:00:00",
+          "schema:validThrough": "2023-12-20T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/f8a2cb15-de5f-358e-97f3-0396b4b0396a",
+      "schema:email": [
+        "administration@coeurdesaintonge.fr",
+        "bergonzoni@coeurdesaintonge.fr",
+        "gaillard@coeurdesaintonge.fr",
+        "tourisme@coeurdesaintonge.fr"
+      ],
+      "schema:legalName": "Communauté de communes Coeur de Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.coeurdesaintonge.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-09",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.334Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/f0932a19-438f-3038-9f29-776a8ce76783",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/16fcd90f-4d0e-3190-aebf-c8984b929042",
+          "schema:maxPrice": [
+            "13",
+            "6",
+            "9.5"
+          ],
+          "schema:minPrice": [
+            "13",
+            "6",
+            "9.5"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/68171e08-dfde-33df-b1b0-f83e77e568de",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2024-01-31",
+              "startDate": "2023-02-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

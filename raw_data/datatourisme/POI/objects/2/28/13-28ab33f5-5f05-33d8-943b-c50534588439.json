@@ -1,0 +1,557 @@
+{
+  "@id": "https://data.datatourisme.fr/13/28ab33f5-5f05-33d8-943b-c50534588439",
+  "dc:identifier": "5774307",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Diese Kirche befindet sich in der Nähe eines alten, dem Heiligen Martin gewidmeten Heiligtums, das wahrscheinlich zu Beginn des 12. Jahrhunderts errichtet wurde und aus dessen Chroniken wir erfahren, dass es 1174 vom Bischof von Saintes, Adhémar Carbonel, dem Priorat von Mortagne geschenkt wurde."
+    ],
+    "en": [
+      "This church is located near an ancient sanctuary dedicated to Saint-Martin, probably built around the beginning of the 12th century, and which chronicles tell us was given to the priory of Mortagne by the bishop of Saintes Adhémar Carbonel in 1174."
+    ],
+    "it": [
+      "Questa chiesa si trova nei pressi di un antico santuario dedicato a San Martino, costruito probabilmente all'inizio del XII secolo, e che le cronache raccontano essere stato donato al priorato di Mortagne dal vescovo di Saintes Adhémar Carbonel nel 1174."
+    ],
+    "fr": [
+      "Cette église est située près d'un ancien sanctuaire dédié à Saint-Martin, édifié probablement vers le début du XIIe siècle, et dont les chroniques nous apprennent qu'il fut donné au prieuré de Mortagne par l'évêque de Saintes Adhémar Carbonel en 1174."
+    ],
+    "es": [
+      "Esta iglesia se encuentra cerca de un antiguo santuario dedicado a San Martín, probablemente construido hacia principios del siglo XII, y que, según las crónicas, fue cedido al priorato de Mortagne por el obispo de Saintes Adhémar Carbonel en 1174."
+    ],
+    "nl": [
+      "Deze kerk bevindt zich bij een oud heiligdom gewijd aan Sint Maarten, waarschijnlijk gebouwd rond het begin van de 12e eeuw, dat volgens de kronieken in 1174 door de bisschop van Saintes Adhémar Carbonel aan de priorij van Mortagne werd geschonken."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Église Saint-Séverin de Saint-Seurin-D'Uzet"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q41746869"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/94e385b7-7581-3df8-a98c-4ebdd498f677",
+      "schema:telephone": [
+        "+33 5 46 90 44 03"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/adfc7c44-dab9-345b-80da-e1f9f974f309",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/05767fa7-23a5-3182-aecd-ab2db6b590ab",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/0665a6ad-8c8a-3c83-a863-edd4f41bc3c8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a0104374-0ff6-30ea-b26c-2f8ba3421b19",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a830058a-c14e-3f35-a4c7-c87f84c33e06",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ac07d759-dbb4-3f43-9887-7a59fc3b4acb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Diese Kirche befindet sich in der Nähe eines alten, dem Heiligen Martin gewidmeten Heiligtums, das wahrscheinlich zu Beginn des 12. Jahrhunderts errichtet wurde und aus dessen Chroniken wir erfahren, dass es 1174 vom Bischof von Saintes, Adhémar Carbonel, dem Priorat von Mortagne geschenkt wurde."
+        ],
+        "en": [
+          "This church is located near an ancient sanctuary dedicated to Saint-Martin, probably built around the beginning of the 12th century, and which chronicles tell us was given to the priory of Mortagne by the bishop of Saintes Adhémar Carbonel in 1174."
+        ],
+        "it": [
+          "Questa chiesa si trova nei pressi di un antico santuario dedicato a San Martino, costruito probabilmente all'inizio del XII secolo, e che le cronache raccontano essere stato donato al priorato di Mortagne dal vescovo di Saintes Adhémar Carbonel nel 1174."
+        ],
+        "fr": [
+          "Cette église est située près d'un ancien sanctuaire dédié à Saint-Martin, édifié probablement vers le début du XIIe siècle, et dont les chroniques nous apprennent qu'il fut donné au prieuré de Mortagne par l'évêque de Saintes Adhémar Carbonel en 1174."
+        ],
+        "es": [
+          "Esta iglesia se encuentra cerca de un antiguo santuario dedicado a San Martín, probablemente construido hacia principios del siglo XII, y que, según las crónicas, fue cedido al priorato de Mortagne por el obispo de Saintes Adhémar Carbonel en 1174."
+        ],
+        "nl": [
+          "Deze kerk bevindt zich bij een oud heiligdom gewijd aan Sint Maarten, waarschijnlijk gebouwd rond het begin van de 12e eeuw, dat volgens de kronieken in 1174 door de bisschop van Saintes Adhémar Carbonel aan de priorij van Mortagne werd geschonken."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/92c0b889-d370-333b-ae6f-274623fce045",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/eae44986-90ba-3039-862e-16ce7b2dcf89",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Eglise saint serin duzet"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "<a href=\"https://en.wikipedia.org/wiki/fr:User:NaSH\" class=\"extiw\" title=\"w:fr:User:NaSH\">NaSH</a> sur <a href=\"https://en.wikipedia.org/wiki/fr:\" class=\"extiw\" title=\"w:fr:\">Wikipédia français</a>"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/9287504f-423f-3aec-9958-548b1ca63635",
+          "ebucore:fileSize": [
+            610070
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 960,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/4/4b/Eglise_saint_serin_duzet.JPG"
+          ],
+          "ebucore:width": 1280,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/015085e6-ebb2-3605-a234-63e8eb9989ba",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/092a748a-90f6-35bc-b4f9-39af62f44504",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/77bcf84d-4ed4-3e09-947a-58b8873781a7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b50e7924-8966-3dc9-ba17-87aea8368b14",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ee2f168b-29e4-396b-b55e-014fdfb9f5ad",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/447b499a-402d-3920-aeb0-156ba580cafe",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/81d9e180-089e-3248-87ee-48cbfe589fe9",
+          "schema:addressLocality": "Chenac-Saint-Seurin-d'Uzet",
+          "schema:postalCode": "17120",
+          "schema:streetAddress": [
+            "Port de Chenac"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17098",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Chenac-Saint-Seurin-d'Uzet"
+              ],
+              "pt": [
+                "Chenac-Saint-Seurin-d'Uzet"
+              ],
+              "en": [
+                "Chenac-Saint-Seurin-d'Uzet"
+              ],
+              "it": [
+                "Chenac-Saint-Seurin-d'Uzet"
+              ],
+              "fr": [
+                "Chenac-Saint-Seurin-d'Uzet"
+              ],
+              "nl": [
+                "Chenac-Saint-Seurin-d'Uzet"
+              ],
+              "es": [
+                "Chenac-Saint-Seurin-d'Uzet"
+              ]
+            },
+            "insee": "17098",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/c94f3199-f628-336d-b0db-486d812091b4",
+        "schema:latitude": "45.502039",
+        "schema:longitude": "-0.834145",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-01-10",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.802Z"
+}

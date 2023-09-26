@@ -1,0 +1,518 @@
+{
+  "@id": "https://data.datatourisme.fr/13/74fba522-a5f6-31d6-8525-7c4ce6eba4f8",
+  "dc:identifier": "5762145",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Kirche Saint Germain de Beaugeay wurde um das 11. Jahrhundert herum errichtet.\r\nJahrhundert errichtet. Ein Jahrhundert später wurde sie fast vollständig wieder aufgebaut."
+    ],
+    "en": [
+      "The church of Saint Germain de Beaugeay was built around the 11th century.\r\nIt was almost entirely rebuilt a century later."
+    ],
+    "it": [
+      "La chiesa di Saint Germain de Beaugeay fu costruita intorno all'XI secolo.\r\nFu quasi interamente ricostruito un secolo dopo."
+    ],
+    "fr": [
+      "L’église Saint Germain de Beaugeay fut érigée vers le XIe siècle.\r\nElle fut presque entièrement reconstruite un siècle plus tard."
+    ],
+    "es": [
+      "La iglesia de Saint Germain de Beaugeay fue construida alrededor del siglo XI.\r\nFue reconstruida casi por completo un siglo después."
+    ],
+    "nl": [
+      "De kerk van Saint Germain de Beaugeay werd gebouwd rond de 11e eeuw.\r\nHet werd een eeuw later bijna volledig herbouwd."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Kirche Saint-Germain de Beaugeay"
+    ],
+    "en": [
+      "Saint-Germain de Beaugeay Church"
+    ],
+    "fr": [
+      "Église Saint-Germain de Beaugeay"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q29577905"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/9afefc52-942c-383c-bc1f-14b2139b09ba",
+    "dc:identifier": "2055",
+    "schema:email": [
+      "chloe.mailler@rochefort-ocean.com",
+      "christine.nourisson@rochefort-ocean.com",
+      "chrystelle.ecale@rochefort-ocean.com",
+      "lea.origlia@rochefort-ocean.com",
+      "sandrine.bouron@rochefort-ocean.com"
+    ],
+    "schema:legalName": "Office de Tourisme Rochefort Océan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.rochefort-ocean.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/630abc89-c799-3803-ad1c-f2480d161692",
+      "schema:email": [
+        "mairie.beaugeay@wanadoo.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 83 30 46"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/493e1486-be19-3074-b92b-1a8f04eb7aa3",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1220cb4a-e602-3a62-b4d6-9c8319692c94",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/31e174de-ff6d-39fa-a62e-c362e4f18da8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cedcf434-3c38-3cb6-89a7-434a2e95e010",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Kirche Saint Germain de Beaugeay wurde um das 11. Jahrhundert herum errichtet.\r\nJahrhundert errichtet. Ein Jahrhundert später wurde sie fast vollständig wieder aufgebaut."
+        ],
+        "en": [
+          "The church of Saint Germain de Beaugeay was built around the 11th century.\r\nIt was almost entirely rebuilt a century later."
+        ],
+        "it": [
+          "La chiesa di Saint Germain de Beaugeay fu costruita intorno all'XI secolo.\r\nFu quasi interamente ricostruito un secolo dopo."
+        ],
+        "fr": [
+          "L’église Saint Germain de Beaugeay fut érigée vers le XIe siècle.\r\nElle fut presque entièrement reconstruite un siècle plus tard."
+        ],
+        "es": [
+          "La iglesia de Saint Germain de Beaugeay fue construida alrededor del siglo XI.\r\nFue reconstruida casi por completo un siglo después."
+        ],
+        "nl": [
+          "De kerk van Saint Germain de Beaugeay werd gebouwd rond de 11e eeuw.\r\nHet werd een eeuw later bijna volledig herbouwd."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/09ce1f3d-54bd-35ab-86a5-42a186ba4bed",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/7bde25b1-38d2-36c5-81ea-2b00e26c5660",
+          "ebucore:isCoveredBy": "CC BY-SA 4.0",
+          "ebucore:title": {
+            "fr": [
+              "France - 17 - Beaugeay - Église Saint Germain"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "KiwiNeko14 (https://commons.wikimedia.org/wiki/User:KiwiNeko14)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/8bb97a0a-42d1-34f8-b0de-7a1bb91338f6",
+          "ebucore:fileSize": [
+            3101585
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 3456,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/5/56/France_-_17_-_Beaugeay_-_%C3%89glise_Saint_Germain.JPG"
+          ],
+          "ebucore:width": 4608,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/755fcbd6-d174-3ff0-bfc9-ad6c7ce41730",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/77328957-c2fc-34aa-823a-2cd1eec79a88",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/93950a7b-6b6e-30f9-9b3f-3ba535784336",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/5af65f76-bf8f-390c-9f05-ee5776cf6639",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/2deb84ec-f9d9-3897-b346-6e0d706c4cfc",
+          "schema:addressLocality": "Beaugeay",
+          "schema:postalCode": "17620",
+          "schema:streetAddress": [
+            "rue de l'Église"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17036",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Beaugeay"
+              ],
+              "pt": [
+                "Beaugeay"
+              ],
+              "en": [
+                "Beaugeay"
+              ],
+              "it": [
+                "Beaugeay"
+              ],
+              "fr": [
+                "Beaugeay"
+              ],
+              "nl": [
+                "Beaugeay"
+              ],
+              "es": [
+                "Beaugeay"
+              ]
+            },
+            "insee": "17036",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/eb475f2c-01ab-3d4e-b8a6-70335342db4f",
+        "schema:latitude": "45.876083",
+        "schema:longitude": "-0.993843",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fed90c24-5b4e-374e-b413-9c9ae527b242",
+      "schema:email": [
+        "chloe.mailler@rochefort-ocean.com",
+        "christine.nourisson@rochefort-ocean.com",
+        "chrystelle.ecale@rochefort-ocean.com",
+        "lea.origlia@rochefort-ocean.com",
+        "sandrine.bouron@rochefort-ocean.com"
+      ],
+      "schema:legalName": "Office de Tourisme Rochefort Océan",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.rochefort-ocean.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-20",
+  "lastUpdateDatatourisme": "2023-06-21T05:51:34.533Z"
+}

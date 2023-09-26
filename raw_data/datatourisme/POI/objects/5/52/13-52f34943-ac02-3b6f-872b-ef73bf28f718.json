@@ -1,0 +1,544 @@
+{
+  "@id": "https://data.datatourisme.fr/13/52f34943-ac02-3b6f-872b-ef73bf28f718",
+  "dc:identifier": "5774571",
+  "@type": [
+    "CivilCemetery",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RemembranceSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Kommunaler Friedhof in der Gemeinde Les Mathes.\r\nAnzahl der Gräber: 254"
+    ],
+    "en": [
+      "Communal cemetery in the commune of Les Mathes.\r\nNumber of graves : 254"
+    ],
+    "it": [
+      "Cimitero comunale nel comune di Les Mathes.\r\nNumero di tombe: 254"
+    ],
+    "fr": [
+      "Cimetière communal sur la commune des Mathes.\r\nNombre de tombes : 254"
+    ],
+    "nl": [
+      "Gemeenschappelijke begraafplaats in de gemeente Les Mathes.\r\nAantal graven : 254"
+    ],
+    "es": [
+      "Cementerio comunal en el municipio de Les Mathes.\r\nNúmero de tumbas : 254"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Cimetière Communal des Mathes"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/82d181d8-8cdd-3169-86b8-49984b33c458",
+      "schema:email": [
+        "info@lesmatheslapalmyre.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 22 48 72"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/ef904f62-3855-346f-b2b6-5248bd3bbb3b",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1aa61e96-f9ee-3c05-8790-000ee6793b2f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4bc7cedf-e0b3-3482-884f-857f82bd8310",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9ab61401-ba80-3982-ba56-a741f348cbd3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a14372b7-ea6a-3373-8e6e-62c6f9994476",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a8f0848f-e8bd-34e9-973e-156d41f118aa",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Kommunaler Friedhof in der Gemeinde Les Mathes.\r\nAnzahl der Gräber: 254"
+        ],
+        "en": [
+          "Communal cemetery in the commune of Les Mathes.\r\nNumber of graves : 254"
+        ],
+        "it": [
+          "Cimitero comunale nel comune di Les Mathes.\r\nNumero di tombe: 254"
+        ],
+        "fr": [
+          "Cimetière communal sur la commune des Mathes.\r\nNombre de tombes : 254"
+        ],
+        "nl": [
+          "Gemeenschappelijke begraafplaats in de gemeente Les Mathes.\r\nAantal graven : 254"
+        ],
+        "es": [
+          "Cementerio comunal en el municipio de Les Mathes.\r\nNúmero de tumbas : 254"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/53f6db03-5a97-35e3-8595-57a541414b79",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/59b550cf-ee30-377e-b611-ff4b091f4e45",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5ada4344-ebff-3ee2-aa32-ad6895f38efa",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b3d5d633-d305-32b5-b156-2732de82ec99",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f46b9233-bb03-3ab9-9b0c-0ae275116977",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/2dda991c-4907-3272-bc55-218aa30a59e5",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/2d835b86-3b2e-3fd4-bcaa-24706877fab4",
+          "schema:addressLocality": "Les Mathes",
+          "schema:postalCode": "17570",
+          "schema:streetAddress": [
+            "Avenue du Grand Logis"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17225",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Les Mathes"
+              ],
+              "pt": [
+                "Les Mathes"
+              ],
+              "en": [
+                "Les Mathes"
+              ],
+              "it": [
+                "Les Mathes"
+              ],
+              "fr": [
+                "Les Mathes"
+              ],
+              "nl": [
+                "Les Mathes"
+              ],
+              "es": [
+                "Les Mathes"
+              ]
+            },
+            "insee": "17225",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/f9846ae3-3934-3589-9c6b-403b9b1c3921",
+        "schema:latitude": "45.714592",
+        "schema:longitude": "-1.138835",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/36acedc3-b1b3-3b9f-b060-a21508049396",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Nebensaison (1. Oktober bis 31. März) :\r\nTäglich: 9:00 bis 17:00 Uhr\r\n\r\nHochsaison (1. April bis 30. September) :\r\nTäglich: 8:00 bis 19:00 Uhr"
+            ],
+            "en": [
+              "Low season (October 1 to March 31):\r\nEvery day: 9am to 5pm\r\n\r\nHigh season (April 1 to September 30):\r\nEvery day: 8am to 7pm"
+            ],
+            "it": [
+              "Bassa stagione (dal 1° ottobre al 31 marzo):\r\nTutti i giorni: dalle 9.00 alle 17.00\r\n\r\nAlta stagione (dal 1° aprile al 30 settembre):\r\nTutti i giorni: dalle 8.00 alle 19.00"
+            ],
+            "fr": [
+              "Basse saison (1er octobre au 31 mars) :\r\nTous les jours : 9h à 17h\r\n\r\nHaute saison (1er avril au 30 septembre) :\r\nTous les jours : 8h à 19h"
+            ],
+            "es": [
+              "Temporada baja (del 1 de octubre al 31 de marzo):\r\nTodos los días: de 9 a 17 horas\r\n\r\nTemporada alta (del 1 de abril al 30 de septiembre):\r\nTodos los días: de 8 a 19 horas"
+            ],
+            "nl": [
+              "Laagseizoen (1 oktober tot 31 maart):\r\nElke dag: 9u tot 17u\r\n\r\nHoogseizoen (1 april tot 30 september):\r\nElke dag: 8u tot 19u"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/2444f961-6b01-3df8-9a1e-b973d1c95b0e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/29c9a45b-3376-3933-bffc-eea58d86aa3c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/78d390ef-c4b3-3882-af5f-09d7da532bb9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a16ba55a-c8dd-30fb-9670-578632f9220d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f2cc8818-3155-3b72-bc73-3b97e5acb3bd",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-08-05",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.684Z"
+}

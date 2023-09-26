@@ -1,0 +1,567 @@
+{
+  "@id": "https://data.datatourisme.fr/13/14208751-6fd6-3e47-b89f-a704a8e751d8",
+  "dc:identifier": "5695329",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Im Süden der Charente Maritime reisen Sie in das Herz des bäuerlichen Lebens des vergangenen Jahrhunderts. Berufe, Werkzeuge, Lebensweise - alles wird Ihnen erklärt!"
+    ],
+    "en": [
+      "In the south of the Charente Maritime, you will travel to the heart of peasant life in the last century. Trades, tools, way of life, everything will be explained to you!"
+    ],
+    "it": [
+      "Nel sud della Charente Maritime, si viaggia nel cuore della vita contadina del secolo scorso. Mestieri, strumenti, stile di vita, tutto vi sarà spiegato!"
+    ],
+    "fr": [
+      "Au sud de la Charente Maritime, vous voyagerez au cœur de la vie paysanne du siècle passé. Métiers, outils, façon de vivre, tout vous sera expliqué !"
+    ],
+    "nl": [
+      "In het zuiden van de Charente Maritime reist u naar het hart van het boerenleven in de vorige eeuw. Ambachten, gereedschap, manier van leven, alles wordt u uitgelegd!"
+    ],
+    "es": [
+      "En el sur de la Charente Marítima, viajará al corazón de la vida campesina del siglo pasado. Oficios, herramientas, modo de vida, ¡todo te será explicado!"
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Museum of Popular Trades and Traditions of Clérac"
+    ],
+    "fr": [
+      "Musée des métiers et traditions populaires de Clérac"
+    ],
+    "es": [
+      "Museo de artesanía y tradiciones populares de Clérac"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8076242b-621a-33b6-af6a-9ec4278f104d",
+      "schema:email": [
+        "musee.clerac@orange.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 04 07 83"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.musee-clerac.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/1a6020ba-5596-379c-8f8f-90be9f9ac964",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/4926d036-7ada-32af-8235-5851d30df93d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4fb42d12-ca9f-3ab5-a21f-b9bb0faaa0c5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f325ddc6-4b22-35c6-b158-00f8897fffb6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fc521cec-704d-336c-be60-dd2b4b623098",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Im Süden der Charente Maritime reisen Sie in das Herz des bäuerlichen Lebens des vergangenen Jahrhunderts. Berufe, Werkzeuge, Lebensweise - alles wird Ihnen erklärt!"
+        ],
+        "en": [
+          "In the south of the Charente Maritime, you will travel to the heart of peasant life in the last century. Trades, tools, way of life, everything will be explained to you!"
+        ],
+        "it": [
+          "Nel sud della Charente Maritime, si viaggia nel cuore della vita contadina del secolo scorso. Mestieri, strumenti, stile di vita, tutto vi sarà spiegato!"
+        ],
+        "fr": [
+          "Au sud de la Charente Maritime, vous voyagerez au cœur de la vie paysanne du siècle passé. Métiers, outils, façon de vivre, tout vous sera expliqué !"
+        ],
+        "nl": [
+          "In het zuiden van de Charente Maritime reist u naar het hart van het boerenleven in de vorige eeuw. Ambachten, gereedschap, manier van leven, alles wordt u uitgelegd!"
+        ],
+        "es": [
+          "En el sur de la Charente Marítima, viajará al corazón de la vida campesina del siglo pasado. Oficios, herramientas, modo de vida, ¡todo te será explicado!"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/08fd7adc-b223-3c9c-a367-21680ed4de09",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/1027dbba-b30b-31c7-9cbd-16ffba65c204",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/acda5518-b299-3d09-b1f6-8d167dc6027a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b9ac70f6-9e6d-3ff2-bace-2073b9408115",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/81e57158-338e-3788-9eed-a3fa1c334452",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/af00717e-2940-3e57-8ea1-c8e1e9edc057",
+          "schema:addressLocality": "Clérac",
+          "schema:postalCode": "17270",
+          "schema:streetAddress": [
+            "2 route des Châteaux"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17110",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Clérac"
+              ],
+              "pt": [
+                "Clérac"
+              ],
+              "en": [
+                "Clérac"
+              ],
+              "it": [
+                "Clérac"
+              ],
+              "fr": [
+                "Clérac"
+              ],
+              "nl": [
+                "Clérac"
+              ],
+              "es": [
+                "Clérac"
+              ]
+            },
+            "insee": "17110",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/bcb7d6e5-e3aa-3044-a163-a57cc528bdaf",
+        "schema:latitude": "45.181673",
+        "schema:longitude": "-0.226652",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/9522529d-5dd0-310f-aa5b-bb070c776880",
+          "schema:validFrom": "2023-05-09T00:00:00",
+          "schema:validThrough": "2023-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "öffnungszeiten: Dienstag und Mittwoch von 14.00 bis 18.30 Uhr, Donnerstag bis Sonntag von 10.00 bis 12.00 Uhr und von 14.00 bis 18.30 Uhr"
+            ],
+            "en": [
+              "open Tuesday and Wednesday from 2 to 6:30 p.m., Thursday to Sunday from 10 to 12 a.m. and 2 to 6:30 p.m"
+            ],
+            "it": [
+              "aperto martedì e mercoledì dalle 14 alle 18.30, da giovedì a domenica dalle 10 alle 12 e dalle 14 alle 18.30"
+            ],
+            "fr": [
+              "ouverture le mardi et mercredi de 14 h à 18 h 30, du jeudi au dimanche de 10 h à 12 h et de 14 h à 18 h 30"
+            ],
+            "nl": [
+              "geopend op dinsdag en woensdag van 14.00 tot 18.30 uur, van donderdag tot en met zondag van 10.00 tot 12.00 uur en van 14.00 tot 18.30 uur"
+            ],
+            "es": [
+              "abierto martes y miércoles de 14 a 18.30 horas, de jueves a domingo de 10 a 12 horas y de 14 a 18.30 horas"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/26ede9f7-7eb2-3002-9e0a-88947e58b47f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/879cd6bb-4eff-3902-9a19-6aa863e55636",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/8bd8fbe2-8ac4-3dd8-a81a-ac4ea9b2af3e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ad4aa9f9-03c6-3233-8ce8-e5341aa41b40",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d3cc8d40-5780-3d61-8516-3ae6a1da7cea",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-05-04",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.395Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/f3790998-cdcb-3c51-8f53-004d3801aa78",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/29dc0a1e-c457-38ba-aaf6-92f81ce44b74",
+          "schema:maxPrice": [
+            "2.5",
+            "3",
+            "4"
+          ],
+          "schema:minPrice": [
+            "2.5",
+            "3",
+            "4"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/aeb6539e-f70e-35cc-bc8d-3a6eba809f0e",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-09-30",
+              "startDate": "2023-05-09"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "@id": "https://data.datatourisme.fr/13/4d722ac2-8e28-3ff7-ba14-3ac6882ec370",
+  "dc:identifier": "5754652",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Seit 1960 ernten, produzieren und füllen wir in der EARL Vignoble Peronneau für Sie qualitativ hochwertige Produkte ab."
+    ],
+    "en": [
+      "Since 1960, at EARL Vignoble Peronneau we have been harvesting, producing and bottling high quality products for you."
+    ],
+    "it": [
+      "Dal 1960, EARL Vignoble Peronneau raccoglie, produce e imbottiglia per voi prodotti di alta qualità."
+    ],
+    "fr": [
+      "Depuis 1960, à l’EARL Vignoble Peronneau nous récoltons, fabriquons et mettons en bouteille des produits de haute qualité, pour vous."
+    ],
+    "nl": [
+      "Sinds 1960 oogsten, produceren en bottelen wij bij EARL Vignoble Peronneau producten van hoge kwaliteit voor u."
+    ],
+    "es": [
+      "Desde 1960, en EARL Vignoble Peronneau cosechamos, producimos y embotellamos productos de alta calidad para usted."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "EARL Vignoble Peronneau"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/1afb2006-d3af-397b-a5c0-e3e9a0ba1399",
+      "schema:email": [
+        "earlvignobleperonneau@orange.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 04 65 24",
+        "+33 6 11 69 56 64"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://vignoble-peronneau.fr/",
+        "https://www.instagram.com/vignoble.peronneau"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/5fb0bc12-9f7b-3ae1-93e2-d47d29e247a9",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0fc28717-f5d6-387d-9361-ced9a612c97f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2f3d8ad6-aa50-3dd9-ba64-7c9fdb771857",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8e785373-9686-3983-80ba-3c9554b28ea6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bdb7ec5c-9f7b-3b7f-9f81-1061a270aadf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fa0c0657-0db0-3339-935c-aaae8b0b309e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Seit 1960 ernten, produzieren und füllen wir in der EARL Vignoble Peronneau für Sie qualitativ hochwertige Produkte ab."
+        ],
+        "en": [
+          "Since 1960, at EARL Vignoble Peronneau we have been harvesting, producing and bottling high quality products for you."
+        ],
+        "it": [
+          "Dal 1960, EARL Vignoble Peronneau raccoglie, produce e imbottiglia per voi prodotti di alta qualità."
+        ],
+        "fr": [
+          "Depuis 1960, à l’EARL Vignoble Peronneau nous récoltons, fabriquons et mettons en bouteille des produits de haute qualité, pour vous."
+        ],
+        "nl": [
+          "Sinds 1960 oogsten, produceren en bottelen wij bij EARL Vignoble Peronneau producten van hoge kwaliteit voor u."
+        ],
+        "es": [
+          "Desde 1960, en EARL Vignoble Peronneau cosechamos, producimos y embotellamos productos de alta calidad para usted."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/08d5fbbe-313e-3c64-9a5f-baa9d034e8ad",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/588cdcf0-404a-3d02-afb1-fa2ee739a586",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/71e98418-3b9f-3bc7-95e1-287e0cbfd275",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c2aa58fb-02e0-3486-8da3-a7f22718b626",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e3d3d82e-4b98-396d-b612-c8228f530728",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/2f58a005-8e18-3916-917a-914d32060492",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/952ced12-0357-3b78-b055-105a45bcd087",
+          "schema:addressLocality": "Pouillac",
+          "schema:postalCode": "17210",
+          "schema:streetAddress": [
+            "Boniteau"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17287",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Pouillac"
+              ],
+              "pt": [
+                "Pouillac"
+              ],
+              "en": [
+                "Pouillac"
+              ],
+              "it": [
+                "Pouillac"
+              ],
+              "fr": [
+                "Pouillac"
+              ],
+              "nl": [
+                "Pouillac"
+              ],
+              "es": [
+                "Pouillac"
+              ]
+            },
+            "insee": "17287",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/e7ffde08-c38d-3de4-8742-e6a032f49adc",
+        "schema:latitude": "45.265672",
+        "schema:longitude": "-0.274531",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-03-24",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.773Z"
+}

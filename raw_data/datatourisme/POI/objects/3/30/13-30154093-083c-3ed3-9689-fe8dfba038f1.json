@@ -1,0 +1,464 @@
+{
+  "@id": "https://data.datatourisme.fr/13/30154093-083c-3ed3-9689-fe8dfba038f1",
+  "dc:identifier": "5775519",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Verkauf von Pineau, Cognac, Landwein, Traubensaft und traditioneller Methode. Während einer Pineau- oder Cognac-Verkostung besichtigen Sie die Außenanlagen dieses Logis aus dem 16."
+    ],
+    "en": [
+      "Sale of pineau, cognac, local wine, grape juice and traditional method. During a tasting of pineau or cognac, you will visit the exterior of this 16th century house."
+    ],
+    "it": [
+      "Vendita di pineau, cognac, vino locale, succo d'uva e metodo tradizionale. Durante una degustazione di pineau o cognac, visiterete l'esterno di questa casa del XVI secolo."
+    ],
+    "fr": [
+      "Vente de pineau, cognac, vin de pays, jus de raisin et méthode traditionnelle. Au cours d'une dégustation de pineau ou de cognac, vous visiterez les extérieurs de ce logis du XVIe siècle."
+    ],
+    "nl": [
+      "Verkoop van pineau, cognac, lokale wijn, druivensap en traditionele methode. Tijdens een proeverij van pineau of cognac bezoekt u de buitenkant van dit 16e eeuwse huis."
+    ],
+    "es": [
+      "Venta de pineau, coñac, vino local, zumo de uva y método tradicional. Durante una degustación de pineau o coñac, visitará el exterior de esta casa del siglo XVI."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "EARL du château de la Magdeleine"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/6a8aa1b4-3a32-3135-b4d6-6fd2450939aa",
+      "schema:email": [
+        "chat.magdel@free.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 04 11 54"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.chateaudelamagdeleine.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/d6382cc3-f145-30f3-bdf5-5ea88eacbf42",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/5479c232-731d-3a83-81ca-1d11d4e16d31",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6a6b1929-7fe7-38e8-97f4-d367fc4fd00d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6dd2ad39-06d0-33b4-9167-1eaa78e8492f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/93b5bcbf-797f-366d-be3b-2eb24386947c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ded75428-2686-3986-a9a9-52f4695317a7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Verkauf von Pineau, Cognac, Landwein, Traubensaft und traditioneller Methode. Während einer Pineau- oder Cognac-Verkostung besichtigen Sie die Außenanlagen dieses Logis aus dem 16."
+        ],
+        "en": [
+          "Sale of pineau, cognac, local wine, grape juice and traditional method. During a tasting of pineau or cognac, you will visit the exterior of this 16th century house."
+        ],
+        "it": [
+          "Vendita di pineau, cognac, vino locale, succo d'uva e metodo tradizionale. Durante una degustazione di pineau o cognac, visiterete l'esterno di questa casa del XVI secolo."
+        ],
+        "fr": [
+          "Vente de pineau, cognac, vin de pays, jus de raisin et méthode traditionnelle. Au cours d'une dégustation de pineau ou de cognac, vous visiterez les extérieurs de ce logis du XVIe siècle."
+        ],
+        "nl": [
+          "Verkoop van pineau, cognac, lokale wijn, druivensap en traditionele methode. Tijdens een proeverij van pineau of cognac bezoekt u de buitenkant van dit 16e eeuwse huis."
+        ],
+        "es": [
+          "Venta de pineau, coñac, vino local, zumo de uva y método tradicional. Durante una degustación de pineau o coñac, visitará el exterior de esta casa del siglo XVI."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/96fb0205-b845-385b-8194-b169fbc93bb9",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a002a1e6-819e-301a-80af-c4303f76976b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e4116707-bcdc-3ef9-8852-4bb642f4e03e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e4f3e6cb-fb7a-3314-b566-ca73b78a8dc6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fc39a63f-5815-3eee-ac56-8deb836aca69",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/d626d29b-7511-3c3a-a65e-d2ba2d1f5580",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/0ab42fcb-f5ad-3cdf-93c4-52ea3bc822bd",
+          "schema:addressLocality": "Saint-Martin-d'Ary",
+          "schema:postalCode": "17270",
+          "schema:streetAddress": [
+            "Château de la Magdeleine"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17365",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Martin-d'Ary"
+              ],
+              "pt": [
+                "Saint-Martin-d'Ary"
+              ],
+              "en": [
+                "Saint-Martin-d'Ary"
+              ],
+              "it": [
+                "Saint-Martin-d'Ary"
+              ],
+              "fr": [
+                "Saint-Martin-d'Ary"
+              ],
+              "nl": [
+                "Saint-Martin-d'Ary"
+              ],
+              "es": [
+                "Saint-Martin-d'Ary"
+              ]
+            },
+            "insee": "17365",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/0739bb2c-cdd1-36dd-a330-eebda8aba9aa",
+        "schema:latitude": "45.21405",
+        "schema:longitude": "-0.213573",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-05-30",
+  "lastUpdateDatatourisme": "2023-05-31T05:43:37.56Z"
+}

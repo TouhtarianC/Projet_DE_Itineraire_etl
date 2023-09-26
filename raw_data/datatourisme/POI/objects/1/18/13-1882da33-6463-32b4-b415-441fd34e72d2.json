@@ -1,0 +1,1174 @@
+{
+  "@id": "https://data.datatourisme.fr/13/1882da33-6463-32b4-b415-441fd34e72d2",
+  "dc:identifier": "5758353",
+  "@type": [
+    "Castle",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RemarkableBuilding"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Wenn Sie sich dem Château de la Mercerie nähern, werden Sie von seiner beeindruckenden, 220 Meter langen Fassade überrascht sein. Es wird auch das \"Kleine Versailles der Charentes\" genannt und ist das Ergebnis der grenzenlosen Fantasie der Brüder Alphonse und Raymond Réthoré."
+    ],
+    "en": [
+      "As you approach the Château de la Mercerie, you will be surprised by its impressive 220 meter long façade. Called the \"Little Versailles of the Charentes\", it is the fruit of the boundless imagination of the brothers, Alphonse and Raymond Réthoré."
+    ],
+    "it": [
+      "Avvicinandosi al Château de la Mercerie, si rimane sorpresi dalla sua imponente facciata lunga 220 metri. Definito la \"piccola Versailles delle Charentes\", è il frutto della sconfinata immaginazione dei fratelli Alphonse e Raymond Réthoré."
+    ],
+    "fr": [
+      "En vous approchant du château de la Mercerie, vous serez surpris par son impressionnante façade de 220 mètres de long. Appelé le “Petit Versailles des Charentes”, il est le fruit de l’imagination sans limite des frères, Alphonse et Raymond Réthoré."
+    ],
+    "nl": [
+      "Als u het Château de la Mercerie nadert, wordt u verrast door de indrukwekkende 220 meter lange gevel. Het wordt het \"Kleine Versailles van de Charentes\" genoemd en is de vrucht van de grenzeloze verbeelding van de broers Alphonse en Raymond Réthoré."
+    ],
+    "es": [
+      "Al acercarse al castillo de la Mercerie, le sorprenderá su impresionante fachada de 220 metros de largo. Llamado el \"Pequeño Versalles de Charentes\", es fruto de la desbordante imaginación de los hermanos Alphonse y Raymond Réthoré."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Château de la Mercerie"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q15944458"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/16ba7217-2e6a-3f1d-a54d-11ab6967e371",
+    "dc:identifier": "2063",
+    "schema:email": [
+      "direction@sudcharentetourisme.fr",
+      "noemie@sudcharentetourisme.fr"
+    ],
+    "schema:legalName": "Office de tourisme du Sud Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.sudcharentetourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3491f949-8823-35ad-b720-18c30187217f",
+      "schema:email": [
+        "chateaudelamercerie16@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 5 45 60 26 80",
+        "+33 7 89 63 03 57"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.chateaudelamercerie.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/c5c7cab1-b249-3cbd-be6a-d7ae0e1c13b5",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0310a0a9-b87b-3e57-a849-7f236ffe7445",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/69868a86-e78b-30b6-9980-4025cb134c0a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6a4d19a4-19c6-3b0c-a6ad-f7ddb91ea966",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6aeafdd9-1062-35a4-a868-58794b11bfdf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fe28df79-6310-3070-abc9-d846beba5132",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Wenn Sie sich dem Château de la Mercerie nähern, werden Sie von seiner beeindruckenden, 220 Meter langen Fassade überrascht sein. Es wird auch das \"Kleine Versailles der Charentes\" genannt und ist das Ergebnis der grenzenlosen Fantasie der Brüder Alphonse und Raymond Réthoré."
+        ],
+        "en": [
+          "As you approach the Château de la Mercerie, you will be surprised by its impressive 220 meter long façade. Called the \"Little Versailles of the Charentes\", it is the fruit of the boundless imagination of the brothers, Alphonse and Raymond Réthoré."
+        ],
+        "it": [
+          "Avvicinandosi al Château de la Mercerie, si rimane sorpresi dalla sua imponente facciata lunga 220 metri. Definito la \"piccola Versailles delle Charentes\", è il frutto della sconfinata immaginazione dei fratelli Alphonse e Raymond Réthoré."
+        ],
+        "fr": [
+          "En vous approchant du château de la Mercerie, vous serez surpris par son impressionnante façade de 220 mètres de long. Appelé le “Petit Versailles des Charentes”, il est le fruit de l’imagination sans limite des frères, Alphonse et Raymond Réthoré."
+        ],
+        "nl": [
+          "Als u het Château de la Mercerie nadert, wordt u verrast door de indrukwekkende 220 meter lange gevel. Het wordt het \"Kleine Versailles van de Charentes\" genoemd en is de vrucht van de grenzeloze verbeelding van de broers Alphonse en Raymond Réthoré."
+        ],
+        "es": [
+          "Al acercarse al castillo de la Mercerie, le sorprenderá su impresionante fachada de 220 metros de largo. Llamado el \"Pequeño Versalles de Charentes\", es fruto de la desbordante imaginación de los hermanos Alphonse y Raymond Réthoré."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/d87b1d64-d907-3d94-a04c-d04c68019681",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/a9952a5d-4e06-346f-93f8-fa2ef9414b59",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Magnac lav mercerie1"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Jack ma (https://commons.wikimedia.org/wiki/User:Jack_ma)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/614bf369-17d2-3f13-a588-493be5277146",
+          "ebucore:fileSize": [
+            306497
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1200,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/a/a0/Magnac_lav_mercerie1.JPG"
+          ],
+          "ebucore:width": 1600,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/14876d6c-dbae-372c-b288-ff852153f295",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/36c2bb6d-16c9-3328-87b5-eddad7754967",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3fe0d68d-888e-3bfa-9822-53d6fc7cbcce",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/98766e9b-5ec0-3fd3-ad4c-de4603f5aeaf",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/eca6a03b-8c03-3269-b2d0-b2b37da0eac2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/9f12080b-c45a-3ced-9347-e310ed7979cd",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/254c15d7-6427-3242-a559-c0eb6016b316",
+          "schema:addressLocality": "Magnac-Lavalette-Villars",
+          "schema:postalCode": "16320",
+          "schema:streetAddress": [
+            "2 rue des Frères Réthoré"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16198",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Magnac-Lavalette-Villars"
+              ],
+              "pt": [
+                "Magnac-Lavalette-Villars"
+              ],
+              "en": [
+                "Magnac-Lavalette-Villars"
+              ],
+              "it": [
+                "Magnac-Lavalette-Villars"
+              ],
+              "fr": [
+                "Magnac-Lavalette-Villars"
+              ],
+              "nl": [
+                "Magnac-Lavalette-Villars"
+              ],
+              "es": [
+                "Magnac-Lavalette-Villars"
+              ]
+            },
+            "insee": "16198",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/cb5f038c-fda3-3be8-b54f-ff0c82d44348",
+        "schema:latitude": "45.501568",
+        "schema:longitude": "0.241918",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/0ebd2572-f0e9-3ef9-bd16-0287a37541c8",
+          "schema:closes": "14:00:00",
+          "schema:opens": "09:30:00",
+          "schema:validFrom": "2023-03-19T00:00:00",
+          "schema:validThrough": "2023-03-19T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Sonntag: offen\r\n\r\n1. Tag der Besichtigung. Sonntag, 19. März 9:30-14:00 Uhr Im Rahmen des Trails kostet die Besichtigung 7?"
+            ],
+            "en": [
+              "Sunday: open\r\n\r\n1st day of visit. Sunday 19 March 9H30-14H00 Within the framework of the trail the visit is at 7?"
+            ],
+            "it": [
+              "Domenica: aperto\r\n\r\n1° giorno di visita. Domenica 19 marzo 9.30-14.00 Nell'ambito del percorso, la visita è di 7?"
+            ],
+            "fr": [
+              "Dimanche : ouvert\r\n\r\n1er jour de visite. Dimanche 19 Mars 9H30-14H00 Dans le cadre du trail la visite est à 7€"
+            ],
+            "nl": [
+              "Zondag: open\r\n\r\n1e bezoekdag. Zondag 19 maart 9.30 - 14.00 uur In het kader van het parcours is het bezoek 7?"
+            ],
+            "es": [
+              "Domingo: abierto\r\n\r\n1er día de visita Domingo 19 de marzo 9.30 h - 14.00 h En el marco de la ruta, la visita es de 7?"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/2ea94ac6-a51f-3cf3-bf29-0491fd6d07e1",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/49fadbd8-f020-3a64-955d-de3c4bf7084e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/591fd649-22c6-3a4a-ad1d-c24f41a4b11a",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d0a9abb0-cb03-3890-9674-ccffb60d37c7",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d62137c2-beb3-3a6f-8459-be70cde3f8ec",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/50076c51-7801-3e66-a674-db7560d7e318",
+          "schema:opens": "14:30:00",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Sonntag: geöffnet\r\nBitte finden Sie sich eine Stunde vor Schließung des Parks ein. Der Ticketschalter schließt um 17 Uhr und am Freitag sogar um 16 Uhr (wenn das Schloss am Samstag vermietet wird).\r\n\r\nGruppenbesuche das ganze Jahr über am Vor- oder Nachmittag nach vorheriger Anmeldung sowie samstags außerhalb von Veranstaltungen. Mindestteilnehmerzahl: 20 Erwachsene ."
+            ],
+            "en": [
+              "Monday, Tuesday, Wednesday, Thursday, Friday, Sunday: open\r\nPlease arrive 1 hour before the park closes. The Ticket Office closes at 5pm and even 4pm on Fridays (when the castle is rented on Saturday).\r\n\r\nGroup visits all year round, in the morning or afternoon by reservation, as well as on Saturdays except for special events. Minimun 20 Adults ."
+            ],
+            "it": [
+              "Lunedì, martedì, mercoledì, giovedì, venerdì, domenica: aperto\r\nSi prega di arrivare 1 ora prima della chiusura del Parco. La biglietteria chiude alle 17.00 e alle 16.00 il venerdì (quando il castello viene affittato il sabato).\r\n\r\nVisite di gruppo tutto l'anno, mattina o pomeriggio su prenotazione, e anche il sabato, salvo eventi speciali. Minimo 20 adulti."
+            ],
+            "fr": [
+              "Lundi, Mardi, Mercredi, Jeudi, Vendredi, Dimanche : ouvert\r\nSe présenter 1heure avant la fermeture du Parc. La Billetterie ferme ses portes à 17h et même 16h le vendredi (lorsque le château est loué le samedi).\r\n\r\nVisite groupes toute l'année ,en matinée ou après-midi sur réservation, ainsi que le samedi hors évènementiel . Minimun 20 Adultes ."
+            ],
+            "nl": [
+              "Maandag, dinsdag, woensdag, donderdag, vrijdag, zondag: open\r\nGelieve 1 uur voor sluitingstijd van het park aanwezig te zijn. Het loket sluit om 17 uur en zelfs om 16 uur op vrijdag (wanneer het kasteel op zaterdag wordt verhuurd).\r\n\r\nGroepsbezoek het hele jaar door, 's ochtends of 's middags op afspraak, en ook op zaterdag, behalve bij speciale evenementen. Minimaal 20 volwassenen."
+            ],
+            "es": [
+              "Lunes, martes, miércoles, jueves, viernes y domingo: abierto\r\nSe ruega llegar 1 hora antes del cierre del Parque. La taquilla cierra a las 17 h e incluso a las 16 h los viernes (cuando el castillo se alquila los sábados).\r\n\r\nVisitas en grupo durante todo el año, por la mañana o por la tarde previa concertación, así como los sábados, excepto para eventos especiales. Mínimo 20 adultos."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/19908c57-8723-3433-aae1-39eece4cfb0e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/4196c18d-8179-3725-ba9a-a05bfd4bcb06",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6fee508d-a05c-3432-a051-13d52b273d4e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/71ce83ad-9e10-3abb-b718-acb53034453c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e1b9f265-09b8-3709-866b-e0c6ec800acb",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5aec6109-d863-3f46-9f54-62eb3d8b9a4a",
+          "schema:closes": "18:00:00",
+          "schema:opens": "14:30:00",
+          "schema:validFrom": "2023-09-01T00:00:00",
+          "schema:validThrough": "2023-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Sonntag: geöffnet\r\nBitte finden Sie sich 1 Stunde vor Schließung des Parks ein. Der Ticketschalter schließt um 17 Uhr.\r\nGruppenbesuche das ganze Jahr über, vormittags oder nachmittags auf Reservierung, auch samstags. Gruppen von mindestens 20 Erwachsenen außer bei Veranstaltungen."
+            ],
+            "en": [
+              "Monday, Tuesday, Wednesday, Thursday, Friday, Sunday: open\r\nPlease arrive 1 hour before the Park closes. The Ticket Office closes at 5pm.\r\nGroup visits all year round, mornings or afternoons by reservation, including Saturdays. Groups of 20 adults minimum, except for special events."
+            ],
+            "it": [
+              "Lunedì, martedì, mercoledì, giovedì, venerdì, domenica: aperto\r\nSi prega di arrivare 1 ora prima della chiusura del Parco. La biglietteria chiude alle 17.00.\r\nVisite di gruppo tutto l'anno, mattina o pomeriggio su prenotazione, compreso il sabato. Gruppi di almeno 20 adulti, esclusi gli eventi."
+            ],
+            "fr": [
+              "Lundi, Mardi, Mercredi, Jeudi, Vendredi, Dimanche : ouvert\r\nSe présenter 1heure avant la fermeture du Parc. La Billetterie ferme ses portes à 17h.\r\nVisite groupes toute l'année, en matinée ou après-midi sur réservation, samedi compris. Groupe de 20 adultes minimum hors évènementiel."
+            ],
+            "nl": [
+              "Maandag, dinsdag, woensdag, donderdag, vrijdag, zondag: open\r\nGelieve 1 uur voor sluitingstijd van het park aanwezig te zijn. De kassa sluit om 17 uur.\r\nGroepsbezoek het hele jaar door, 's ochtends of 's middags op reservering, ook op zaterdag. Groepen van minimaal 20 volwassenen, exclusief evenementen."
+            ],
+            "es": [
+              "Lunes, martes, miércoles, jueves, viernes y domingo: abierto\r\nLlegue 1 hora antes del cierre del Parque. La taquilla cierra a las 17 h.\r\nVisitas en grupo todo el año, por la mañana o por la tarde previa reserva, incluidos los sábados. Grupos de 20 adultos como mínimo, excluidos los eventos."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/60dab77e-e3c5-3cd5-8a24-ea693b219da6",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/63597e45-8554-3b90-add7-83b02cd73801",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a536f60f-60f9-3f40-b366-b0216e08e90b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a9e29472-ec8d-3c25-a55c-f1db91c69290",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/fa6d9dda-4384-3674-aab6-be8d9336d0f0",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/70457813-130c-3576-93b4-27b828202e76",
+          "schema:closes": "18:00:00",
+          "schema:opens": "14:30:00",
+          "schema:validFrom": "2023-04-09T00:00:00",
+          "schema:validThrough": "2023-04-23T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Sonntag: geöffnet\r\nBitte finden Sie sich 1 Stunde vor Schließung des Parks ein. Der Ticketschalter schließt um 17 Uhr."
+            ],
+            "en": [
+              "Monday, Tuesday, Wednesday, Thursday, Friday, Sunday: open\r\nPlease arrive 1 hour before the Park closes. The Ticket Office closes at 5pm."
+            ],
+            "it": [
+              "Lunedì, martedì, mercoledì, giovedì, venerdì, domenica: aperto\r\nSi prega di arrivare 1 ora prima della chiusura del Parco. La biglietteria chiude alle 17.00."
+            ],
+            "fr": [
+              "Lundi, Mardi, Mercredi, Jeudi, Vendredi, Dimanche : ouvert\r\nSe présenter 1heure avant la fermeture du Parc. La Billetterie ferme ses portes à 17h."
+            ],
+            "nl": [
+              "Maandag, dinsdag, woensdag, donderdag, vrijdag, zondag: open\r\nGelieve 1 uur voor sluitingstijd van het park aanwezig te zijn. De kassa sluit om 17.00 uur."
+            ],
+            "es": [
+              "Lunes, martes, miércoles, jueves, viernes y domingo: abierto\r\nLlegue 1 hora antes del cierre del Parque. La taquilla cierra a las 17.00 horas."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/59a57e1a-174c-3d32-aeb3-bfb6dc0c3a38",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/62d82ea7-ab25-3b6b-91f6-baead3e3e002",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/b67141c5-d2ba-37ce-bf5a-b31819784e38",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d50299d0-0fb2-3209-a250-382ac557b7c7",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e6593e3f-17da-3031-ad6d-253fa102cd74",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bbe6ea3c-891d-3434-9055-cde757dab6a2",
+          "schema:closes": "18:00:00",
+          "schema:opens": "14:30:00",
+          "schema:validFrom": "2023-04-24T00:00:00",
+          "schema:validThrough": "2023-06-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Bitte finden Sie sich eine Stunde vor Schließung des Parks ein. Der Ticketschalter schließt um 17 Uhr."
+            ],
+            "en": [
+              "Please arrive 1 hour before the Park closes. The Ticket Office closes at 5pm."
+            ],
+            "it": [
+              "Si prega di arrivare 1 ora prima della chiusura del parco. La biglietteria chiude alle 17.00."
+            ],
+            "fr": [
+              "Se présenter 1heure avant la fermeture du Parc. La Billetterie ferme ses portes à 17h."
+            ],
+            "es": [
+              "Llegue 1 hora antes del cierre del Parque. La taquilla cierra a las 17:00."
+            ],
+            "nl": [
+              "Gelieve 1 uur voor sluitingstijd van het park aanwezig te zijn. De kassa sluit om 17.00 uur."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/2ed67c62-5918-393f-b201-05dff0e29888",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/753823c3-7739-3c64-a3d1-e92d038fc84e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/7f5133e0-b7a2-3e98-b819-992ac8e21ece",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/aa05ade4-9f08-368f-9221-6f89005a77e3",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/cad1ddfd-30fb-3528-b76f-006f6972d094",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e2eb4a5d-98d5-36f9-9e55-025b16364bd3",
+          "schema:closes": "17:00:00",
+          "schema:opens": "14:30:00",
+          "schema:validFrom": "2023-11-01T00:00:00",
+          "schema:validThrough": "2023-11-01T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Mittwoch: offen\r\n\r\nLetzter Besuchstag ist der 1. November 2023."
+            ],
+            "en": [
+              "Wednesday: open\r\n\r\nLast day of visit on November 1st 2023."
+            ],
+            "it": [
+              "Mercoledì: aperto\r\n\r\nUltimo giorno di visita il 1° novembre 2023."
+            ],
+            "fr": [
+              "Mercredi : ouvert\r\n\r\nDernier jour de visite le 1er Novembre 2023."
+            ],
+            "nl": [
+              "Woensdag: open\r\n\r\nLaatste bezoekdag op 1 november 2023."
+            ],
+            "es": [
+              "Miércoles: abierto\r\n\r\nÚltimo día de visita el 1 de noviembre de 2023."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/18e53f18-25dc-3481-9a0c-8f4af123ce57",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/64ea7463-d573-3b8b-8dd0-e05dc25abe83",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/7662e76b-486f-37ab-bca3-a7cf901287d7",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/77be6923-08ba-32bf-9d4d-202332d3b6e8",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c9829d19-3bb8-3d4d-baad-f308f7da9fff",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/17ccf9a1-6b41-3eb9-a1e1-edf0fbbf90c5",
+      "schema:email": [
+        "direction@sudcharentetourisme.fr",
+        "noemie@sudcharentetourisme.fr"
+      ],
+      "schema:legalName": "Office de tourisme du Sud-Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.sudcharentetourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-21",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.321Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/2bf08f10-9878-3167-a993-219ad1332f0e",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/5c1359ff-e6e3-3951-a3e7-5c34a910cd90",
+          "schema:maxPrice": [
+            "10",
+            "2",
+            "7",
+            "8"
+          ],
+          "schema:minPrice": [
+            "10",
+            "2",
+            "7",
+            "8"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/dc70c418-5b91-3b04-819b-f360f3f94923",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-11-01",
+              "startDate": "2023-04-02"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c2d20592-d974-3cab-ad89-c889c471b3ef",
+          "schema:maxPrice": [
+            "10",
+            "7",
+            "8"
+          ],
+          "schema:minPrice": [
+            "10",
+            "7",
+            "8"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/764bc934-e453-3247-91a5-3b6b3a604809",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2022-10-30",
+              "startDate": "2022-04-10"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

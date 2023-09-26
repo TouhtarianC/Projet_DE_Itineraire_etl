@@ -1,0 +1,432 @@
+{
+  "@id": "https://data.datatourisme.fr/13/9c76363c-52c0-3198-89e4-ce3618b3d1c1",
+  "dc:identifier": "6066384",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Bibliothek ist dienstags 16-18 Uhr, freitags 16-19 Uhr und samstags von 10.30-12.30 Uhr geöffnet"
+    ],
+    "en": [
+      "The library is open Tuesday 4-6pm, Friday 4-7pm, Saturday 10:30am-12:30pm"
+    ],
+    "it": [
+      "La biblioteca è aperta il martedì dalle 16 alle 18, il venerdì dalle 16 alle 19, il sabato dalle 10.30 alle 12.30"
+    ],
+    "fr": [
+      "La bibliothèque est ouverte  mardi 16h-18h, vendredi 16h-19h, samedi de 10h30-12h30"
+    ],
+    "es": [
+      "La biblioteca está abierta los martes de 4 a 6 de la tarde, los viernes de 4 a 7 de la tarde y los sábados de 10:30 a 12:30"
+    ],
+    "nl": [
+      "De bibliotheek is open van dinsdag tot 18 uur, vrijdag van 16 tot 19 uur en zaterdag van 10.30 tot 12.30 uur"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Bibliothèque"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/00946347-ca16-3d15-bb23-17d26fb3c992",
+      "schema:email": [
+        "mairie-stjust-luzac@wanadoo.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 85 13 03"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.st-just-luzac.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/ff18be6a-2eb1-39f5-a2ff-fdde1469ec9e",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/18fa0527-24ca-3d64-9fe9-dec41f0cb58b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/45f34d5d-a7c4-3f87-a23a-fb206b53e608",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4b55dfc1-e13f-38bd-84a0-92519088f493",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/aa82f036-c171-3742-b8dd-0425422273cc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b97339eb-1f21-35f2-bb52-d9c34129e908",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Bibliothek ist dienstags 16-18 Uhr, freitags 16-19 Uhr und samstags von 10.30-12.30 Uhr geöffnet"
+        ],
+        "en": [
+          "The library is open Tuesday 4-6pm, Friday 4-7pm, Saturday 10:30am-12:30pm"
+        ],
+        "it": [
+          "La biblioteca è aperta il martedì dalle 16 alle 18, il venerdì dalle 16 alle 19, il sabato dalle 10.30 alle 12.30"
+        ],
+        "fr": [
+          "La bibliothèque est ouverte  mardi 16h-18h, vendredi 16h-19h, samedi de 10h30-12h30"
+        ],
+        "es": [
+          "La biblioteca está abierta los martes de 4 a 6 de la tarde, los viernes de 4 a 7 de la tarde y los sábados de 10:30 a 12:30"
+        ],
+        "nl": [
+          "De bibliotheek is open van dinsdag tot 18 uur, vrijdag van 16 tot 19 uur en zaterdag van 10.30 tot 12.30 uur"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/1cabc362-f667-325b-a226-bd86390b60b0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/770647ea-5dcb-3a95-97f8-de0d7ad95c59",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/86e784d5-b067-3719-abe0-66f08e66daef",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b437de71-b0a9-3311-84e1-19bba9044e28",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d757f7ee-710c-3ba1-8799-056ed409855e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/68ce4636-c1b4-34a2-90c4-209e94f89912",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/76ba2694-03a0-322d-8c17-3b6f53e87685",
+          "schema:addressLocality": "Saint-Just-Luzac",
+          "schema:postalCode": "17320",
+          "schema:streetAddress": [
+            "Rue du 19 mars 1962"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17351",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Just-Luzac"
+              ],
+              "pt": [
+                "Saint-Just-Luzac"
+              ],
+              "en": [
+                "Saint-Just-Luzac"
+              ],
+              "it": [
+                "Saint-Just-Luzac"
+              ],
+              "fr": [
+                "Saint-Just-Luzac"
+              ],
+              "nl": [
+                "Saint-Just-Luzac"
+              ],
+              "es": [
+                "Saint-Just-Luzac"
+              ]
+            },
+            "insee": "17351",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/12f1253c-c552-3a66-9390-7416eb62975b",
+        "schema:latitude": "45.804739",
+        "schema:longitude": "-1.044458",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/80009736-71af-3484-9792-2b3de63306d1",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-03-23",
+  "lastUpdateDatatourisme": "2023-07-03T05:50:13.386Z"
+}

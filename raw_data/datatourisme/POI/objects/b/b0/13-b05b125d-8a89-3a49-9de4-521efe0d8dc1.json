@@ -1,0 +1,470 @@
+{
+  "@id": "https://data.datatourisme.fr/13/b05b125d-8a89-3a49-9de4-521efe0d8dc1",
+  "dc:identifier": "5774503",
+  "@type": [
+    "schema:Landform",
+    "Beach",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Strandclub, Segelclub, Bar, Restaurants.\r\nÖffnungszeiten der Badeaufsicht: Samstag, 17. Juni, bis Sonntag, 3. September, von 11:00 bis 19:00 Uhr."
+    ],
+    "en": [
+      "Presence of beach club, sailing club, bar, restaurants.\r\nSupervision hours of the swimming area: Saturday, June 17 to Sunday, September 3 from 11:00 am to 7:00 pm."
+    ],
+    "it": [
+      "Beach club, club velico, bar, ristoranti.\r\nOrario di sorveglianza della zona balneare: da sabato 17 giugno a domenica 3 settembre dalle 11.00 alle 19.00."
+    ],
+    "fr": [
+      "Présences de club de plage, club de voile, bar, restaurants.\r\nHoraires de surveillance de la zone de baignade : samedi 17 juin au dimanche 3 septembre  de 11h à 19h."
+    ],
+    "es": [
+      "Club de playa, club náutico, bar, restaurantes.\r\nHorario de vigilancia de la zona de baño: del sábado 17 de junio al domingo 3 de septiembre, de 11.00 a 19.00 horas."
+    ],
+    "nl": [
+      "Beach club, zeilclub, bar, restaurants.\r\nBewakingstijden badzone: zaterdag 17 juni tot zondag 3 september van 11 tot 19 uur."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Plage Les Nonnes"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q120220272"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5ad963eb-13cd-3729-bba0-2de859b1a01f",
+      "schema:email": [
+        "contact@royanatlantique.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 08 21 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.royanatlantique.fr/sur-place/plages-charente-maritime/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/631a64e3-b95d-3aa3-af21-f4f4de430293",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/001b37f4-2fdf-301c-9007-86489d02df7a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/1f3d2dd8-698c-3e38-b827-ce48cf8b2ab7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5893a362-220d-38c1-b9c1-ea24c7c88ece",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/78656da1-999f-303a-bb4b-ee1d80620b76",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c0e01d64-c4a3-316e-b592-de1d6ca1d445",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Strandclub, Segelclub, Bar, Restaurants.\r\nÖffnungszeiten der Badeaufsicht: Samstag, 17. Juni, bis Sonntag, 3. September, von 11:00 bis 19:00 Uhr."
+        ],
+        "en": [
+          "Presence of beach club, sailing club, bar, restaurants.\r\nSupervision hours of the swimming area: Saturday, June 17 to Sunday, September 3 from 11:00 am to 7:00 pm."
+        ],
+        "it": [
+          "Beach club, club velico, bar, ristoranti.\r\nOrario di sorveglianza della zona balneare: da sabato 17 giugno a domenica 3 settembre dalle 11.00 alle 19.00."
+        ],
+        "fr": [
+          "Présences de club de plage, club de voile, bar, restaurants.\r\nHoraires de surveillance de la zone de baignade : samedi 17 juin au dimanche 3 septembre  de 11h à 19h."
+        ],
+        "es": [
+          "Club de playa, club náutico, bar, restaurantes.\r\nHorario de vigilancia de la zona de baño: del sábado 17 de junio al domingo 3 de septiembre, de 11.00 a 19.00 horas."
+        ],
+        "nl": [
+          "Beach club, zeilclub, bar, restaurants.\r\nBewakingstijden badzone: zaterdag 17 juni tot zondag 3 september van 11 tot 19 uur."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Bathing",
+      "@type": [
+        "AccommodationAmenity",
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Baden"
+        ],
+        "pt": [
+          "Banho"
+        ],
+        "en": [
+          "Bathing"
+        ],
+        "it": [
+          "Bagno"
+        ],
+        "fr": [
+          "Baignade"
+        ],
+        "nl": [
+          "Zwemmen"
+        ],
+        "es": [
+          "Baño"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/4ce443b7-a4f5-37d7-bb6d-bcd3bfa7ee7b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/885388f6-b5fa-3a09-9d4e-b81b71318403",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b9f7130e-1485-33ba-978d-2faca5e98fbd",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/bf84060f-df1d-356c-a54d-f74bf0e395af",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/dbc4f2a7-c745-370d-9ea1-574497e69081",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/3f631416-8a10-3fab-b229-370007c6f9e2",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/0508da4a-9792-396f-a0f7-275ddc54c1cb",
+          "schema:addressLocality": "Meschers-sur-Gironde",
+          "schema:postalCode": "17132",
+          "schema:streetAddress": [
+            "Avenue des Nonnes"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17230",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Meschers-sur-Gironde"
+              ],
+              "pt": [
+                "Meschers-sur-Gironde"
+              ],
+              "en": [
+                "Meschers-sur-Gironde"
+              ],
+              "it": [
+                "Meschers-sur-Gironde"
+              ],
+              "fr": [
+                "Meschers-sur-Gironde"
+              ],
+              "nl": [
+                "Meschers-sur-Gironde"
+              ],
+              "es": [
+                "Meschers-sur-Gironde"
+              ]
+            },
+            "insee": "17230",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/e63081ca-a38a-33bd-b8b9-531ee57d46a4",
+        "schema:latitude": "45.56091",
+        "schema:longitude": "-0.965466",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-03",
+  "lastUpdateDatatourisme": "2023-07-04T05:52:44.536Z"
+}

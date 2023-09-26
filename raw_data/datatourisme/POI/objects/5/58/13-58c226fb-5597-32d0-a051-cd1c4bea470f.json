@@ -1,0 +1,592 @@
+{
+  "@id": "https://data.datatourisme.fr/13/58c226fb-5597-32d0-a051-cd1c4bea470f",
+  "dc:identifier": "5713095",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Nimm dir Zeit, um die 45 kleinen Figuren zu beobachten, die auf dem großen Bogen des Portals musizieren und tanzen!"
+    ],
+    "en": [
+      "Take time to observe the 45 littles characters playing music and dancing on the portal."
+    ],
+    "it": [
+      "Prendetevi il tempo di osservare i 45 piccoli personaggi che suonano e ballano sul grande arco del cancello!"
+    ],
+    "fr": [
+      "Prenez le temps d’observer les 45 petits personnages qui jouent de la musique et qui dansent sur la grande voussure du portail !"
+    ],
+    "es": [
+      "Toma tiempo par observar los 45 personajes tocando musica y bailando sobre el portal."
+    ],
+    "nl": [
+      "Neem de tijd om te kijken naar de 45 figuurtjes die muziek maken en dansen op de grote boog van de poort!"
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Saint-Martin's church - Nieul-lès-Saintes"
+    ],
+    "fr": [
+      "Eglise Saint-Martin de Nieul-lès-Saintes"
+    ],
+    "es": [
+      "Iglesia Saint-Martin - Nieul-lès-Saintes"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q3582911"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f8363057-9d05-3dc5-843a-e693e7cdafe0",
+    "dc:identifier": "2425",
+    "schema:email": [
+      "administration@coeurdesaintonge.fr",
+      "bergonzoni@coeurdesaintonge.fr",
+      "gaillard@coeurdesaintonge.fr",
+      "tourisme@coeurdesaintonge.fr"
+    ],
+    "schema:legalName": "Communauté de communes Coeur de Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.coeurdesaintonge.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/f84a60d0-129e-3d82-9c97-ee670836e17e",
+      "schema:telephone": [
+        "+33 5 46 92 95 08"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/f0b6f336-969d-354b-9802-33d70d1ec724",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/4a17e1b9-3e4b-3cb0-8a43-274bd6c3548b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/52918260-8d21-3b10-8072-37aaa17f16e3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7c39f358-5b99-36c1-abf9-79254f67ab85",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Nimm dir Zeit, um die 45 kleinen Figuren zu beobachten, die auf dem großen Bogen des Portals musizieren und tanzen!"
+        ],
+        "en": [
+          "Take time to observe the 45 littles characters playing music and dancing on the portal."
+        ],
+        "it": [
+          "Prendetevi il tempo di osservare i 45 piccoli personaggi che suonano e ballano sul grande arco del cancello!"
+        ],
+        "fr": [
+          "Prenez le temps d’observer les 45 petits personnages qui jouent de la musique et qui dansent sur la grande voussure du portail !"
+        ],
+        "es": [
+          "Toma tiempo par observar los 45 personajes tocando musica y bailando sobre el portal."
+        ],
+        "nl": [
+          "Neem de tijd om te kijken naar de 45 figuurtjes die muziek maken en dansen op de grote boog van de poort!"
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/a5c35a24-fb0f-3631-8d22-bd301579ef3f",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/942d8b3f-17de-3c74-bffa-074939099f7c",
+          "ebucore:isCoveredBy": "CC BY 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Eglise Nieul-les-Saintes"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Cobber17 (https://commons.wikimedia.org/wiki/User:Cobber17)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/ff190222-df5a-3124-90a3-4480d2f28b33",
+          "ebucore:fileSize": [
+            1669865
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1536,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/1/18/Eglise_Nieul-les-Saintes.jpg"
+          ],
+          "ebucore:width": 2048,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0dc4e6c1-8f29-392b-91d2-d6edd28b2c2e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6a8dd49e-8203-3e55-b695-ef7d25b83657",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/768b7d34-d07b-3ead-9f2f-8d1c6687c572",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/776917e3-0e47-3bdf-9658-d1e9cffaafa0",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/128ee22d-7d40-3eb9-b474-ab6ed28d094e",
+          "schema:addressLocality": "Nieul-lès-Saintes",
+          "schema:postalCode": "17810",
+          "schema:streetAddress": [
+            "Place Théodore"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17262",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Nieul-lès-Saintes"
+              ],
+              "pt": [
+                "Nieul-lès-Saintes"
+              ],
+              "en": [
+                "Nieul-lès-Saintes"
+              ],
+              "it": [
+                "Nieul-lès-Saintes"
+              ],
+              "fr": [
+                "Nieul-lès-Saintes"
+              ],
+              "nl": [
+                "Nieul-lès-Saintes"
+              ],
+              "es": [
+                "Nieul-lès-Saintes"
+              ]
+            },
+            "insee": "17262",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/3e4cb5a6-8462-3c4a-9dfe-5ce328364c9e",
+        "schema:latitude": "45.759418",
+        "schema:longitude": "-0.733146",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/bb4c11d0-4439-3117-a0ea-17034c1bf067",
+          "schema:validFrom": "2023-04-01T00:00:00",
+          "schema:validThrough": "2023-10-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Außerhalb dieser Zeit kann man sich an das Rathaus wenden, um das Denkmal zu öffnen."
+            ],
+            "en": [
+              "Outside this period, it is possible to contact the town hall to open the monument."
+            ],
+            "it": [
+              "Al di fuori di questo periodo, è possibile contattare il municipio per aprire il monumento."
+            ],
+            "fr": [
+              "En dehors de cette période, il est possible de s'adresser à la mairie pour l'ouverture du monument."
+            ],
+            "es": [
+              "Fuera de este periodo, es posible ponerse en contacto con el ayuntamiento para abrir el monumento."
+            ],
+            "nl": [
+              "Buiten deze periode is het mogelijk contact op te nemen met het stadhuis om het monument te openen."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/10cbb615-7b50-3ae3-9a30-531daddbe9df",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/94566038-34f9-31cc-a1ea-59c24fc48527",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/9d60d48b-84ce-3322-8396-aaa110fe2624",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/abafab3c-de5c-3772-9991-2921f16fc0bb",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/fd364d22-a94a-3f17-981b-413f106d64d0",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/d75d0bf4-2ed8-3cb6-bd49-6f7486ac4789",
+      "schema:email": [
+        "bergonzoni@coeurdesaintonge.fr"
+      ],
+      "schema:legalName": "Communauté de communes Coeur de Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.coeurdesaintonge.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-09",
+  "lastUpdateDatatourisme": "2023-06-10T05:54:46.686Z"
+}

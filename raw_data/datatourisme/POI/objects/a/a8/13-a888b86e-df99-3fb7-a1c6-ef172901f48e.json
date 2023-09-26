@@ -1,0 +1,560 @@
+{
+  "@id": "https://data.datatourisme.fr/13/a888b86e-df99-3fb7-a1c6-ef172901f48e",
+  "dc:identifier": "5718468",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Können Sie die Verteidigungsanlagen durchbrechen?\r\nJahrhundert während der Kriege befestigt wurde, hat das erhöhte Dach einen überdachten Wehrgang und hier und da sind noch Schießscharten zu sehen."
+    ],
+    "en": [
+      "Can you break through his defenses?\r\nFortified in the 16th century, during the wars, its raised chevet has a covered walkway, and here and there are still visible what appear to be firing slits."
+    ],
+    "it": [
+      "Riuscirete a superare le sue difese?\r\nFortificato nel XVI secolo, durante le guerre, il suo chevet sopraelevato presenta un camminamento coperto e, qua e là, sono ancora visibili quelle che sembrano essere feritoie di tiro."
+    ],
+    "fr": [
+      "Saurez-vous rompre ses défenses ?\r\nFortifiée au 16ème siècle, durant les guerres, son chevet surhaussé comporte un chemin de ronde couvert, et ici ou là, sont encore visibles ce qui semble être fentes de tir."
+    ],
+    "es": [
+      "¿Puedes romper sus defensas?\r\nFortificado en el siglo XVI, durante las guerras, su chevet elevado tiene una pasarela cubierta, y aquí y allá, lo que parecen ser rendijas de disparo son todavía visibles."
+    ],
+    "nl": [
+      "Kun je door zijn verdediging breken?\r\nDe in de 16e eeuw, tijdens de oorlogen, versterkte chevet heeft een overdekte loopbrug en hier en daar zijn nog schietgaten zichtbaar."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Eglise Saint-Pierre - Chaniers"
+    ],
+    "fr": [
+      "Eglise Saint-Pierre de Chaniers"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q3583834"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f8c0c968-6328-35cd-9333-08b1a494967f",
+    "dc:identifier": "2060",
+    "schema:email": [
+      "a.tonin@saintes-tourisme.fr",
+      "f.herbec@saintes-tourisme.fr",
+      "l.conan@saintes-tourisme.fr"
+    ],
+    "schema:legalName": "Office de Tourisme de Saintes & la Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.saintes-tourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/4ca7de23-91f6-33ed-af12-c02d9b079e9b",
+      "schema:telephone": [
+        "+33 5 46 91 12 70"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/e2445aff-5a3f-3a85-b415-db9cd635c60f",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/25450e79-5ea9-3934-9686-c9d690f9d132",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5ba81524-2661-3884-9b3d-ed15819450b1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/85cdb567-1211-3ea8-8cf0-46486b421ad2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c0263ff1-89e5-3a89-9162-7e88cd74786b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c0be81af-c5d3-344c-b610-201ad048b4fa",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Können Sie die Verteidigungsanlagen durchbrechen?\r\nJahrhundert während der Kriege befestigt wurde, hat das erhöhte Dach einen überdachten Wehrgang und hier und da sind noch Schießscharten zu sehen."
+        ],
+        "en": [
+          "Can you break through his defenses?\r\nFortified in the 16th century, during the wars, its raised chevet has a covered walkway, and here and there are still visible what appear to be firing slits."
+        ],
+        "it": [
+          "Riuscirete a superare le sue difese?\r\nFortificato nel XVI secolo, durante le guerre, il suo chevet sopraelevato presenta un camminamento coperto e, qua e là, sono ancora visibili quelle che sembrano essere feritoie di tiro."
+        ],
+        "fr": [
+          "Saurez-vous rompre ses défenses ?\r\nFortifiée au 16ème siècle, durant les guerres, son chevet surhaussé comporte un chemin de ronde couvert, et ici ou là, sont encore visibles ce qui semble être fentes de tir."
+        ],
+        "es": [
+          "¿Puedes romper sus defensas?\r\nFortificado en el siglo XVI, durante las guerras, su chevet elevado tiene una pasarela cubierta, y aquí y allá, lo que parecen ser rendijas de disparo son todavía visibles."
+        ],
+        "nl": [
+          "Kun je door zijn verdediging breken?\r\nDe in de 16e eeuw, tijdens de oorlogen, versterkte chevet heeft een overdekte loopbrug en hier en daar zijn nog schietgaten zichtbaar."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/cfdcd069-e2de-3588-a152-1f50d239d299",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/2fc4661c-1e14-3262-abf3-4a8b43b2d9cc",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Eglise de Chaniers - panoramio"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "FrenchCobber (https:https://web.archive.org/web/20161102091132/http://www.panoramio.com/user/669587?with_photo_id=25643169)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/5d41071b-1d32-323b-b234-b6e7cc08ffd9",
+          "ebucore:fileSize": [
+            1709755
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1536,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/3/3d/Eglise_de_Chaniers_-_panoramio.jpg"
+          ],
+          "ebucore:width": 2048,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/20bcf2c8-c275-3a87-a5d7-c945ded4c7b8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/30de0821-7308-3a09-a95f-70874bdf47ee",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6909df48-57f6-3cfa-904a-f7c6d07159bb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c916c0ad-e8be-32fd-ba36-eb93f8a13140",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d357f5c4-0e1c-3bea-92c2-92bb7c5f67a0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/153bf99c-c521-38d9-aca7-1b81c0f53413",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d544f0a0-35d1-39bd-bd4c-b9c88b9add70",
+          "schema:addressLocality": "Chaniers",
+          "schema:postalCode": "17610",
+          "schema:streetAddress": [
+            "Rue Abbé Vieuille"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17086",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Chaniers"
+              ],
+              "pt": [
+                "Chaniers"
+              ],
+              "en": [
+                "Chaniers"
+              ],
+              "it": [
+                "Chaniers"
+              ],
+              "fr": [
+                "Chaniers"
+              ],
+              "nl": [
+                "Chaniers"
+              ],
+              "es": [
+                "Chaniers"
+              ]
+            },
+            "insee": "17086",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/78dfc934-8de1-3c4f-81c7-1a9c4b277668",
+        "schema:latitude": "45.715655",
+        "schema:longitude": "-0.552851",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/6788b742-800e-3e07-a704-c6181e0a8dd1",
+      "schema:email": [
+        "a.tonin@saintes-tourisme.fr",
+        "f.herbec@saintes-tourisme.fr",
+        "l.conan@saintes-tourisme.fr"
+      ],
+      "schema:legalName": "Office de Tourisme de Saintes & la Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.saintes-tourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-12-13",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.857Z"
+}

@@ -1,0 +1,443 @@
+{
+  "@id": "https://data.datatourisme.fr/13/543aa861-8cb8-3a89-b075-3c961e6dc957",
+  "dc:identifier": "5697297",
+  "@type": [
+    "CityHeritage",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Dieses kleine Dorf ist eines der authentischsten auf der Insel Oléron. Es liegt an der Westküste am Fuße einer hohen, bewaldeten Düne, dem höchsten Punkt von Oléron, von dem es seinen Namen \"domine de haut\" (dt.: von oben herab) hat, der zu Domino wurde."
+    ],
+    "en": [
+      "This small village is one of the most authentic on the island of Oleron. Located on the west coast, at the foot of a high wooded dune, the highest point of Oleron from which it takes its name \"domine de haut\", which became Domino."
+    ],
+    "it": [
+      "Questo piccolo villaggio è uno dei più autentici dell'isola di Oleron. Situato sulla costa occidentale, ai piedi di un'alta duna boscosa, il punto più alto di Oleron da cui prende il nome \"domine de haut\", diventato Domino."
+    ],
+    "fr": [
+      "Ce petit village est l'un des plus authentiques de l'île d'Oléron. Situé sur la côte ouest, au pied d’une haute dune boisée, point culminant d’Oléron d’où il tire son nom \"domine de haut\", devenu Domino."
+    ],
+    "es": [
+      "Este pequeño pueblo es uno de los más auténticos de la isla de Oleron. Situado en la costa oeste, al pie de una alta duna arbolada, el punto más alto de Oleron del que toma su nombre \"domine de haut\", que se convirtió en Domino."
+    ],
+    "nl": [
+      "Dit kleine dorp is een van de meest authentieke van het eiland Oleron. Gelegen aan de westkust, aan de voet van een hoge beboste duin, het hoogste punt van Oleron waaraan het zijn naam \"domine de haut\" ontleent, wat Domino werd."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Le village de Domino"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/4ebe2dbf-5966-3a72-80a3-2948b47c2ffa",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0a27c60a-4969-364e-8687-4b76be67daa7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/57cd4743-d9a4-31ca-8a62-a91d3640df62",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7684c788-6a6f-371e-a3da-173b2ed61a12",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9ce1a606-651d-339f-a7ce-2e6e7d02c65a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c17279f1-de07-31db-9e32-b5e1e68023be",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Dieses kleine Dorf ist eines der authentischsten auf der Insel Oléron. Es liegt an der Westküste am Fuße einer hohen, bewaldeten Düne, dem höchsten Punkt von Oléron, von dem es seinen Namen \"domine de haut\" (dt.: von oben herab) hat, der zu Domino wurde."
+        ],
+        "en": [
+          "This small village is one of the most authentic on the island of Oleron. Located on the west coast, at the foot of a high wooded dune, the highest point of Oleron from which it takes its name \"domine de haut\", which became Domino."
+        ],
+        "it": [
+          "Questo piccolo villaggio è uno dei più autentici dell'isola di Oleron. Situato sulla costa occidentale, ai piedi di un'alta duna boscosa, il punto più alto di Oleron da cui prende il nome \"domine de haut\", diventato Domino."
+        ],
+        "fr": [
+          "Ce petit village est l'un des plus authentiques de l'île d'Oléron. Situé sur la côte ouest, au pied d’une haute dune boisée, point culminant d’Oléron d’où il tire son nom \"domine de haut\", devenu Domino."
+        ],
+        "es": [
+          "Este pequeño pueblo es uno de los más auténticos de la isla de Oleron. Situado en la costa oeste, al pie de una alta duna arbolada, el punto más alto de Oleron del que toma su nombre \"domine de haut\", que se convirtió en Domino."
+        ],
+        "nl": [
+          "Dit kleine dorp is een van de meest authentieke van het eiland Oleron. Gelegen aan de westkust, aan de voet van een hoge beboste duin, het hoogste punt van Oleron waaraan het zijn naam \"domine de haut\" ontleent, wat Domino werd."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/00b93f3b-0165-379a-8800-49874548b7c7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/29a91e0a-985c-3d03-bd27-6404ed2c8b58",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2ce58dda-8405-3140-b029-12929a61a1db",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/33c59c0f-6f93-39f7-a058-ce49f4bac205",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/79015a3d-797f-3e84-8843-db340bd74204",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/07d0f1e9-7a87-3a37-ad5f-bd8408a72de3",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/19f1e2d1-342c-3237-9c72-979b080822c8",
+          "schema:addressLocality": "Saint-Georges-d'Oléron",
+          "schema:postalCode": "17190",
+          "schema:streetAddress": [
+            "Domino"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17337",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Georges-d'Oléron"
+              ],
+              "pt": [
+                "Saint-Georges-d'Oléron"
+              ],
+              "en": [
+                "Saint-Georges-d'Oléron"
+              ],
+              "it": [
+                "Saint-Georges-d'Oléron"
+              ],
+              "fr": [
+                "Saint-Georges-d'Oléron"
+              ],
+              "nl": [
+                "Saint-Georges-d'Oléron"
+              ],
+              "es": [
+                "Saint-Georges-d'Oléron"
+              ]
+            },
+            "insee": "17337",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/e73ee30c-afd6-31f7-9440-8979f15da3d0",
+        "schema:latitude": "45.972176",
+        "schema:longitude": "-1.37961",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/80009736-71af-3484-9792-2b3de63306d1",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "lastUpdate": "2020-12-31",
+  "lastUpdateDatatourisme": "2023-06-01T05:41:14.028Z"
+}

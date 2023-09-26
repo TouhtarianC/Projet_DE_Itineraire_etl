@@ -1,0 +1,577 @@
+{
+  "@id": "https://data.datatourisme.fr/13/26913f27-07fe-3e8b-9d9f-c377a693fb15",
+  "dc:identifier": "5707263",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das Maison du Fier ist ein spielerischer Museumsbereich, in dem die ganze Familie die biologische Vielfalt der Île de Ré entdecken kann. Sümpfe, Dünen, Vorland, Ozean, Wälder, Dörfer... Diese Lebensräume beherbergen eine vielfältige Fauna und Flora, die Sie während Ihres Besuchs beobachten können."
+    ],
+    "en": [
+      "The Maison du Fier is a fun museum space to discover the biodiversity of the island of Ré with your family. Marshes, dunes, foreshore, ocean, forests, villages... These habitats are home to a variety of fauna and flora to observe during your visit."
+    ],
+    "it": [
+      "La Maison du Fier è un divertente spazio museale dove potrete scoprire la biodiversità dell'Ile de Ré con la vostra famiglia. Paludi, dune, battigia, oceano, foreste, villaggi... Questi habitat ospitano una varietà di fauna e flora da osservare durante la visita."
+    ],
+    "fr": [
+      "La Maison du Fier est un espace muséographique ludique pour découvrir en famille la biodiversité de l'île de Ré. Marais, dunes, estran, océan, forêts, villages... Ces habitats abrite une faune et une flore variées à observer pendant votre visite."
+    ],
+    "es": [
+      "La Maison du Fier es un divertido espacio museístico en el que podrá descubrir la biodiversidad de la isla de Ré en familia. Marismas, dunas, costas, océano, bosques, pueblos... Estos hábitats albergan una gran variedad de fauna y flora que podrá observar durante su visita."
+    ],
+    "nl": [
+      "Het Maison du Fier is een leuke museumruimte waar u met uw gezin de biodiversiteit van het Ile de Ré kunt ontdekken. Moerassen, duinen, vooroever, oceaan, bossen, dorpen... Deze habitats herbergen een verscheidenheid aan fauna en flora die u tijdens uw bezoek kunt observeren."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Muséographie, Maison du Fier"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/169779d3-852b-32ce-8b1a-1724dbf5217d",
+    "dc:identifier": "2178",
+    "schema:email": [
+      "audrey.tapiero@charente-maritime.fr",
+      "ocilia.iturrart@charente-maritime.fr"
+    ],
+    "schema:legalName": "Echappées Nature / Département de la Charente-Maritime",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.charente-maritime.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a0fed83b-b530-35f5-84e6-aebf78dba399",
+      "schema:email": [
+        "lpo.iledere@lpo.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 29 50 74"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.maisondufier.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/f5ac0221-4220-3f1b-b3ee-dd75d262bc13",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0ec0dbb4-0b76-36ca-896e-b110da18f814",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/34b8581a-5c16-3f1e-8749-53bc7a1bc2ab",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/57b9b85d-ddf1-3567-ba17-8152d744abb1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/58e3c4e3-d9b2-3c16-93ea-f3650e2e9ef7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c8642bbb-0315-31f0-939f-deede3366308",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das Maison du Fier ist ein spielerischer Museumsbereich, in dem die ganze Familie die biologische Vielfalt der Île de Ré entdecken kann. Sümpfe, Dünen, Vorland, Ozean, Wälder, Dörfer... Diese Lebensräume beherbergen eine vielfältige Fauna und Flora, die Sie während Ihres Besuchs beobachten können."
+        ],
+        "en": [
+          "The Maison du Fier is a fun museum space to discover the biodiversity of the island of Ré with your family. Marshes, dunes, foreshore, ocean, forests, villages... These habitats are home to a variety of fauna and flora to observe during your visit."
+        ],
+        "it": [
+          "La Maison du Fier è un divertente spazio museale dove potrete scoprire la biodiversità dell'Ile de Ré con la vostra famiglia. Paludi, dune, battigia, oceano, foreste, villaggi... Questi habitat ospitano una varietà di fauna e flora da osservare durante la visita."
+        ],
+        "fr": [
+          "La Maison du Fier est un espace muséographique ludique pour découvrir en famille la biodiversité de l'île de Ré. Marais, dunes, estran, océan, forêts, villages... Ces habitats abrite une faune et une flore variées à observer pendant votre visite."
+        ],
+        "es": [
+          "La Maison du Fier es un divertido espacio museístico en el que podrá descubrir la biodiversidad de la isla de Ré en familia. Marismas, dunas, costas, océano, bosques, pueblos... Estos hábitats albergan una gran variedad de fauna y flora que podrá observar durante su visita."
+        ],
+        "nl": [
+          "Het Maison du Fier is een leuke museumruimte waar u met uw gezin de biodiversiteit van het Ile de Ré kunt ontdekken. Moerassen, duinen, vooroever, oceaan, bossen, dorpen... Deze habitats herbergen een verscheidenheid aan fauna en flora die u tijdens uw bezoek kunt observeren."
+        ]
+      }
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/6e866798-cae5-351c-9e8d-963661217e60",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:LabelRating_AccueilVelo",
+        "@type": [
+          "LabelRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "Accueil Vélo"
+          ],
+          "pt": [
+            "Accueil Vélo"
+          ],
+          "en": [
+            "Accueil Vélo"
+          ],
+          "it": [
+            "Accueil Vélo"
+          ],
+          "fr": [
+            "Accueil Vélo"
+          ],
+          "nl": [
+            "Accueil Vélo"
+          ],
+          "es": [
+            "Accueil Vélo"
+          ]
+        },
+        "isCompliantWith": [
+          "PlaceOfInterest"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/1cc57cf0-42f8-3c49-b763-71414815622c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/582375f1-f8a1-33ce-88c4-9e915244fc4b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9b0df58e-54bf-3cab-b9e4-ece2c5d8e7d8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b73d5048-7716-3f89-a22f-dfa33161794e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/dd84eafe-ae74-3da2-b550-d0cd368c8d09",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/9a3edf96-cdf2-3304-87dc-0b7a0e9baa6f",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/5c02b8e2-8596-306b-9ec6-2452a02ec08f",
+          "schema:addressLocality": "Les Portes-en-Ré",
+          "schema:postalCode": "17880",
+          "schema:streetAddress": [
+            "Route du Vieux Port"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17286",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Les Portes-en-Ré"
+              ],
+              "pt": [
+                "Les Portes-en-Ré"
+              ],
+              "en": [
+                "Les Portes-en-Ré"
+              ],
+              "it": [
+                "Les Portes-en-Ré"
+              ],
+              "fr": [
+                "Les Portes-en-Ré"
+              ],
+              "nl": [
+                "Les Portes-en-Ré"
+              ],
+              "es": [
+                "Les Portes-en-Ré"
+              ]
+            },
+            "insee": "17286",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/23d54bb9-1e5d-3c3d-a1f8-eb73854cd6c6",
+        "schema:latitude": "46.240604",
+        "schema:longitude": "-1.503667",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/038ce8ca-c328-3f31-8ae6-57b2bf173148",
+          "schema:closes": "17:30:00",
+          "schema:opens": "14:30:00",
+          "schema:validFrom": "2023-10-21T00:00:00",
+          "schema:validThrough": "2023-11-05T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/15cf4585-ca76-38d6-bc85-34d7a5fb2212",
+          "schema:validFrom": "2023-09-04T00:00:00",
+          "schema:validThrough": "2023-10-01T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/46788d8b-26a7-365b-8913-c46f962e0efa",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-09-03T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/50b8286c-f964-32c5-8805-0a0b2e60ebab",
+          "schema:validFrom": "2023-04-08T00:00:00",
+          "schema:validThrough": "2023-06-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/827c9802-552b-3c84-b400-eb9dbe8c6c30",
+          "schema:closes": "18:00:00",
+          "schema:opens": "14:30:00",
+          "schema:validFrom": "2023-10-07T00:00:00",
+          "schema:validThrough": "2023-10-08T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b423eca3-3f21-3e47-9e34-3054bd401857",
+      "schema:email": [
+        "audrey.tapiero@charente-maritime.fr",
+        "ocilia.iturrart@charente-maritime.fr"
+      ],
+      "schema:legalName": "Echappées Nature / Département de la Charente-Maritime",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.charente-maritime.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-05-17",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.247Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/8840e7a7-2d65-3e94-a3aa-bfb5b90e461a",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f22c2e83-4df0-327c-a29a-e6b355912363",
+          "schema:maxPrice": [
+            "3",
+            "4"
+          ],
+          "schema:minPrice": [
+            "3",
+            "4"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/daf6fbd9-b0a9-3a25-bdfb-31fb9c8c2b6e",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-30",
+              "startDate": "2021-04-03"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

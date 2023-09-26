@@ -1,0 +1,552 @@
+{
+  "@id": "https://data.datatourisme.fr/13/b8ceb5dd-977b-362c-b230-5552d0cc825f",
+  "dc:identifier": "6210374",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Rekonstruktion eines Klassenzimmers aus der Anfangszeit der kostenlosen, obligatorischen, laizistischen öffentlichen Schule, der sogenannten \"Ferry-Schule\"."
+    ],
+    "en": [
+      "Reconstruction of the classroom at the start of free public school, when it became obligatory."
+    ],
+    "it": [
+      "Ricostruzione di un'aula dell'inizio della scuola pubblica gratuita, obbligatoria e laica nota come \"Ferry School\"."
+    ],
+    "fr": [
+      "Reconstitution d'une salle de classe du début de l'école publique gratuite, obligatoire, laïque dite \"école Ferry\"."
+    ],
+    "nl": [
+      "Reconstructie van een klaslokaal uit het begin van de vrije, verplichte, seculiere openbare school, bekend als de \"Veerschool\"."
+    ],
+    "es": [
+      "Reconstrucción de un aula del inicio de la escuela pública gratuita, obligatoria y laica conocida como \"Escuela de Ferry\"."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Museum of the school of the North Charente"
+    ],
+    "fr": [
+      "Musée de l'école du Nord Charente"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/a96d3afe-c184-366b-beca-7a9f989fc7e7",
+    "dc:identifier": "2056",
+    "schema:email": [
+      "infotouristique@destination-nordcharente.com"
+    ],
+    "schema:legalName": "Office de tourisme Destination Nord Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ruffecois-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8fbfef27-ad9f-346d-911a-88eabfa4af44",
+      "schema:telephone": [
+        "+33 5 45 31 82 04",
+        "+33 5 45 31 87 86"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/eca7afaa-edf2-3d0d-b4cc-bae255773e09",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0698ca89-6772-383c-8681-88e2e9a874b9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/877a2b33-504e-3848-8c5f-b2bef766ebc1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d26c032b-463d-3550-83f7-7a922e63c2e9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/eacaa903-f760-3e79-8f76-1949eaa0fa2a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Rekonstruktion eines Klassenzimmers aus der Anfangszeit der kostenlosen, obligatorischen, laizistischen öffentlichen Schule, der sogenannten \"Ferry-Schule\"."
+        ],
+        "en": [
+          "Reconstruction of the classroom at the start of free public school, when it became obligatory."
+        ],
+        "it": [
+          "Ricostruzione di un'aula dell'inizio della scuola pubblica gratuita, obbligatoria e laica nota come \"Ferry School\"."
+        ],
+        "fr": [
+          "Reconstitution d'une salle de classe du début de l'école publique gratuite, obligatoire, laïque dite \"école Ferry\"."
+        ],
+        "nl": [
+          "Reconstructie van een klaslokaal uit het begin van de vrije, verplichte, seculiere openbare school, bekend als de \"Veerschool\"."
+        ],
+        "es": [
+          "Reconstrucción de un aula del inicio de la escuela pública gratuita, obligatoria y laica conocida como \"Escuela de Ferry\"."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/4f2750a3-d994-3e98-b4c1-169fad81a4c7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b41c8564-725d-3b56-a37f-420d7ca362f4",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cb324adb-5443-348f-ae5b-ff019845ffcb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e81d7311-faf6-3db1-b856-668afc6f846f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/74f1e074-2d9f-3f84-9ce4-57585dd8fb21",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/3c6c2002-1af3-3db8-8d4d-2da095e9f038",
+          "schema:addressLocality": "Nanteuil-en-Vallée",
+          "schema:postalCode": "16700",
+          "schema:streetAddress": [
+            "Le bourg",
+            "St Gervais"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16242",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Nanteuil-en-Vallée"
+              ],
+              "pt": [
+                "Nanteuil-en-Vallée"
+              ],
+              "en": [
+                "Nanteuil-en-Vallée"
+              ],
+              "it": [
+                "Nanteuil-en-Vallée"
+              ],
+              "fr": [
+                "Nanteuil-en-Vallée"
+              ],
+              "nl": [
+                "Nanteuil-en-Vallée"
+              ],
+              "es": [
+                "Nanteuil-en-Vallée"
+              ]
+            },
+            "insee": "16242",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/fdfe30f1-7ab4-336f-8e34-fcc7900f42b0",
+        "schema:latitude": "45.988758",
+        "schema:longitude": "0.353295",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/ab038f92-c50c-37f5-a3f3-669a70a6669e",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Auf Anfrage"
+            ],
+            "en": [
+              "On request"
+            ],
+            "it": [
+              "Su richiesta"
+            ],
+            "fr": [
+              "Sur demande"
+            ],
+            "nl": [
+              "Op aanvraag"
+            ],
+            "es": [
+              "A petición"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/2bcea582-adc6-39a4-b006-304c6fe8daae",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/5e77df69-df7a-31d6-a049-2d1cb2109560",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/873c578c-9890-3d0b-b3cd-caf8da3b0d7f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ddfdc922-177f-3b75-8cce-fd8baab13f9b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f3ad7189-9329-30fb-8c52-91211bd89728",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/515fb63a-6beb-307d-a0d6-d59e3e2d3f76",
+      "schema:email": [
+        "infotouristique@destination-nordcharente.com"
+      ],
+      "schema:legalName": "Office de tourisme Destination Nord Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ruffecois-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-22",
+  "lastUpdateDatatourisme": "2023-06-23T05:50:54.359Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/29cabc1d-c66a-357c-926e-b1b2380df660",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/b54fd995-98c6-3977-be4a-571131dfe76c",
+          "schema:maxPrice": [
+            "2"
+          ],
+          "schema:minPrice": [
+            "2"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

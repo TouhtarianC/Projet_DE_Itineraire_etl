@@ -1,0 +1,422 @@
+{
+  "@id": "https://data.datatourisme.fr/13/52b8c78e-90be-3b79-9d64-4f9cf90850fa",
+  "dc:identifier": "5761183",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Mehr als 4000 Bücher stehen Ihnen zur Verfügung."
+    ],
+    "en": [
+      "More than 4,000 books are available."
+    ],
+    "it": [
+      "Sono disponibili più di 4.000 libri."
+    ],
+    "fr": [
+      "Plus de 4 000 livres sont mis à votre disposition."
+    ],
+    "es": [
+      "Hay más de 4.000 libros disponibles."
+    ],
+    "nl": [
+      "Er zijn meer dan 4.000 boeken beschikbaar."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Bibliothek von Cabariot"
+    ],
+    "en": [
+      "Library of Cabariot"
+    ],
+    "fr": [
+      "Bibliothèque de Cabariot"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/9afefc52-942c-383c-bc1f-14b2139b09ba",
+    "dc:identifier": "2055",
+    "schema:email": [
+      "chloe.mailler@rochefort-ocean.com",
+      "christine.nourisson@rochefort-ocean.com",
+      "chrystelle.ecale@rochefort-ocean.com",
+      "lea.origlia@rochefort-ocean.com",
+      "sandrine.bouron@rochefort-ocean.com"
+    ],
+    "schema:legalName": "Office de Tourisme Rochefort Océan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.rochefort-ocean.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/c97fc196-9ead-30a8-af47-1a747b0b94f7",
+      "schema:email": [
+        "bib.cabariot@orange.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 83 28 46"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://mediatheques.agglo-rochefortocean.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/1b6cd6db-faf4-3e62-9f36-160a8a2c14cf",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/41131fd0-12d3-36a3-97fc-5ff3a5b685fd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9e49295a-54c6-3293-93e4-94bca322b10f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f1339454-5af0-379e-b478-b5d74330ed95",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Mehr als 4000 Bücher stehen Ihnen zur Verfügung."
+        ],
+        "en": [
+          "More than 4,000 books are available."
+        ],
+        "it": [
+          "Sono disponibili più di 4.000 libri."
+        ],
+        "fr": [
+          "Plus de 4 000 livres sont mis à votre disposition."
+        ],
+        "es": [
+          "Hay más de 4.000 libros disponibles."
+        ],
+        "nl": [
+          "Er zijn meer dan 4.000 boeken beschikbaar."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/81d71705-d30f-36fc-a05b-82460a4827ce",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8c5cacd2-4989-3a23-96cb-125e7e2673af",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9511e0dc-2d6e-3e9e-b4ee-cf3b80c7ff6e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/bb90d401-6f75-347e-906a-1518eb4ec59f",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/40da09f4-ec9b-34a2-baa8-c088a7d3e41f",
+          "schema:addressLocality": "Cabariot",
+          "schema:postalCode": "17430",
+          "schema:streetAddress": [
+            "32 rue des Gabares",
+            "Salle Roger Saillard"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17075",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Cabariot"
+              ],
+              "pt": [
+                "Cabariot"
+              ],
+              "en": [
+                "Cabariot"
+              ],
+              "it": [
+                "Cabariot"
+              ],
+              "fr": [
+                "Cabariot"
+              ],
+              "nl": [
+                "Cabariot"
+              ],
+              "es": [
+                "Cabariot"
+              ]
+            },
+            "insee": "17075",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/b6e372ff-de6d-37b8-ba3a-04ac5e0d2f6f",
+        "schema:latitude": "45.925615",
+        "schema:longitude": "-0.857187",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/62b793d7-b572-3d16-8d42-5bf27e31cb5c",
+          "schema:closes": "17:30:00",
+          "schema:opens": "15:00:00",
+          "schema:validFrom": "2023-07-08T00:00:00",
+          "schema:validThrough": "2023-09-03T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/aa32aad3-0458-3ce7-89cd-93b9faf9b4ec",
+          "schema:closes": "17:30:00",
+          "schema:opens": "15:00:00",
+          "schema:validFrom": "2023-04-08T00:00:00",
+          "schema:validThrough": "2023-04-23T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cdc2b2d3-c37c-391f-913f-d1f6f6872044",
+          "schema:validFrom": "2023-04-24T00:00:00",
+          "schema:validThrough": "2023-07-07T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e6bedd94-085b-358a-841b-b8a039447577",
+          "schema:validFrom": "2023-09-04T00:00:00",
+          "schema:validThrough": "2023-10-20T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fed90c24-5b4e-374e-b413-9c9ae527b242",
+      "schema:email": [
+        "chloe.mailler@rochefort-ocean.com",
+        "christine.nourisson@rochefort-ocean.com",
+        "chrystelle.ecale@rochefort-ocean.com",
+        "lea.origlia@rochefort-ocean.com",
+        "sandrine.bouron@rochefort-ocean.com"
+      ],
+      "schema:legalName": "Office de Tourisme Rochefort Océan",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.rochefort-ocean.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-17",
+  "lastUpdateDatatourisme": "2023-07-18T05:48:14.513Z"
+}

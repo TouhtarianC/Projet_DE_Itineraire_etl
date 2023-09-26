@@ -1,0 +1,429 @@
+{
+  "@id": "https://data.datatourisme.fr/13/3a22c08a-857b-36c0-9263-037e8b4f1457",
+  "dc:identifier": "6183916",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Bibliothek in Claix ist an die Schule angegliedert und bietet sowohl den Schülern als auch allen anderen Lesern Zugang."
+    ],
+    "en": [
+      "Located next to the school, the Claix library provides access to both students and readers."
+    ],
+    "it": [
+      "La biblioteca Claix si trova accanto alla scuola e consente l'accesso sia agli studenti che ai lettori."
+    ],
+    "fr": [
+      "Accolée à l'école, la bibliothèque de Claix permet un accès autant aux élèves qu'à tous les lecteurs."
+    ],
+    "es": [
+      "La biblioteca Claix está situada junto a la escuela y ofrece acceso tanto a los estudiantes como a los lectores."
+    ],
+    "nl": [
+      "De bibliotheek van Claix bevindt zich naast de school en is toegankelijk voor zowel leerlingen als lezers."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Bibliothèque municipale de Claix"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f3e52c30-0b82-3a81-a3e7-ace55fe15c08",
+    "dc:identifier": "2053",
+    "schema:email": [
+      "snebout@angouleme-tourisme.com"
+    ],
+    "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.angouleme-tourisme.com/"
+    ],
+    "lastUpdateDatatourisme": "2022-12-19T06:44:07.571Z"
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/dca7555e-d424-3737-9a4f-dd1fc7506557",
+      "schema:email": [
+        "biblio.claix@claix16.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 66 31 47"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/073a76d2-800a-3243-930c-deab8b5260e1",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/19bd5c6b-2077-37b2-ad7d-112c3e74789a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2b5f19c1-09d9-3688-8738-e629e5d3167a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/63907fe9-0363-3d08-8490-cb831675e536",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6eb03c0d-365a-37a3-9174-02b114b51174",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bf4f6854-1fbb-3000-bbce-c4b8f94a2994",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Bibliothek in Claix ist an die Schule angegliedert und bietet sowohl den Schülern als auch allen anderen Lesern Zugang."
+        ],
+        "en": [
+          "Located next to the school, the Claix library provides access to both students and readers."
+        ],
+        "it": [
+          "La biblioteca Claix si trova accanto alla scuola e consente l'accesso sia agli studenti che ai lettori."
+        ],
+        "fr": [
+          "Accolée à l'école, la bibliothèque de Claix permet un accès autant aux élèves qu'à tous les lecteurs."
+        ],
+        "es": [
+          "La biblioteca Claix está situada junto a la escuela y ofrece acceso tanto a los estudiantes como a los lectores."
+        ],
+        "nl": [
+          "De bibliotheek van Claix bevindt zich naast de school en is toegankelijk voor zowel leerlingen als lezers."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/3cd86be0-ac89-3909-9fae-836548c92f11",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4292d2d5-dc01-3a16-87d8-d283c9a6d89e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5b4a45b2-5c7e-3eee-88e1-e656b3faf773",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/82d458d3-6979-3cb3-b806-b5d0a4b3eafa",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ed9efc1f-8ac5-31d7-8f7b-aa76152a3f87",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/7208ec05-ae5d-369a-92b3-6a5bdb90e509",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/ceb4c38d-7184-336e-ace3-428a448aa080",
+          "schema:addressLocality": "Claix",
+          "schema:postalCode": "16440",
+          "schema:streetAddress": [
+            "1 rue de la Mairie"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16101",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Claix"
+              ],
+              "pt": [
+                "Claix"
+              ],
+              "en": [
+                "Claix"
+              ],
+              "it": [
+                "Claix"
+              ],
+              "fr": [
+                "Claix"
+              ],
+              "nl": [
+                "Claix"
+              ],
+              "es": [
+                "Claix"
+              ]
+            },
+            "insee": "16101",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/4810bcec-3977-3a80-9a66-d03f5dd6d567",
+        "schema:latitude": "45.555566",
+        "schema:longitude": "0.040436",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/65c93456-0984-3a13-aac5-3ae5946a15d8",
+      "schema:email": [
+        "snebout@angouleme-tourisme.com"
+      ],
+      "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.angouleme-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-06-27",
+  "lastUpdateDatatourisme": "2023-05-26T05:53:38.371Z"
+}

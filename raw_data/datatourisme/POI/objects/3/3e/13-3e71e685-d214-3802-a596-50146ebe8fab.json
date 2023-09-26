@@ -1,0 +1,517 @@
+{
+  "@id": "https://data.datatourisme.fr/13/3e71e685-d214-3802-a596-50146ebe8fab",
+  "dc:identifier": "5773194",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Mediathek in Meschers ist ein lebendiger und für alle offener Ort, der allen den Zugang zu Wissen, Kunst und dem Glück des Zuhörens, Betrachtens und Lesens ermöglicht.\r\n\r\nEintritt frei und kostenlos."
+    ],
+    "en": [
+      "A lively place open to all, the Meschers media library is an open space for everyone's access to knowledge, to the arts, to the joy of listening, looking and reading.\r\n\r\nFree entrance."
+    ],
+    "it": [
+      "Luogo vivace e aperto a tutti, la mediateca Meschers è uno spazio aperto a tutti per accedere alla conoscenza, alle arti, alla gioia di ascoltare, guardare e leggere.\r\n\r\nIngresso libero."
+    ],
+    "fr": [
+      "Lieu vivant et ouvert à tous, la médiathèque de Meschers est un espace ouvert pour l’accès de tous à la connaissance, aux arts, au bonheur d’écouter, de regarder, de lire.\r\n\r\nEntrée libre et gratuite."
+    ],
+    "es": [
+      "La mediateca de Meschers, un lugar vivo y abierto a todos, es un espacio abierto para que todos puedan acceder al conocimiento, a las artes, al placer de escuchar, mirar y leer.\r\n\r\nLa entrada es gratuita."
+    ],
+    "nl": [
+      "De mediatheek van Meschers is een levendige en voor iedereen toegankelijke plaats waar iedereen toegang heeft tot kennis, kunst en het plezier van luisteren, kijken en lezen.\r\n\r\nGratis toegang."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Médiathèque Municipale de Meschers"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/4dfeb569-0392-3aac-908e-f3b51641c5b2",
+      "schema:email": [
+        "bibliotheque@meschers.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 02 59 26"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.meschers.com/bibliotheque-2/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/65b4c466-1181-3eaa-beb7-97f1a19ade06",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/25247ccb-e5a1-3034-82bf-4b655bf4b213",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/42bad645-0c45-3a6c-911e-3e04d586dc9d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7b3d56a3-5d5d-368d-9a0b-0f63bce03e80",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8bfe9823-e55b-3a09-8e1f-46330182070b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fd94f4c3-5100-36dc-acde-ee9720cea9a4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Mediathek in Meschers ist ein lebendiger und für alle offener Ort, der allen den Zugang zu Wissen, Kunst und dem Glück des Zuhörens, Betrachtens und Lesens ermöglicht.\r\n\r\nEintritt frei und kostenlos."
+        ],
+        "en": [
+          "A lively place open to all, the Meschers media library is an open space for everyone's access to knowledge, to the arts, to the joy of listening, looking and reading.\r\n\r\nFree entrance."
+        ],
+        "it": [
+          "Luogo vivace e aperto a tutti, la mediateca Meschers è uno spazio aperto a tutti per accedere alla conoscenza, alle arti, alla gioia di ascoltare, guardare e leggere.\r\n\r\nIngresso libero."
+        ],
+        "fr": [
+          "Lieu vivant et ouvert à tous, la médiathèque de Meschers est un espace ouvert pour l’accès de tous à la connaissance, aux arts, au bonheur d’écouter, de regarder, de lire.\r\n\r\nEntrée libre et gratuite."
+        ],
+        "es": [
+          "La mediateca de Meschers, un lugar vivo y abierto a todos, es un espacio abierto para que todos puedan acceder al conocimiento, a las artes, al placer de escuchar, mirar y leer.\r\n\r\nLa entrada es gratuita."
+        ],
+        "nl": [
+          "De mediatheek van Meschers is een levendige en voor iedereen toegankelijke plaats waar iedereen toegang heeft tot kennis, kunst en het plezier van luisteren, kijken en lezen.\r\n\r\nGratis toegang."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0a51f30a-5959-3f45-8172-693c5e0f17ad",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/28b2685c-7340-39b1-aa5a-e86a98cda318",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/37bf4728-b80c-368b-b50b-45c2462ba3ef",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/de806b37-83a9-3b77-a6e5-beb255e7a40d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fb22bc7e-6d40-3433-aba0-f2ddab81cd6a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/876aa720-c6b5-36ae-9dd6-40c69b1a207c",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/4b36ceed-c2d3-35b4-b9fb-89f4eb9fdabe",
+          "schema:addressLocality": "Meschers-sur-Gironde",
+          "schema:postalCode": "17132",
+          "schema:streetAddress": [
+            "3 rue du Breuil"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17230",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Meschers-sur-Gironde"
+              ],
+              "pt": [
+                "Meschers-sur-Gironde"
+              ],
+              "en": [
+                "Meschers-sur-Gironde"
+              ],
+              "it": [
+                "Meschers-sur-Gironde"
+              ],
+              "fr": [
+                "Meschers-sur-Gironde"
+              ],
+              "nl": [
+                "Meschers-sur-Gironde"
+              ],
+              "es": [
+                "Meschers-sur-Gironde"
+              ]
+            },
+            "insee": "17230",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/817490bd-a0fa-3b88-a143-5d6fd4b34aca",
+        "schema:latitude": "45.559624",
+        "schema:longitude": "-0.952633",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/63d1834f-102a-3c76-9cdd-2c81e0da6015",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Während der Ferien:\r\nDienstag bis Freitag: 9.30 bis 12.30 Uhr und 14 bis 17 Uhr"
+            ],
+            "en": [
+              "During the vacations:\r\nTuesday to Friday: 9:30 am to 12:30 pm and 2 pm to 5 pm"
+            ],
+            "it": [
+              "Durante le vacanze :\r\nDa martedì a venerdì: dalle 9.30 alle 12.30 e dalle 14.00 alle 17.00"
+            ],
+            "fr": [
+              "Pendant les vacances :\r\nMardi au vendredi : 9h30 à 12h30 et 14h à 17h"
+            ],
+            "nl": [
+              "Tijdens de feestdagen:\r\nDinsdag t/m vrijdag: 9.30 tot 12.30 uur en 14.00 tot 17.00 uur"
+            ],
+            "es": [
+              "Durante las vacaciones :\r\nDe martes a viernes: de 9.30 a 12.30 y de 14 a 17 horas"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/321ff08f-bf8a-3379-8537-f967630973a3",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/43a90ece-5c17-397f-ba2f-b1d47ae4a7ff",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6679f33e-e00a-3892-b201-6b0646ad4c79",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/8b1583b6-be35-3636-b8f3-2cbde0f7bc9d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e862a5ec-b11e-38c7-b3c3-de8a86c978fa",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-08-11",
+  "lastUpdateDatatourisme": "2023-02-01T18:07:35.748Z"
+}

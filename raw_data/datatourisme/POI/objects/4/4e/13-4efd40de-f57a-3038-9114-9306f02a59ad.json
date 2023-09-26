@@ -1,0 +1,539 @@
+{
+  "@id": "https://data.datatourisme.fr/13/4efd40de-f57a-3038-9114-9306f02a59ad",
+  "dc:identifier": "5736795",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das unauffällige, aber reiche Arboretum von Clédou ist ein wahres Juwel, was die Vielfalt der Bäume und Farben angeht, und bietet Ihnen einen angenehmen Spaziergang, bei dem Sie inmitten von asiatischen Zedern, kaukasischen Tannen oder chilenischen Araukarien Sauerstoff tanken können."
+    ],
+    "en": [
+      "Located on the edge of the departmental road from Rougnac to Combiers, in the heart of the La Mothe-Clédou forest, the arboretum is managed by the Office National des Forêts (ONF)."
+    ],
+    "it": [
+      "Il discreto ma ricco arboreto di Clédou è un vero gioiello in termini di diversità di alberi e colori e offre una piacevole passeggiata che permette di respirare in mezzo a cedri asiatici, abeti caucasici o araucarie cilene."
+    ],
+    "fr": [
+      "Le discret mais riche arboretum du Clédou est un vrai joyau au niveau de la diversité des arbres et des couleurs et vous propose une agréable balade qui permet de s'oxygéner au milieu des cèdres d'Asie, des sapins du Caucase ou des araucarias chiliens."
+    ],
+    "nl": [
+      "Het discrete maar rijke arboretum van Clédou is een echt juweeltje wat betreft de diversiteit aan bomen en kleuren en biedt een aangename wandeling waarbij u op adem kunt komen te midden van Aziatische ceders, Kaukasische sparren of Chileense araucarias."
+    ],
+    "es": [
+      "El discreto pero rico arboreto de Clédou es una verdadera joya por la diversidad de árboles y colores y ofrece un agradable paseo que permite respirar en medio de cedros asiáticos, abetos caucásicos o araucarias chilenas."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Arboretum Jean Aubouin"
+    ],
+    "fr": [
+      "Arboretum Jean Aubouin"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q4784794"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/16ba7217-2e6a-3f1d-a54d-11ab6967e371",
+    "dc:identifier": "2063",
+    "schema:email": [
+      "direction@sudcharentetourisme.fr",
+      "noemie@sudcharentetourisme.fr"
+    ],
+    "schema:legalName": "Office de tourisme du Sud Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.sudcharentetourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/341d3a24-10b8-30d1-8233-e7eda91f414a",
+      "schema:email": [
+        "mairie@combiers.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 23 04 08"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.combiers.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/9f75e505-5533-3070-82e5-59ff9fe4fbbe",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0a744cd3-30d1-3c1b-bfd4-ee4a8e3edf94",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/163b63d5-9340-3761-9b86-13b3804a1cc8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c919ab62-4f0b-3c55-8d1e-11ffad226463",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f2c1319c-2e79-397c-8813-63d6b77ae00b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das unauffällige, aber reiche Arboretum von Clédou ist ein wahres Juwel, was die Vielfalt der Bäume und Farben angeht, und bietet Ihnen einen angenehmen Spaziergang, bei dem Sie inmitten von asiatischen Zedern, kaukasischen Tannen oder chilenischen Araukarien Sauerstoff tanken können."
+        ],
+        "en": [
+          "Located on the edge of the departmental road from Rougnac to Combiers, in the heart of the La Mothe-Clédou forest, the arboretum is managed by the Office National des Forêts (ONF)."
+        ],
+        "it": [
+          "Il discreto ma ricco arboreto di Clédou è un vero gioiello in termini di diversità di alberi e colori e offre una piacevole passeggiata che permette di respirare in mezzo a cedri asiatici, abeti caucasici o araucarie cilene."
+        ],
+        "fr": [
+          "Le discret mais riche arboretum du Clédou est un vrai joyau au niveau de la diversité des arbres et des couleurs et vous propose une agréable balade qui permet de s'oxygéner au milieu des cèdres d'Asie, des sapins du Caucase ou des araucarias chiliens."
+        ],
+        "nl": [
+          "Het discrete maar rijke arboretum van Clédou is een echt juweeltje wat betreft de diversiteit aan bomen en kleuren en biedt een aangename wandeling waarbij u op adem kunt komen te midden van Aziatische ceders, Kaukasische sparren of Chileense araucarias."
+        ],
+        "es": [
+          "El discreto pero rico arboreto de Clédou es una verdadera joya por la diversidad de árboles y colores y ofrece un agradable paseo que permite respirar en medio de cedros asiáticos, abetos caucásicos o araucarias chilenas."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/5967af1f-896a-395f-abc1-760d7f687629",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/c7ad2423-30bf-3650-8e09-6279cc3f203a",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Horte combiers"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Jack ma (https://commons.wikimedia.org/wiki/User:Jack_ma)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/0e225906-caf1-3e17-b71b-834daa263a1e",
+          "ebucore:fileSize": [
+            487127
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1200,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/1/16/Horte_combiers.JPG"
+          ],
+          "ebucore:width": 1600,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/65dfeac6-2e05-3ec7-84ad-a274efded02e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7fa81d6a-c496-3789-9890-c6e70709b2f5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a0b4d8cd-5555-374f-8fc3-ef5c21f0d26b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d24f360a-559a-3ba0-9836-f2ec1fffe7e5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0fb385c1-f534-366e-b982-bcba0852d1e1",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/0bf7f77e-cdef-32d2-8ec5-c8f42fb53a03",
+          "schema:addressLocality": "Combiers",
+          "schema:postalCode": "16320",
+          "schema:streetAddress": [
+            "D41 de Rougnac à Combiers",
+            "Forêt de la Mothe Clédou"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16103",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Combiers"
+              ],
+              "pt": [
+                "Combiers"
+              ],
+              "en": [
+                "Combiers"
+              ],
+              "it": [
+                "Combiers"
+              ],
+              "fr": [
+                "Combiers"
+              ],
+              "nl": [
+                "Combiers"
+              ],
+              "es": [
+                "Combiers"
+              ]
+            },
+            "insee": "16103",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/b760a437-cd45-3f5f-8141-9ce1b87e6634",
+        "schema:latitude": "45.532231",
+        "schema:longitude": "0.377904",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/17ccf9a1-6b41-3eb9-a1e1-edf0fbbf90c5",
+      "schema:email": [
+        "direction@sudcharentetourisme.fr",
+        "noemie@sudcharentetourisme.fr"
+      ],
+      "schema:legalName": "Office de tourisme du Sud-Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.sudcharentetourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-06-09",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.642Z"
+}

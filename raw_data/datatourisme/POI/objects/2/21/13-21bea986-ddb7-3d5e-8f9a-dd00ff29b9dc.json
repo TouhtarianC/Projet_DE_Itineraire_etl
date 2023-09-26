@@ -1,0 +1,461 @@
+{
+  "@id": "https://data.datatourisme.fr/13/21bea986-ddb7-3d5e-8f9a-dd00ff29b9dc",
+  "dc:identifier": "5674721",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Dieser Ort ist Arboretum und Blumenpark zugleich und lädt Sie ein, eine bedeutende Sammlung von Fuchsien zu entdecken."
+    ],
+    "en": [
+      "Both arboretum and floral park, this place invites you to discover an important collection of fuchsias."
+    ],
+    "it": [
+      "Arboreto e parco floreale, questo luogo invita a scoprire un'importante collezione di fucsie."
+    ],
+    "fr": [
+      "A la fois arboretum et parc floral, ce lieu vous invite à découvrir une collection importante de fuchsias."
+    ],
+    "es": [
+      "Este lugar, que es a la vez un arboreto y un parque floral, le invita a descubrir una importante colección de fucsias."
+    ],
+    "nl": [
+      "Deze plek, die zowel een arboretum als een bloemenpark is, nodigt u uit om een belangrijke collectie fuchsia's te ontdekken."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Parc floral Jean Pierre Lanson"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/a96d3afe-c184-366b-beca-7a9f989fc7e7",
+    "dc:identifier": "2056",
+    "schema:email": [
+      "infotouristique@destination-nordcharente.com"
+    ],
+    "schema:legalName": "Office de tourisme Destination Nord Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ruffecois-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3cbc7ebf-bf47-3141-b158-2b9dd7a8c758",
+      "schema:email": [
+        "mairie.mansle@orange.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 22 20 43"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://mansle.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/bb94c93b-0e29-310b-aed1-d41e38f5df69",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/00b87157-08b7-33bb-8b87-3b16ad74011b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7465c1dd-1241-3ba5-8e05-b3f10a144f63",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/83217fbb-8940-3281-bd74-b4716f4f44ff",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a2325348-4255-3482-ac74-237a10bb1663",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d9211c46-8bc9-3fc2-a9c7-7ef37e213ebd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Dieser Ort ist Arboretum und Blumenpark zugleich und lädt Sie ein, eine bedeutende Sammlung von Fuchsien zu entdecken."
+        ],
+        "en": [
+          "Both arboretum and floral park, this place invites you to discover an important collection of fuchsias."
+        ],
+        "it": [
+          "Arboreto e parco floreale, questo luogo invita a scoprire un'importante collezione di fucsie."
+        ],
+        "fr": [
+          "A la fois arboretum et parc floral, ce lieu vous invite à découvrir une collection importante de fuchsias."
+        ],
+        "es": [
+          "Este lugar, que es a la vez un arboreto y un parque floral, le invita a descubrir una importante colección de fucsias."
+        ],
+        "nl": [
+          "Deze plek, die zowel een arboretum als een bloemenpark is, nodigt u uit om een belangrijke collectie fuchsia's te ontdekken."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/583e190a-a708-33c5-9b70-6796916ee976",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/62c8de3a-6509-3bd4-904f-6a8ac3d5b765",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/77c878c2-3576-3863-b0b8-d5855c49adae",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c6c695c8-1fe8-3d45-844c-b9c44b5852d8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e2e46583-08bb-339b-be35-bc960d785871",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/a2b88693-a4ac-3608-87b0-1e3099c59753",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/b01ba07e-a4e9-350a-9bf5-29c638d6b075",
+          "schema:addressLocality": "Mansle-les-Fontaines",
+          "schema:postalCode": "16230",
+          "schema:streetAddress": [
+            "Moulin à vent"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16206",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Mansle-les-Fontaines"
+              ],
+              "pt": [
+                "Mansle-les-Fontaines"
+              ],
+              "en": [
+                "Mansle-les-Fontaines"
+              ],
+              "it": [
+                "Mansle-les-Fontaines"
+              ],
+              "fr": [
+                "Mansle-les-Fontaines"
+              ],
+              "nl": [
+                "Mansle-les-Fontaines"
+              ],
+              "es": [
+                "Mansle-les-Fontaines"
+              ]
+            },
+            "insee": "16206",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/ea02505c-3fa1-3598-bd08-bbc791240981",
+        "schema:latitude": "45.86876",
+        "schema:longitude": "0.179879",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/515fb63a-6beb-307d-a0d6-d59e3e2d3f76",
+      "schema:email": [
+        "infotouristique@destination-nordcharente.com"
+      ],
+      "schema:legalName": "Office de tourisme Destination Nord Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ruffecois-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-06",
+  "lastUpdateDatatourisme": "2023-07-07T05:48:53.588Z"
+}

@@ -1,0 +1,511 @@
+{
+  "@id": "https://data.datatourisme.fr/13/9a60723d-dd84-34c1-ab06-9f1d6a8b5f71",
+  "dc:identifier": "5713130",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Fassade aus dem 12. Jahrhundert wirkt wie ein Triumphzug! Jahrhundert. Das macht diese romanische Kirche zu etwas ganz Besonderem."
+    ],
+    "en": [
+      "Here's a distinctive roman church, the facade of the 12th century reminds a triumph arch."
+    ],
+    "it": [
+      "La facciata del XII secolo ha un'aria di trionfo! Questo è ciò che rende questa chiesa romanica così speciale."
+    ],
+    "fr": [
+      "Il y a comme un air de triomphe dans la façade du 12ème siècle ! De quoi rendre cette église romane particulière."
+    ],
+    "nl": [
+      "De gevel uit de 12e eeuw ademt een sfeer van triomf! Dat maakt deze Romaanse kerk zo bijzonder."
+    ],
+    "es": [
+      "Aquí hay una iglesia romana distintiva, la fachada del siglo 12 recuerda un arco de triunfo."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Saint-Nazaire's church - Corme-Royal"
+    ],
+    "fr": [
+      "Eglise Saint-Nazaire de Corme-Royal"
+    ],
+    "es": [
+      "Iglesia Saint- Nazaire - Corme-Royal"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q2315637"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f8c0c968-6328-35cd-9333-08b1a494967f",
+    "dc:identifier": "2060",
+    "schema:email": [
+      "a.tonin@saintes-tourisme.fr",
+      "f.herbec@saintes-tourisme.fr",
+      "l.conan@saintes-tourisme.fr"
+    ],
+    "schema:legalName": "Office de Tourisme de Saintes & la Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.saintes-tourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/7d8d7a4a-e0e2-3dd4-a3b4-6cdb9b0284b3",
+      "schema:telephone": [
+        "+33 5 46 74 90 90"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/1dd723d6-e203-3c68-97c6-e0786c17c62d",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/24a45d36-15bb-32a4-9402-1ad2b3152554",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8d5a7c05-439f-3aa7-8c20-a37839b71967",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9f971247-7eff-37aa-94c9-4449e77fddab",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Fassade aus dem 12. Jahrhundert wirkt wie ein Triumphzug! Jahrhundert. Das macht diese romanische Kirche zu etwas ganz Besonderem."
+        ],
+        "en": [
+          "Here's a distinctive roman church, the facade of the 12th century reminds a triumph arch."
+        ],
+        "it": [
+          "La facciata del XII secolo ha un'aria di trionfo! Questo è ciò che rende questa chiesa romanica così speciale."
+        ],
+        "fr": [
+          "Il y a comme un air de triomphe dans la façade du 12ème siècle ! De quoi rendre cette église romane particulière."
+        ],
+        "nl": [
+          "De gevel uit de 12e eeuw ademt een sfeer van triomf! Dat maakt deze Romaanse kerk zo bijzonder."
+        ],
+        "es": [
+          "Aquí hay una iglesia romana distintiva, la fachada del siglo 12 recuerda un arco de triunfo."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/3dbd1082-5373-35ee-9688-a0d41fa7ad87",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/3cd57eb4-29e5-3e7c-b409-44ce742f6418",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Corme-Royal eglise"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Myrabella (https://commons.wikimedia.org/wiki/User:Myrabella)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/102afded-3769-3688-8e55-330725497785",
+          "ebucore:fileSize": [
+            7521143
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 3412,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/6/62/Corme-Royal_eglise.jpg"
+          ],
+          "ebucore:width": 2296,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/06b7d26d-200f-380c-a56b-d7c09e8cfd67",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/377714be-2fa5-360b-ab33-86c3deb8c899",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/74b08684-ae59-31db-8412-a72743ee1883",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b6958958-03b7-32df-a831-2ca5cc79404c",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/60541387-7d75-3ef3-b591-9658c03be213",
+          "schema:addressLocality": "Corme-Royal",
+          "schema:postalCode": "17600",
+          "schema:streetAddress": [
+            "2 rue du Grand Pré"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17120",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Corme-Royal"
+              ],
+              "pt": [
+                "Corme-Royal"
+              ],
+              "en": [
+                "Corme-Royal"
+              ],
+              "it": [
+                "Corme-Royal"
+              ],
+              "fr": [
+                "Corme-Royal"
+              ],
+              "nl": [
+                "Corme-Royal"
+              ],
+              "es": [
+                "Corme-Royal"
+              ]
+            },
+            "insee": "17120",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/12046db1-2599-3a7f-8320-b6d7ac7f4318",
+        "schema:latitude": "45.745529",
+        "schema:longitude": "-0.811583",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/6788b742-800e-3e07-a704-c6181e0a8dd1",
+      "schema:email": [
+        "a.tonin@saintes-tourisme.fr",
+        "f.herbec@saintes-tourisme.fr",
+        "l.conan@saintes-tourisme.fr"
+      ],
+      "schema:legalName": "Office de Tourisme de Saintes & la Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.saintes-tourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-12-29",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.812Z"
+}

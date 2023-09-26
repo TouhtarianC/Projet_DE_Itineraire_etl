@@ -1,0 +1,462 @@
+{
+  "@id": "https://data.datatourisme.fr/13/1dc3b048-084d-378d-a892-d379e7df85b5",
+  "dc:identifier": "5696958",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Der Marktflecken Saint-Georges besitzt eines der ältesten Gebäude der Insel Oléron: seine sehr schöne romanische Kirche, die im 11. und 12. Jahrhundert erbaut wurde. Seit 1931 steht sie unter Denkmalschutz."
+    ],
+    "en": [
+      "The village of Saint-Georges has one of the oldest buildings on the Ile d'Oléron: its beautiful Romanesque church, built in the 11th and 12th centuries. It is classified as a historical monument since 1931."
+    ],
+    "it": [
+      "Il villaggio di Saint-Georges possiede uno degli edifici più antichi dell'isola di Oleron: la sua bella chiesa romanica, costruita nei secoli XI e XII. Dal 1931 è stato classificato come monumento storico."
+    ],
+    "fr": [
+      "Le bourg de Saint-Georges possède l'un des plus anciens édifices de l'île d'Oléron : sa très belle église romane, construite aux XIème et XIIème siècle. Elle est classée monument historique depuis 1931."
+    ],
+    "nl": [
+      "Het dorp Saint-Georges heeft een van de oudste gebouwen van het eiland Oleron: de prachtige Romaanse kerk, gebouwd in de 11e en 12e eeuw. Het staat sinds 1931 op de monumentenlijst."
+    ],
+    "es": [
+      "El pueblo de Saint-Georges cuenta con uno de los edificios más antiguos de la isla de Oleron: su hermosa iglesia románica, construida en los siglos XI y XII. Está catalogado como monumento histórico desde 1931."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Eglise de St Georges d'Oléron"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3bcf02ca-b9c8-3698-a347-79225d9a1f6f",
+      "schema:email": [
+        "contact@paroisse-oleron.com"
+      ],
+      "schema:telephone": [
+        "+33 5 46 47 11 14"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.catholiques17.fr/oleron"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/dbab17e4-f0ab-3d7e-9686-7604b334d0b9",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/02d25187-49ad-3544-a0f0-c935c42bcd8f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/44d15216-d16e-3bd1-b8ae-7ab7a02e8cf6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/51eacaa9-0748-35cc-956d-d223e5bd0902",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/573639ca-8ff1-3f83-ba25-9ce5fdfd841d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/62dee37d-b2fa-30e8-9e09-3b6b83ae287f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Der Marktflecken Saint-Georges besitzt eines der ältesten Gebäude der Insel Oléron: seine sehr schöne romanische Kirche, die im 11. und 12. Jahrhundert erbaut wurde. Seit 1931 steht sie unter Denkmalschutz."
+        ],
+        "en": [
+          "The village of Saint-Georges has one of the oldest buildings on the Ile d'Oléron: its beautiful Romanesque church, built in the 11th and 12th centuries. It is classified as a historical monument since 1931."
+        ],
+        "it": [
+          "Il villaggio di Saint-Georges possiede uno degli edifici più antichi dell'isola di Oleron: la sua bella chiesa romanica, costruita nei secoli XI e XII. Dal 1931 è stato classificato come monumento storico."
+        ],
+        "fr": [
+          "Le bourg de Saint-Georges possède l'un des plus anciens édifices de l'île d'Oléron : sa très belle église romane, construite aux XIème et XIIème siècle. Elle est classée monument historique depuis 1931."
+        ],
+        "nl": [
+          "Het dorp Saint-Georges heeft een van de oudste gebouwen van het eiland Oleron: de prachtige Romaanse kerk, gebouwd in de 11e en 12e eeuw. Het staat sinds 1931 op de monumentenlijst."
+        ],
+        "es": [
+          "El pueblo de Saint-Georges cuenta con uno de los edificios más antiguos de la isla de Oleron: su hermosa iglesia románica, construida en los siglos XI y XII. Está catalogado como monumento histórico desde 1931."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0db0480a-e6b5-3b3f-b81a-e2a4a0a53c29",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4cac90c8-2703-3331-a871-0d5df73fd15c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6bca4a78-e5b6-30b9-a15b-5f404a4d4c03",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f27fd678-7113-372e-b4ce-39a60a01c36b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f3767977-b6ed-3276-8788-1ef3fe1f320e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/d8140052-43cf-384b-a03f-6ce60b8872cc",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/a3b7f2af-1a0d-332d-a17c-58b0da49064f",
+          "schema:addressLocality": "Saint-Georges-d'Oléron",
+          "schema:postalCode": "17190",
+          "schema:streetAddress": [
+            "Rue des dames"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17337",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Georges-d'Oléron"
+              ],
+              "pt": [
+                "Saint-Georges-d'Oléron"
+              ],
+              "en": [
+                "Saint-Georges-d'Oléron"
+              ],
+              "it": [
+                "Saint-Georges-d'Oléron"
+              ],
+              "fr": [
+                "Saint-Georges-d'Oléron"
+              ],
+              "nl": [
+                "Saint-Georges-d'Oléron"
+              ],
+              "es": [
+                "Saint-Georges-d'Oléron"
+              ]
+            },
+            "insee": "17337",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/3a125971-75cd-3525-bafc-3ecedc9fe48d",
+        "schema:latitude": "45.979054",
+        "schema:longitude": "-1.331278",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/80009736-71af-3484-9792-2b3de63306d1",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-08-24",
+  "lastUpdateDatatourisme": "2023-06-01T05:41:13.982Z"
+}

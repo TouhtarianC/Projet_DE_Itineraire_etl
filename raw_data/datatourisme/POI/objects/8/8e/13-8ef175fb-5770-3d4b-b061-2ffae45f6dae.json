@@ -1,0 +1,488 @@
+{
+  "@id": "https://data.datatourisme.fr/13/8ef175fb-5770-3d4b-b061-2ffae45f6dae",
+  "dc:identifier": "5808996",
+  "@type": [
+    "CityHeritage",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Stadt Barbezieux im Süden der Charente besitzt ein bedeutendes bauliches Erbe, dessen Prunkstück zweifellos das Schloss ist. Dazu gehört auch die Kirche Saint-Mathias, vor der am Dienstag- und Freitagmorgen der Markt stattfindet."
+    ],
+    "en": [
+      "The town of Barbezieux in the South of Charente has an important built heritage whose jewel is without any doubt its castle. The church of Saint-Mathias in front of which the Tuesday and Friday morning market is held is also part of it."
+    ],
+    "it": [
+      "La città di Barbezieux, nel sud della Charente, possiede un importante patrimonio edilizio, il cui fiore all'occhiello è senza dubbio il suo castello. Anche la chiesa di Saint-Mathias, davanti alla quale si tiene il mercato del martedì e del venerdì mattina, ne fa parte."
+    ],
+    "fr": [
+      "La ville de Barbezieux en Sud Charente possède un patrimoine bâti important dont le fleuron est sans nul doute son château. L’église Saint-Mathias devant laquelle se tient le marché du mardi et vendredi matin en fait également partie."
+    ],
+    "es": [
+      "La ciudad de Barbezieux, en el sur de la Charente, cuenta con un importante patrimonio construido, cuya joya de la corona es sin duda su castillo. La iglesia de Saint-Mathias, frente a la cual se celebra el mercado de los martes y viernes por la mañana, también forma parte de ella."
+    ],
+    "nl": [
+      "De stad Barbezieux in het zuiden van de Charente heeft een belangrijk gebouwd erfgoed, waarvan de parel in de kroon ongetwijfeld het kasteel is. De kerk van Sint-Mathias, waarvoor de dinsdag- en vrijdagochtendmarkt wordt gehouden, hoort daar ook bij."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Ville de Barbezieux"
+    ],
+    "ru": [
+      "Ville de Barbezieux"
+    ],
+    "en": [
+      "Ville de Barbezieux"
+    ],
+    "it": [
+      "Ville de Barbezieux"
+    ],
+    "fr": [
+      "Ville de Barbezieux"
+    ],
+    "zh": [
+      "Ville de Barbezieux"
+    ],
+    "nl": [
+      "Ville de Barbezieux"
+    ],
+    "es": [
+      "Ville de Barbezieux"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q119300673"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/16ba7217-2e6a-3f1d-a54d-11ab6967e371",
+    "dc:identifier": "2063",
+    "schema:email": [
+      "direction@sudcharentetourisme.fr",
+      "noemie@sudcharentetourisme.fr"
+    ],
+    "schema:legalName": "Office de tourisme du Sud Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.sudcharentetourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/62b166e3-32bf-38bf-a114-87889dbcf111",
+      "schema:email": [
+        "contact@sudcharentetourisme.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 78 91 04"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.mairie-barbezieux.fr/",
+        "https://www.sudcharentetourisme.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/3b8c7e57-900a-32f5-b3ed-8f54f0568b40",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/00ce6e19-64f0-3560-9e0d-eb2fa5ab92b3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2c61c94b-4de3-3bbf-a7d8-9ccba426b77a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/754ec79f-3b45-3ae5-aaf1-a323c930d7d7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b92ef4d4-2b5f-35e0-9d4c-5603d556d1c9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e21ad2c0-3992-3c4d-b465-70c7affa2cae",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Stadt Barbezieux im Süden der Charente besitzt ein bedeutendes bauliches Erbe, dessen Prunkstück zweifellos das Schloss ist. Dazu gehört auch die Kirche Saint-Mathias, vor der am Dienstag- und Freitagmorgen der Markt stattfindet."
+        ],
+        "en": [
+          "The town of Barbezieux in the South of Charente has an important built heritage whose jewel is without any doubt its castle. The church of Saint-Mathias in front of which the Tuesday and Friday morning market is held is also part of it."
+        ],
+        "it": [
+          "La città di Barbezieux, nel sud della Charente, possiede un importante patrimonio edilizio, il cui fiore all'occhiello è senza dubbio il suo castello. Anche la chiesa di Saint-Mathias, davanti alla quale si tiene il mercato del martedì e del venerdì mattina, ne fa parte."
+        ],
+        "fr": [
+          "La ville de Barbezieux en Sud Charente possède un patrimoine bâti important dont le fleuron est sans nul doute son château. L’église Saint-Mathias devant laquelle se tient le marché du mardi et vendredi matin en fait également partie."
+        ],
+        "es": [
+          "La ciudad de Barbezieux, en el sur de la Charente, cuenta con un importante patrimonio construido, cuya joya de la corona es sin duda su castillo. La iglesia de Saint-Mathias, frente a la cual se celebra el mercado de los martes y viernes por la mañana, también forma parte de ella."
+        ],
+        "nl": [
+          "De stad Barbezieux in het zuiden van de Charente heeft een belangrijk gebouwd erfgoed, waarvan de parel in de kroon ongetwijfeld het kasteel is. De kerk van Sint-Mathias, waarvoor de dinsdag- en vrijdagochtendmarkt wordt gehouden, hoort daar ook bij."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/45735a28-e1d7-38b2-861b-a7e8140c3094",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/98503abb-fb41-3491-bc83-0dad848f5693",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c5d4a6c9-cc9c-3a64-b518-7915b6780d6a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cfdcbce4-4d71-37af-bf7c-4e765ad8c36b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/dbdb4cd7-5d8f-3d2b-829f-f04637302c0b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/d2bc5b5f-f85f-31dd-8bc8-e201b2aa5fe8",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/294b208b-bc8d-3332-8d8b-c4b67a9af30f",
+          "schema:addressLocality": "Barbezieux-Saint-Hilaire",
+          "schema:postalCode": "16300",
+          "schema:streetAddress": [
+            "Au château",
+            "place de Verdun"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16028",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Barbezieux-Saint-Hilaire"
+              ],
+              "pt": [
+                "Barbezieux-Saint-Hilaire"
+              ],
+              "en": [
+                "Barbezieux-Saint-Hilaire"
+              ],
+              "it": [
+                "Barbezieux-Saint-Hilaire"
+              ],
+              "fr": [
+                "Barbezieux-Saint-Hilaire"
+              ],
+              "nl": [
+                "Barbezieux-Saint-Hilaire"
+              ],
+              "es": [
+                "Barbezieux-Saint-Hilaire"
+              ]
+            },
+            "insee": "16028",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/f9aad425-74b3-35a6-a725-ae756782d665",
+        "schema:latitude": "45.47301",
+        "schema:longitude": "-0.157579",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/a5a35655-de13-3062-b61c-7cbc3e16c2c5",
+      "schema:email": [
+        "direction@sudcharentetourisme.fr",
+        "noemie@sudcharentetourisme.fr"
+      ],
+      "schema:legalName": "Office de tourisme du Sud Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.sudcharentetourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-05-26",
+  "lastUpdateDatatourisme": "2023-07-01T05:49:48.618Z"
+}

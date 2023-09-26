@@ -1,0 +1,638 @@
+{
+  "@id": "https://data.datatourisme.fr/13/12c8aea5-4d5b-315b-a122-2d3c9221177b",
+  "dc:identifier": "5758364",
+  "@type": [
+    "Abbey",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die dem Heiligen Stephanus geweihte Kirche besteht aus einem einschiffigen Gebäude, das im Südwesten von einer Kapelle flankiert wird, aus der ein Glockenturm herausragt."
+    ],
+    "en": [
+      "The church dedicated to Saint-Étienne consists of a single-vessel nave flanked to the southwest by a chapel from which a bell tower emerges."
+    ],
+    "it": [
+      "La chiesa, dedicata a Santo Stefano, è costituita da un'unica navata affiancata a sud-ovest da una cappella da cui emerge un campanile."
+    ],
+    "fr": [
+      "L'église dédiée à Saint-Étienne, se compose d'une nef à vaisseau unique flanquée au sud-ouest d'une chapelle de laquelle émerge un clocher."
+    ],
+    "es": [
+      "La iglesia, dedicada a San Esteban, consta de una sola nave flanqueada al suroeste por una capilla de la que emerge un campanario."
+    ],
+    "nl": [
+      "De kerk, gewijd aan Sint Stefanus, bestaat uit één schip dat in het zuidwesten wordt geflankeerd door een kapel waaruit een klokkentoren oprijst."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Abbaye Saint-Etienne"
+    ],
+    "ru": [
+      "Abbaye Saint-Etienne"
+    ],
+    "en": [
+      "Abbaye Saint-Etienne"
+    ],
+    "it": [
+      "Abbaye Saint-Etienne"
+    ],
+    "fr": [
+      "Abbaye Saint-Etienne"
+    ],
+    "zh": [
+      "Abbaye Saint-Etienne"
+    ],
+    "nl": [
+      "Abbaye Saint-Etienne"
+    ],
+    "es": [
+      "Abbaye Saint-Etienne"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q2820454"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/16ba7217-2e6a-3f1d-a54d-11ab6967e371",
+    "dc:identifier": "2063",
+    "schema:email": [
+      "direction@sudcharentetourisme.fr",
+      "noemie@sudcharentetourisme.fr"
+    ],
+    "schema:legalName": "Office de tourisme du Sud Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.sudcharentetourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/c0b181f4-8ffa-34d7-ab2a-e13745e7a0cf",
+      "schema:email": [
+        "mairie@baignes-sainte-radegonde.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 78 40 04"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.baignes-sainte-radegonde.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/21c2402a-d907-3a1f-bf08-6715ef74c127",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1f879aa2-16ab-3d1d-9c86-8d8e0124b383",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/686914a8-b30a-390c-983b-ccdf7d392a3e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7d2d256a-6920-3da0-9db1-1b26d2314f47",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bdfd4165-819f-33c1-b36f-de65b0ac7317",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die dem Heiligen Stephanus geweihte Kirche besteht aus einem einschiffigen Gebäude, das im Südwesten von einer Kapelle flankiert wird, aus der ein Glockenturm herausragt."
+        ],
+        "en": [
+          "The church dedicated to Saint-Étienne consists of a single-vessel nave flanked to the southwest by a chapel from which a bell tower emerges."
+        ],
+        "it": [
+          "La chiesa, dedicata a Santo Stefano, è costituita da un'unica navata affiancata a sud-ovest da una cappella da cui emerge un campanile."
+        ],
+        "fr": [
+          "L'église dédiée à Saint-Étienne, se compose d'une nef à vaisseau unique flanquée au sud-ouest d'une chapelle de laquelle émerge un clocher."
+        ],
+        "es": [
+          "La iglesia, dedicada a San Esteban, consta de una sola nave flanqueada al suroeste por una capilla de la que emerge un campanario."
+        ],
+        "nl": [
+          "De kerk, gewijd aan Sint Stefanus, bestaat uit één schip dat in het zuidwesten wordt geflankeerd door een kapel waaruit een klokkentoren oprijst."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/d80fea16-b640-3558-9754-3f19b5ad2e2f",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/07249e22-0d8c-3447-a22f-4ecb39d2ddf3",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Baignes-Ste-Radegonde 16 Église St-Étienne 2013"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "<p><a href=\"//commons.wikimedia.org/wiki/User:JLPC\" title=\"User:JLPC\">JLPC</a>\n</p>"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/dbc6d26b-bed3-3576-9a45-130ba9b6a277",
+          "ebucore:fileSize": [
+            10843696
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 2981,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/0/06/Baignes-Ste-Radegonde_16_%C3%89glise_St-%C3%89tienne_2013.jpg"
+          ],
+          "ebucore:width": 4291,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/32d79125-30dc-381b-a98b-d615a8570456",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/97f29189-0dd0-3a1d-a897-b1780158fe61",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f0423b40-ca9e-31ea-935e-58be86e702ca",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fb9a25a3-7ac5-384c-a5bc-ced1e2553fa1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/2ebbdf60-a05e-3a9d-8113-672eea9ae0ad",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/0e1f531c-3118-3534-8687-e73bbbb4c9ed",
+          "schema:addressLocality": "Baignes-Sainte-Radegonde",
+          "schema:postalCode": "16360",
+          "schema:streetAddress": [
+            "Eglise Saint-Etienne"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16025",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Baignes-Sainte-Radegonde"
+              ],
+              "pt": [
+                "Baignes-Sainte-Radegonde"
+              ],
+              "en": [
+                "Baignes-Sainte-Radegonde"
+              ],
+              "it": [
+                "Baignes-Sainte-Radegonde"
+              ],
+              "fr": [
+                "Baignes-Sainte-Radegonde"
+              ],
+              "nl": [
+                "Baignes-Sainte-Radegonde"
+              ],
+              "es": [
+                "Baignes-Sainte-Radegonde"
+              ]
+            },
+            "insee": "16025",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/be5d0cbe-dac8-31f6-8d93-81e95f311e1e",
+        "schema:latitude": "45.3831",
+        "schema:longitude": "-0.235912",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3d0d32da-6cdf-3e59-b8ea-c45b1591cbb3",
+          "schema:validFrom": "2023-04-01T00:00:00",
+          "schema:validThrough": "2023-10-01T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag: offen"
+            ],
+            "en": [
+              "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday: open"
+            ],
+            "it": [
+              "Lunedì, martedì, mercoledì, giovedì, venerdì, sabato, domenica: aperto"
+            ],
+            "fr": [
+              "Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi, Dimanche : ouvert"
+            ],
+            "nl": [
+              "Maandag, dinsdag, woensdag, donderdag, vrijdag, zaterdag, zondag: open"
+            ],
+            "es": [
+              "Lunes, martes, miércoles, jueves, viernes, sábado y domingo: abierto"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/00d02196-6899-3539-9b5e-81f9efb2dfab",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/705f15af-3921-36c6-aa32-a778cc07c8e4",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c98eb0f5-acb6-321d-aaba-55814a7dafd9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d185e8ed-fe85-381e-8ccd-857c51e93092",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f429746c-d8b6-31ee-80b2-0cbf82f887db",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/17ccf9a1-6b41-3eb9-a1e1-edf0fbbf90c5",
+      "schema:email": [
+        "direction@sudcharentetourisme.fr",
+        "noemie@sudcharentetourisme.fr"
+      ],
+      "schema:legalName": "Office de tourisme du Sud-Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.sudcharentetourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-03-18",
+  "lastUpdateDatatourisme": "2023-03-19T06:38:52.344Z"
+}

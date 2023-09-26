@@ -1,0 +1,432 @@
+{
+  "@id": "https://data.datatourisme.fr/13/9fb30bfc-8515-37cb-8714-a4b691065d30",
+  "dc:identifier": "5918799",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Entdecken Sie die Neuheiten an Romanen, Krimis, Comics, Dokumentarfilmen, CDs, DVDs und Alben für die Jüngsten?Zahlreiche kulturelle Veranstaltungen werden ebenfalls organisiert, um die Bestände der Bibliothek von Aigrefeuille d'Aunis zur Geltung zu bringen."
+    ],
+    "en": [
+      "Come and discover the new novels, detective stories, comics, documentaries, CDs, DVDs, albums for the youngest... Numerous cultural events are also organized to highlight the collections of the library of Aigrefeuille d'Aunis."
+    ],
+    "it": [
+      "Venite a scoprire i nuovi romanzi, i gialli, i fumetti, i documentari, i CD, i DVD, gli album per i più piccoli... Vengono inoltre organizzati numerosi eventi culturali per presentare le collezioni della biblioteca Aigrefeuille d'Aunis."
+    ],
+    "fr": [
+      "Venez découvrir les nouveautés romans, policiers, BD, documentaires, CD, DVD, albums pour les plus jeunes…De nombreuses manifestations culturelles sont également organisées pour mettre en valeur les collections de la bibliothèque d'Aigrefeuille d'Aunis."
+    ],
+    "es": [
+      "Venga a descubrir las novedades en novelas, novelas policíacas, cómics, documentales, CD, DVD, álbumes para los más pequeños... También se organizan numerosos actos culturales para dar a conocer los fondos de la biblioteca de Aigrefeuille d'Aunis."
+    ],
+    "nl": [
+      "Kom en ontdek de nieuwe romans, detectiveverhalen, strips, documentaires, cd's, dvd's, albums voor de allerkleinsten... Er worden ook talrijke culturele evenementen georganiseerd om de collecties van de bibliotheek van Aigrefeuille d'Aunis onder de aandacht te brengen."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Bibliothèque municipale d'Aigrefeuille d'Aunis"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/296472c9-542a-34d4-b88d-543508116cbc",
+    "dc:identifier": "2070",
+    "schema:email": [
+      "aurore.mdc@aunis-maraispoitevin.com",
+      "madeleine.dasilva@aunis-maraispoitevin.com"
+    ],
+    "schema:legalName": "Office de Tourisme Aunis Marais Poitevin",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.aunis-maraispoitevin.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/fb597953-d564-3421-947a-be1b87d620e7",
+      "schema:email": [
+        "biblio.aigrefeuille@orange.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 35 55 63"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://livrefeuille.bibli.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/f0d5996c-440c-3022-990e-cbe91da0e214",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/21fbc250-c220-3208-b42a-9e7d92b6a766",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4d1d5a6b-40b1-39b5-b78f-4f5110d2a9a6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4e1e30a1-a5a1-3202-b047-fd92d211ebd7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d9c0f2ef-316c-3752-9cbf-25857ea6b691",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/efd37efb-d060-3518-a91d-850b81731dd2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Entdecken Sie die Neuheiten an Romanen, Krimis, Comics, Dokumentarfilmen, CDs, DVDs und Alben für die Jüngsten?Zahlreiche kulturelle Veranstaltungen werden ebenfalls organisiert, um die Bestände der Bibliothek von Aigrefeuille d'Aunis zur Geltung zu bringen."
+        ],
+        "en": [
+          "Come and discover the new novels, detective stories, comics, documentaries, CDs, DVDs, albums for the youngest... Numerous cultural events are also organized to highlight the collections of the library of Aigrefeuille d'Aunis."
+        ],
+        "it": [
+          "Venite a scoprire i nuovi romanzi, i gialli, i fumetti, i documentari, i CD, i DVD, gli album per i più piccoli... Vengono inoltre organizzati numerosi eventi culturali per presentare le collezioni della biblioteca Aigrefeuille d'Aunis."
+        ],
+        "fr": [
+          "Venez découvrir les nouveautés romans, policiers, BD, documentaires, CD, DVD, albums pour les plus jeunes…De nombreuses manifestations culturelles sont également organisées pour mettre en valeur les collections de la bibliothèque d'Aigrefeuille d'Aunis."
+        ],
+        "es": [
+          "Venga a descubrir las novedades en novelas, novelas policíacas, cómics, documentales, CD, DVD, álbumes para los más pequeños... También se organizan numerosos actos culturales para dar a conocer los fondos de la biblioteca de Aigrefeuille d'Aunis."
+        ],
+        "nl": [
+          "Kom en ontdek de nieuwe romans, detectiveverhalen, strips, documentaires, cd's, dvd's, albums voor de allerkleinsten... Er worden ook talrijke culturele evenementen georganiseerd om de collecties van de bibliotheek van Aigrefeuille d'Aunis onder de aandacht te brengen."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/6c51494a-fdcb-37d1-98f9-0c392abe4a86",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9965a4aa-7901-3919-8c38-7740d8583b76",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b1e3b6e6-d2c6-3a48-92a5-5b22928e86cd",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d04bf650-3fa2-3d98-9693-bfbbbd7d9d60",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f06354c5-e349-3ef2-928b-5e7c1bcb3705",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f4ad22b9-636a-3840-8e42-55ef89d28040",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/c2fa0c9b-2429-3bc1-a6a1-97e950eee44d",
+          "schema:addressLocality": "Aigrefeuille-d'Aunis",
+          "schema:postalCode": "17290",
+          "schema:streetAddress": [
+            "Place du 8 Mai 1945"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17003",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Aigrefeuille-d'Aunis"
+              ],
+              "pt": [
+                "Aigrefeuille-d'Aunis"
+              ],
+              "en": [
+                "Aigrefeuille-d'Aunis"
+              ],
+              "it": [
+                "Aigrefeuille-d'Aunis"
+              ],
+              "fr": [
+                "Aigrefeuille-d'Aunis"
+              ],
+              "nl": [
+                "Aigrefeuille-d'Aunis"
+              ],
+              "es": [
+                "Aigrefeuille-d'Aunis"
+              ]
+            },
+            "insee": "17003",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/f8c2c4ab-9d07-3088-b855-1f1eb396a11d",
+        "schema:latitude": "46.115176",
+        "schema:longitude": "-0.93582",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/a31bfa88-8451-397d-9df1-b4fcba0f5590",
+      "schema:email": [
+        "madeleine.dasilva@aunis-maraispoitevin.com"
+      ],
+      "schema:legalName": "Office de Tourisme Aunis Marais Poitevin",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.aunis-maraispoitevin.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-01-20",
+  "lastUpdateDatatourisme": "2023-02-01T18:07:35.743Z"
+}

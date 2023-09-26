@@ -1,0 +1,462 @@
+{
+  "@id": "https://data.datatourisme.fr/13/63fa624c-55fc-3f8c-bc5e-427ad898a8c8",
+  "dc:identifier": "5828569",
+  "@type": [
+    "schema:Landform",
+    "Beach",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das ganze Jahr über frei zugänglich\r\nImbiss und beaufsichtigtes Baden im Juli und August"
+    ],
+    "en": [
+      "Free access all year round\r\nSnack bar and supervised swimming in July and August"
+    ],
+    "it": [
+      "Accesso gratuito tutto l'anno\r\nSnack bar e nuoto sorvegliato in luglio e agosto"
+    ],
+    "fr": [
+      "En libre accès toute l'année\r\nSnack et baignade surveillée en juillet et août"
+    ],
+    "nl": [
+      "Vrije toegang het hele jaar door\r\nSnackbar en zwemmen onder toezicht in juli en augustus"
+    ],
+    "es": [
+      "Acceso gratuito todo el año\r\nCafetería y baño vigilado en julio y agosto"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Plan d'eau des Gours"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/a96d3afe-c184-366b-beca-7a9f989fc7e7",
+    "dc:identifier": "2056",
+    "schema:email": [
+      "infotouristique@destination-nordcharente.com"
+    ],
+    "schema:legalName": "Office de tourisme Destination Nord Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ruffecois-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/cc07cdef-16bd-3924-a432-56583b197401",
+      "schema:email": [
+        "secretariat@coeurdecharente.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 20 68 46"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/f1378961-5cac-3fa9-8672-d08a94645668",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0b0a2c6f-a313-38be-a6ab-97b3d6ace1cd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4fc90e94-f121-3853-a411-840a110cfc56",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a42982d8-5fc5-321a-ad1f-b33264965e22",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b814e014-d18a-36bb-8d47-c12abc42bdc4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f36804a5-f218-3cbd-8574-8e2366c9e7de",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das ganze Jahr über frei zugänglich\r\nImbiss und beaufsichtigtes Baden im Juli und August"
+        ],
+        "en": [
+          "Free access all year round\r\nSnack bar and supervised swimming in July and August"
+        ],
+        "it": [
+          "Accesso gratuito tutto l'anno\r\nSnack bar e nuoto sorvegliato in luglio e agosto"
+        ],
+        "fr": [
+          "En libre accès toute l'année\r\nSnack et baignade surveillée en juillet et août"
+        ],
+        "nl": [
+          "Vrije toegang het hele jaar door\r\nSnackbar en zwemmen onder toezicht in juli en augustus"
+        ],
+        "es": [
+          "Acceso gratuito todo el año\r\nCafetería y baño vigilado en julio y agosto"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Bathing",
+      "@type": [
+        "AccommodationAmenity",
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Baden"
+        ],
+        "pt": [
+          "Banho"
+        ],
+        "en": [
+          "Bathing"
+        ],
+        "it": [
+          "Bagno"
+        ],
+        "fr": [
+          "Baignade"
+        ],
+        "nl": [
+          "Zwemmen"
+        ],
+        "es": [
+          "Baño"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/12f895d0-cf7e-3760-87d5-419aabeb47dc",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/33941462-9eb1-35d1-b920-0232aae23b26",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3babbcbc-8532-33fe-a65b-30aa78a523cf",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/81123737-e5e5-30a3-93e5-b963453475d3",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/dc45172d-1a0e-3c56-94e9-82f35a9b09c3",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/47583225-1ebd-3e2f-9ce3-ec897f5bb4a2",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/6601d8b9-9884-388c-8a34-2b821719d8b1",
+          "schema:addressLocality": "Les Gours",
+          "schema:postalCode": "16140",
+          "schema:streetAddress": [
+            "Point Folle"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16155",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Les Gours"
+              ],
+              "pt": [
+                "Les Gours"
+              ],
+              "en": [
+                "Les Gours"
+              ],
+              "it": [
+                "Les Gours"
+              ],
+              "fr": [
+                "Les Gours"
+              ],
+              "nl": [
+                "Les Gours"
+              ],
+              "es": [
+                "Les Gours"
+              ]
+            },
+            "insee": "16155",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/74774c3b-071d-39f2-b451-6671bfc9e5b8",
+        "schema:latitude": "45.953958",
+        "schema:longitude": "-0.073548",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/efd23e55-822f-3724-8c69-e39af3a53074",
+          "schema:closes": "19:00:00",
+          "schema:opens": "14:00:00",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-27T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/515fb63a-6beb-307d-a0d6-d59e3e2d3f76",
+      "schema:email": [
+        "infotouristique@destination-nordcharente.com"
+      ],
+      "schema:legalName": "Office de tourisme Destination Nord Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ruffecois-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-05",
+  "lastUpdateDatatourisme": "2023-07-06T05:54:34.94Z"
+}

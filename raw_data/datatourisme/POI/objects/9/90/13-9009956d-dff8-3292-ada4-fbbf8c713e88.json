@@ -1,0 +1,466 @@
+{
+  "@id": "https://data.datatourisme.fr/13/9009956d-dff8-3292-ada4-fbbf8c713e88",
+  "dc:identifier": "5743026",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Unabhängiger Winzer, der nach Absprache Besichtigungen des Weinbergs, der Weinkeller und der Brennerei mit Verkostung anbietet.\r\nVerkauf von Pineau vor Ort."
+    ],
+    "en": [
+      "Independent winegrower who offers visits by appointment of the vineyard, the cellars and the distillery with tasting.\r\nSale of pineau on the spot."
+    ],
+    "it": [
+      "Vignaiolo indipendente che offre visite su appuntamento al vigneto, alle cantine e alla distilleria con degustazione.\r\nVendita di pineau sul posto."
+    ],
+    "fr": [
+      "Vigneron Indépendant qui propose la visite sur rendez-vous du vignoble, des chais et de la distillerie avec dégustation.\r\nVente de pineau sur place."
+    ],
+    "es": [
+      "Viticultor independiente que ofrece visitas con cita previa al viñedo, las bodegas y la destilería con degustación.\r\nVenta de pineau en el lugar."
+    ],
+    "nl": [
+      "Onafhankelijke wijnbouwer die op afspraak bezoeken aanbiedt aan de wijngaard, de kelders en de distilleerderij met proeverij.\r\nVerkoop van pineau ter plaatse."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Domaine de la Ville"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/f16889f6-6cde-3348-aec0-dd5ae39b9a42",
+      "schema:email": [
+        "contact@domainedelaville.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 86 03 33"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://domainedelaville.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/c0e49a7f-fd85-314e-a043-357f79afd133",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/123f8860-671c-3c63-bb80-7e9e48a31287",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/429490ad-7aa2-3dd2-814f-877e9ada5411",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4561bc3a-13fc-36bb-b38d-c51fabd62091",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a02a5c02-fe7d-38a7-90d7-e93751950d06",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b945fb6b-ce0d-3973-9116-fad2d37ac6e3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Unabhängiger Winzer, der nach Absprache Besichtigungen des Weinbergs, der Weinkeller und der Brennerei mit Verkostung anbietet.\r\nVerkauf von Pineau vor Ort."
+        ],
+        "en": [
+          "Independent winegrower who offers visits by appointment of the vineyard, the cellars and the distillery with tasting.\r\nSale of pineau on the spot."
+        ],
+        "it": [
+          "Vignaiolo indipendente che offre visite su appuntamento al vigneto, alle cantine e alla distilleria con degustazione.\r\nVendita di pineau sul posto."
+        ],
+        "fr": [
+          "Vigneron Indépendant qui propose la visite sur rendez-vous du vignoble, des chais et de la distillerie avec dégustation.\r\nVente de pineau sur place."
+        ],
+        "es": [
+          "Viticultor independiente que ofrece visitas con cita previa al viñedo, las bodegas y la destilería con degustación.\r\nVenta de pineau en el lugar."
+        ],
+        "nl": [
+          "Onafhankelijke wijnbouwer die op afspraak bezoeken aanbiedt aan de wijngaard, de kelders en de distilleerderij met proeverij.\r\nVerkoop van pineau ter plaatse."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0862ab19-c31a-3d45-a55f-76592413342d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/398ed829-c46e-3ed9-afab-8ccda827efbf",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b7083456-2f2b-3a66-af95-2d2f68393ae7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d6b08f06-28b2-39bb-b65c-fa42ce521035",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e1bd4be8-72fd-3df6-a5db-b54b9bb0e4da",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/26a61a43-ca4e-3f33-b300-ba17041211fa",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/375cad31-55f1-3430-a257-7acaa1903a21",
+          "schema:addressLocality": "Saint-Thomas-de-Conac",
+          "schema:postalCode": "17150",
+          "schema:streetAddress": [
+            "10 rue de la Ville"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17410",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Thomas-de-Conac"
+              ],
+              "pt": [
+                "Saint-Thomas-de-Conac"
+              ],
+              "en": [
+                "Saint-Thomas-de-Conac"
+              ],
+              "it": [
+                "Saint-Thomas-de-Conac"
+              ],
+              "fr": [
+                "Saint-Thomas-de-Conac"
+              ],
+              "nl": [
+                "Saint-Thomas-de-Conac"
+              ],
+              "es": [
+                "Saint-Thomas-de-Conac"
+              ]
+            },
+            "insee": "17410",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/0ad8e63d-7eb4-3cec-8e37-7cd28210f4cf",
+        "schema:latitude": "45.39553",
+        "schema:longitude": "-0.655633",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/52d5729b-05ff-3dd4-8318-6e14a404ae56",
+          "schema:closes": "19:00:00",
+          "schema:opens": "08:30:00",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-05-12",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.88Z"
+}

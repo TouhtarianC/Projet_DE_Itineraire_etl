@@ -1,0 +1,465 @@
+{
+  "@id": "https://data.datatourisme.fr/13/588accb1-82a7-36a4-a89d-17425ec1c4da",
+  "dc:identifier": "5777419",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Zwischen Pons und Cognac. Direktverkauf auf dem Weingut (Pineau, Cognac, Liköre) - Besichtigung der Destillerie und der Weinkeller im Juli und August von 10 bis 12 Uhr und von 16 bis 19 Uhr. Nach Vereinbarung an Sonn- und Feiertagen.\r\nUnabhängiger Winzer."
+    ],
+    "en": [
+      "Between Pons Cognac. Direct sale at the property (Pineau, Cognac, Liqueurs) - visit of the distillery and the cellars in July and August from 10am to 12pm and from 4pm to 7pm. By appointment on Sundays and holidays.\r\nIndependent winemaker."
+    ],
+    "it": [
+      "Tra Pons Cognac. Vendita diretta presso la proprietà (Pineau, Cognac, Liquori) - visita della distilleria e delle cantine in luglio e agosto dalle 10.00 alle 12.00 e dalle 16.00 alle 19.00. Su appuntamento la domenica e i giorni festivi.\r\nVignaiolo indipendente."
+    ],
+    "fr": [
+      "Entre Pons Cognac. Vente directe à la propriété (Pineau, Cognac, Liqueurs) - visite de la distillerie et des chais en juillet et août de 10h à 12h et de 16h à 19h. Sur rendez-vous le dimanche et jours fériés.\r\nVigneron Indépendant."
+    ],
+    "nl": [
+      "Tussen Pons Cognac. Directe verkoop op het domein (Pineau, Cognac, Likeuren) - bezoek aan de distilleerderij en de kelders in juli en augustus van 10 tot 12 uur en van 16 tot 19 uur. Op afspraak op zon- en feestdagen.\r\nOnafhankelijke wijnmaker."
+    ],
+    "es": [
+      "Entre Pons Cognac. Venta directa en la propiedad (Pineau, Cognac, Licores) - visita de la destilería y las bodegas en julio y agosto de 10 a 12 y de 16 a 19 horas. Con cita previa los domingos y días festivos.\r\nEnólogo independiente."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Maison Pouilloux"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/1dbccd36-6a42-3561-a14f-c0a15aebda5f",
+      "schema:email": [
+        "pouilloux.thierry@wanadoo.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 96 46 89",
+        "+33 6 82 95 00 45"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://sarlthierrypouilloux.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/1c0cb9fc-238a-350f-a529-388e319c4d35",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/7e29bfea-f2b4-3e04-a771-ec020a17c4fb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/88d597cd-92be-3e87-b831-bba165592338",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/98d50c0e-86cd-3a14-a77b-bac951a7425b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a9c769a0-299b-3649-95d5-70c3ee8033a8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cab35713-4af1-3561-9fdc-4669d77f879f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Zwischen Pons und Cognac. Direktverkauf auf dem Weingut (Pineau, Cognac, Liköre) - Besichtigung der Destillerie und der Weinkeller im Juli und August von 10 bis 12 Uhr und von 16 bis 19 Uhr. Nach Vereinbarung an Sonn- und Feiertagen.\r\nUnabhängiger Winzer."
+        ],
+        "en": [
+          "Between Pons Cognac. Direct sale at the property (Pineau, Cognac, Liqueurs) - visit of the distillery and the cellars in July and August from 10am to 12pm and from 4pm to 7pm. By appointment on Sundays and holidays.\r\nIndependent winemaker."
+        ],
+        "it": [
+          "Tra Pons Cognac. Vendita diretta presso la proprietà (Pineau, Cognac, Liquori) - visita della distilleria e delle cantine in luglio e agosto dalle 10.00 alle 12.00 e dalle 16.00 alle 19.00. Su appuntamento la domenica e i giorni festivi.\r\nVignaiolo indipendente."
+        ],
+        "fr": [
+          "Entre Pons Cognac. Vente directe à la propriété (Pineau, Cognac, Liqueurs) - visite de la distillerie et des chais en juillet et août de 10h à 12h et de 16h à 19h. Sur rendez-vous le dimanche et jours fériés.\r\nVigneron Indépendant."
+        ],
+        "nl": [
+          "Tussen Pons Cognac. Directe verkoop op het domein (Pineau, Cognac, Likeuren) - bezoek aan de distilleerderij en de kelders in juli en augustus van 10 tot 12 uur en van 16 tot 19 uur. Op afspraak op zon- en feestdagen.\r\nOnafhankelijke wijnmaker."
+        ],
+        "es": [
+          "Entre Pons Cognac. Venta directa en la propiedad (Pineau, Cognac, Licores) - visita de la destilería y las bodegas en julio y agosto de 10 a 12 y de 16 a 19 horas. Con cita previa los domingos y días festivos.\r\nEnólogo independiente."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/936d380e-212b-373c-8287-d917876a8a66",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/99f625fc-6604-3576-a3b9-d4f191940c69",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ae5995f5-cb27-33ed-853e-b6bebe11cd02",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/de62ee1f-81b4-3938-9c8e-7bc726c7ba68",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ee57ca10-b00a-32dc-8850-8766d6756b6d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/3e367e83-13ee-374a-9c8c-aa6140fe3199",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/e82becde-44c2-356c-93ed-b3b4f4c352a0",
+          "schema:addressLocality": "Pérignac",
+          "schema:postalCode": "17800",
+          "schema:streetAddress": [
+            "7 rue Village Peugrignoux"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17273",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Pérignac"
+              ],
+              "pt": [
+                "Pérignac"
+              ],
+              "en": [
+                "Pérignac"
+              ],
+              "it": [
+                "Pérignac"
+              ],
+              "fr": [
+                "Pérignac"
+              ],
+              "nl": [
+                "Pérignac"
+              ],
+              "es": [
+                "Pérignac"
+              ]
+            },
+            "insee": "17273",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/06501d39-fc8a-3dc0-992d-ef75f3d357c1",
+        "schema:latitude": "45.633771",
+        "schema:longitude": "-0.454692",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-02",
+  "lastUpdateDatatourisme": "2023-06-03T05:42:26.087Z"
+}

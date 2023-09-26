@@ -1,0 +1,451 @@
+{
+  "@id": "https://data.datatourisme.fr/13/512aae38-27d2-3c6a-bbd5-8ade054691ee",
+  "dc:identifier": "5772300",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Mediathek in La Tremblade stellt ihren Lesern fast 20.000 Dokumente zur Verfügung (Bücher, DVDs, Roma-CDs, Zeitschriften, Romane, Comics, Mangas, Dokumentarfilme...)."
+    ],
+    "en": [
+      "The media library of La Tremblade provides readers with nearly 20,000 documents (books, DVDs, CDs, magazines, novels, comics, mangas, documentaries...)."
+    ],
+    "it": [
+      "La mediateca di La Tremblade offre ai lettori quasi 20.000 documenti (libri, DVD, CD rom, riviste, romanzi, fumetti, manga, documentari, ecc.)"
+    ],
+    "fr": [
+      "La médiathèque de La Tremblade met à la disposition des lecteurs près de 20 000 documents (livres, DVD, CD roms, magasines, romans, BD, mangas, documentaires...)."
+    ],
+    "es": [
+      "La mediateca de La Tremblade pone a disposición de los lectores cerca de 20.000 documentos (libros, DVD, CD romaníes, revistas, novelas, cómics, mangas, documentales, etc.)."
+    ],
+    "nl": [
+      "De mediatheek van La Tremblade biedt de lezers bijna 20.000 documenten (boeken, dvd's, Roma-cd's, tijdschriften, romans, strips, manga's, documentaires, enz.)"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Médiathèque Municipale de La Tremblade"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/b37da3db-ad89-3f3b-bb52-d4c4d8fa1cb4",
+      "schema:email": [
+        "bibliotheque@latremblade.com"
+      ],
+      "schema:telephone": [
+        "+33 5 46 31 14 67"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://mediatheque-la-tremblade.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/fd882125-b20e-343a-9a44-9a6b4780517a",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2c5540b0-6047-337c-b209-ff5c2964742a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4542cf5c-2ca4-3dbe-9934-8cc1d2766994",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5bdd70f3-0e45-3270-9434-f06053dca678",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cdce524f-aa7f-3a55-ab0b-17c49202adcd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e8782557-79d7-3a4e-a381-335cd83facaf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Mediathek in La Tremblade stellt ihren Lesern fast 20.000 Dokumente zur Verfügung (Bücher, DVDs, Roma-CDs, Zeitschriften, Romane, Comics, Mangas, Dokumentarfilme...)."
+        ],
+        "en": [
+          "The media library of La Tremblade provides readers with nearly 20,000 documents (books, DVDs, CDs, magazines, novels, comics, mangas, documentaries...)."
+        ],
+        "it": [
+          "La mediateca di La Tremblade offre ai lettori quasi 20.000 documenti (libri, DVD, CD rom, riviste, romanzi, fumetti, manga, documentari, ecc.)"
+        ],
+        "fr": [
+          "La médiathèque de La Tremblade met à la disposition des lecteurs près de 20 000 documents (livres, DVD, CD roms, magasines, romans, BD, mangas, documentaires...)."
+        ],
+        "es": [
+          "La mediateca de La Tremblade pone a disposición de los lectores cerca de 20.000 documentos (libros, DVD, CD romaníes, revistas, novelas, cómics, mangas, documentales, etc.)."
+        ],
+        "nl": [
+          "De mediatheek van La Tremblade biedt de lezers bijna 20.000 documenten (boeken, dvd's, Roma-cd's, tijdschriften, romans, strips, manga's, documentaires, enz.)"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0113c788-85d6-301a-89ea-6940625f953b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/34995b34-b0c7-3bb6-a248-419354d58fbd",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4055a66b-2277-3e4b-a403-47cd5f92e9b5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7cc312f8-64a9-34c3-8e00-df537c1e72ce",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e9778d6e-8c71-3c73-b602-88175741248b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/dc003665-c427-31d5-ae0f-bd4053866d87",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/95999836-16f1-3f52-9d79-f7890ceacef4",
+          "schema:addressLocality": "La Tremblade",
+          "schema:postalCode": "17390",
+          "schema:streetAddress": [
+            "30 rue de la Seudre"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17452",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "La Tremblade"
+              ],
+              "pt": [
+                "La Tremblade"
+              ],
+              "en": [
+                "La Tremblade"
+              ],
+              "it": [
+                "La Tremblade"
+              ],
+              "fr": [
+                "La Tremblade"
+              ],
+              "nl": [
+                "La Tremblade"
+              ],
+              "es": [
+                "La Tremblade"
+              ]
+            },
+            "insee": "17452",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/01d357b4-e68b-3a42-9bd5-0889d5d36436",
+        "schema:latitude": "45.770412",
+        "schema:longitude": "-1.139627",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/0f92e32b-f09e-3025-8e61-1670a3087416",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-06-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5357bf72-5134-31c8-8b8b-a908a13bc424",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/766c403f-90d3-3076-8e7c-6633b48ae90c",
+          "schema:validFrom": "2023-09-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-08-11",
+  "lastUpdateDatatourisme": "2023-02-01T18:07:36.056Z"
+}

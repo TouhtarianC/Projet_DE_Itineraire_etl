@@ -1,0 +1,525 @@
+{
+  "@id": "https://data.datatourisme.fr/13/5df422d1-b6a8-3a0a-9993-876eef70741c",
+  "dc:identifier": "5740520",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das Museum bietet Ihnen mehr als 300 Figuren in Bewegung: alte und zeitgenössische Automaten, animierte Vitrinen, historische Szenen, ... die Groß und Klein begeistern werden."
+    ],
+    "en": [
+      "The museum offers more than 300 moving characters: old and contemporary automatons, animated windows, historical scenes... that will enchant young and old."
+    ],
+    "it": [
+      "Il museo offre più di 300 personaggi in movimento: automi antichi e contemporanei, finestre animate, scene storiche, ecc. che incanteranno grandi e piccini."
+    ],
+    "fr": [
+      "Le musée vous propose plus de 300 personnages en mouvement : automates anciens, contemporains, vitrines animées, scènes historiques,... qui enchanteront petits et grands."
+    ],
+    "nl": [
+      "Het museum biedt u meer dan 300 bewegende personages: oude en hedendaagse automaten, geanimeerde ramen, historische scènes, enz. die jong en oud zullen betoveren."
+    ],
+    "es": [
+      "El museo le ofrece más de 300 personajes en movimiento: autómatas antiguos y contemporáneos, ventanas animadas, escenas históricas, etc., que encantarán a grandes y pequeños."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Museum für Automaten und verkleinerte Modelle"
+    ],
+    "en": [
+      "Museum of Automata and Scale Models"
+    ],
+    "fr": [
+      "Musée des Automates et  Modèles Réduits"
+    ],
+    "es": [
+      "Museo de Autómatas y Maquetas"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/1359aa93-3b48-3754-a2f5-4adb688bfa77",
+    "dc:identifier": "2058",
+    "schema:email": [
+      "a.lefeuvre@larochelle-tourisme-evenements.com",
+      "c.collot@larochelle-tourisme-evenements.com",
+      "m.farre@larochelle-tourisme-evenements.com",
+      "maxime.vossier@otipass.com",
+      "s.nogues@larochelle-tourisme-evenements.com"
+    ],
+    "schema:legalName": "La Rochelle Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.larochelle-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/12ed068e-499f-3c51-9f63-25aa45f03dbc",
+      "schema:email": [
+        "musee.des.automates@wanadoo.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 41 68 08"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.museeslarochelle.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/f285ccfc-92a7-3bd4-bc00-4d729f6a9985",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/64d7639d-9de2-3767-a2bb-6e6bedcfc56e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ae0bbec2-4107-393a-87f7-360f60d2f70e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das Museum bietet Ihnen mehr als 300 Figuren in Bewegung: alte und zeitgenössische Automaten, animierte Vitrinen, historische Szenen, ... die Groß und Klein begeistern werden."
+        ],
+        "en": [
+          "The museum offers more than 300 moving characters: old and contemporary automatons, animated windows, historical scenes... that will enchant young and old."
+        ],
+        "it": [
+          "Il museo offre più di 300 personaggi in movimento: automi antichi e contemporanei, finestre animate, scene storiche, ecc. che incanteranno grandi e piccini."
+        ],
+        "fr": [
+          "Le musée vous propose plus de 300 personnages en mouvement : automates anciens, contemporains, vitrines animées, scènes historiques,... qui enchanteront petits et grands."
+        ],
+        "nl": [
+          "Het museum biedt u meer dan 300 bewegende personages: oude en hedendaagse automaten, geanimeerde ramen, historische scènes, enz. die jong en oud zullen betoveren."
+        ],
+        "es": [
+          "El museo le ofrece más de 300 personajes en movimiento: autómatas antiguos y contemporáneos, ventanas animadas, escenas históricas, etc., que encantarán a grandes y pequeños."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0737e7bd-461b-3207-8f60-2aa88474c831",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fb87d87a-ca90-34ba-9139-bcf384e72e00",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/6674491c-0d55-3732-be7b-f5a050930dd2",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/68d5f8be-45ad-3c3a-ab1c-d9cd8550320b",
+          "schema:addressLocality": "La Rochelle",
+          "schema:postalCode": "17000",
+          "schema:streetAddress": [
+            "12-14 rue de la Désirée",
+            "La Ville en Bois"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17300",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "La Rochelle"
+              ],
+              "pt": [
+                "La Rochelle"
+              ],
+              "en": [
+                "La Rochelle"
+              ],
+              "it": [
+                "La Rochelle"
+              ],
+              "fr": [
+                "La Rochelle"
+              ],
+              "nl": [
+                "La Rochelle"
+              ],
+              "es": [
+                "La Rochelle"
+              ]
+            },
+            "insee": "17300",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/f5f58d2e-940a-302d-aa5d-ba7f81761c6d",
+        "schema:latitude": "46.15177",
+        "schema:longitude": "-1.156218",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/e2fe6d0b-a17c-3b17-bd96-685e8de0b771",
+          "schema:validFrom": "2023-02-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Außerhalb der Schulferien: von 14:00 bis 19:00 Uhr\r\nSchulferien und Brückentage: von 10:00 bis 12:30 Uhr und von 14:00 bis 19:00 Uhr\r\nJuli und August: von 9:30 bis 19:00 Uhr\r\nEnde des Ticketverkaufs: 1 Stunde vor Schließung der Museen."
+            ],
+            "en": [
+              "Out of school vacations: from 2pm to 7pm\r\nSchool vacations and bank holidays: from 10am to 12:30pm and from 2pm to 7pm\r\nJuly and August: from 9:30 am to 7 pm\r\nEnd of ticket sales: 1 hour before the closing of the Museums."
+            ],
+            "it": [
+              "Al di fuori delle vacanze scolastiche: dalle 14.00 alle 19.00\r\nVacanze scolastiche e festivi: dalle 10.00 alle 12.30 e dalle 14.00 alle 19.00\r\nLuglio e agosto: dalle 9.30 alle 19.00\r\nFine della vendita dei biglietti: 1 ora prima della chiusura dei musei."
+            ],
+            "fr": [
+              "Hors vacances scolaires : de 14h à 19h. \r\nVacances scolaires et ponts : de 10h à 12h30 et de 14h à 19h. \r\nJuillet et aout : de 9h30 à 19h. \r\nFin vente billetterie : 1h avant la fermeture des Musées."
+            ],
+            "es": [
+              "Fuera de las vacaciones escolares: de 14 a 19 horas\r\nVacaciones escolares y días festivos: de 10:00 a 12:30 y de 14:00 a 19:00\r\nJulio y agosto: de 9.30 a 19 horas\r\nFin de la venta de entradas: 1 hora antes del cierre de los museos."
+            ],
+            "nl": [
+              "Buiten de schoolvakanties: van 14.00 tot 19.00 uur\r\nSchoolvakanties en feestdagen: van 10.00 tot 12.30 uur en van 14.00 tot 19.00 uur\r\nJuli en augustus: van 9.30 tot 19.00 uur\r\nEinde kaartverkoop: 1 uur voor sluitingstijd van de musea."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/2b69b735-4fb4-36a0-8e3a-7b672755be0f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/31a0bb78-3c1b-35d3-b420-d85f605c0050",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/5d83befb-d050-3fd4-be93-a57a006a266f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c564d217-d4da-3d42-aa46-3d92a1b9d4cc",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e0d1f08b-f9e6-39a3-9e41-1be45b88117f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8da8ffa9-cdd8-3b7a-a8c5-edb456104fe0",
+      "schema:email": [
+        "a.lefeuvre@larochelle-tourisme-evenements.com",
+        "c.collot@larochelle-tourisme-evenements.com",
+        "m.farre@larochelle-tourisme-evenements.com",
+        "maxime.vossier@otipass.com",
+        "s.nogues@larochelle-tourisme-evenements.com"
+      ],
+      "schema:legalName": "La Rochelle Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.larochelle-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-19",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.372Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/07d0871c-e1a4-33f8-bbfc-da96bb46469f",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/ac5a29e8-c426-3155-be1b-091ab198ba68",
+          "schema:maxPrice": [
+            "10",
+            "12",
+            "7",
+            "8"
+          ],
+          "schema:minPrice": [
+            "10",
+            "12",
+            "7",
+            "8"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

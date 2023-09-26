@@ -1,0 +1,545 @@
+{
+  "@id": "https://data.datatourisme.fr/13/8f49e9e3-3e1d-3fe6-840c-f7b6959b15e4",
+  "dc:identifier": "5999065",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das Priorat von Breuil-la-Réorte unterstand der Abtei von Ebreuil in der Diözese Clermont-Ferrand. Die Kirche, die aus einem zweijochigen Schiff mit flachem Kopfende besteht, ist insgesamt modern, weist jedoch gotische Überreste auf\r\nUnbedingt sehenswert."
+    ],
+    "en": [
+      "The priory of Breuil-la-Réorte depended on the abbey of Ebreuil, in the diocese of Clermont-Ferrand. The church, composed of a nave with two bays and a flat chevet, is modern in its whole but presents gothic remains\r\nA must see."
+    ],
+    "it": [
+      "Il priorato di Breuil-la-Réorte dipendeva dall'abbazia di Ebreuil, nella diocesi di Clermont-Ferrand. La chiesa, composta da una navata a due campate e da un chevet piatto, è moderna nel suo complesso ma presenta alcuni resti gotici\r\nDa vedere assolutamente."
+    ],
+    "fr": [
+      "Le prieuré de Breuil-la-Réorte dépendait de l'abbaye d'Ebreuil, au diocèse de Clermont-Ferrand. L'église, composée d'une nef à deux travées et chevet plat, est moderne dans son ensemble mais présente des restes gothiques. \r\nA voir absolument."
+    ],
+    "es": [
+      "El priorato de Breuil-la-Réorte dependía de la abadía de Ebreuil, en la diócesis de Clermont-Ferrand. La iglesia, compuesta por una nave de dos tramos y una cabecera plana, es moderna en su conjunto pero tiene algunos restos góticos\r\nUna visita obligada."
+    ],
+    "nl": [
+      "De priorij van Breuil-la-Réorte hing af van de abdij van Ebreuil, in het bisdom Clermont-Ferrand. De kerk, die bestaat uit een schip met twee traveeën en een plat chevet, is in zijn geheel modern, maar heeft enkele gotische overblijfselen\r\nEen must-see."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Eglise Saint Pierre-ès-Liens"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/296472c9-542a-34d4-b88d-543508116cbc",
+    "dc:identifier": "2070",
+    "schema:email": [
+      "aurore.mdc@aunis-maraispoitevin.com",
+      "madeleine.dasilva@aunis-maraispoitevin.com"
+    ],
+    "schema:legalName": "Office de Tourisme Aunis Marais Poitevin",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.aunis-maraispoitevin.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/b2308209-1cff-347d-88b1-8dee6c82cc2c",
+      "schema:email": [
+        "mairie@breuillareorte.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 07 01 77",
+        "+33 5 46 68 91 72"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.breuil-la-reorte.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b7adcbdc-15c7-3c4e-8481-22318a954fd2",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/002ee2cf-2016-3ee9-925c-98f336483a77",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/61be83ec-1316-3426-b917-a0a04e7dda05",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7da438b4-f87e-31f2-b4e0-285b562128e0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/828c7362-6b5f-3501-b027-0acf43eca312",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d0cb618e-f380-3e04-9572-93364ecd46ad",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das Priorat von Breuil-la-Réorte unterstand der Abtei von Ebreuil in der Diözese Clermont-Ferrand. Die Kirche, die aus einem zweijochigen Schiff mit flachem Kopfende besteht, ist insgesamt modern, weist jedoch gotische Überreste auf\r\nUnbedingt sehenswert."
+        ],
+        "en": [
+          "The priory of Breuil-la-Réorte depended on the abbey of Ebreuil, in the diocese of Clermont-Ferrand. The church, composed of a nave with two bays and a flat chevet, is modern in its whole but presents gothic remains\r\nA must see."
+        ],
+        "it": [
+          "Il priorato di Breuil-la-Réorte dipendeva dall'abbazia di Ebreuil, nella diocesi di Clermont-Ferrand. La chiesa, composta da una navata a due campate e da un chevet piatto, è moderna nel suo complesso ma presenta alcuni resti gotici\r\nDa vedere assolutamente."
+        ],
+        "fr": [
+          "Le prieuré de Breuil-la-Réorte dépendait de l'abbaye d'Ebreuil, au diocèse de Clermont-Ferrand. L'église, composée d'une nef à deux travées et chevet plat, est moderne dans son ensemble mais présente des restes gothiques. \r\nA voir absolument."
+        ],
+        "es": [
+          "El priorato de Breuil-la-Réorte dependía de la abadía de Ebreuil, en la diócesis de Clermont-Ferrand. La iglesia, compuesta por una nave de dos tramos y una cabecera plana, es moderna en su conjunto pero tiene algunos restos góticos\r\nUna visita obligada."
+        ],
+        "nl": [
+          "De priorij van Breuil-la-Réorte hing af van de abdij van Ebreuil, in het bisdom Clermont-Ferrand. De kerk, die bestaat uit een schip met twee traveeën en een plat chevet, is in zijn geheel modern, maar heeft enkele gotische overblijfselen\r\nEen must-see."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/3003e257-9bf1-3478-9893-501bbf098a2f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4d7385ec-1773-371d-9741-d0ea6a2ca7f8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/75bd0cc0-5397-3d11-8846-490c0c816679",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8665f0c9-1cd3-3e75-9e2c-c5c47521c6a7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c64c3383-06aa-3ebb-97bd-cd799d1aced6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/578b3795-dfa2-3db9-bb47-b3870c431731",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/f0f17604-7413-3ad9-a06d-740d028aa649",
+          "schema:addressLocality": "Breuil-la-Réorte",
+          "schema:postalCode": "17700",
+          "schema:streetAddress": [
+            "41 rue de l'Eglise"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17063",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Breuil-la-Réorte"
+              ],
+              "pt": [
+                "Breuil-la-Réorte"
+              ],
+              "en": [
+                "Breuil-la-Réorte"
+              ],
+              "it": [
+                "Breuil-la-Réorte"
+              ],
+              "fr": [
+                "Breuil-la-Réorte"
+              ],
+              "nl": [
+                "Breuil-la-Réorte"
+              ],
+              "es": [
+                "Breuil-la-Réorte"
+              ]
+            },
+            "insee": "17063",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/9cfc3278-3373-3f2d-9a88-84e67a40f058",
+        "schema:latitude": "46.067491",
+        "schema:longitude": "-0.71123",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/32882990-53c3-3a93-a8de-d436b6f78b04",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Auf Anfrage im Rathaus"
+            ],
+            "en": [
+              "On request at the town hall"
+            ],
+            "it": [
+              "Su richiesta presso il municipio"
+            ],
+            "fr": [
+              "Sur demande à la mairie"
+            ],
+            "nl": [
+              "Op aanvraag bij het gemeentehuis"
+            ],
+            "es": [
+              "A petición en el ayuntamiento"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/0e71d461-ce61-3150-8b25-4dab49439c03",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/553c806d-d090-3d52-a9ee-c3fb836eed17",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6b2b14d3-3e74-3abb-a699-7f61209ea6f9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c9fa1806-b122-3f47-84b9-4974e2731457",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ddd9adf6-2ae7-32a3-9017-aec615d6e91d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/a31bfa88-8451-397d-9df1-b4fcba0f5590",
+      "schema:email": [
+        "madeleine.dasilva@aunis-maraispoitevin.com"
+      ],
+      "schema:legalName": "Office de Tourisme Aunis Marais Poitevin",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.aunis-maraispoitevin.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-12-22",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.724Z"
+}

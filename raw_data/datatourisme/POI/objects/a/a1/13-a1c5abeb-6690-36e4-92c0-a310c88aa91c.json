@@ -1,0 +1,440 @@
+{
+  "@id": "https://data.datatourisme.fr/13/a1c5abeb-6690-36e4-92c0-a310c88aa91c",
+  "dc:identifier": "5919407",
+  "@type": [
+    "CityHeritage",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Baignes-Sainte-Radegonde ist ein hübsches Dorf mit 1300 Einwohnern, das im Land des Cognacs liegt und eine wahre Oase des Friedens und der Ruhe ist. Wenn Sie einmal dort sind, erwartet Sie eine Vielzahl von Aktivitäten."
+    ],
+    "en": [
+      "The village of Baignes-Sainte-Radegonde is a pretty village of 1,300 inhabitants in the land of cognac. Once there, a multitude of activities await you."
+    ],
+    "it": [
+      "Il villaggio di Baignes-Sainte-Radegonde è un grazioso borgo di 1.300 abitanti nella terra del Cognac. Una volta arrivati, vi aspetta una moltitudine di attività."
+    ],
+    "fr": [
+      "Véritable havre de paix et de tranquillité, le village de Baignes-Sainte-Radegonde est un joli bourg de 1 300 habitants, établi au pays du cognac. Une fois sur place, une multitude d’activités vous attendent."
+    ],
+    "nl": [
+      "Het dorp Baignes-Sainte-Radegonde is een mooi dorp van 1300 inwoners in het land van de cognac. Eenmaal daar wacht u een veelheid aan activiteiten."
+    ],
+    "es": [
+      "El pueblo de Baignes-Sainte-Radegonde es un bonito pueblo de 1.300 habitantes en la tierra del coñac. Una vez allí, le esperan multitud de actividades."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Baignes-Sainte-Radegonde Village"
+    ],
+    "fr": [
+      "Village de Baignes-Sainte-Radegonde"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/16ba7217-2e6a-3f1d-a54d-11ab6967e371",
+    "dc:identifier": "2063",
+    "schema:email": [
+      "direction@sudcharentetourisme.fr",
+      "noemie@sudcharentetourisme.fr"
+    ],
+    "schema:legalName": "Office de tourisme du Sud Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.sudcharentetourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a96cd11b-c445-3f05-ba41-a385197a8a0a",
+      "schema:email": [
+        "contact@sudcharentetourisme.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 78 91 04"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.baignes-sainte-radegonde.fr/",
+        "https://www.sudcharentetourisme.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/659fc251-da6b-3710-986b-bfb98edce426",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/13b4477a-2a23-34c0-970e-83ad49bbb77a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/95f451a3-4ad9-3ac9-8b3e-17848b8820ae",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b9759c7e-5e01-318f-b1be-eefd96d90a17",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d31d5b76-60e3-3e86-abc7-221e3b089725",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Baignes-Sainte-Radegonde ist ein hübsches Dorf mit 1300 Einwohnern, das im Land des Cognacs liegt und eine wahre Oase des Friedens und der Ruhe ist. Wenn Sie einmal dort sind, erwartet Sie eine Vielzahl von Aktivitäten."
+        ],
+        "en": [
+          "The village of Baignes-Sainte-Radegonde is a pretty village of 1,300 inhabitants in the land of cognac. Once there, a multitude of activities await you."
+        ],
+        "it": [
+          "Il villaggio di Baignes-Sainte-Radegonde è un grazioso borgo di 1.300 abitanti nella terra del Cognac. Una volta arrivati, vi aspetta una moltitudine di attività."
+        ],
+        "fr": [
+          "Véritable havre de paix et de tranquillité, le village de Baignes-Sainte-Radegonde est un joli bourg de 1 300 habitants, établi au pays du cognac. Une fois sur place, une multitude d’activités vous attendent."
+        ],
+        "nl": [
+          "Het dorp Baignes-Sainte-Radegonde is een mooi dorp van 1300 inwoners in het land van de cognac. Eenmaal daar wacht u een veelheid aan activiteiten."
+        ],
+        "es": [
+          "El pueblo de Baignes-Sainte-Radegonde es un bonito pueblo de 1.300 habitantes en la tierra del coñac. Una vez allí, le esperan multitud de actividades."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/1368936a-12fd-38eb-8ab3-85285b2a5858",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/182c11f0-8afd-3592-a30a-66d3ceca5782",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/61706dc7-bf94-34e6-b23c-0874aa415ec0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fffd9f5c-9a73-33a5-a8f0-296e7e38afb3",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/544d6cbf-901a-35a8-a055-ff0cbed21050",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/6ca20aae-b681-3496-8372-fb38058494a9",
+          "schema:addressLocality": "Baignes-Sainte-Radegonde",
+          "schema:postalCode": "16360",
+          "schema:streetAddress": [
+            "30, Rue du Gén de Gaulle"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16025",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Baignes-Sainte-Radegonde"
+              ],
+              "pt": [
+                "Baignes-Sainte-Radegonde"
+              ],
+              "en": [
+                "Baignes-Sainte-Radegonde"
+              ],
+              "it": [
+                "Baignes-Sainte-Radegonde"
+              ],
+              "fr": [
+                "Baignes-Sainte-Radegonde"
+              ],
+              "nl": [
+                "Baignes-Sainte-Radegonde"
+              ],
+              "es": [
+                "Baignes-Sainte-Radegonde"
+              ]
+            },
+            "insee": "16025",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/a3603cab-b754-345a-a0b9-5b8e9f7251ba",
+        "schema:latitude": "45.384084",
+        "schema:longitude": "-0.236136",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/a5a35655-de13-3062-b61c-7cbc3e16c2c5",
+      "schema:email": [
+        "direction@sudcharentetourisme.fr",
+        "noemie@sudcharentetourisme.fr"
+      ],
+      "schema:legalName": "Office de tourisme du Sud Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.sudcharentetourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-05-26",
+  "lastUpdateDatatourisme": "2023-07-01T05:49:48.743Z"
+}

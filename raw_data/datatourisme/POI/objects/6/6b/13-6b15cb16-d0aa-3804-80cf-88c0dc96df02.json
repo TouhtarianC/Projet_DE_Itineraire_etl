@@ -1,0 +1,416 @@
+{
+  "@id": "https://data.datatourisme.fr/13/6b15cb16-d0aa-3804-80cf-88c0dc96df02",
+  "dc:identifier": "5705907",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Der Parc des Arènes liegt nur wenige Schritte von einer der wichtigsten Sehenswürdigkeiten der Stadt entfernt und bietet eine grüne Oase mitten in der Stadt. Er ist ideal zum Spazierengehen und erfreut Spaziergänger und Kinder gleichermaßen."
+    ],
+    "en": [
+      "Just next to one of the emblematic site of Saintes, the Parc des Arènes is a lung is the city. This area is ideal for a walk, whether we're children or strollers."
+    ],
+    "it": [
+      "A pochi passi da uno dei principali siti della città, il Parc des Arènes offre un ambiente verde nel cuore della città. Ideale per le passeggiate, è una delizia per escursionisti e bambini."
+    ],
+    "fr": [
+      "A deux pas d'un des sites majeurs de la ville, le parc des Arènes offre un écrin de verdure en pleine ville. Idéal pour se promener, il fait le bonheur des promeneurs et des enfants ."
+    ],
+    "nl": [
+      "Op een steenworp afstand van een van de belangrijkste bezienswaardigheden van de stad biedt het Parc des Arènes een groene omgeving in het hart van de stad. Ideaal om te wandelen, het is een genot voor wandelaars en kinderen."
+    ],
+    "es": [
+      "A solo algunos metros de un sitio mayor de Saintes, el Parc des Arènes es un pulmón verde en la ciudad. Es perfecto para dar un paseo, por ejemplo despues la visita del amfiteatro."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Parc des arènes"
+    ],
+    "fr": [
+      "Parc des arènes"
+    ],
+    "es": [
+      "Parc des arènes"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f8c0c968-6328-35cd-9333-08b1a494967f",
+    "dc:identifier": "2060",
+    "schema:email": [
+      "a.tonin@saintes-tourisme.fr",
+      "f.herbec@saintes-tourisme.fr",
+      "l.conan@saintes-tourisme.fr"
+    ],
+    "schema:legalName": "Office de Tourisme de Saintes & la Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.saintes-tourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a3494415-d9e5-3627-8b7d-3f4141ed6e1a",
+      "schema:telephone": [
+        "+33 5 46 92 34 45"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.ville-saintes.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/78b7ce41-c464-3f49-83ed-2950530e54f0",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/e3c27ae5-62b1-3e3d-ad8e-250bdff03f22",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/eb22c32e-677d-37ba-8c85-89aeed76115a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ff3ab9ad-9bb9-3df5-a95a-2c6710966e01",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Der Parc des Arènes liegt nur wenige Schritte von einer der wichtigsten Sehenswürdigkeiten der Stadt entfernt und bietet eine grüne Oase mitten in der Stadt. Er ist ideal zum Spazierengehen und erfreut Spaziergänger und Kinder gleichermaßen."
+        ],
+        "en": [
+          "Just next to one of the emblematic site of Saintes, the Parc des Arènes is a lung is the city. This area is ideal for a walk, whether we're children or strollers."
+        ],
+        "it": [
+          "A pochi passi da uno dei principali siti della città, il Parc des Arènes offre un ambiente verde nel cuore della città. Ideale per le passeggiate, è una delizia per escursionisti e bambini."
+        ],
+        "fr": [
+          "A deux pas d'un des sites majeurs de la ville, le parc des Arènes offre un écrin de verdure en pleine ville. Idéal pour se promener, il fait le bonheur des promeneurs et des enfants ."
+        ],
+        "nl": [
+          "Op een steenworp afstand van een van de belangrijkste bezienswaardigheden van de stad biedt het Parc des Arènes een groene omgeving in het hart van de stad. Ideaal om te wandelen, het is een genot voor wandelaars en kinderen."
+        ],
+        "es": [
+          "A solo algunos metros de un sitio mayor de Saintes, el Parc des Arènes es un pulmón verde en la ciudad. Es perfecto para dar un paseo, por ejemplo despues la visita del amfiteatro."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/5b65551d-161f-310b-bc57-8c06a761022c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b6f6f846-5674-3277-97b0-8907b2f2a52f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fd9db969-3f48-39d3-aca4-f056d789c266",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/18366256-a1d9-34e8-aea9-51b230d123d9",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/55611ead-7f5a-3f8e-8025-8ba2c26b7848",
+          "schema:addressLocality": "Saintes",
+          "schema:postalCode": "17100",
+          "schema:streetAddress": [
+            "12B chemin des carrières de la croix"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17415",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saintes"
+              ],
+              "pt": [
+                "Saintes"
+              ],
+              "en": [
+                "Saintes"
+              ],
+              "it": [
+                "Saintes"
+              ],
+              "fr": [
+                "Saintes"
+              ],
+              "nl": [
+                "Saintes"
+              ],
+              "es": [
+                "Saintes"
+              ]
+            },
+            "insee": "17415",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/081625c2-e725-399a-80d5-5297b3100bab",
+        "schema:latitude": "45.746253",
+        "schema:longitude": "-0.647121",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/6788b742-800e-3e07-a704-c6181e0a8dd1",
+      "schema:email": [
+        "a.tonin@saintes-tourisme.fr",
+        "f.herbec@saintes-tourisme.fr",
+        "l.conan@saintes-tourisme.fr"
+      ],
+      "schema:legalName": "Office de Tourisme de Saintes & la Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.saintes-tourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-12-22",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.706Z"
+}

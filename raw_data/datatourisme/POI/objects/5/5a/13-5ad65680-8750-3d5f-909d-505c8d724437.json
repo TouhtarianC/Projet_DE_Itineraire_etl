@@ -1,0 +1,462 @@
+{
+  "@id": "https://data.datatourisme.fr/13/5ad65680-8750-3d5f-909d-505c8d724437",
+  "dc:identifier": "6128033",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Der Garten ist das ganze Jahr über frei zugänglich und kostenlos. Besucher sollten jedoch verstehen, dass es sich um einen Lehrgarten handelt, der von Kindern im Alter von 4 bis 5 Jahren gepflegt wird, und nicht um einen öffentlichen Garten oder einen Spielplatz."
+    ],
+    "en": [
+      "The garden is free and open all year round. However, visitors must understand that this is an educational garden maintained by 4 to 5 year olds and not a public garden or playground."
+    ],
+    "it": [
+      "Il giardino è aperto tutto l'anno e gratuito. Tuttavia, i visitatori devono capire che si tratta di un giardino didattico gestito da bambini di 4-5 anni e non di un giardino pubblico o di un parco giochi."
+    ],
+    "fr": [
+      "Le jardin est en accès libre et gratuit toute l'année. Cependant, les visiteurs doivent comprendre qu'il s'agit d'un jardin pédagogique entretenu par des enfants de 4 à 5 ans et non pas d'un jardin public ni d'une aire de jeux."
+    ],
+    "es": [
+      "El jardín está abierto todo el año y es gratuito. Sin embargo, los visitantes deben entender que se trata de un jardín educativo dirigido por niños de 4 a 5 años y no de un jardín o parque infantil público."
+    ],
+    "nl": [
+      "De tuin is het hele jaar door gratis toegankelijk. Bezoekers moeten echter begrijpen dat dit een educatieve tuin is voor 4-5 jarigen en geen openbare tuin of speelplaats."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Jardin de Vie"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/1c5ef382-13ba-3b4b-9b41-4935e3932051",
+      "schema:email": [
+        "em-celles@ac-poitiers.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 49 53 04"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/e9ec1a05-448c-3aeb-bbad-cbffefac71df",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/37f423e6-ef93-38df-901b-e609aa9bf56b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3e2ac520-2395-36b6-9c15-dd2daf4cba9e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/97f074e4-07dd-3671-bcab-c0fa6881eedf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d8e7b2b6-04fd-3e3f-ae10-3b67738db96a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f205d313-1707-3740-8433-466b8184e461",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Der Garten ist das ganze Jahr über frei zugänglich und kostenlos. Besucher sollten jedoch verstehen, dass es sich um einen Lehrgarten handelt, der von Kindern im Alter von 4 bis 5 Jahren gepflegt wird, und nicht um einen öffentlichen Garten oder einen Spielplatz."
+        ],
+        "en": [
+          "The garden is free and open all year round. However, visitors must understand that this is an educational garden maintained by 4 to 5 year olds and not a public garden or playground."
+        ],
+        "it": [
+          "Il giardino è aperto tutto l'anno e gratuito. Tuttavia, i visitatori devono capire che si tratta di un giardino didattico gestito da bambini di 4-5 anni e non di un giardino pubblico o di un parco giochi."
+        ],
+        "fr": [
+          "Le jardin est en accès libre et gratuit toute l'année. Cependant, les visiteurs doivent comprendre qu'il s'agit d'un jardin pédagogique entretenu par des enfants de 4 à 5 ans et non pas d'un jardin public ni d'une aire de jeux."
+        ],
+        "es": [
+          "El jardín está abierto todo el año y es gratuito. Sin embargo, los visitantes deben entender que se trata de un jardín educativo dirigido por niños de 4 a 5 años y no de un jardín o parque infantil público."
+        ],
+        "nl": [
+          "De tuin is het hele jaar door gratis toegankelijk. Bezoekers moeten echter begrijpen dat dit een educatieve tuin is voor 4-5 jarigen en geen openbare tuin of speelplaats."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/08dfaf1f-5269-3909-9c83-63f9903a421e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/0911d3c8-8205-3e58-ac1c-2ccde49cb407",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/1521e742-6963-3817-bc00-e8795eff0003",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4d613a7a-8a0d-34a5-bafa-2b0997aed258",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/56ca2b4c-36d9-35c3-a591-c19a94cb5fe8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/293cae30-fefa-3cb3-9c16-0a203724022c",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/5267ee85-16a7-32ac-8119-9fe3a6869f26",
+          "schema:addressLocality": "Celles",
+          "schema:postalCode": "17520",
+          "schema:streetAddress": [
+            "34 rue de l'ancienne forge"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17076",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Celles"
+              ],
+              "pt": [
+                "Celles"
+              ],
+              "en": [
+                "Celles"
+              ],
+              "it": [
+                "Celles"
+              ],
+              "fr": [
+                "Celles"
+              ],
+              "nl": [
+                "Celles"
+              ],
+              "es": [
+                "Celles"
+              ]
+            },
+            "insee": "17076",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/0a15f115-b937-34b8-a7bc-8107229ab04d",
+        "schema:latitude": "45.605319",
+        "schema:longitude": "-0.374121",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-21",
+  "lastUpdateDatatourisme": "2023-06-22T05:53:28.765Z"
+}

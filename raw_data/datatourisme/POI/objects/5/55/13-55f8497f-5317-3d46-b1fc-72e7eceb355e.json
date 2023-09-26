@@ -1,0 +1,631 @@
+{
+  "@id": "https://data.datatourisme.fr/13/55f8497f-5317-3d46-b1fc-72e7eceb355e",
+  "dc:identifier": "5740497",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "DefenceSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Ein unglaubliches 300m² großes Blockhaus mitten im Stadtzentrum, in dem Sie die Geschichte von La Rochelle von 1939 bis zum 8. Mai 1945, dem Tag der Befreiung, entdecken können!"
+    ],
+    "en": [
+      "An incredible 300m² blockhouse in the heart of the city to discover the history of La Rochelle from 1939 to May 8, 1945, the date of its liberation!"
+    ],
+    "it": [
+      "Un incredibile fortino di 300 m² nel centro della città per scoprire la storia di La Rochelle dal 1939 all'8 maggio 1945, data della sua liberazione!"
+    ],
+    "fr": [
+      "Un incroyable blockhaus de 300m² en plein centre-ville pour découvrir l'histoire de La Rochelle de 1939 au 8 mai 1945 date de sa libération !"
+    ],
+    "es": [
+      "Un increíble blocao de 300 m² en el centro de la ciudad para descubrir la historia de La Rochelle desde 1939 hasta el 8 de mayo de 1945, fecha de su liberación"
+    ],
+    "nl": [
+      "Een ongelooflijk blokhuis van 300 m² in het stadscentrum om de geschiedenis van La Rochelle te ontdekken van 1939 tot 8 mei 1945, de datum van de bevrijding!"
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Der Bunker von La Rochelle"
+    ],
+    "en": [
+      "The Bunker of La Rochelle"
+    ],
+    "fr": [
+      "Bunker de La Rochelle"
+    ],
+    "es": [
+      "El Búnker de La Rochelle"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q2886658"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/1359aa93-3b48-3754-a2f5-4adb688bfa77",
+    "dc:identifier": "2058",
+    "schema:email": [
+      "a.lefeuvre@larochelle-tourisme-evenements.com",
+      "c.collot@larochelle-tourisme-evenements.com",
+      "m.farre@larochelle-tourisme-evenements.com",
+      "maxime.vossier@otipass.com",
+      "s.nogues@larochelle-tourisme-evenements.com"
+    ],
+    "schema:legalName": "La Rochelle Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.larochelle-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a034bbbc-5757-3049-8401-409a0443a79a",
+      "schema:email": [
+        "bunkerlarochelle@orange.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 42 52 89"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.bunkerlarochelle.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b85c7f94-4e47-32bc-b0d6-7fb2565ed968",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/9f2410ec-dac6-3982-9677-960c8a9af082",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a440c86c-1bf3-3235-92a1-0cfdaf352f8a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b3ee7cb0-ee28-31a6-b1a0-37d4fe7aff6e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c9c06588-6a87-311d-aba5-ee91887d7317",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/efa12d35-d7b1-3adc-9bff-73664f25bb56",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Ein unglaubliches 300m² großes Blockhaus mitten im Stadtzentrum, in dem Sie die Geschichte von La Rochelle von 1939 bis zum 8. Mai 1945, dem Tag der Befreiung, entdecken können!"
+        ],
+        "en": [
+          "An incredible 300m² blockhouse in the heart of the city to discover the history of La Rochelle from 1939 to May 8, 1945, the date of its liberation!"
+        ],
+        "it": [
+          "Un incredibile fortino di 300 m² nel centro della città per scoprire la storia di La Rochelle dal 1939 all'8 maggio 1945, data della sua liberazione!"
+        ],
+        "fr": [
+          "Un incroyable blockhaus de 300m² en plein centre-ville pour découvrir l'histoire de La Rochelle de 1939 au 8 mai 1945 date de sa libération !"
+        ],
+        "es": [
+          "Un increíble blocao de 300 m² en el centro de la ciudad para descubrir la historia de La Rochelle desde 1939 hasta el 8 de mayo de 1945, fecha de su liberación"
+        ],
+        "nl": [
+          "Een ongelooflijk blokhuis van 300 m² in het stadscentrum om de geschiedenis van La Rochelle te ontdekken van 1939 tot 8 mei 1945, de datum van de bevrijding!"
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/203e587a-16b6-382a-875e-c7b8fb650f23",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/08d421b6-e2c0-3f6e-b540-5040572bb5a4",
+          "ebucore:isCoveredBy": "CC BY-SA 2.5",
+          "ebucore:title": {
+            "fr": [
+              "Baselapallice08"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : <a href=\"//commons.wikimedia.org/wiki/User:Pep.per_de_R%C3%A9\" title=\"User:Pep.per de Ré\">Pep.per de Ré</a> (étant donné la revendication de droit d’auteur)."
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/31727aea-9cd5-3614-8cb2-91a7dbd4b6cb",
+          "ebucore:fileSize": [
+            64898
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 258,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/7/7c/Baselapallice08.jpg"
+          ],
+          "ebucore:width": 600,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/01544751-4be1-30d4-8572-5eb43a0ff1c4",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/33f86d4f-bdcd-3f03-9fd0-b8c14d1324a6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/95159110-40b2-384f-8618-2bf69f3f10b9",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ebb10f84-6d7d-32be-9ea7-618b98ecb6f5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ec0248d8-1698-3868-8482-8a0306c4e582",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/6463b457-0903-320d-a6a4-491bf52f16ac",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/c62cdf99-c529-30fe-b740-8e386bcf77ce",
+          "schema:addressLocality": "La Rochelle",
+          "schema:postalCode": "17000",
+          "schema:streetAddress": [
+            "8 rue des Dames"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17300",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "La Rochelle"
+              ],
+              "pt": [
+                "La Rochelle"
+              ],
+              "en": [
+                "La Rochelle"
+              ],
+              "it": [
+                "La Rochelle"
+              ],
+              "fr": [
+                "La Rochelle"
+              ],
+              "nl": [
+                "La Rochelle"
+              ],
+              "es": [
+                "La Rochelle"
+              ]
+            },
+            "insee": "17300",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/5c84c0c5-ec7f-33c8-91cd-820fd46b9bbc",
+        "schema:latitude": "46.160786",
+        "schema:longitude": "-1.149191",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/450b96e0-297e-3447-b097-e41852a387f1",
+          "schema:validFrom": "2023-02-04T00:00:00",
+          "schema:validThrough": "2023-03-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ac1b1610-628a-355c-b97d-8d3479da6b15",
+          "schema:validFrom": "2023-04-01T00:00:00",
+          "schema:validThrough": "2023-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f0bf50d4-9f83-3674-8d69-0e2665da520c",
+          "schema:validFrom": "2023-10-01T00:00:00",
+          "schema:validThrough": "2023-12-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8da8ffa9-cdd8-3b7a-a8c5-edb456104fe0",
+      "schema:email": [
+        "a.lefeuvre@larochelle-tourisme-evenements.com",
+        "c.collot@larochelle-tourisme-evenements.com",
+        "m.farre@larochelle-tourisme-evenements.com",
+        "maxime.vossier@otipass.com",
+        "s.nogues@larochelle-tourisme-evenements.com"
+      ],
+      "schema:legalName": "La Rochelle Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.larochelle-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-01-27",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.354Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/17ac3790-3554-38a6-9c0b-39d5cf7c413f",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/cbed29b3-d8d2-33e5-8303-cf8cb535dfd5",
+          "schema:maxPrice": [
+            "6.5",
+            "9"
+          ],
+          "schema:minPrice": [
+            "6.5",
+            "9"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/e1ee2e9c-434a-3681-ad5c-459c23be23f0",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-30",
+              "startDate": "2022-02-05"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

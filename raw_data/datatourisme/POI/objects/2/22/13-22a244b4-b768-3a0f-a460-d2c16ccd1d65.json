@@ -1,0 +1,566 @@
+{
+  "@id": "https://data.datatourisme.fr/13/22a244b4-b768-3a0f-a460-d2c16ccd1d65",
+  "dc:identifier": "5710759",
+  "@type": [
+    "Castle",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RemarkableBuilding"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das Schloss Favières liegt südlich von Saintes und Royan und einige Kilometer nördlich von Jonzac. Es wurde Anfang des 17."
+    ],
+    "en": [
+      "Situated south of Saintes and Royan and a few kilometres north of Jonzac, the Château de Favières is an estate built at the beginning of the 17th century in the middle of a park and a forest site."
+    ],
+    "it": [
+      "Situato a sud di Saintes e Royan e a pochi chilometri a nord di Jonzac, lo Château de Favières è una tenuta costruita all'inizio del XVII secolo nel mezzo di un parco e di una foresta."
+    ],
+    "fr": [
+      "Situé au sud de Saintes et de Royan et à quelques kilomètres au nord de Jonzac, le château de Favières est un domaine édifié au début du XVIIème siècle au milieu d'un parc et d'un site forestier."
+    ],
+    "es": [
+      "Situado al sur de Saintes y Royan y a pocos kilómetros al norte de Jonzac, el castillo de Favières es una finca construida a principios del siglo XVII en medio de un parque y un bosque."
+    ],
+    "nl": [
+      "Het Château de Favières, gelegen ten zuiden van Saintes en Royan en enkele kilometers ten noorden van Jonzac, is een landgoed dat aan het begin van de 17e eeuw is gebouwd te midden van een park en een bos."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Château de Favières"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q28000441"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/0371b1bb-4050-3e34-bed8-d907a57f2092",
+      "schema:email": [
+        "catherinemathieu@chateaudefavieres.com"
+      ],
+      "schema:telephone": [
+        "+33 5 46 04 47 92",
+        "+33 6 72 94 89 36"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://chateaudefavieres.com/",
+        "http://www.facebook.com/chateaudefavieres"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/6bb7673d-fd8e-3ff5-b337-bb6333bec9e2",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0f567416-533c-3392-82ff-9c176fd9888d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7167c68b-9d57-34b3-b978-fc06847efaeb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/74e5ebed-7368-3e89-a6d9-1505348fa690",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/81354d17-688c-324b-a3bd-2cc77d74bcbf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a2b6bf8d-8fce-3ce2-b492-7371ba7fac7b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das Schloss Favières liegt südlich von Saintes und Royan und einige Kilometer nördlich von Jonzac. Es wurde Anfang des 17."
+        ],
+        "en": [
+          "Situated south of Saintes and Royan and a few kilometres north of Jonzac, the Château de Favières is an estate built at the beginning of the 17th century in the middle of a park and a forest site."
+        ],
+        "it": [
+          "Situato a sud di Saintes e Royan e a pochi chilometri a nord di Jonzac, lo Château de Favières è una tenuta costruita all'inizio del XVII secolo nel mezzo di un parco e di una foresta."
+        ],
+        "fr": [
+          "Situé au sud de Saintes et de Royan et à quelques kilomètres au nord de Jonzac, le château de Favières est un domaine édifié au début du XVIIème siècle au milieu d'un parc et d'un site forestier."
+        ],
+        "es": [
+          "Situado al sur de Saintes y Royan y a pocos kilómetros al norte de Jonzac, el castillo de Favières es una finca construida a principios del siglo XVII en medio de un parque y un bosque."
+        ],
+        "nl": [
+          "Het Château de Favières, gelegen ten zuiden van Saintes en Royan en enkele kilometers ten noorden van Jonzac, is een landgoed dat aan het begin van de 17e eeuw is gebouwd te midden van een park en een bos."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/987fcf31-5885-36d9-8dcb-ff47419edaaf",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/b899a684-6688-3535-94bc-772565ef89bb",
+          "ebucore:isCoveredBy": "CC BY-SA 4.0",
+          "ebucore:title": {
+            "fr": [
+              "Mosnac, chateau Favières, northeast view"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Cosal (https://commons.wikimedia.org/wiki/User:Cosal)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/3c757df3-0bc7-37cb-97e5-25563108ade7",
+          "ebucore:fileSize": [
+            3207323
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 3456,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/1/1d/Mosnac%2C_chateau_Favi%C3%A8res%2C_northeast_view.jpg"
+          ],
+          "ebucore:width": 4608,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/1aae95a3-de4a-33e4-bf6a-d2f56571aebc",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8aa0f483-2402-3be1-bb2e-b8ca1b775b43",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8fdee163-2110-315b-87f2-67628af0ec1d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/da300faa-bcb0-33c2-96e9-dbe359ab48db",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/db03513e-0064-3509-b66d-aa003b972416",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/54daa9e0-0649-3713-baa3-05756c33888d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/7fc03626-24bc-39e1-b58a-77bb51dcdba9",
+          "schema:addressLocality": "Mosnac",
+          "schema:postalCode": "17240",
+          "schema:streetAddress": [
+            "23 rue de Favières",
+            "CHÂTEAU DE FAVIÈRES"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17250",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Mosnac"
+              ],
+              "pt": [
+                "Mosnac"
+              ],
+              "en": [
+                "Mosnac"
+              ],
+              "it": [
+                "Mosnac"
+              ],
+              "fr": [
+                "Mosnac"
+              ],
+              "nl": [
+                "Mosnac"
+              ],
+              "es": [
+                "Mosnac"
+              ]
+            },
+            "insee": "17250",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/c3bb9d33-6c0d-3c80-80e1-f77e26aa0ba5",
+        "schema:latitude": "45.497161",
+        "schema:longitude": "-0.521361",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-02-23",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.808Z"
+}

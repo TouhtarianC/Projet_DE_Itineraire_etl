@@ -1,0 +1,504 @@
+{
+  "@id": "https://data.datatourisme.fr/13/aa6ba072-2494-358a-9fbb-326e9c9af244",
+  "dc:identifier": "5698384",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Entdecken Sie diesen zeitgenössischen Garten, der in Form einer Windrose angelegt ist, am Fuße des Leuchtturms von Chassiron. Er wurde 2007 angelegt und trägt das Label \"Jardin Remarquable\" (bemerkenswerter Garten).\r\nFreier Eintritt."
+    ],
+    "en": [
+      "Discover this contemporary garden designed in the form of a compass rose, at the foot of the Chassiron lighthouse. Created in 2007, it is labeled \"Remarkable Garden\".\r\nFree entrance."
+    ],
+    "it": [
+      "Scoprite questo giardino contemporaneo progettato a forma di rosa dei venti, ai piedi del faro di Chassiron. Creato nel 2007, ha ottenuto il marchio \"Jardin Remarquable\".\r\nIngresso libero."
+    ],
+    "fr": [
+      "Découvrez ce jardin contemporain conçu sous la forme d'une rose des vents, au pied du phare de Chassiron. Créé en 2007, il est labellisé \"Jardin Remarquable\".\r\nEntrée libre."
+    ],
+    "nl": [
+      "Ontdek deze eigentijdse tuin in de vorm van een windroos, aan de voet van de vuurtoren van Chassiron. Opgericht in 2007 en bekroond met het label \"Jardin Remarquable\".\r\nGratis toegang."
+    ],
+    "es": [
+      "Descubra este jardín contemporáneo diseñado en forma de rosa de los vientos, al pie del faro de Chassiron. Creado en 2007, ha sido galardonado con la etiqueta \"Jardin Remarquable\".\r\nLa entrada es gratuita."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Les jardins du Phare de Chassiron"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/6e470925-8716-324a-981b-0a95abeb97a3",
+      "schema:email": [
+        "chassiron@chassiron.net"
+      ],
+      "schema:telephone": [
+        "+33 5 46 75 18 62"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/82854ce9-687a-32bc-a12c-13d24598cba6",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/53e307a9-5042-35e7-be0a-2919d96fe929",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/84602ba6-8a3b-3879-92da-c06d8f97430f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/99204087-31d1-3519-8b39-6d6185a42e7b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9fd615b6-e6f1-391c-b7ee-68c293f79cca",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dd3d734e-3c30-3b26-b413-6b332fabc3e1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Entdecken Sie diesen zeitgenössischen Garten, der in Form einer Windrose angelegt ist, am Fuße des Leuchtturms von Chassiron. Er wurde 2007 angelegt und trägt das Label \"Jardin Remarquable\" (bemerkenswerter Garten).\r\nFreier Eintritt."
+        ],
+        "en": [
+          "Discover this contemporary garden designed in the form of a compass rose, at the foot of the Chassiron lighthouse. Created in 2007, it is labeled \"Remarkable Garden\".\r\nFree entrance."
+        ],
+        "it": [
+          "Scoprite questo giardino contemporaneo progettato a forma di rosa dei venti, ai piedi del faro di Chassiron. Creato nel 2007, ha ottenuto il marchio \"Jardin Remarquable\".\r\nIngresso libero."
+        ],
+        "fr": [
+          "Découvrez ce jardin contemporain conçu sous la forme d'une rose des vents, au pied du phare de Chassiron. Créé en 2007, il est labellisé \"Jardin Remarquable\".\r\nEntrée libre."
+        ],
+        "nl": [
+          "Ontdek deze eigentijdse tuin in de vorm van een windroos, aan de voet van de vuurtoren van Chassiron. Opgericht in 2007 en bekroond met het label \"Jardin Remarquable\".\r\nGratis toegang."
+        ],
+        "es": [
+          "Descubra este jardín contemporáneo diseñado en forma de rosa de los vientos, al pie del faro de Chassiron. Creado en 2007, ha sido galardonado con la etiqueta \"Jardin Remarquable\".\r\nLa entrada es gratuita."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/05d5e071-7159-3f0c-a047-b89f2b45ea60",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/180c6e45-de65-3b40-b71e-ce7ac833a0a0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2d0ac804-db1e-3416-b14e-6ac1395ff1b2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ebcc209d-f16d-3d1b-aafe-a6161951d666",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fc5b045e-959f-3c96-88ee-1140d78a9798",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/4e523812-ce33-386b-8b0f-66fd5bd78402",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/249bf4dc-1b72-38d7-8ba0-7178f6f829b4",
+          "schema:addressLocality": "Saint-Denis-d'Oléron",
+          "schema:postalCode": "17650",
+          "schema:streetAddress": [
+            "Phare de Chassiron"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17323",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "pt": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "en": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "it": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "fr": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "nl": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "es": [
+                "Saint-Denis-d'Oléron"
+              ]
+            },
+            "insee": "17323",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/0132453b-048c-348b-a4e0-b9c6704ef160",
+        "schema:latitude": "46.046771",
+        "schema:longitude": "-1.410779",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/0732f24a-f442-3f91-8b51-91b84005de2d",
+          "schema:closes": "19:00:00",
+          "schema:opens": "10:00:00",
+          "schema:validFrom": "2023-09-01T00:00:00",
+          "schema:validThrough": "2023-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/1cd02053-2eb3-37c7-9276-c2cf9aeee33e",
+          "schema:closes": "19:00:00",
+          "schema:opens": "10:00:00",
+          "schema:validFrom": "2023-04-01T00:00:00",
+          "schema:validThrough": "2023-06-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3541332a-273e-3d34-bb8c-8ad246405a2b",
+          "schema:closes": "20:00:00",
+          "schema:opens": "10:00:00",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3f59500b-73d3-3279-b050-6e6eff7e728e",
+          "schema:closes": "17:00:00",
+          "schema:opens": "10:00:00",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-03-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5c3ba77d-24a6-329a-ad6f-2f3173a7ee20",
+          "schema:closes": "17:00:00",
+          "schema:opens": "10:00:00",
+          "schema:validFrom": "2023-10-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/d7f018c3-c1ab-31f8-8901-4d29578edb89",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ile-oleron-marennes.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-02-20",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.773Z"
+}

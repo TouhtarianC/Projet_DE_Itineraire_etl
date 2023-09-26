@@ -1,0 +1,606 @@
+{
+  "@id": "https://data.datatourisme.fr/13/879faeac-5c6c-3f61-be54-9902273ce255",
+  "dc:identifier": "5721597",
+  "@type": [
+    "schema:LocalBusiness",
+    "CulturalSite",
+    "InterpretationCentre",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Austernzuchtanlage von Fort Royer, eine zeitlose Pause, um Oléron, seine traditionellen Berufe, sein überliefertes Erbe und die authentischen Geschmäcker seiner teuren Perlmuttmuscheln zu entdecken!"
+    ],
+    "en": [
+      "The oyster farming site of Fort Royer, a timeless break to discover Oleron, its traditional trades, its ancestral heritage and the authentic flavours of dear mother-of-pearl molluscs!"
+    ],
+    "it": [
+      "Il sito di ostricoltura di Fort Royer, una pausa senza tempo per scoprire Oléron, i suoi mestieri tradizionali, il suo patrimonio ancestrale e i sapori autentici dei suoi cari molluschi perlacei!"
+    ],
+    "fr": [
+      "Le site ostréicole de Fort Royer, une pause hors du temps pour découvrir Oléron, ses métiers traditionnels, ses patrimoines ancestraux et les saveurs authentiques   de chers mollusques nacrés !"
+    ],
+    "es": [
+      "La ostrería de Fort Royer, una escapada intemporal para descubrir Oléron, sus oficios tradicionales, su patrimonio ancestral y los auténticos sabores de sus queridos moluscos nacarados"
+    ],
+    "nl": [
+      "De oesterkweekplaats Fort Royer, een tijdloze onderbreking om Oléron, zijn traditionele ambachten, zijn voorouderlijk erfgoed en de authentieke smaken van zijn dierbare parelmoeren weekdieren te ontdekken!"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Site ostréicole et naturel de Fort-Royer"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/0a7935eb-283c-3ac9-8e2e-7ac6d91d7bd8",
+      "schema:email": [
+        "sitedefortroyer@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 5 46 47 06 48"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.fort-royer-oleron.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/0f51273c-a9eb-394d-875a-f32dd15e32e1",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/00f583a3-c190-3ad0-987b-1e6cfb063a99",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/17d53909-7866-3645-b44b-9df49ff8bb7f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/477d721d-6540-3d62-bc4d-b262599e592d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/62e605fd-8922-3c73-9e47-77ef5e46c032",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a290e718-c4b1-3c6a-95e7-74a989e9959f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Austernzuchtanlage von Fort Royer, eine zeitlose Pause, um Oléron, seine traditionellen Berufe, sein überliefertes Erbe und die authentischen Geschmäcker seiner teuren Perlmuttmuscheln zu entdecken!"
+        ],
+        "en": [
+          "The oyster farming site of Fort Royer, a timeless break to discover Oleron, its traditional trades, its ancestral heritage and the authentic flavours of dear mother-of-pearl molluscs!"
+        ],
+        "it": [
+          "Il sito di ostricoltura di Fort Royer, una pausa senza tempo per scoprire Oléron, i suoi mestieri tradizionali, il suo patrimonio ancestrale e i sapori autentici dei suoi cari molluschi perlacei!"
+        ],
+        "fr": [
+          "Le site ostréicole de Fort Royer, une pause hors du temps pour découvrir Oléron, ses métiers traditionnels, ses patrimoines ancestraux et les saveurs authentiques   de chers mollusques nacrés !"
+        ],
+        "es": [
+          "La ostrería de Fort Royer, una escapada intemporal para descubrir Oléron, sus oficios tradicionales, su patrimonio ancestral y los auténticos sabores de sus queridos moluscos nacarados"
+        ],
+        "nl": [
+          "De oesterkweekplaats Fort Royer, een tijdloze onderbreking om Oléron, zijn traditionele ambachten, zijn voorouderlijk erfgoed en de authentieke smaken van zijn dierbare parelmoeren weekdieren te ontdekken!"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Hiking",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Wanderung"
+        ],
+        "pt": [
+          "Caminhada"
+        ],
+        "en": [
+          "Hiking"
+        ],
+        "it": [
+          "Escursione"
+        ],
+        "fr": [
+          "Randonnée"
+        ],
+        "nl": [
+          "Wandelen"
+        ],
+        "es": [
+          "Senderismo"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/58135f58-bbe1-3470-822b-0c71e2db2e85",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/84a8a569-9910-3d6e-a23c-e26c5c436403",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/89ef456e-6416-377e-926d-10b10408c8fc",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b0e55003-5f95-315a-a0a4-efa245e9eb2b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d6605228-6ce4-3387-b197-539e2bfac4de",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/9b46cbd6-84cb-3198-b7cb-4b7ce6ed12af",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/92d728a6-cfef-331d-9395-687323ab8753",
+          "schema:addressLocality": "Saint-Pierre-d'Oléron",
+          "schema:postalCode": "17310",
+          "schema:streetAddress": [
+            "La Perrotine - BP 43"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17385",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Pierre-d'Oléron"
+              ],
+              "pt": [
+                "Saint-Pierre-d'Oléron"
+              ],
+              "en": [
+                "Saint-Pierre-d'Oléron"
+              ],
+              "it": [
+                "Saint-Pierre-d'Oléron"
+              ],
+              "fr": [
+                "Saint-Pierre-d'Oléron"
+              ],
+              "nl": [
+                "Saint-Pierre-d'Oléron"
+              ],
+              "es": [
+                "Saint-Pierre-d'Oléron"
+              ]
+            },
+            "insee": "17385",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/f9b8718d-68bd-390a-8b02-b7b0553a9bee",
+        "schema:latitude": "45.959508",
+        "schema:longitude": "-1.242948",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/d6686bc8-35c7-3e7e-a321-27cc2471d0d4",
+          "schema:validFrom": "2023-02-04T00:00:00",
+          "schema:validThrough": "2023-11-11T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag: offen\n\nKommentierte Besichtigung über die Austernzucht, Reservierung erforderlich .\r\nWinterferien, Allerheiligen und September: Montag bis Samstag um 15 Uhr\r\nMai, Juni: Montag bis Samstag um 17 Uhr.\r\nJuli und August: Montag bis Freitag um 10 Uhr, 15 Uhr und 17 Uhr. Samstags um 10 Uhr und 15 Uhr.\r\nMärz und Oktober (außerhalb der Schulferien): Dienstag, Freitag und Samstag um 15 Uhr."
+            ],
+            "en": [
+              "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday: open\n\nGuided tour of the oyster farm, reservation required.\r\nWinter vacations, All Saints' Day and September: Monday to Saturday at 3 pm\r\nMay, June: Monday to Saturday at 5pm.\r\nJuly and August: Monday to Friday at 10am, 3pm and 5pm. Saturday at 10am and 3pm.\r\nMarch and October (except school vacations): Tuesday, Friday and Saturday at 3pm."
+            ],
+            "it": [
+              "Lunedì, martedì, mercoledì, giovedì, venerdì, sabato: aperto\n\nVisita guidata all'allevamento di ostriche, su prenotazione.\r\nFestività invernali, Ognissanti e settembre: da lunedì a sabato alle 15.00\r\nMaggio, giugno: da lunedì a sabato alle 17.00.\r\nLuglio e agosto: dal lunedì al venerdì alle 10.00, alle 15.00 e alle 17.00. Sabato alle 10.00 e alle 15.00.\r\nMarzo e ottobre (escluse le vacanze scolastiche): martedì, venerdì e sabato alle 15.00."
+            ],
+            "fr": [
+              "Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi : ouvert\n\nVisite commentée sur l'ostréiculture, sur réservation obligatoire .\r\nVacances d'hiver, de la Toussaint et septembre : du lundi au samedi à 15h\r\nMai, juin : du lundi au samedi à 17h.\r\nJuillet et Août : du lundi au vendredi à 10h, 15h et 17h. Samedi à 10h et 15h.\r\nMars et Octobre (hors vacances scolaires) : mardi, vendredi et samedi à 15h."
+            ],
+            "nl": [
+              "Maandag, dinsdag, woensdag, donderdag, vrijdag, zaterdag: open\n\nRondleiding door de oesterkwekerij, reservering verplicht.\r\nWintervakantie, Allerheiligen en september: maandag tot zaterdag om 15 uur\r\nMei, juni: maandag tot en met zaterdag om 17 uur.\r\nJuli en augustus: maandag t/m vrijdag om 10, 15 en 17 uur. Zaterdag om 10 en 15 uur.\r\nMaart en oktober (behalve schoolvakanties): dinsdag, vrijdag en zaterdag om 15 uur."
+            ],
+            "es": [
+              "Lunes, martes, miércoles, jueves, viernes y sábado: abierto\n\nVisita guiada de la ostrería, previa reserva.\r\nVacaciones de invierno, Todos los Santos y septiembre: de lunes a sábado a las 15.00 h\r\nMayo, junio: de lunes a sábado a las 17 h.\r\nJulio y agosto: de lunes a viernes, a las 10.00, 15.00 y 17.00 h. Sábados a las 10.00 h y a las 15.00 h.\r\nMarzo y octubre (excepto vacaciones escolares): martes, viernes y sábado a las 15.00 h."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/6af5b59a-d69f-3150-a0e7-db0a65225bcf",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/9b4d3e1c-08b4-385f-ae48-fa18534b2101",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/b5ee3387-f92b-3d13-93c9-c564ed52a999",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f4613dea-deb9-3908-93d7-b812be6ca803",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/fa3a2e4e-8193-3f34-a5d5-694bb8e96acf",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/80009736-71af-3484-9792-2b3de63306d1",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-20",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.292Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/150a6854-5def-38ab-96ac-fc6b7978df0a",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/94dee140-6a82-3331-a697-1884d82846f2",
+          "schema:minPrice": [
+            "5",
+            "6"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/ec1b998c-ffc1-3a90-9425-9d33fe70e350",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-11-11",
+              "startDate": "2023-02-04"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

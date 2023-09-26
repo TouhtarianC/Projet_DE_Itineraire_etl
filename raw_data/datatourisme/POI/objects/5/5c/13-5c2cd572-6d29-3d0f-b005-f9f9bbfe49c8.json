@@ -1,0 +1,465 @@
+{
+  "@id": "https://data.datatourisme.fr/13/5c2cd572-6d29-3d0f-b005-f9f9bbfe49c8",
+  "dc:identifier": "5783600",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Besichtigung mit Verkostung des Weinbergs, der Lagerhäuser, der Destillerie und der Abfüllanlage sowie Empfang von Gruppen nach Vereinbarung. Verkauf von Cognac, Pineau, Landwein und Blaye côtes de Bordeaux.\r\nGeöffnet von 8 bis 13 Uhr und von 14 bis 18 Uhr nach Vereinbarung."
+    ],
+    "en": [
+      "Visit with tasting of the vineyard, the cellars, the distillery and the bottling plant and reception of groups by appointment. Sale of cognac, pineau, vin de pays and Blaye côtes de Bordeaux.\r\nOpen from 8am to 1pm and from 2pm to 6pm by appointment."
+    ],
+    "it": [
+      "Visita con degustazione del vigneto, delle cantine, della distilleria e dell'impianto di imbottigliamento e accoglienza di gruppi su prenotazione. Vendita di cognac, pineau, vin de pays e Blaye Côtes de Bordeaux.\r\nAperto dalle 8.00 alle 13.00 e dalle 14.00 alle 18.00 su appuntamento."
+    ],
+    "fr": [
+      "Visite avec dégustation du vignoble, des chais, de la distillerie et de l'embouteillage et accueil de groupes sur rendez-vous. Vente de cognac, pineau, vin de pays et Blaye côtes de Bordeaux.\r\nOuvert de 8h à 13h et de 14h à 18h sur rendez-vous."
+    ],
+    "es": [
+      "Visita con degustación del viñedo, las bodegas, la destilería y la planta de embotellado y recepción de grupos con cita previa. Venta de coñac, pineau, vin de pays y Blaye Côtes de Bordeaux.\r\nAbierto de 8 a 13 horas y de 14 a 18 horas con cita previa."
+    ],
+    "nl": [
+      "Bezoek met proeverij van de wijngaard, de kelders, de distilleerderij en de bottelarij en ontvangst van groepen op afspraak. Verkoop van cognac, pineau, lokale wijn en Blaye Côtes de Bordeaux.\r\nOpen van 8 tot 13 uur en van 14 tot 18 uur op afspraak."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Vignoble Boule et Fils - Pineau Cognac"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a7635217-926e-3d5e-91fe-784659848e2c",
+      "schema:email": [
+        "boule.fils@orange.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 49 64 64",
+        "+33 6 89 90 36 56"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.vignobles-boule.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/9436295c-660d-33b0-9061-4823236128b1",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3138d447-883b-3872-bf2f-153b03912e22",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/99db6172-e4c1-3153-bec8-91ee5423568a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dbedd720-3e66-3c4c-a0e8-0da1d8c3c10f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f3f52b31-27ca-3c3c-88f0-690514a4b2e6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f7fe3bad-b128-3136-b392-b8b26b6902bf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Besichtigung mit Verkostung des Weinbergs, der Lagerhäuser, der Destillerie und der Abfüllanlage sowie Empfang von Gruppen nach Vereinbarung. Verkauf von Cognac, Pineau, Landwein und Blaye côtes de Bordeaux.\r\nGeöffnet von 8 bis 13 Uhr und von 14 bis 18 Uhr nach Vereinbarung."
+        ],
+        "en": [
+          "Visit with tasting of the vineyard, the cellars, the distillery and the bottling plant and reception of groups by appointment. Sale of cognac, pineau, vin de pays and Blaye côtes de Bordeaux.\r\nOpen from 8am to 1pm and from 2pm to 6pm by appointment."
+        ],
+        "it": [
+          "Visita con degustazione del vigneto, delle cantine, della distilleria e dell'impianto di imbottigliamento e accoglienza di gruppi su prenotazione. Vendita di cognac, pineau, vin de pays e Blaye Côtes de Bordeaux.\r\nAperto dalle 8.00 alle 13.00 e dalle 14.00 alle 18.00 su appuntamento."
+        ],
+        "fr": [
+          "Visite avec dégustation du vignoble, des chais, de la distillerie et de l'embouteillage et accueil de groupes sur rendez-vous. Vente de cognac, pineau, vin de pays et Blaye côtes de Bordeaux.\r\nOuvert de 8h à 13h et de 14h à 18h sur rendez-vous."
+        ],
+        "es": [
+          "Visita con degustación del viñedo, las bodegas, la destilería y la planta de embotellado y recepción de grupos con cita previa. Venta de coñac, pineau, vin de pays y Blaye Côtes de Bordeaux.\r\nAbierto de 8 a 13 horas y de 14 a 18 horas con cita previa."
+        ],
+        "nl": [
+          "Bezoek met proeverij van de wijngaard, de kelders, de distilleerderij en de bottelarij en ontvangst van groepen op afspraak. Verkoop van cognac, pineau, lokale wijn en Blaye Côtes de Bordeaux.\r\nOpen van 8 tot 13 uur en van 14 tot 18 uur op afspraak."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/5b064a17-f136-3e1f-b1d8-6c8b606c551b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6ae0d786-bafa-3698-9c2d-5b11b1540b1d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/99dabfde-a10c-30ba-99c9-f6b936cfec63",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/af468179-cddb-3146-bfd3-5a8f0457b5ac",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f7f0c1d1-5705-3b0f-a87f-d5d44b441ca1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/5947c573-9fc0-39d7-8539-d21c40d9d961",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/c1a74605-a9fd-31c6-8959-11e053f89be0",
+          "schema:addressLocality": "Boisredon",
+          "schema:postalCode": "17150",
+          "schema:streetAddress": [
+            "3 La Verrerie"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17052",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Boisredon"
+              ],
+              "pt": [
+                "Boisredon"
+              ],
+              "en": [
+                "Boisredon"
+              ],
+              "it": [
+                "Boisredon"
+              ],
+              "fr": [
+                "Boisredon"
+              ],
+              "nl": [
+                "Boisredon"
+              ],
+              "es": [
+                "Boisredon"
+              ]
+            },
+            "insee": "17052",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/fb1c125e-d8dc-30ed-8275-3b6c1481664d",
+        "schema:latitude": "45.330505",
+        "schema:longitude": "-0.555559",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-04-22",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.676Z"
+}

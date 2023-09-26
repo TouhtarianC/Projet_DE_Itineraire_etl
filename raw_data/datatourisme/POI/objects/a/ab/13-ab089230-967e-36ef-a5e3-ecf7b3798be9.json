@@ -1,0 +1,560 @@
+{
+  "@id": "https://data.datatourisme.fr/13/ab089230-967e-36ef-a5e3-ecf7b3798be9",
+  "dc:identifier": "5718487",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Kirche befindet sich in Saint-Sauvant, einer \"kleinen Stadt mit Charakter\" und einem \"Dorf aus Stein und Wasser\" im Tal des Coran, zwischen Saintes und Cognac. Die auf einem Vorgebirge gelegene Kirche erfordert einige Anstrengungen, aber der Weg dorthin ist sehr angenehm!"
+    ],
+    "en": [
+      "Located in Saint-Sauvant, \"small city of character\", and \"village of stones and water\" in the Coran Valley, between Saintes and Cognac. At the top of a promontory, the church will deserve some efforts but the way to reach it is very pleasant !"
+    ],
+    "it": [
+      "Situato a Saint-Sauvant, una \"piccola città di carattere\" e \"villaggio di pietre e acqua\" nella Valle del Coran, tra Saintes e Cognac. Situata in cima a un promontorio, la chiesa richiede un certo sforzo, ma il percorso per raggiungerla è molto piacevole!"
+    ],
+    "fr": [
+      "Située à Saint-Sauvant, \"petite cité de caractère\", et \"village de pierres et d'eau\" dans la Vallée du Coran, entre Saintes et Cognac. Au sommet d’un promontoire, l’église méritera quelques efforts mais le chemin pour y accéder est des plus plaisants !"
+    ],
+    "es": [
+      "Situado en Saint-Sauvant, una \"pequeña ciudad con carácter\" y \"pueblo de piedras y agua\" en el valle de Coran, entre Saintes y Cognac. Situada en la cima de un promontorio, la iglesia requerirá cierto esfuerzo, pero el camino para llegar a ella es de lo más agradable"
+    ],
+    "nl": [
+      "Gelegen in Saint-Sauvant, een \"kleine stad met karakter\" en \"dorp van stenen en water\" in de Coran-vallei, tussen Saintes en Cognac. De kerk ligt op de top van een voorgebergte en vereist enige inspanning, maar de weg erheen is zeer aangenaam!"
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Eglise Saint-Sylvain"
+    ],
+    "fr": [
+      "Eglise Saint-Sylvain de Saint-Sauvant"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q22955705"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f8c0c968-6328-35cd-9333-08b1a494967f",
+    "dc:identifier": "2060",
+    "schema:email": [
+      "a.tonin@saintes-tourisme.fr",
+      "f.herbec@saintes-tourisme.fr",
+      "l.conan@saintes-tourisme.fr"
+    ],
+    "schema:legalName": "Office de Tourisme de Saintes & la Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.saintes-tourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a2f76fdf-823c-3436-a40b-877afc5dfd47",
+      "schema:telephone": [
+        "+33 5 46 91 50 10"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/4dcb0482-9173-3ed6-89ed-ada561369e7f",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/6a2eea52-f7cf-3448-8079-f94a3e4f1a19",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6a79e70e-22a0-34bf-88c2-4c25c48bb429",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/90ad0e72-3b2b-3e4f-8b90-75bee39ec1ff",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ada12369-a091-3688-a709-00bd7d0e717e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f6b1d0ac-2f5e-3436-b47d-a18265c84f5f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Kirche befindet sich in Saint-Sauvant, einer \"kleinen Stadt mit Charakter\" und einem \"Dorf aus Stein und Wasser\" im Tal des Coran, zwischen Saintes und Cognac. Die auf einem Vorgebirge gelegene Kirche erfordert einige Anstrengungen, aber der Weg dorthin ist sehr angenehm!"
+        ],
+        "en": [
+          "Located in Saint-Sauvant, \"small city of character\", and \"village of stones and water\" in the Coran Valley, between Saintes and Cognac. At the top of a promontory, the church will deserve some efforts but the way to reach it is very pleasant !"
+        ],
+        "it": [
+          "Situato a Saint-Sauvant, una \"piccola città di carattere\" e \"villaggio di pietre e acqua\" nella Valle del Coran, tra Saintes e Cognac. Situata in cima a un promontorio, la chiesa richiede un certo sforzo, ma il percorso per raggiungerla è molto piacevole!"
+        ],
+        "fr": [
+          "Située à Saint-Sauvant, \"petite cité de caractère\", et \"village de pierres et d'eau\" dans la Vallée du Coran, entre Saintes et Cognac. Au sommet d’un promontoire, l’église méritera quelques efforts mais le chemin pour y accéder est des plus plaisants !"
+        ],
+        "es": [
+          "Situado en Saint-Sauvant, una \"pequeña ciudad con carácter\" y \"pueblo de piedras y agua\" en el valle de Coran, entre Saintes y Cognac. Situada en la cima de un promontorio, la iglesia requerirá cierto esfuerzo, pero el camino para llegar a ella es de lo más agradable"
+        ],
+        "nl": [
+          "Gelegen in Saint-Sauvant, een \"kleine stad met karakter\" en \"dorp van stenen en water\" in de Coran-vallei, tussen Saintes en Cognac. De kerk ligt op de top van een voorgebergte en vereist enige inspanning, maar de weg erheen is zeer aangenaam!"
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/0d0c05ac-873a-30fd-9eaf-1fd920b9e4cd",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/c923d051-cd5d-3492-a92d-9f48d63b0530",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Ssvt eg2"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Jack ma (https://commons.wikimedia.org/wiki/User:Jack_ma)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/0251b59d-4d29-3fff-a0fc-951e7a20ded1",
+          "ebucore:fileSize": [
+            323150
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1200,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/0/0d/Ssvt_eg2.JPG"
+          ],
+          "ebucore:width": 1600,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/261e5b44-b309-3876-ac41-f2c9b0b7b907",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3c062fee-8c39-3062-ad8c-07aab8d73cf9",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6ee36c31-af1a-3904-bfd2-bba6a7e1e151",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/95895e6c-a680-32c4-bf10-9d0a80c10c9a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9b313b87-890c-3cd2-aa1c-e37793bd5f1d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/edf2d285-3b52-3527-800d-9df038ce7ff2",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/a3abb7f6-cf81-37e3-a379-6e27b27d81b4",
+          "schema:addressLocality": "Saint-Sauvant",
+          "schema:postalCode": "17610",
+          "schema:streetAddress": [
+            "Rue du Paradis"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17395",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Sauvant"
+              ],
+              "pt": [
+                "Saint-Sauvant"
+              ],
+              "en": [
+                "Saint-Sauvant"
+              ],
+              "it": [
+                "Saint-Sauvant"
+              ],
+              "fr": [
+                "Saint-Sauvant"
+              ],
+              "nl": [
+                "Saint-Sauvant"
+              ],
+              "es": [
+                "Saint-Sauvant"
+              ]
+            },
+            "insee": "17395",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/c3fbe506-95e3-3a44-8bcb-40c9a890ce8c",
+        "schema:latitude": "45.73996",
+        "schema:longitude": "-0.50455",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/6788b742-800e-3e07-a704-c6181e0a8dd1",
+      "schema:email": [
+        "a.tonin@saintes-tourisme.fr",
+        "f.herbec@saintes-tourisme.fr",
+        "l.conan@saintes-tourisme.fr"
+      ],
+      "schema:legalName": "Office de Tourisme de Saintes & la Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.saintes-tourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2021-12-13",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.753Z"
+}

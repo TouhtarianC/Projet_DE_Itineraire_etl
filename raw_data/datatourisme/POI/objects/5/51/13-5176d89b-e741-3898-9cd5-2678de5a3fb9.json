@@ -1,0 +1,1127 @@
+{
+  "@id": "https://data.datatourisme.fr/13/5176d89b-e741-3898-9cd5-2678de5a3fb9",
+  "dc:identifier": "5758352",
+  "@type": [
+    "Castle",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RemarkableBuilding"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das imposante Schloss von Chalais zieht die Blicke auf sich, und das aus gutem Grund: Es überragt die Stadt von seinem Felsvorsprung aus. Betreten Sie das Schloss über seine Zugbrücke, eine der wenigen noch funktionstüchtigen, und tauchen Sie ein in die Geschichte der Familie Talleyrand-Périgord."
+    ],
+    "en": [
+      "The imposing castle of Chalais is a real eye-catcher, it dominates the town from its rocky spur. Enter the castle via its drawbridge, one of the few still in working order, and plunge into the history of the Talleyrand-Périgord."
+    ],
+    "it": [
+      "L'imponente castello di Chalais, che domina la città dal suo sperone roccioso, è una vera e propria attrazione. Entrate nel castello attraverso il suo ponte levatoio, uno dei pochi ancora funzionanti, e immergetevi nella storia della famiglia Talleyrand-Périgord."
+    ],
+    "fr": [
+      "L’imposant château de Chalais attire les regards et pour cause, il domine la ville depuis son éperon rocheux. Entrez dans le château en empruntant son pont levis, l'un des rares encore en état de marche, et plongez dans l'histoire des Talleyrand-Périgord."
+    ],
+    "nl": [
+      "Het imposante kasteel van Chalais is niet voor niets een blikvanger: het domineert de stad vanaf zijn rotspunt. Ga het kasteel binnen via de ophaalbrug, een van de weinige die nog werken, en duik in de geschiedenis van de familie Talleyrand-Périgord."
+    ],
+    "es": [
+      "El imponente castillo de Chalais atrae todas las miradas, y con razón, ya que domina la ciudad desde su promontorio rocoso. Entre en el castillo por su puente levadizo, uno de los pocos que aún funcionan, y sumérjase en la historia de la familia Talleyrand-Périgord."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Château de Chalais"
+    ],
+    "ru": [
+      "Château de Chalais"
+    ],
+    "en": [
+      "Château de Chalais"
+    ],
+    "it": [
+      "Château de Chalais"
+    ],
+    "fr": [
+      "Château de Chalais"
+    ],
+    "zh": [
+      "Château de Chalais"
+    ],
+    "nl": [
+      "Château de Chalais"
+    ],
+    "es": [
+      "Château de Chalais"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q2968818"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/16ba7217-2e6a-3f1d-a54d-11ab6967e371",
+    "dc:identifier": "2063",
+    "schema:email": [
+      "direction@sudcharentetourisme.fr",
+      "noemie@sudcharentetourisme.fr"
+    ],
+    "schema:legalName": "Office de tourisme du Sud Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.sudcharentetourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/93c2b8db-b6f7-3ca0-8ad4-37934e63a7ed",
+      "schema:email": [
+        "yves.bonnin82@orange.fr"
+      ],
+      "schema:telephone": [
+        "+33 6 12 33 32 76"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.chateaudechalais.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/7afc9af8-e757-30d7-9445-48a322585ebd",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/379bb068-e047-3a94-8e09-eb4d4faa8f0b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6ccc46b6-f5cb-33ec-be58-dee0c5b42d43",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/844b40c8-7e37-3d25-b7b5-21a4e15f2c72",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dd2ca592-8a61-3b8b-a967-6d30ba43fc4b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das imposante Schloss von Chalais zieht die Blicke auf sich, und das aus gutem Grund: Es überragt die Stadt von seinem Felsvorsprung aus. Betreten Sie das Schloss über seine Zugbrücke, eine der wenigen noch funktionstüchtigen, und tauchen Sie ein in die Geschichte der Familie Talleyrand-Périgord."
+        ],
+        "en": [
+          "The imposing castle of Chalais is a real eye-catcher, it dominates the town from its rocky spur. Enter the castle via its drawbridge, one of the few still in working order, and plunge into the history of the Talleyrand-Périgord."
+        ],
+        "it": [
+          "L'imponente castello di Chalais, che domina la città dal suo sperone roccioso, è una vera e propria attrazione. Entrate nel castello attraverso il suo ponte levatoio, uno dei pochi ancora funzionanti, e immergetevi nella storia della famiglia Talleyrand-Périgord."
+        ],
+        "fr": [
+          "L’imposant château de Chalais attire les regards et pour cause, il domine la ville depuis son éperon rocheux. Entrez dans le château en empruntant son pont levis, l'un des rares encore en état de marche, et plongez dans l'histoire des Talleyrand-Périgord."
+        ],
+        "nl": [
+          "Het imposante kasteel van Chalais is niet voor niets een blikvanger: het domineert de stad vanaf zijn rotspunt. Ga het kasteel binnen via de ophaalbrug, een van de weinige die nog werken, en duik in de geschiedenis van de familie Talleyrand-Périgord."
+        ],
+        "es": [
+          "El imponente castillo de Chalais atrae todas las miradas, y con razón, ya que domina la ciudad desde su promontorio rocoso. Entre en el castillo por su puente levadizo, uno de los pocos que aún funcionan, y sumérjase en la historia de la familia Talleyrand-Périgord."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/083efa3f-36c5-341f-9939-45426ab61af9",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/d0c055f5-fbf1-3d25-8964-9565c14c2bb6",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "Chalais chat3"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Jack ma (https://commons.wikimedia.org/wiki/User:Jack_ma)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/7660bda7-14e8-37d8-9268-35735046e78c",
+          "ebucore:fileSize": [
+            239601
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1200,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/f/f7/Chalais_chat3.JPG"
+          ],
+          "ebucore:width": 1600,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/1612be8d-9bda-313c-9274-d8ea77c18104",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3beafe83-db8d-30bb-943e-1c8ff12ace28",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4193e9a7-0d8f-3d79-b2ea-1ecc4f44c110",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4368d758-e093-3fd2-9121-476d3cba9dbb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/2380c593-12d2-3671-9b72-9321823de8a5",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/94c87787-c1bb-38e4-860e-c06d5f23c32b",
+          "schema:addressLocality": "Chalais",
+          "schema:postalCode": "16210",
+          "schema:streetAddress": [
+            "15 Rue du Château"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16073",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Chalais"
+              ],
+              "pt": [
+                "Chalais"
+              ],
+              "en": [
+                "Chalais"
+              ],
+              "it": [
+                "Chalais"
+              ],
+              "fr": [
+                "Chalais"
+              ],
+              "nl": [
+                "Chalais"
+              ],
+              "es": [
+                "Chalais"
+              ]
+            },
+            "insee": "16073",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/652dce69-2f68-38d0-acd0-056f6b539d2d",
+        "schema:latitude": "45.273792",
+        "schema:longitude": "0.038263",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/218584c3-977f-3e7a-b047-f1ccac9405f3",
+          "schema:validFrom": "2023-08-31T00:00:00",
+          "schema:validThrough": "2023-09-29T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Von 14:30 bis 18:30 Uhr"
+            ],
+            "en": [
+              "From 2:30 pm to 6:30 pm"
+            ],
+            "it": [
+              "Dalle 14.30 alle 18.30"
+            ],
+            "fr": [
+              "De 14h30 à 18h30"
+            ],
+            "nl": [
+              "Van 14.30 tot 18.30 uur"
+            ],
+            "es": [
+              "De 14.30 h a 18.30 h"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/479c3941-fd10-36ca-9cff-cec058094844",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/53618ba8-8c02-3fd3-a7d7-0181b4ee2085",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a83ac32b-7292-3d6b-b3c3-3bc7324ea856",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a863aa5c-d060-3f10-b3f5-659d9d8ef2cf",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d63db953-8105-356a-9cf5-43417152f9c6",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/924f584c-2b07-3425-92ca-0c2cf8124323",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-04-29T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Besichtigung nur nach vorheriger Anmeldung."
+            ],
+            "en": [
+              "Visit by reservation only."
+            ],
+            "it": [
+              "Visita solo su prenotazione."
+            ],
+            "fr": [
+              "Visite sur réservation uniquement."
+            ],
+            "es": [
+              "Visita previa reserva."
+            ],
+            "nl": [
+              "Bezoek alleen op reservering."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/0e61a907-93ee-3f3b-b545-a45726e3b56d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6118d8aa-cf98-3496-9406-8a0857671244",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/67a57b16-2344-3c9c-94d7-d531344720d1",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6d8a8a82-3d13-37c9-b53d-797d939dfd6e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/89424fa0-bad2-3334-a306-5ba4a27291bc",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9a2b97b4-469a-3335-8b56-5c89566fa6c2",
+          "schema:validFrom": "2023-09-30T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Besichtigung nur nach vorheriger Anmeldung."
+            ],
+            "en": [
+              "Visit by reservation only."
+            ],
+            "it": [
+              "Visita solo su prenotazione."
+            ],
+            "fr": [
+              "Visite sur réservation uniquement."
+            ],
+            "es": [
+              "Visita previa reserva."
+            ],
+            "nl": [
+              "Bezoek alleen op reservering."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/320b0328-4f28-3b74-9aeb-8220f94a00b8",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6ff0fea0-1c53-31b0-8b21-9d5137b2a730",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/914ce896-4f6b-3a5e-ba0f-ab2fd198d68b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a1c7cba3-effd-307c-9f95-46c2f197176e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/b9292ef3-f997-3efe-b56c-651d1a434718",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9cf6af44-42a0-3497-acd4-8d70513685f3",
+          "schema:validFrom": "2023-04-30T00:00:00",
+          "schema:validThrough": "2023-06-14T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Von 14:30 bis 18:30 Uhr.\r\nAuch an Feiertagen geöffnet"
+            ],
+            "en": [
+              "From 2:30 pm to 6:30 pm.\r\nAlso open on public holidays"
+            ],
+            "it": [
+              "Dalle 14.30 alle 18.30.\r\nAperto anche nei giorni festivi"
+            ],
+            "fr": [
+              "De 14h30 à 18h30.\r\nOuvert également les jours fériés"
+            ],
+            "nl": [
+              "Van 14.30 tot 18.30 uur.\r\nOok open op feestdagen"
+            ],
+            "es": [
+              "De 14.30 a 18.30 h.\r\nAbierto también los días festivos"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/172e5905-e3b5-3b4a-9069-d8bdb8de0f08",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/36aff751-3389-336f-9c71-61c04365c80a",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6d266284-12b4-353b-b290-baa0f90a7a6f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/cf15fd4d-2ee4-33bf-9f11-8a23475fee5b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f58b52d1-6d43-3c3e-8e5f-4f86f28fcce6",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cea1bbfa-2f68-346e-8006-a828d5d957e3",
+          "schema:validFrom": "2023-06-29T00:00:00",
+          "schema:validThrough": "2023-08-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Von 10 bis 12 Uhr und von 14.30 bis 18.30 Uhr"
+            ],
+            "en": [
+              "From 10am to 12pm and from 2.30pm to 6.30pm"
+            ],
+            "it": [
+              "Dalle 10.00 alle 12.00 e dalle 14.30 alle 18.30"
+            ],
+            "fr": [
+              "De 10h à 12h et de 14h30 à 18h30"
+            ],
+            "nl": [
+              "Van 10 tot 12 uur en van 14.30 tot 18.30 uur"
+            ],
+            "es": [
+              "De 10.00 a 12.00 h. y de 14.30 a 18.30 h"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/81ad2a46-e50c-389c-8849-82fb81a3af98",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/8d707eee-986b-39eb-85cb-191f39e017c9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/99dc1323-adeb-3107-b5b3-2404bb27ebb9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/b5a9239b-7ca8-3a40-940c-d0351ff9d9bc",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d3c27b32-372b-3498-b418-76ed2396ab68",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fbf4e1b5-3729-3101-ab66-fcfad31524ef",
+          "schema:validFrom": "2023-06-15T00:00:00",
+          "schema:validThrough": "2023-06-28T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Von 14:30 bis 18:30 Uhr"
+            ],
+            "en": [
+              "From 2:30 pm to 6:30 pm"
+            ],
+            "it": [
+              "Dalle 14.30 alle 18.30"
+            ],
+            "fr": [
+              "De 14h30 à 18h30"
+            ],
+            "nl": [
+              "Van 14.30 tot 18.30 uur"
+            ],
+            "es": [
+              "De 14.30 h a 18.30 h"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/12119711-8c24-3718-8bca-c63246895a06",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/5a6b4958-51cf-315d-9d6d-a9d0c1ba6d5b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6b2bc0af-cc5f-3d67-ad6e-c6161c5c33ce",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d0d678b1-9d80-3d78-b775-322f7b87f5ec",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ffe2d13b-3858-3ead-9730-414ae260f344",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/17ccf9a1-6b41-3eb9-a1e1-edf0fbbf90c5",
+      "schema:email": [
+        "direction@sudcharentetourisme.fr",
+        "noemie@sudcharentetourisme.fr"
+      ],
+      "schema:legalName": "Office de tourisme du Sud-Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.sudcharentetourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-04-06",
+  "lastUpdateDatatourisme": "2023-07-24T05:40:52.247Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/8fc3745d-1f21-32ed-98cb-71cde3fa0a66",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/d8b11f1a-b2ff-3f6d-a0bf-53fec003bbb0",
+          "schema:maxPrice": [
+            "10",
+            "4",
+            "8"
+          ],
+          "schema:minPrice": [
+            "10",
+            "4",
+            "8"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

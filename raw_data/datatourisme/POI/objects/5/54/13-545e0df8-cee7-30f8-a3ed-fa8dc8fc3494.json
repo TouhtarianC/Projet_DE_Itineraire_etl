@@ -1,0 +1,445 @@
+{
+  "@id": "https://data.datatourisme.fr/13/545e0df8-cee7-30f8-a3ed-fa8dc8fc3494",
+  "dc:identifier": "6536926",
+  "@type": [
+    "CityHeritage",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Bréville ist eine kleine ländliche Gemeinde im Westen des Departements Charente nördlich von Cognac."
+    ],
+    "en": [
+      "Bréville is a small rural commune located in the west of the Charente, north of Cognac."
+    ],
+    "it": [
+      "Bréville è un piccolo comune rurale nella parte occidentale della Charente, a nord di Cognac."
+    ],
+    "fr": [
+      "Bréville est une petite commune rurale située à l'ouest de la Charente au nord de Cognac."
+    ],
+    "nl": [
+      "Bréville is een kleine plattelandsgemeente in het westen van de Charente, ten noorden van Cognac."
+    ],
+    "es": [
+      "Bréville es un pequeño municipio rural situado al oeste de la Charente, al norte de Cognac."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Village de Bréville, Pôle des Métiers d'Art du Bois"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/0ae3f79a-3023-3b6c-85a6-f7d298ba1310",
+    "dc:identifier": "2065",
+    "schema:email": [
+      "elodie@destination-cognac.com",
+      "emmanuelle@destination-cognac.com",
+      "evelyne@destination-cognac.com",
+      "pascale@destination-cognac.com"
+    ],
+    "schema:legalName": "Destination Cognac",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.destination-cognac.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/8f65e10f-deca-3dc1-be3b-81746d9e75e6",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2b4cddd6-73ce-311e-bdbe-55afd9796aa0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4bf823c5-d90f-3cd5-9706-ed04eeaa213d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/63939355-78dc-310e-9a6c-ffc680268ee4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/aea87114-2f94-3cd4-a9c6-2b5a98c5fcd4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d23d6725-2e5d-3850-9627-f92dcce5dc76",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Bréville ist eine kleine ländliche Gemeinde im Westen des Departements Charente nördlich von Cognac."
+        ],
+        "en": [
+          "Bréville is a small rural commune located in the west of the Charente, north of Cognac."
+        ],
+        "it": [
+          "Bréville è un piccolo comune rurale nella parte occidentale della Charente, a nord di Cognac."
+        ],
+        "fr": [
+          "Bréville est une petite commune rurale située à l'ouest de la Charente au nord de Cognac."
+        ],
+        "nl": [
+          "Bréville is een kleine plattelandsgemeente in het westen van de Charente, ten noorden van Cognac."
+        ],
+        "es": [
+          "Bréville es un pequeño municipio rural situado al oeste de la Charente, al norte de Cognac."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/10cde003-3ac7-3003-941c-72be2c90d8e1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/1db847c4-0d68-3013-a263-6cf07d60b80a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/242726e5-7ace-3357-ae05-486111a6b9dd",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/31c93c7a-62c9-36ee-a190-a6f8f4eb0c74",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/59a025c9-2406-3456-ba15-49cf97a9e9f7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/4b081097-081b-3346-b608-7c570398e227",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/3d243262-ae2e-3e6f-bdd7-33d998e5ad88",
+          "schema:addressLocality": "Bréville",
+          "schema:postalCode": "16370",
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16060",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Bréville"
+              ],
+              "pt": [
+                "Bréville"
+              ],
+              "en": [
+                "Bréville"
+              ],
+              "it": [
+                "Bréville"
+              ],
+              "fr": [
+                "Bréville"
+              ],
+              "nl": [
+                "Bréville"
+              ],
+              "es": [
+                "Bréville"
+              ]
+            },
+            "insee": "16060",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/d9443cc5-0e7b-3daf-8725-da5739890272",
+        "schema:latitude": "45.796605",
+        "schema:longitude": "-0.262039",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b2f223ca-b3f8-38b3-9aef-bb09899fb1d3",
+      "schema:email": [
+        "elodie@destination-cognac.com",
+        "emmanuelle@destination-cognac.com",
+        "evelyne@destination-cognac.com",
+        "pascale@destination-cognac.com"
+      ],
+      "schema:legalName": "Destination Cognac",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.destination-cognac.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-23",
+  "lastUpdateDatatourisme": "2023-06-24T05:41:45.967Z"
+}

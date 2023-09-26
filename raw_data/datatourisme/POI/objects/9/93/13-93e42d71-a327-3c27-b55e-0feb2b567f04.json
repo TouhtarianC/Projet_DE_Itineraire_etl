@@ -1,0 +1,470 @@
+{
+  "@id": "https://data.datatourisme.fr/13/93e42d71-a327-3c27-b55e-0feb2b567f04",
+  "dc:identifier": "5773545",
+  "@type": [
+    "schema:Landform",
+    "Beach",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Im Norden von Saint-Palais liegt der Strand Grande Côte mit seinem 2,5 km langen Strand, der von Dünen und Wald gesäumt wird."
+    ],
+    "en": [
+      "To the north of Saint-Palais is the beach of the Grande Côte and its 2.5 km of beach bordered by dunes and forest."
+    ],
+    "it": [
+      "A nord di Saint-Palais si trova la spiaggia della Grande Côte con i suoi 2,5 km di spiaggia delimitata da dune e foresta."
+    ],
+    "fr": [
+      "Au nord de Saint-Palais se trouve la plage de la Grande Côte et ses 2,5 km de plage bordée par les dunes et la forêt."
+    ],
+    "nl": [
+      "Ten noorden van Saint-Palais ligt het strand Grande Côte met zijn 2,5 km strand omzoomd door duinen en bos."
+    ],
+    "es": [
+      "Al norte de Saint-Palais se encuentra la playa de la Grande Côte con sus 2,5 km de playa bordeada de dunas y bosque."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Plage de la Grande Côte"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q49322633"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5ad963eb-13cd-3729-bba0-2de859b1a01f",
+      "schema:email": [
+        "contact@royanatlantique.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 08 21 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.royanatlantique.fr/sur-place/plages-charente-maritime/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/65fc3d8e-ca9d-3462-8f18-1c7b1d8f8123",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/06936bd5-c892-3a6e-a21e-a7f173f1e6d3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7ba842d3-a243-3dce-beaf-1fd2f40e1346",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b90e996f-049b-3c8b-9220-f7ed65356b49",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ced23dba-0c4a-3f89-bc77-0c8b6631afd3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f3165b84-a345-399d-9eca-6b33054aa2d0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Im Norden von Saint-Palais liegt der Strand Grande Côte mit seinem 2,5 km langen Strand, der von Dünen und Wald gesäumt wird."
+        ],
+        "en": [
+          "To the north of Saint-Palais is the beach of the Grande Côte and its 2.5 km of beach bordered by dunes and forest."
+        ],
+        "it": [
+          "A nord di Saint-Palais si trova la spiaggia della Grande Côte con i suoi 2,5 km di spiaggia delimitata da dune e foresta."
+        ],
+        "fr": [
+          "Au nord de Saint-Palais se trouve la plage de la Grande Côte et ses 2,5 km de plage bordée par les dunes et la forêt."
+        ],
+        "nl": [
+          "Ten noorden van Saint-Palais ligt het strand Grande Côte met zijn 2,5 km strand omzoomd door duinen en bos."
+        ],
+        "es": [
+          "Al norte de Saint-Palais se encuentra la playa de la Grande Côte con sus 2,5 km de playa bordeada de dunas y bosque."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Bathing",
+      "@type": [
+        "AccommodationAmenity",
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Baden"
+        ],
+        "pt": [
+          "Banho"
+        ],
+        "en": [
+          "Bathing"
+        ],
+        "it": [
+          "Bagno"
+        ],
+        "fr": [
+          "Baignade"
+        ],
+        "nl": [
+          "Zwemmen"
+        ],
+        "es": [
+          "Baño"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/7b95ee56-689a-3849-ab6f-bb1772a9d9f6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9148a161-4d3e-34ff-9fcd-0dfb312537d9",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/98595a18-6182-3d9f-8b62-af249fb4ecc9",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/aa388ca2-e454-3f89-bbc7-f9f3aadfb637",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/bb5741fc-2f96-31f3-9b55-87f5f6604cad",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/e9f97098-d77e-3b32-8fef-478c1956abf6",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/37d39ef4-63ae-3270-9c09-059fb4973344",
+          "schema:addressLocality": "Saint-Palais-sur-Mer",
+          "schema:postalCode": "17420",
+          "schema:streetAddress": [
+            "La Grande Côte"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17380",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Palais-sur-Mer"
+              ],
+              "pt": [
+                "Saint-Palais-sur-Mer"
+              ],
+              "en": [
+                "Saint-Palais-sur-Mer"
+              ],
+              "it": [
+                "Saint-Palais-sur-Mer"
+              ],
+              "fr": [
+                "Saint-Palais-sur-Mer"
+              ],
+              "nl": [
+                "Saint-Palais-sur-Mer"
+              ],
+              "es": [
+                "Saint-Palais-sur-Mer"
+              ]
+            },
+            "insee": "17380",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/db93b9d2-8843-3cf1-b21e-a2388e221618",
+        "schema:latitude": "45.65284",
+        "schema:longitude": "-1.124039",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-05-31",
+  "lastUpdateDatatourisme": "2023-06-01T05:41:14.038Z"
+}

@@ -1,0 +1,476 @@
+{
+  "@id": "https://data.datatourisme.fr/13/9360d02b-3d6c-31ce-87a7-c7ffff77fceb",
+  "dc:identifier": "5700538",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Dieser Park ist der einzige in der Stadt, dessen Gestaltung typisch für die symbolischen Gärten der Romantik ist."
+    ],
+    "en": [
+      "This park is the only one in the city whose design is typical of the symbolic gardens of the Romantic period."
+    ],
+    "it": [
+      "È l'unico parco della città il cui disegno è tipico dei giardini simbolici del periodo romantico."
+    ],
+    "fr": [
+      "Ce parc est le seul de la ville dont la conception est typique des jardins symboliques de l'époque romantique."
+    ],
+    "es": [
+      "Este parque es el único de la ciudad cuyo diseño es típico de los jardines simbólicos del periodo romántico."
+    ],
+    "nl": [
+      "Dit is het enige park in de stad waarvan het ontwerp typerend is voor de symbolische tuinen uit de Romantiek."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Massiou-Park"
+    ],
+    "en": [
+      "Massiou Park"
+    ],
+    "fr": [
+      "Parc Massiou"
+    ],
+    "es": [
+      "Parque Massiou"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/1359aa93-3b48-3754-a2f5-4adb688bfa77",
+    "dc:identifier": "2058",
+    "schema:email": [
+      "a.lefeuvre@larochelle-tourisme-evenements.com",
+      "c.collot@larochelle-tourisme-evenements.com",
+      "m.farre@larochelle-tourisme-evenements.com",
+      "maxime.vossier@otipass.com",
+      "s.nogues@larochelle-tourisme-evenements.com"
+    ],
+    "schema:legalName": "La Rochelle Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.larochelle-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/d600403d-d2c5-39d6-89e6-ce6037a1e0f7",
+      "schema:telephone": [
+        "+33 5 46 51 11 66"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/08ca61db-2144-3e99-aad0-6914988a7065",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/d0c79253-6fbc-3b8c-b6b3-9ae5146b3969",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ef8d58c8-a754-3752-8ff6-dde5caea7fab",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Dieser Park ist der einzige in der Stadt, dessen Gestaltung typisch für die symbolischen Gärten der Romantik ist."
+        ],
+        "en": [
+          "This park is the only one in the city whose design is typical of the symbolic gardens of the Romantic period."
+        ],
+        "it": [
+          "È l'unico parco della città il cui disegno è tipico dei giardini simbolici del periodo romantico."
+        ],
+        "fr": [
+          "Ce parc est le seul de la ville dont la conception est typique des jardins symboliques de l'époque romantique."
+        ],
+        "es": [
+          "Este parque es el único de la ciudad cuyo diseño es típico de los jardines simbólicos del periodo romántico."
+        ],
+        "nl": [
+          "Dit is het enige park in de stad waarvan het ontwerp typerend is voor de symbolische tuinen uit de Romantiek."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/2ebd8bf1-59a1-3a85-b070-326e9ccd3122",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4dcf3d41-8ca8-3fa0-9989-52e9e47f1d36",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/612275c7-81c7-3b23-acc2-4acec6a15d76",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/3926d16d-c9e6-3bba-a1d1-9d5413a5d999",
+          "schema:addressLocality": "La Rochelle",
+          "schema:postalCode": "17000",
+          "schema:streetAddress": [
+            "Rue Massiou"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17300",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "La Rochelle"
+              ],
+              "pt": [
+                "La Rochelle"
+              ],
+              "en": [
+                "La Rochelle"
+              ],
+              "it": [
+                "La Rochelle"
+              ],
+              "fr": [
+                "La Rochelle"
+              ],
+              "nl": [
+                "La Rochelle"
+              ],
+              "es": [
+                "La Rochelle"
+              ]
+            },
+            "insee": "17300",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/5d6a57aa-f536-3858-9112-1e4f1c641f5f",
+        "schema:latitude": "46.164743",
+        "schema:longitude": "-1.149327",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/7982fe65-de98-38af-97af-0e5e7fa80cd8",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "- Winter vom 01/10 bis 31/03 von 9:00 bis 17:00 Uhr;\r\n- Sommer vom 01/04 bis 30/09 von 9 bis 18 Uhr;\r\n- An Wochenenden und Feiertagen im Winter und Sommer von 14 bis 17 Uhr."
+            ],
+            "en": [
+              "- Winter from 01/10 to 31/03 from 9am to 5pm;\r\n- Summer from 01/04 to 30/09 from 9am to 6pm;\r\n- Week-end and public holidays winter and summer from 14h to 17h."
+            ],
+            "it": [
+              "- Inverno dal 01/10 al 31/03 dalle 9.00 alle 17.00;\r\n- Estate dal 01/04 al 30/09 dalle 9.00 alle 18.00;\r\n- Fine settimana e giorni festivi invernali ed estivi dalle 14.00 alle 17.00."
+            ],
+            "fr": [
+              "- Hiver du 01/10 au 31/03 de 9h à 17h;\r\n- Eté du 01/04 au 30/09 de 9h à 18h;\r\n- Week-end et jours fériés hiver et été de 14h à 17h."
+            ],
+            "nl": [
+              "- Winter van 01/10 tot 31/03 van 9u tot 17u;\r\n- Zomer van 01/04 tot 30/09 van 9u tot 18u;\r\n- Weekends en feestdagen winter en zomer van 14.00 tot 17.00 uur."
+            ],
+            "es": [
+              "- Invierno del 01/10 al 31/03 de 9 a 17 horas;\r\n- Verano del 01/04 al 30/09 de 9 a 18 horas;\r\n- Fines de semana y festivos de invierno y verano de 14 a 17 horas."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/3bedea9f-9aec-33e5-ab4d-1e0fa7e83c75",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/54ca1f8a-ccde-33c1-a666-002cbb7ecbaa",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6a679a38-e70b-3a7c-a51c-9bdc0f5e9aba",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d6395482-dc67-3dc2-bc86-847653ee4f3d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ef8f1de7-9cd1-3388-81a1-f52bbf500602",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8da8ffa9-cdd8-3b7a-a8c5-edb456104fe0",
+      "schema:email": [
+        "a.lefeuvre@larochelle-tourisme-evenements.com",
+        "c.collot@larochelle-tourisme-evenements.com",
+        "m.farre@larochelle-tourisme-evenements.com",
+        "maxime.vossier@otipass.com",
+        "s.nogues@larochelle-tourisme-evenements.com"
+      ],
+      "schema:legalName": "La Rochelle Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.larochelle-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-12-07",
+  "lastUpdateDatatourisme": "2023-05-26T05:53:38.304Z"
+}

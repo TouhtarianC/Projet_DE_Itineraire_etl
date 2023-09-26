@@ -1,0 +1,465 @@
+{
+  "@id": "https://data.datatourisme.fr/13/b07cfd55-2e8f-3d57-9da1-7db49e8ed015",
+  "dc:identifier": "5688750",
+  "@type": [
+    "CityHeritage",
+    "CulturalSite",
+    "District",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Saint-Trojan-les-Bains, seit 1898 ein Badeort, der 1983 unter Denkmalschutz gestellt wurde, hat sich mit seiner Strandpromenade und den schönen Villen aus dem 19. Jahrhundert, die repräsentativ für die Architektur am Meer sind, den Charme vergangener Zeiten bewahrt."
+    ],
+    "en": [
+      "Saint-Trojan-les-Bains, a seaside resort since 1898, listed in 1983, has kept its old-fashioned charm with its seafront and its beautiful 19th century villas, representative of seaside architecture."
+    ],
+    "it": [
+      "Saint-Trojan-les-Bains, stazione balneare dal 1898, classificata nel 1983, ha conservato il fascino di un tempo con il suo lungomare e le sue belle ville del XIX secolo, rappresentative dell'architettura balneare."
+    ],
+    "fr": [
+      "Saint-Trojan-les-Bains, station balnéaire depuis 1898, classée en 1983, a su garder ses charmes d’antan avec son front de mer et ses belles villas du XIXe siècle, représentatives de l'architecture balnéaire."
+    ],
+    "es": [
+      "Saint-Trojan-les-Bains, estación balnearia desde 1898, clasificada en 1983, conserva su encanto de antaño con su paseo marítimo y sus hermosas villas del siglo XIX, representativas de la arquitectura balnearia."
+    ],
+    "nl": [
+      "Saint-Trojan-les-Bains, een badplaats sinds 1898, geklasseerd in 1983, heeft zijn charme van weleer behouden met zijn zeedijk en zijn prachtige villa's uit de 19e eeuw, representatief voor de badplaatsarchitectuur."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Quartier balnéaire Saint-Trojan-les-Bains"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/1314d78c-18e5-3f1b-96f7-31eb0da93f95",
+      "schema:email": [
+        "accueil@marennes-oleron.com"
+      ],
+      "schema:telephone": [
+        "+33 5 46 85 65 23"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.ile-oleron-marennes.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/94963f83-8ea9-3dcc-9111-6b7e3bfe636f",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/5be121d2-faf8-3069-80aa-d3ac6662fec8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/62ecd1f1-c90c-3da0-9fc2-227f11f6a19e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6ae62f6d-863f-3240-ad56-073e6bcc0802",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7ded6b83-b058-3713-8e10-99882ae9010b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c0428517-23b7-30fc-83bb-7247984a0674",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Saint-Trojan-les-Bains, seit 1898 ein Badeort, der 1983 unter Denkmalschutz gestellt wurde, hat sich mit seiner Strandpromenade und den schönen Villen aus dem 19. Jahrhundert, die repräsentativ für die Architektur am Meer sind, den Charme vergangener Zeiten bewahrt."
+        ],
+        "en": [
+          "Saint-Trojan-les-Bains, a seaside resort since 1898, listed in 1983, has kept its old-fashioned charm with its seafront and its beautiful 19th century villas, representative of seaside architecture."
+        ],
+        "it": [
+          "Saint-Trojan-les-Bains, stazione balneare dal 1898, classificata nel 1983, ha conservato il fascino di un tempo con il suo lungomare e le sue belle ville del XIX secolo, rappresentative dell'architettura balneare."
+        ],
+        "fr": [
+          "Saint-Trojan-les-Bains, station balnéaire depuis 1898, classée en 1983, a su garder ses charmes d’antan avec son front de mer et ses belles villas du XIXe siècle, représentatives de l'architecture balnéaire."
+        ],
+        "es": [
+          "Saint-Trojan-les-Bains, estación balnearia desde 1898, clasificada en 1983, conserva su encanto de antaño con su paseo marítimo y sus hermosas villas del siglo XIX, representativas de la arquitectura balnearia."
+        ],
+        "nl": [
+          "Saint-Trojan-les-Bains, een badplaats sinds 1898, geklasseerd in 1983, heeft zijn charme van weleer behouden met zijn zeedijk en zijn prachtige villa's uit de 19e eeuw, representatief voor de badplaatsarchitectuur."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/1190a1e9-6119-38cf-821f-c70581b43e35",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6736aa03-6882-3c2e-a157-b134e72d5369",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7ec0064b-f465-3b9e-80ad-03a9664b02cc",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b4a46848-f99a-31f7-b73f-88dddf9c902d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d450521b-d9be-3248-8cf7-1f8f2ed042f7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/7af73489-a96b-3e02-8570-29f495eb1655",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1d60a7ac-e9e5-39dd-9161-024743312a12",
+          "schema:addressLocality": "Saint-Trojan-les-Bains",
+          "schema:postalCode": "17370",
+          "schema:streetAddress": [
+            "Boulevard de la Plage"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17411",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Trojan-les-Bains"
+              ],
+              "pt": [
+                "Saint-Trojan-les-Bains"
+              ],
+              "en": [
+                "Saint-Trojan-les-Bains"
+              ],
+              "it": [
+                "Saint-Trojan-les-Bains"
+              ],
+              "fr": [
+                "Saint-Trojan-les-Bains"
+              ],
+              "nl": [
+                "Saint-Trojan-les-Bains"
+              ],
+              "es": [
+                "Saint-Trojan-les-Bains"
+              ]
+            },
+            "insee": "17411",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/d001c94f-a963-3d53-be4e-c3dde405d586",
+        "schema:latitude": "45.835019",
+        "schema:longitude": "-1.200128",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/d7f018c3-c1ab-31f8-8901-4d29578edb89",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ile-oleron-marennes.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-04-09",
+  "lastUpdateDatatourisme": "2023-04-10T05:48:57.131Z"
+}

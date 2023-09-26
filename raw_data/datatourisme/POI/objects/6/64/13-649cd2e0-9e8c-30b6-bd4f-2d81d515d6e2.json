@@ -1,0 +1,537 @@
+{
+  "@id": "https://data.datatourisme.fr/13/649cd2e0-9e8c-30b6-bd4f-2d81d515d6e2",
+  "dc:identifier": "5962500",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Entdecken Sie die romanische Architektur der Kirche von Empuré."
+    ],
+    "en": [
+      "Discover the Romanesque architecture of the church of Empuré."
+    ],
+    "it": [
+      "Scoprite l'architettura romanica della chiesa di Empuré."
+    ],
+    "fr": [
+      "Découvrez l'architecture romane de l'église d'Empuré."
+    ],
+    "nl": [
+      "Ontdek de Romaanse architectuur van de kerk van Empuré."
+    ],
+    "es": [
+      "Descubra la arquitectura románica de la iglesia de Empuré."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Église paroissiale Saint-Maixent"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/a96d3afe-c184-366b-beca-7a9f989fc7e7",
+    "dc:identifier": "2056",
+    "schema:email": [
+      "infotouristique@destination-nordcharente.com"
+    ],
+    "schema:legalName": "Office de tourisme Destination Nord Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ruffecois-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/e2f5542d-3e16-3c92-b65d-09469b72dc1f",
+      "schema:telephone": [
+        "+33 5 45 31 72 10"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/2d36ac98-169d-3e12-a312-1fe1e4f2a108",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1e012b68-bd23-3dfe-b0d3-c11d9609fbd3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/84a818cb-6e2d-3f46-9e67-7c4f25f040d1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/95eccebc-3641-3013-930d-3b7669450260",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ead24f4a-d40d-3da6-8e06-79e19d8b3a6b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/efa49993-c28a-35fe-987c-ba12da189d89",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Entdecken Sie die romanische Architektur der Kirche von Empuré."
+        ],
+        "en": [
+          "Discover the Romanesque architecture of the church of Empuré."
+        ],
+        "it": [
+          "Scoprite l'architettura romanica della chiesa di Empuré."
+        ],
+        "fr": [
+          "Découvrez l'architecture romane de l'église d'Empuré."
+        ],
+        "nl": [
+          "Ontdek de Romaanse architectuur van de kerk van Empuré."
+        ],
+        "es": [
+          "Descubra la arquitectura románica de la iglesia de Empuré."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/9cf12a21-b728-3e90-991c-a8c665dad4cb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a01ca8f1-a228-3186-ac77-506a71267aab",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a02e5b72-5f1f-3cec-b999-d710933f3af4",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a0872102-cdee-3cad-aeff-44e3c0f768e7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ecd48880-c2af-3c60-bae4-0b77e2f7c9aa",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/9ad41dd9-73d4-3135-82f4-21ff8d61affb",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/0eb3098f-f37a-3700-8050-7ba06e91e716",
+          "schema:addressLocality": "Empuré",
+          "schema:postalCode": "16240",
+          "schema:streetAddress": [
+            "Le bourg"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16127",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Empuré"
+              ],
+              "pt": [
+                "Empuré"
+              ],
+              "en": [
+                "Empuré"
+              ],
+              "it": [
+                "Empuré"
+              ],
+              "fr": [
+                "Empuré"
+              ],
+              "nl": [
+                "Empuré"
+              ],
+              "es": [
+                "Empuré"
+              ]
+            },
+            "insee": "16127",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/b1c974f7-5912-3718-862b-ba23dc43a819",
+        "schema:latitude": "46.022136",
+        "schema:longitude": "0.051675",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/ac3a2e08-4073-3dce-96f5-b5d39025cb85",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Kostenlose Führungen von März bis Juli, um 15 Uhr :\r\n- sonntag, 13. März\r\n- sonntag, 10. April\r\n- sonntag, 8. Mai\r\n- sonntag, 12. Juni\r\n- sonntag, 10. Juli"
+            ],
+            "en": [
+              "Free guided tours from March to July, at 3pm:\r\n- sunday March 13\r\n- sunday April 10th\r\n- sunday May 8\r\n- sunday June 12\r\n- sunday July 10th"
+            ],
+            "it": [
+              "Visite guidate gratuite da marzo a luglio, alle 15.00:\r\n- domenica 13 marzo\r\n- domenica 10 aprile\r\n- domenica 8 maggio\r\n- domenica 12 giugno\r\n- domenica 10 luglio"
+            ],
+            "fr": [
+              "Visites guidées gratuites de mars à juillet, à 15h :\r\n- dimanche 13 mars\r\n- dimanche 10 avril\r\n- dimanche 8 mai\r\n- dimanche 12 juin\r\n- dimanche 10 juillet"
+            ],
+            "es": [
+              "Visitas guiadas gratuitas de marzo a julio, a las 15 horas:\r\n- domingo 13 de marzo\r\n- domingo 10 de abril\r\n- domingo 8 de mayo\r\n- domingo 12 de junio\r\n- domingo 10 de julio"
+            ],
+            "nl": [
+              "Gratis rondleidingen van maart tot juli, om 15.00 uur:\r\n- zondag 13 maart\r\n- zondag 10 april\r\n- zondag 8 mei\r\n- zondag 12 juni\r\n- zondag 10 juli"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/0d56f8c6-6295-33b9-83ee-36182f7de468",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/4a59fadb-6c98-3b61-812e-f89577968b9c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/bdc56120-5f3e-3089-a839-804a3d6e709f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c146e39a-dba3-34bb-8bcf-9b95c89e8488",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/fac262e5-1210-3b8d-85da-225f3d1c78a7",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/515fb63a-6beb-307d-a0d6-d59e3e2d3f76",
+      "schema:email": [
+        "infotouristique@destination-nordcharente.com"
+      ],
+      "schema:legalName": "Office de tourisme Destination Nord Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ruffecois-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-07-12",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.83Z"
+}

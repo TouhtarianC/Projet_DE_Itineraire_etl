@@ -1,0 +1,461 @@
+{
+  "@id": "https://data.datatourisme.fr/13/ab4aea29-b877-3bd1-9093-6295c2a392cd",
+  "dc:identifier": "5991998",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Sie können 20 Dokumente ausleihen, davon maximal: 10 Bücher oder Zeitschriften, 6 CDs, 2 DVDs (für 1 Monat)."
+    ],
+    "en": [
+      "You can borrow 20 documents, including a maximum of 10 books or magazines, 6 CDs, 2 DVDs (for 1 month)."
+    ],
+    "it": [
+      "È possibile prendere in prestito 20 documenti, tra cui un massimo di 10 libri o riviste, 6 CD, 2 DVD (per 1 mese)."
+    ],
+    "fr": [
+      "Vous pouvez emprunter 20 documents, dont au maximum : 10 livres ou revues, 6 CD, 2 DVD (pour 1 mois)."
+    ],
+    "nl": [
+      "U kunt 20 documenten lenen, waaronder maximaal 10 boeken of tijdschriften, 6 cd's, 2 dvd's (voor 1 maand)."
+    ],
+    "es": [
+      "Puede tomar prestados 20 documentos, incluyendo un máximo de 10 libros o revistas, 6 CDs, 2 DVDs (durante 1 mes)."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Médiathèque la Médiaporte"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f3e52c30-0b82-3a81-a3e7-ace55fe15c08",
+    "dc:identifier": "2053",
+    "schema:email": [
+      "snebout@angouleme-tourisme.com"
+    ],
+    "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.angouleme-tourisme.com/"
+    ],
+    "lastUpdateDatatourisme": "2022-12-19T06:44:07.571Z"
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/49c56a63-2b37-34b8-8b0e-f5ddf313de30",
+      "schema:email": [
+        "mediaporte@ville-ruellesurtouvre.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 65 34 89"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/e2a26607-e99f-3f9f-95c6-58cd02ca4767",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/03d5a004-3ec5-37b0-9db6-961f624dfb64",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2fe9e834-1d9c-33d6-8a7c-e68f95eb7371",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/48d20b3b-331a-3b0d-83a7-28c38d67cbf9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6c11456a-ec67-3e7a-a1a3-4d0e51493910",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d8d18f47-2693-35f1-ada0-9c978fce4ece",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Sie können 20 Dokumente ausleihen, davon maximal: 10 Bücher oder Zeitschriften, 6 CDs, 2 DVDs (für 1 Monat)."
+        ],
+        "en": [
+          "You can borrow 20 documents, including a maximum of 10 books or magazines, 6 CDs, 2 DVDs (for 1 month)."
+        ],
+        "it": [
+          "È possibile prendere in prestito 20 documenti, tra cui un massimo di 10 libri o riviste, 6 CD, 2 DVD (per 1 mese)."
+        ],
+        "fr": [
+          "Vous pouvez emprunter 20 documents, dont au maximum : 10 livres ou revues, 6 CD, 2 DVD (pour 1 mois)."
+        ],
+        "nl": [
+          "U kunt 20 documenten lenen, waaronder maximaal 10 boeken of tijdschriften, 6 cd's, 2 dvd's (voor 1 maand)."
+        ],
+        "es": [
+          "Puede tomar prestados 20 documentos, incluyendo un máximo de 10 libros o revistas, 6 CDs, 2 DVDs (durante 1 mes)."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Dance",
+      "@type": [
+        "CulturalTheme",
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Tanz"
+        ],
+        "pt": [
+          "Dança"
+        ],
+        "en": [
+          "Dance"
+        ],
+        "it": [
+          "Danza"
+        ],
+        "fr": [
+          "Danse"
+        ],
+        "es": [
+          "Danza"
+        ],
+        "nl": [
+          "Dansen"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0d626a1a-64d4-3e9a-8d03-dc730ded0b8d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/14b5733f-fd6c-35ea-8a30-f25d05df3f39",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/72a0f28a-e7e4-3b44-8ba9-92eb3038c3df",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7f1ab940-b0de-3eca-9c95-0014c4beb970",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e6c663e6-4212-3b98-9532-e3bbda39905b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/3c2113e1-5f76-30a7-93dc-697df64915a7",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/db8319fc-c7ce-30f6-9962-b0137c8ec0da",
+          "schema:addressLocality": "Ruelle-sur-Touvre",
+          "schema:postalCode": "16600",
+          "schema:streetAddress": [
+            "15 rue de Puyguillen"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16291",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ruelle-sur-Touvre"
+              ],
+              "pt": [
+                "Ruelle-sur-Touvre"
+              ],
+              "en": [
+                "Ruelle-sur-Touvre"
+              ],
+              "it": [
+                "Ruelle-sur-Touvre"
+              ],
+              "fr": [
+                "Ruelle-sur-Touvre"
+              ],
+              "nl": [
+                "Ruelle-sur-Touvre"
+              ],
+              "es": [
+                "Ruelle-sur-Touvre"
+              ]
+            },
+            "insee": "16291",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/35a76967-1ddd-3a96-a281-a2cb8a0ff272",
+        "schema:latitude": "45.677765",
+        "schema:longitude": "0.235808",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/65c93456-0984-3a13-aac5-3ae5946a15d8",
+      "schema:email": [
+        "snebout@angouleme-tourisme.com"
+      ],
+      "schema:legalName": "Office de Tourisme du Pays d'Angoulême",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.angouleme-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-06-27",
+  "lastUpdateDatatourisme": "2023-05-26T05:53:38.392Z"
+}

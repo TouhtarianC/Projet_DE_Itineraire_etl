@@ -1,0 +1,442 @@
+{
+  "@id": "https://data.datatourisme.fr/13/4b4b6082-8dcf-3f19-b745-600191f63c93",
+  "dc:identifier": "5697828",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das Gebäude, das heute in einen Ausstellungsraum umgewandelt wurde, beherbergte einst das Rettungsboot von Saint-Denis d'Oléron."
+    ],
+    "en": [
+      "Now converted into an exhibition hall, this building once housed the lifeboat of Saint-Denis d'Oléron."
+    ],
+    "it": [
+      "Oggi trasformato in sala espositiva, questo edificio ospitava un tempo la scialuppa di Saint-Denis d'Oléron."
+    ],
+    "fr": [
+      "Aujourd’hui reconverti en salle d’exposition, ce bâtiment abritait autrefois le canot de sauvetage de Saint-Denis d'Oléron."
+    ],
+    "nl": [
+      "In dit gebouw, dat nu een tentoonstellingsruimte is, lag ooit de reddingsboot Saint-Denis d'Oléron."
+    ],
+    "es": [
+      "Convertido hoy en sala de exposiciones, este edificio albergó en su día el bote salvavidas de Saint-Denis d'Oléron."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Ancien abri du canot de sauvetage"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/ecf79127-8b5b-3b6a-a865-4d33578c528c",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/222be654-ac05-30a8-9c21-cddc09aeb60c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/279f8865-c4de-3a67-87fd-ec58809109fc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2d656d2a-2dd1-309d-bae1-e02464ccad04",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3f18138c-a81e-3292-a35d-09c32d4e33fa",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/401ebbf9-79c0-3f75-8945-add9eb2d2871",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das Gebäude, das heute in einen Ausstellungsraum umgewandelt wurde, beherbergte einst das Rettungsboot von Saint-Denis d'Oléron."
+        ],
+        "en": [
+          "Now converted into an exhibition hall, this building once housed the lifeboat of Saint-Denis d'Oléron."
+        ],
+        "it": [
+          "Oggi trasformato in sala espositiva, questo edificio ospitava un tempo la scialuppa di Saint-Denis d'Oléron."
+        ],
+        "fr": [
+          "Aujourd’hui reconverti en salle d’exposition, ce bâtiment abritait autrefois le canot de sauvetage de Saint-Denis d'Oléron."
+        ],
+        "nl": [
+          "In dit gebouw, dat nu een tentoonstellingsruimte is, lag ooit de reddingsboot Saint-Denis d'Oléron."
+        ],
+        "es": [
+          "Convertido hoy en sala de exposiciones, este edificio albergó en su día el bote salvavidas de Saint-Denis d'Oléron."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/1312f2cd-5d5b-3660-b904-4d568972ae6b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3b9c94e8-f7e9-36cf-a801-60211259fb89",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3e31dd19-5bed-3c21-8b2a-aebcde684c5a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/64ac2176-989c-34dd-a9c8-85a7ce1168ff",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/66ddaebe-0e70-3b76-85d7-764731c1a2d1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/072651f0-6823-3716-8bd7-179ae11365c0",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/a69e18a3-9d7f-3966-b86d-91ac5bed810c",
+          "schema:addressLocality": "Saint-Denis-d'Oléron",
+          "schema:postalCode": "17650",
+          "schema:streetAddress": [
+            "Port de Plaisance"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17323",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "pt": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "en": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "it": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "fr": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "nl": [
+                "Saint-Denis-d'Oléron"
+              ],
+              "es": [
+                "Saint-Denis-d'Oléron"
+              ]
+            },
+            "insee": "17323",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/bc19e9b9-a546-3249-a397-603d0bd05f87",
+        "schema:latitude": "46.036665",
+        "schema:longitude": "-1.372908",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3da51487-e66f-3bc3-a197-831b4d5a3b7c",
+          "schema:validFrom": "2023-04-01T00:00:00",
+          "schema:validThrough": "2023-11-05T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/80009736-71af-3484-9792-2b3de63306d1",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-01-17",
+  "lastUpdateDatatourisme": "2023-06-01T05:41:14.013Z"
+}

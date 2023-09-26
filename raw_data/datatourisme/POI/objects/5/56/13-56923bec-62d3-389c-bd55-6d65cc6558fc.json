@@ -1,0 +1,560 @@
+{
+  "@id": "https://data.datatourisme.fr/13/56923bec-62d3-389c-bd55-6d65cc6558fc",
+  "dc:identifier": "5856086",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Geführte Besichtigung, organisiert vom Verein der Freunde von Saint Savinien und seiner Region.\r\nBegleitete Einzelbesuche an Öffnungstagen\r\nBegleitete Einzelbesuche oder Gruppenbesuche auf Anfrage."
+    ],
+    "en": [
+      "Guided tour organized by the association of the friends of Saint Savinien and its region.\r\nAccompanied individual visits on opening days\r\nGuided individual or group visits on request."
+    ],
+    "it": [
+      "Visita guidata organizzata dall'associazione degli amici di Saint Savinien e della sua regione.\r\nVisite individuali accompagnate nei giorni di apertura\r\nVisite guidate individuali o di gruppo su richiesta."
+    ],
+    "fr": [
+      "Visite guidée organisée par l'association des amis de Saint Savinien et sa région.\r\nVisites individuelles accompagnées les jours d’ouverture. \r\nVisites individuelles accompagnées ou en groupe sur demande."
+    ],
+    "es": [
+      "Visita guiada organizada por la asociación de amigos de Saint Savinien y su región.\r\nVisitas individuales acompañadas los días de apertura\r\nVisitas guiadas individuales o en grupo previa solicitud."
+    ],
+    "nl": [
+      "Rondleiding georganiseerd door de vereniging van vrienden van Saint Savinien en omstreken.\r\nBegeleide individuele bezoeken op openingsdagen\r\nBegeleide individuele of groepsbezoeken op aanvraag."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Maison du Patrimoine"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q3280037"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/cbef4632-1026-3840-8bc3-216d4774c8a9",
+    "dc:identifier": "2075",
+    "schema:email": [
+      "a.ponchon@charentestourisme.com"
+    ],
+    "schema:legalName": "Destination Vals de Saintonge / Charentes Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.destinationvalsdesaintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/6ea8f9e0-c438-380b-8dd9-e48cdfe4b63d",
+      "schema:email": [
+        "amisstsavinien@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 5 46 97 76 17"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.amisstsavinien.wixsite.com/amisstsavinien"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/2663199a-4bcc-3bbb-8d6e-40b3ac0c08fa",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0c3c45b1-4c79-396c-b02c-78165c7bb231",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/16544220-654f-3f3e-af2b-e10d30c35bc6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/287e78ee-15d4-32ba-857b-8479f0a9352c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2c0db450-a3a5-3494-8515-e79b4b2d1471",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/521e6d7b-3e0b-34cd-8371-48fa995ffd06",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Geführte Besichtigung, organisiert vom Verein der Freunde von Saint Savinien und seiner Region.\r\nBegleitete Einzelbesuche an Öffnungstagen\r\nBegleitete Einzelbesuche oder Gruppenbesuche auf Anfrage."
+        ],
+        "en": [
+          "Guided tour organized by the association of the friends of Saint Savinien and its region.\r\nAccompanied individual visits on opening days\r\nGuided individual or group visits on request."
+        ],
+        "it": [
+          "Visita guidata organizzata dall'associazione degli amici di Saint Savinien e della sua regione.\r\nVisite individuali accompagnate nei giorni di apertura\r\nVisite guidate individuali o di gruppo su richiesta."
+        ],
+        "fr": [
+          "Visite guidée organisée par l'association des amis de Saint Savinien et sa région.\r\nVisites individuelles accompagnées les jours d’ouverture. \r\nVisites individuelles accompagnées ou en groupe sur demande."
+        ],
+        "es": [
+          "Visita guiada organizada por la asociación de amigos de Saint Savinien y su región.\r\nVisitas individuales acompañadas los días de apertura\r\nVisitas guiadas individuales o en grupo previa solicitud."
+        ],
+        "nl": [
+          "Rondleiding georganiseerd door de vereniging van vrienden van Saint Savinien en omstreken.\r\nBegeleide individuele bezoeken op openingsdagen\r\nBegeleide individuele of groepsbezoeken op aanvraag."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/f4d6ef85-431a-37dd-a751-e0445950d1d1",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/bd663c1b-62e9-39cd-b59c-b71e438c952e",
+          "ebucore:isCoveredBy": "CC BY-SA 4.0",
+          "ebucore:title": {
+            "fr": [
+              "FR 17 Saint-Savinien - Maison du patrimoine"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "KiwiNeko14 (https://commons.wikimedia.org/wiki/User:KiwiNeko14)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/5c1ac422-4150-3d5e-93af-a4f535d7c509",
+          "ebucore:fileSize": [
+            1851628
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 3264,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/2/21/FR_17_Saint-Savinien_-_Maison_du_patrimoine.jpg"
+          ],
+          "ebucore:width": 2448,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0d9ca73c-00c0-3ee5-b959-4c4909acdd63",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/797199aa-11bf-3375-ab3c-599fe56f047e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a793a33f-b92b-3370-b14c-da736ffa79b3",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b0dcabd7-0364-3130-8159-c60055b7e850",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ef3be99f-b24d-3989-96cd-d8b23aae8b34",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/6cf64fcc-e074-3220-a69f-e357c0c2f017",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/fec87033-4eb4-3e4e-9d82-fcd5e35aeff8",
+          "schema:addressLocality": "Saint-Savinien",
+          "schema:postalCode": "17350",
+          "schema:streetAddress": [
+            "24 quai du port"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17397",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Savinien"
+              ],
+              "pt": [
+                "Saint-Savinien"
+              ],
+              "en": [
+                "Saint-Savinien"
+              ],
+              "it": [
+                "Saint-Savinien"
+              ],
+              "fr": [
+                "Saint-Savinien"
+              ],
+              "nl": [
+                "Saint-Savinien"
+              ],
+              "es": [
+                "Saint-Savinien"
+              ]
+            },
+            "insee": "17397",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/a87afbad-4040-3b9a-85ed-e9bedcbf4bf2",
+        "schema:latitude": "45.880419",
+        "schema:longitude": "-0.68296",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/e0918e87-c049-39ff-b7f9-7a2b81beecc4",
+          "schema:validFrom": "2023-06-15T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/4fa9e2c8-cea7-3399-9f62-28ebcff26450",
+      "schema:email": [
+        "a.ponchon@charentestourisme.com"
+      ],
+      "schema:legalName": "Destination Vals de Saintonge / Charentes Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.destinationvalsdesaintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-15",
+  "lastUpdateDatatourisme": "2023-06-16T05:49:27.421Z"
+}

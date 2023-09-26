@@ -1,0 +1,514 @@
+{
+  "@id": "https://data.datatourisme.fr/13/2d0a135c-2fad-3263-8b44-dd3145b7339a",
+  "dc:identifier": "5736500",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Ausleihe von Büchern für Erwachsene und Jugendliche\r\nAlle Genres: Romane, Krimis, Fantasy, Biografien, Dokumentarfilme, lokale Bestände, Comics, Mangas, Alben, Märchen.\r\nAusleihe von CDs und Videos"
+    ],
+    "en": [
+      "Loan of books for adults and young people\r\nAll genres: novels, detective stories, fantasy, biographies, documentaries, local collection, comics, manga, albums, stories.\r\nCD and video loans"
+    ],
+    "it": [
+      "Prestito di libri per adulti e giovani\r\nTutti i generi: romanzi, gialli, fantasy, biografie, documentari, raccolte locali, fumetti, manga, album, racconti.\r\nPrestiti di CD e video"
+    ],
+    "fr": [
+      "Prêts livres adultes, jeunes\r\nTous genres : romans, policiers, fantastiques, biographies, documentaires, fonds local, BD,Mangas, albums, contes.\r\nPrêts CD et vidéos"
+    ],
+    "nl": [
+      "Uitleen van boeken voor volwassenen en jongeren\r\nAlle genres: romans, detectiveverhalen, fantasie, biografieën, documentaires, lokale collecties, strips, manga, albums, verhalen.\r\nCD- en videoleningen"
+    ],
+    "es": [
+      "Préstamo de libros para adultos y jóvenes\r\nTodos los géneros: novela, novela policíaca, fantasía, biografías, documentales, colecciones locales, cómics, manga, álbumes, cuentos.\r\nPréstamo de CDs y vídeos"
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Bibliothèque"
+    ],
+    "fr": [
+      "Bibliothèque"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/cbef4632-1026-3840-8bc3-216d4774c8a9",
+    "dc:identifier": "2075",
+    "schema:email": [
+      "a.ponchon@charentestourisme.com"
+    ],
+    "schema:legalName": "Destination Vals de Saintonge / Charentes Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.destinationvalsdesaintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a59fed3c-598a-3027-bfa3-4361d36bda90",
+      "schema:email": [
+        "st-savinien.bibliotheque@orange.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 98 68 24"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/859d5b90-1bfe-3b18-8f84-4bd604121d93",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/6c609a12-d9e8-30f9-aa0f-979aca9cecfa",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6fd93d9c-4f11-3b22-b321-a5890c3c24af",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7827c7be-986d-301e-9b97-a1f66688e94d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cc7079e7-567e-3a4d-b46b-b453225cde8a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fa12a72b-d678-3365-90be-c39e33a3ad1f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Ausleihe von Büchern für Erwachsene und Jugendliche\r\nAlle Genres: Romane, Krimis, Fantasy, Biografien, Dokumentarfilme, lokale Bestände, Comics, Mangas, Alben, Märchen.\r\nAusleihe von CDs und Videos"
+        ],
+        "en": [
+          "Loan of books for adults and young people\r\nAll genres: novels, detective stories, fantasy, biographies, documentaries, local collection, comics, manga, albums, stories.\r\nCD and video loans"
+        ],
+        "it": [
+          "Prestito di libri per adulti e giovani\r\nTutti i generi: romanzi, gialli, fantasy, biografie, documentari, raccolte locali, fumetti, manga, album, racconti.\r\nPrestiti di CD e video"
+        ],
+        "fr": [
+          "Prêts livres adultes, jeunes\r\nTous genres : romans, policiers, fantastiques, biographies, documentaires, fonds local, BD,Mangas, albums, contes.\r\nPrêts CD et vidéos"
+        ],
+        "nl": [
+          "Uitleen van boeken voor volwassenen en jongeren\r\nAlle genres: romans, detectiveverhalen, fantasie, biografieën, documentaires, lokale collecties, strips, manga, albums, verhalen.\r\nCD- en videoleningen"
+        ],
+        "es": [
+          "Préstamo de libros para adultos y jóvenes\r\nTodos los géneros: novela, novela policíaca, fantasía, biografías, documentales, colecciones locales, cómics, manga, álbumes, cuentos.\r\nPréstamo de CDs y vídeos"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/421416c2-e637-3da3-9e1f-e0652b9baee8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b5c2f1e4-1053-3e4c-80df-ea248bca8918",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ce9c9d86-8576-3f65-b670-8749f2dce46d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f2980556-ef2a-38ba-b7d1-a4e7edd4567c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f711e655-04cf-3dfd-a9c4-91fc6a7ac7e1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/002531aa-46c7-32da-9fb7-2cd9d28e11be",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/9d0ab535-ead7-351c-a194-51459e427ea5",
+          "schema:addressLocality": "Saint-Savinien",
+          "schema:postalCode": "17350",
+          "schema:streetAddress": [
+            "12 rue Bel air",
+            "Parking de la grange"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17397",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Savinien"
+              ],
+              "pt": [
+                "Saint-Savinien"
+              ],
+              "en": [
+                "Saint-Savinien"
+              ],
+              "it": [
+                "Saint-Savinien"
+              ],
+              "fr": [
+                "Saint-Savinien"
+              ],
+              "nl": [
+                "Saint-Savinien"
+              ],
+              "es": [
+                "Saint-Savinien"
+              ]
+            },
+            "insee": "17397",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/5f08dfcb-a5b2-3b37-8471-346400dda3db",
+        "schema:latitude": "45.87917",
+        "schema:longitude": "-0.680532",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/c4f1ff4d-b805-3654-81ec-932c8b43a563",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Mittwoch: 15 Uhr bis 18 Uhr\r\nFreitag: 17 Uhr bis 19 Uhr\r\nSamstag: 10 bis 12 Uhr"
+            ],
+            "en": [
+              "Wednesday: 3pm to 6pm\r\nFriday: 5pm to 7pm\r\nSaturday: 10am to 12pm"
+            ],
+            "it": [
+              "Mercoledì: dalle 15.00 alle 18.00\r\nVenerdì: dalle 17.00 alle 19.00\r\nSabato: dalle 10.00 alle 12.00"
+            ],
+            "fr": [
+              "Mercredi : 15h à 18h\r\nVendredi : 17h à 19h\r\nSamedi : 10h à 12h"
+            ],
+            "nl": [
+              "Woensdag: 15u tot 18u\r\nVrijdag: 17u tot 19u\r\nZaterdag: 10.00 tot 12.00"
+            ],
+            "es": [
+              "Miércoles: de 15:00 a 18:00\r\nViernes: de 17:00 a 19:00\r\nSábado: de 10.00 a 12.00"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/3c617dad-8424-320a-81be-8fa13ccf6aa9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6a306c7b-4ae8-33e3-8029-955f89abe195",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6aac3a5d-ffd0-37ce-9c9c-eda4c9ac3540",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/aca50cfa-8b06-3fbd-996a-45d24a8309ef",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e5f6ab23-c63c-3b3a-a3a7-824c389434ea",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/4fa9e2c8-cea7-3399-9f62-28ebcff26450",
+      "schema:email": [
+        "a.ponchon@charentestourisme.com"
+      ],
+      "schema:legalName": "Destination Vals de Saintonge / Charentes Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.destinationvalsdesaintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-05",
+  "lastUpdateDatatourisme": "2023-06-06T05:42:57.601Z"
+}

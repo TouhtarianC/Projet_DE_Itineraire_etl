@@ -1,0 +1,431 @@
+{
+  "@id": "https://data.datatourisme.fr/13/41a20a3e-36d1-3ef9-8ad8-bac3f5aed0da",
+  "dc:identifier": "6570297",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Romane, Comics, Musik, Filme, Dokumentarfilme, Videospiele.....\r\nVorschlag von Animationen auf dem Gebiet des Val de Charente für alle Arten von Strukturen."
+    ],
+    "en": [
+      "Novels, comics, music, films, documentaries, video games....\r\nOffers activities in the Val de Charente region for all types of organizations."
+    ],
+    "it": [
+      "Romanzi, fumetti, musica, film, documentari, videogiochi....\r\nOffre eventi nella Val de Charente per tutti i tipi di organizzazioni."
+    ],
+    "fr": [
+      "Romans, BD, musiques, films, documentaires, jeux vidéos....\r\nProposition d'animations sur le territoire du Val de Charente pour tous types de structures."
+    ],
+    "nl": [
+      "Romans, strips, muziek, films, documentaires, videogames....\r\nEvenementen in de regio Val de Charente voor alle soorten organisaties."
+    ],
+    "es": [
+      "Novelas, cómics, música, películas, documentales, videojuegos....\r\nOfrece eventos en la zona de Val de Charente para todo tipo de organizaciones."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Médiathèque \"La Canopée\""
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/a96d3afe-c184-366b-beca-7a9f989fc7e7",
+    "dc:identifier": "2056",
+    "schema:email": [
+      "infotouristique@destination-nordcharente.com"
+    ],
+    "schema:legalName": "Office de tourisme Destination Nord Charente",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ruffecois-tourisme.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/585e7723-03bc-3cc8-b37e-183b85b7219d",
+      "schema:email": [
+        "mediatheque.canopee@ccvaldecharente.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 45 31 32 82"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.mediatheque-lacanopee-ruffec.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/6be69fab-a449-3efd-9b04-dc8f4618f4e6",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3f0d80e0-aecc-3e79-a610-788215275b6e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/41691022-af02-383f-83d3-8977ea80dda6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c7525b1d-2af0-3d30-96de-56e7a896dd24",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d9d7d0c3-d825-3f61-82a3-c58e7d10eb5f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ea92cd31-f67d-39f5-8a50-82d652ee10da",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Romane, Comics, Musik, Filme, Dokumentarfilme, Videospiele.....\r\nVorschlag von Animationen auf dem Gebiet des Val de Charente für alle Arten von Strukturen."
+        ],
+        "en": [
+          "Novels, comics, music, films, documentaries, video games....\r\nOffers activities in the Val de Charente region for all types of organizations."
+        ],
+        "it": [
+          "Romanzi, fumetti, musica, film, documentari, videogiochi....\r\nOffre eventi nella Val de Charente per tutti i tipi di organizzazioni."
+        ],
+        "fr": [
+          "Romans, BD, musiques, films, documentaires, jeux vidéos....\r\nProposition d'animations sur le territoire du Val de Charente pour tous types de structures."
+        ],
+        "nl": [
+          "Romans, strips, muziek, films, documentaires, videogames....\r\nEvenementen in de regio Val de Charente voor alle soorten organisaties."
+        ],
+        "es": [
+          "Novelas, cómics, música, películas, documentales, videojuegos....\r\nOfrece eventos en la zona de Val de Charente para todo tipo de organizaciones."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/164f4543-64dc-3824-b3c9-edb26e78335c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/450743a3-f8f6-3dce-b0ab-ca6771b6120b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ad38eceb-c5fc-3835-8457-4157ee5ab3b6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/bd053fd0-e1b9-3abe-9c25-65d39939afa1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e63b45e0-1b1c-31d4-bbb2-e8f1cd433c25",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0ca02939-f12e-39ca-b5c3-24a858ced5fc",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/f13eb7f4-345f-315c-a089-9897d6ed6dd6",
+          "schema:addressLocality": "Ruffec",
+          "schema:postalCode": "16700",
+          "schema:streetAddress": [
+            "Place du jumelage"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:16292",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ruffec"
+              ],
+              "pt": [
+                "Ruffec"
+              ],
+              "en": [
+                "Ruffec"
+              ],
+              "it": [
+                "Ruffec"
+              ],
+              "fr": [
+                "Ruffec"
+              ],
+              "nl": [
+                "Ruffec"
+              ],
+              "es": [
+                "Ruffec"
+              ]
+            },
+            "insee": "16292",
+            "isPartOfDepartment": {
+              "@id": "kb:France7516",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente"
+                ],
+                "pt": [
+                  "Charente"
+                ],
+                "en": [
+                  "Charente"
+                ],
+                "it": [
+                  "Charente"
+                ],
+                "fr": [
+                  "Charente"
+                ],
+                "nl": [
+                  "Charente"
+                ],
+                "es": [
+                  "Charente"
+                ]
+              },
+              "insee": "16",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/ddfb4f15-a282-3d26-8091-e7feff0b9f6b",
+        "schema:latitude": "46.02995",
+        "schema:longitude": "0.199745",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/515fb63a-6beb-307d-a0d6-d59e3e2d3f76",
+      "schema:email": [
+        "infotouristique@destination-nordcharente.com"
+      ],
+      "schema:legalName": "Office de tourisme Destination Nord Charente",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ruffecois-tourisme.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-16",
+  "lastUpdateDatatourisme": "2023-06-17T05:50:09.937Z"
+}

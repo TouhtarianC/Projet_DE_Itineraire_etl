@@ -1,0 +1,483 @@
+{
+  "@id": "https://data.datatourisme.fr/13/92510609-bc7f-3e9b-8708-c87f87f48983",
+  "dc:identifier": "6047916",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Willkommen in Mediolanum!\r\nDas archäologische Museum in Saintes hat seine Dauerausstellung erneuert. Die Besucher sind eingeladen, die antike Stadt Saintes anhand ihrer Stadtplanung und des Lebens der Bewohner vor 2000 Jahren zu entdecken."
+    ],
+    "en": [
+      "Decoration, housing food & tableware adornment & body care, clothing, games & leisure, domestic rituals..."
+    ],
+    "it": [
+      "Benvenuti a Mediolanum!\r\nIl Museo archeologico di Saintes ha rinnovato la sua esposizione permanente. I visitatori sono invitati a scoprire l'antica città di Saintes attraverso la sua urbanistica e la vita dei suoi abitanti 2000 anni fa."
+    ],
+    "fr": [
+      "Bienvenue à Mediolanum !\r\nLe musée archéologique de Saintes a fait l’objet d’un renouvellement de son exposition permanente. Les visiteurs sont invités à découvrir la ville antique de Saintes à travers son urbanisme et la vie des habitants il y a 2000 ans."
+    ],
+    "nl": [
+      "Welkom in Mediolanum!\r\nHet archeologisch museum van Saintes heeft zijn permanente tentoonstelling vernieuwd. Bezoekers worden uitgenodigd om de oude stad Saintes te ontdekken aan de hand van haar stadsplanning en het leven van haar inwoners 2000 jaar geleden."
+    ],
+    "es": [
+      "Museo de la civilización galorromana, que incluye notables series lapidarias: arquitectura pública y funeraria, inscripciones, esculturas."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Musée archéologique"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/f8c0c968-6328-35cd-9333-08b1a494967f",
+    "dc:identifier": "2060",
+    "schema:email": [
+      "a.tonin@saintes-tourisme.fr",
+      "f.herbec@saintes-tourisme.fr",
+      "l.conan@saintes-tourisme.fr"
+    ],
+    "schema:legalName": "Office de Tourisme de Saintes & la Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.saintes-tourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/580f6734-70e5-3260-885e-d0020ccfd8d9",
+      "schema:email": [
+        "musee.archeologique@ville-saintes.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 74 20 97"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://billetterie.saintes-tourisme.fr/sites-et-activites/billets-dentree-a-saintes-et-en-saintonge/rcheo0001-musee-archeologique"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/d477d83b-7a5c-306e-8a12-25be152fed81",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/23c6a31b-d4fb-3f85-ad86-f599d12a159e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6ef998e5-d5fb-3c69-b1f6-9b612af4652d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/72115225-8a8d-385a-8049-d5a655b7a670",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Willkommen in Mediolanum!\r\nDas archäologische Museum in Saintes hat seine Dauerausstellung erneuert. Die Besucher sind eingeladen, die antike Stadt Saintes anhand ihrer Stadtplanung und des Lebens der Bewohner vor 2000 Jahren zu entdecken."
+        ],
+        "en": [
+          "Decoration, housing food & tableware adornment & body care, clothing, games & leisure, domestic rituals..."
+        ],
+        "it": [
+          "Benvenuti a Mediolanum!\r\nIl Museo archeologico di Saintes ha rinnovato la sua esposizione permanente. I visitatori sono invitati a scoprire l'antica città di Saintes attraverso la sua urbanistica e la vita dei suoi abitanti 2000 anni fa."
+        ],
+        "fr": [
+          "Bienvenue à Mediolanum !\r\nLe musée archéologique de Saintes a fait l’objet d’un renouvellement de son exposition permanente. Les visiteurs sont invités à découvrir la ville antique de Saintes à travers son urbanisme et la vie des habitants il y a 2000 ans."
+        ],
+        "nl": [
+          "Welkom in Mediolanum!\r\nHet archeologisch museum van Saintes heeft zijn permanente tentoonstelling vernieuwd. Bezoekers worden uitgenodigd om de oude stad Saintes te ontdekken aan de hand van haar stadsplanning en het leven van haar inwoners 2000 jaar geleden."
+        ],
+        "es": [
+          "Museo de la civilización galorromana, que incluye notables series lapidarias: arquitectura pública y funeraria, inscripciones, esculturas."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/8c5e8adf-6aa7-394b-9d37-78eb561e20b8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cd0f486c-cc8d-3c7f-8a1a-7bd1059e0ac7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/dfbf0164-2574-339b-a276-e52187cb1ed8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/87a48472-d8ab-3128-9687-e8bfaec03e76",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/80944a70-2f40-3589-bead-1a9ac2f448ea",
+          "schema:addressLocality": "Saintes",
+          "schema:postalCode": "17100",
+          "schema:streetAddress": [
+            "Esplanade André Malraux"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17415",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saintes"
+              ],
+              "pt": [
+                "Saintes"
+              ],
+              "en": [
+                "Saintes"
+              ],
+              "it": [
+                "Saintes"
+              ],
+              "fr": [
+                "Saintes"
+              ],
+              "nl": [
+                "Saintes"
+              ],
+              "es": [
+                "Saintes"
+              ]
+            },
+            "insee": "17415",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/ff97a096-07cb-3592-9876-229fe561c4f4",
+        "schema:latitude": "45.744915",
+        "schema:longitude": "-0.629141",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/143c9e9d-f1cf-31ea-ad69-f3ef30d64450",
+          "schema:validFrom": "2023-04-10T00:00:00",
+          "schema:validThrough": "2023-07-09T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/15cf4585-ca76-38d6-bc85-34d7a5fb2212",
+          "schema:validFrom": "2023-09-04T00:00:00",
+          "schema:validThrough": "2023-10-01T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/17c8024b-6f93-3175-bd4f-d53d33f10ff4",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-04-09T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/77bf0964-ca14-3f83-b008-e7d1d4e31f6d",
+          "schema:closes": "18:30:00",
+          "schema:opens": "10:00:00",
+          "schema:validFrom": "2023-07-10T00:00:00",
+          "schema:validThrough": "2023-09-03T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9e81959b-77ed-3d6c-8aaf-8327a9b44f6f",
+          "schema:validFrom": "2023-10-02T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/6788b742-800e-3e07-a704-c6181e0a8dd1",
+      "schema:email": [
+        "a.tonin@saintes-tourisme.fr",
+        "f.herbec@saintes-tourisme.fr",
+        "l.conan@saintes-tourisme.fr"
+      ],
+      "schema:legalName": "Office de Tourisme de Saintes & la Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.saintes-tourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-03",
+  "lastUpdateDatatourisme": "2023-07-04T05:52:44.55Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/3ba235a0-1618-3237-9da8-38d2b5172755",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/31776d84-4f59-39e4-a530-ba6f031ce80c",
+          "schema:maxPrice": [
+            "3"
+          ],
+          "schema:minPrice": [
+            "3"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

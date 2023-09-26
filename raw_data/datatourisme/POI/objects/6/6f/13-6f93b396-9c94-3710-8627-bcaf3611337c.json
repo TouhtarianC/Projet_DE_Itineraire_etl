@@ -1,0 +1,459 @@
+{
+  "@id": "https://data.datatourisme.fr/13/6f93b396-9c94-3710-8627-bcaf3611337c",
+  "dc:identifier": "5773029",
+  "@type": [
+    "CivilCemetery",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RemembranceSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Der Seefriedhof grenzt an der Nordseite der Kirche an. Als Erbe des alten mittelalterlichen \"Clouzit\" (geschlossener Friedhof, der traditionell die Kirchen der Saintongeoise umgab) bewahrt er Gräber aus dem 18. Der Friedhof steht unter Denkmalschutz."
+    ],
+    "en": [
+      "The marine cemetery borders the church on its northern side. Heir to the old medieval \"Clouzit\" (closed cemetery traditionally surrounding the saintongeaises churches), it preserves tombs dating from the 18th century. The cemetery is classified."
+    ],
+    "it": [
+      "Il cimitero marino confina con la chiesa sul lato nord. Erede dell'antico \"Clouzit\" medievale (cimitero chiuso che tradizionalmente circondava le chiese saintongeaises), conserva tombe risalenti al XVIII secolo. Il cimitero è elencato."
+    ],
+    "fr": [
+      "Le cimetière marin borde l'église sur son flanc septentrional. Héritier de l'ancien « Clouzit » médiéval (cimetière clos entourant traditionnellement les églises saintongeaises), il conserve des tombes datant du XVIIIe siècle. Le cimetière est classé."
+    ],
+    "es": [
+      "El cementerio marino bordea la iglesia por su lado norte. Heredero del antiguo \"Clouzit\" medieval (cementerio cerrado que tradicionalmente rodeaba las iglesias saintongeas), conserva tumbas que datan del siglo XVIII. El cementerio está catalogado."
+    ],
+    "nl": [
+      "De marinebegraafplaats grenst aan de kerk aan de noordzijde. Als erfgenaam van de oude middeleeuwse \"Clouzit\" (gesloten begraafplaats die van oudsher de saintongeaises kerken omgeeft), bewaart het graven uit de 18e eeuw. De begraafplaats staat op de lijst."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Cimetière Marin de Talmont-sur-Gironde"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/52dbb068-6f8b-30c0-8757-acf716e28ec0",
+    "dc:identifier": "2061",
+    "schema:email": [
+      "c.lebolloch@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
+    ],
+    "schema:legalName": "Destination Royan Atlantique",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.royanatlantique.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/b8c16112-fd23-3762-ba91-e369601dcc03",
+      "schema:telephone": [
+        "+33 5 46 90 43 87"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/60bee05c-e46f-3f1e-9cf7-c0f99fdeb7f9",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/11c007f9-56a4-3d18-a302-168c01209bf9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/1912f749-1cbf-34fe-a5a4-0fb9274f7ed7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/37eb0f73-220d-3694-8e32-873563888c91",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/af8b8ec2-b4d6-337f-828a-96189ee209fb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e41e270d-2746-3459-a3c0-a00c4fd42286",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Der Seefriedhof grenzt an der Nordseite der Kirche an. Als Erbe des alten mittelalterlichen \"Clouzit\" (geschlossener Friedhof, der traditionell die Kirchen der Saintongeoise umgab) bewahrt er Gräber aus dem 18. Der Friedhof steht unter Denkmalschutz."
+        ],
+        "en": [
+          "The marine cemetery borders the church on its northern side. Heir to the old medieval \"Clouzit\" (closed cemetery traditionally surrounding the saintongeaises churches), it preserves tombs dating from the 18th century. The cemetery is classified."
+        ],
+        "it": [
+          "Il cimitero marino confina con la chiesa sul lato nord. Erede dell'antico \"Clouzit\" medievale (cimitero chiuso che tradizionalmente circondava le chiese saintongeaises), conserva tombe risalenti al XVIII secolo. Il cimitero è elencato."
+        ],
+        "fr": [
+          "Le cimetière marin borde l'église sur son flanc septentrional. Héritier de l'ancien « Clouzit » médiéval (cimetière clos entourant traditionnellement les églises saintongeaises), il conserve des tombes datant du XVIIIe siècle. Le cimetière est classé."
+        ],
+        "es": [
+          "El cementerio marino bordea la iglesia por su lado norte. Heredero del antiguo \"Clouzit\" medieval (cementerio cerrado que tradicionalmente rodeaba las iglesias saintongeas), conserva tumbas que datan del siglo XVIII. El cementerio está catalogado."
+        ],
+        "nl": [
+          "De marinebegraafplaats grenst aan de kerk aan de noordzijde. Als erfgenaam van de oude middeleeuwse \"Clouzit\" (gesloten begraafplaats die van oudsher de saintongeaises kerken omgeeft), bewaart het graven uit de 18e eeuw. De begraafplaats staat op de lijst."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/071edbe2-1a91-35ca-8a6e-17aee24090eb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3aaf1b03-ce1f-39ac-b6de-d43639300085",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/49d7d20f-8d18-353a-817a-e60324fd30d2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6881a8cf-aba3-3de6-be9c-74ef911582fa",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/be4ebb83-c0f9-3bcc-a590-9953e6576b55",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/922ad721-a1cf-3b5d-987d-aa1cb2d14bab",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/128a17c2-3fe2-3cab-bf66-a650fd691dc0",
+          "schema:addressLocality": "Talmont-sur-Gironde",
+          "schema:postalCode": "17120",
+          "schema:streetAddress": [
+            "Rue de l'Église"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17437",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Talmont-sur-Gironde"
+              ],
+              "pt": [
+                "Talmont-sur-Gironde"
+              ],
+              "en": [
+                "Talmont-sur-Gironde"
+              ],
+              "it": [
+                "Talmont-sur-Gironde"
+              ],
+              "fr": [
+                "Talmont-sur-Gironde"
+              ],
+              "nl": [
+                "Talmont-sur-Gironde"
+              ],
+              "es": [
+                "Talmont-sur-Gironde"
+              ]
+            },
+            "insee": "17437",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/1270c60f-1685-36cc-9ba4-05cd8c3ab746",
+        "schema:latitude": "45.534622",
+        "schema:longitude": "-0.909148",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/5c874cb2-9415-3ff1-8371-6bde95fd22c4",
+      "schema:email": [
+        "c.lebolloch@royanatlantique.fr",
+        "l.brisson-goulvant@royanatlantique.fr",
+        "l.lucazeau@royanatlantique.fr"
+      ],
+      "schema:legalName": "Destination Royan Atlantique",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.royanatlantique.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-05-24",
+  "lastUpdateDatatourisme": "2023-02-22T06:42:37.723Z"
+}

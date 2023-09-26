@@ -1,0 +1,812 @@
+{
+  "@id": "https://data.datatourisme.fr/13/035c8e32-41d5-3c25-8d0e-d21e2ad4579d",
+  "dc:identifier": "6501626",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Es handelt sich um eine Austerngalerie, die aus einem Museumsbereich mit Fotos, Filmen und Material und einem Laden mit Verkauf von Austern des Produzenten \"l'huître des 2 îles\", Fotos, Austernmessern... besteht."
+    ],
+    "en": [
+      "It is an oyster gallery composed of a museum space with photos, films and material and a store with sale of oysters of the producer \"l'huître des 2 îles\", photos, oyster knives..."
+    ],
+    "it": [
+      "Si tratta di una galleria di ostriche composta da uno spazio museale con foto, filmati e attrezzature e da un negozio con vendita di ostriche del produttore \"l'huître des 2 îles\", foto, coltelli da ostrica..."
+    ],
+    "fr": [
+      "C'est une galerie ostréicole composée d'un espace muséal avec photos, films et matériel et une boutique avec vente d'huîtres du producteur \"l'huître des 2 îles\", photos, couteaux à huîtres..."
+    ],
+    "es": [
+      "Se trata de una galería de ostras compuesta por un espacio museo con fotos, películas y material y una tienda con venta de ostras del productor \"l'huître des 2 îles\", fotos, cuchillos para ostras..."
+    ],
+    "nl": [
+      "Het is een oestergalerij bestaande uit een museumruimte met foto's, films en apparatuur en een winkel met de verkoop van oesters van de producent \"l'huître des 2 îles\", foto's, oestermessen..."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "La cabane du bout du port"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/492ef93f-8b34-3233-8f8d-f6735fb3db56",
+      "schema:telephone": [
+        "+33 6 86 93 60 04"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/df580829-177b-32f8-a0a2-61bf3ee7b0a8",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/27d43f50-3174-3d7f-93e0-8fe7d45d505f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/294da53d-1787-3257-8a4f-50f98aa5caf4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5699be65-f2ac-323f-94a6-5d726309d386",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c9a1f346-7cae-3763-8d6f-a948439f83b7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fd1dff47-dbf5-3ae6-92a7-051eece9eac7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Es handelt sich um eine Austerngalerie, die aus einem Museumsbereich mit Fotos, Filmen und Material und einem Laden mit Verkauf von Austern des Produzenten \"l'huître des 2 îles\", Fotos, Austernmessern... besteht."
+        ],
+        "en": [
+          "It is an oyster gallery composed of a museum space with photos, films and material and a store with sale of oysters of the producer \"l'huître des 2 îles\", photos, oyster knives..."
+        ],
+        "it": [
+          "Si tratta di una galleria di ostriche composta da uno spazio museale con foto, filmati e attrezzature e da un negozio con vendita di ostriche del produttore \"l'huître des 2 îles\", foto, coltelli da ostrica..."
+        ],
+        "fr": [
+          "C'est une galerie ostréicole composée d'un espace muséal avec photos, films et matériel et une boutique avec vente d'huîtres du producteur \"l'huître des 2 îles\", photos, couteaux à huîtres..."
+        ],
+        "es": [
+          "Se trata de una galería de ostras compuesta por un espacio museo con fotos, películas y material y una tienda con venta de ostras del productor \"l'huître des 2 îles\", fotos, cuchillos para ostras..."
+        ],
+        "nl": [
+          "Het is een oestergalerij bestaande uit een museumruimte met foto's, films en apparatuur en een winkel met de verkoop van oesters van de producent \"l'huître des 2 îles\", foto's, oestermessen..."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/4d1d5bc5-9bc6-3a14-8928-45f897b260a7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6f839b03-94b5-3f32-8020-0e951f94fa64",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/917fe9a3-a3e9-3a3c-8d2e-78452c6dc0ea",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a42462d5-fa66-3a51-98cf-f575be49c261",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/daf4a46e-2cd2-3b99-aa64-ca284a637fc8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b00892d7-4cc7-36de-9abf-f5d49e33e3c2",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/f7a60b25-c5be-364b-9514-c98fe7b0b477",
+          "schema:addressLocality": "Le Château-d'Oléron",
+          "schema:postalCode": "17480",
+          "schema:streetAddress": [
+            "Esplanade du port"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17093",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Le Château-d'Oléron"
+              ],
+              "pt": [
+                "Le Château-d'Oléron"
+              ],
+              "en": [
+                "Le Château-d'Oléron"
+              ],
+              "it": [
+                "Le Château-d'Oléron"
+              ],
+              "fr": [
+                "Le Château-d'Oléron"
+              ],
+              "nl": [
+                "Le Château-d'Oléron"
+              ],
+              "es": [
+                "Le Château-d'Oléron"
+              ]
+            },
+            "insee": "17093",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/c07bd67a-f034-3c79-989c-9ba48d81f671",
+        "schema:latitude": "45.882369",
+        "schema:longitude": "-1.189929",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/0ae19f94-d40e-3790-8344-8c371096b604",
+          "schema:validFrom": "2023-04-22T00:00:00",
+          "schema:validThrough": "2023-05-08T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Von 10:00 bis 13:00 Uhr und von 15:00 bis 19:00 Uhr."
+            ],
+            "en": [
+              "From 10am to 1pm and from 3pm to 7pm."
+            ],
+            "it": [
+              "Dalle 10.00 alle 13.00 e dalle 15.00 alle 19.00."
+            ],
+            "fr": [
+              "De 10h à 13h et de 15h à 19h."
+            ],
+            "nl": [
+              "Van 10 tot 13 uur en van 15 tot 19 uur."
+            ],
+            "es": [
+              "De 10.00 a 13.00 h. y de 15.00 a 19.00 h."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/95839300-c2b5-3d4d-a929-ba2b23303f54",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/9cdf79c6-40fe-34ed-b6c3-09413bf19fb3",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a45231ad-bdba-3430-ae18-b07df38b5e10",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d9fcca04-af51-3b57-8556-758598669b00",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e338c61f-33e7-3308-880e-d417b2ee5552",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/33a1c38f-0d71-3d5e-9dfa-48fb5483a5ed",
+          "schema:validFrom": "2023-05-09T00:00:00",
+          "schema:validThrough": "2023-06-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Von 10:00 bis 13:00 Uhr und von 15:00 bis 19:00 Uhr"
+            ],
+            "en": [
+              "From 10am to 1pm and from 3pm to 7pm"
+            ],
+            "it": [
+              "Dalle 10.00 alle 13.00 e dalle 15.00 alle 19.00"
+            ],
+            "fr": [
+              "De 10h à 13h et de 15h à 19h"
+            ],
+            "nl": [
+              "Van 10 tot 13 uur en van 15 tot 19 uur"
+            ],
+            "es": [
+              "De 10.00 a 13.00 horas y de 15.00 a 19.00 horas"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/22adcffa-9f50-37eb-b893-06e8b9b97d1b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6adc664b-7d57-3ceb-b106-60bb899deec9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/76dd1129-4a78-38a1-a56a-6cbd411c1219",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/7ba6e646-c8b5-3f09-b7dd-7e8ef2ae32bc",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f8310c1f-4a8b-3585-ad00-b90edd501306",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4b5f4d6a-34f6-38f4-bec5-f4975b0522f1",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Von 10:00 bis 13:30 Uhr und von 16:00 bis 19:30 Uhr. Die Zeiten können je nach Wetterlage variieren."
+            ],
+            "en": [
+              "From 10am to 1:30pm and from 4pm to 7:30pm. Times may vary depending on the weather."
+            ],
+            "it": [
+              "Dalle 10.00 alle 13.30 e dalle 16.00 alle 19.30. Gli orari possono variare a seconda del tempo."
+            ],
+            "fr": [
+              "De 10h à 13h30 et de 16h à 19h30. Les horaires peuvent varier en fonction de la météo."
+            ],
+            "nl": [
+              "Van 10.00 tot 13.30 uur en van 16.00 tot 19.30 uur. De tijden kunnen variëren afhankelijk van het weer."
+            ],
+            "es": [
+              "De 10.00 a 13.30 y de 16.00 a 19.30. Los horarios pueden variar en función del tiempo."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/06b4d737-b82c-336d-af28-774d1efe8575",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/2991ecde-887b-3011-b590-79ab7ee74ac2",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/7fffec30-4a6f-37ad-9b8d-c92aebc16614",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a28326b3-2df0-3b42-b81e-571116a9c675",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/b420d06e-af8b-364e-9d1b-71bfd8314b20",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e956ad59-7951-3475-a303-c2971d06d311",
+          "schema:validFrom": "2023-09-01T00:00:00",
+          "schema:validThrough": "2023-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Von 10:00 bis 13:00 Uhr und von 15:00 bis 19:00 Uhr"
+            ],
+            "en": [
+              "From 10am to 1pm and from 3pm to 7pm"
+            ],
+            "it": [
+              "Dalle 10.00 alle 13.00 e dalle 15.00 alle 19.00"
+            ],
+            "fr": [
+              "De 10h à 13h et de 15h à 19h"
+            ],
+            "nl": [
+              "Van 10 tot 13 uur en van 15 tot 19 uur"
+            ],
+            "es": [
+              "De 10.00 a 13.00 horas y de 15.00 a 19.00 horas"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/696601a4-b144-3cfe-ac17-0f9edc34a55f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/780b966a-880f-3dc0-b867-b80f1ee4f547",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/8973b621-dedb-33bc-8f1c-d0708f5f339c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d0be9ad7-1345-3196-9343-3a2599200fa1",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f469f3be-70c8-3a65-938d-d19f413de09f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/d7f018c3-c1ab-31f8-8901-4d29578edb89",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ile-oleron-marennes.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-05-03",
+  "lastUpdateDatatourisme": "2023-05-04T06:05:15.693Z"
+}

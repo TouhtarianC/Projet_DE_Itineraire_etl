@@ -1,0 +1,824 @@
+{
+  "@id": "https://data.datatourisme.fr/13/a0c50ad2-67fb-3815-854b-3679c941ee7b",
+  "dc:identifier": "6350477",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das 1692 erbaute Pulvermagazin La Brèche ist das einzige Gebäude im Vauban-Stil auf dem Festungsplatz Brouage."
+    ],
+    "en": [
+      "Built in 1692, the powder magazine of La Brèche is the only Vauban style building in the stronghold of Brouage."
+    ],
+    "it": [
+      "Costruita nel 1692, la polveriera di Brèche è l'unico edificio in stile Vauban della piazzaforte di Brouage."
+    ],
+    "fr": [
+      "Construite en 1692, la poudrière de la Brèche est le seul bâtiment de style Vauban de la place forte de Brouage."
+    ],
+    "nl": [
+      "Het kruitmagazijn van Brèche, gebouwd in 1692, is het enige gebouw in Vauban-stijl in de vesting Brouage."
+    ],
+    "es": [
+      "Construido en 1692, el polvorín de Brèche es el único edificio de estilo Vauban en la plaza fuerte de Brouage."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Poudrière de la Brèche"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q22954829"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/df4fe8a8-bcd5-395c-9b64-0aa9793bb32b",
+    "dc:identifier": "2057",
+    "schema:email": [
+      "l.prouet@marennes-oleron.com",
+      "m.joulie@marennes-oleron.com",
+      "numerique@marennes-oleron.com"
+    ],
+    "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ile-oleron-marennes.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/f492fe86-0677-3749-b00d-68f8e793968e",
+      "schema:email": [
+        "contact.brouage@charente-maritime.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 85 80 60"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.brouage.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/445db1a8-a47c-3e71-bd18-db79ad47807a",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/51b541f9-e6f4-39d4-b2f5-bf6bfec7c018",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6d2a1c8f-dc9a-3c10-90d4-6d293ea6ebf5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/826e0567-2188-3e68-be4e-92f901f8d2cf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/97817240-93ea-3aef-a9af-c955401295b8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/acc49892-f90a-362e-8bb8-1f7f000bd8ca",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das 1692 erbaute Pulvermagazin La Brèche ist das einzige Gebäude im Vauban-Stil auf dem Festungsplatz Brouage."
+        ],
+        "en": [
+          "Built in 1692, the powder magazine of La Brèche is the only Vauban style building in the stronghold of Brouage."
+        ],
+        "it": [
+          "Costruita nel 1692, la polveriera di Brèche è l'unico edificio in stile Vauban della piazzaforte di Brouage."
+        ],
+        "fr": [
+          "Construite en 1692, la poudrière de la Brèche est le seul bâtiment de style Vauban de la place forte de Brouage."
+        ],
+        "nl": [
+          "Het kruitmagazijn van Brèche, gebouwd in 1692, is het enige gebouw in Vauban-stijl in de vesting Brouage."
+        ],
+        "es": [
+          "Construido en 1692, el polvorín de Brèche es el único edificio de estilo Vauban en la plaza fuerte de Brouage."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/4c9f5273-7243-3538-bc90-ec260b499461",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/2eac10e3-d2a5-3934-8c7f-9751d18b82ea",
+          "ebucore:isCoveredBy": "CC BY-SA 4.0",
+          "ebucore:title": {
+            "fr": [
+              "Poudrière Saint-Luc, Brouage"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Ibex73 (https://commons.wikimedia.org/wiki/User:Ibex73)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/1c1fabca-38f2-32ee-82d6-495a5406ed44",
+          "ebucore:fileSize": [
+            1399154
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 1285,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/1/18/Poudri%C3%A8re_Saint-Luc%2C_Brouage.JPG"
+          ],
+          "ebucore:width": 2475,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/27197da3-2eae-332a-9969-2402c80eaf37",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3d42179a-d15e-3f79-a3ba-2b403ef46949",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/841f376a-56e1-38ec-aab6-c412bea7c3ff",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/891b7636-ec54-365f-87fd-ca3c546e3ef8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fb143eea-9b6f-3f7f-96f0-d8368fe4679e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/6c71e5c1-6c80-3825-9dd0-96b462c17741",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/03a55961-b598-3c29-a7f2-bf34bf1cc949",
+          "schema:addressLocality": "Marennes-Hiers-Brouage",
+          "schema:postalCode": "17320",
+          "schema:streetAddress": [
+            "Brouage",
+            "Rue de la Brèche"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17219",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "pt": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "en": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "it": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "fr": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "nl": [
+                "Marennes-Hiers-Brouage"
+              ],
+              "es": [
+                "Marennes-Hiers-Brouage"
+              ]
+            },
+            "insee": "17219",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/e204c162-991b-3689-92e8-d8e64f714ccd",
+        "schema:latitude": "45.865992",
+        "schema:longitude": "-1.067709",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3c111084-ecef-35f3-86b8-524770bf292b",
+          "schema:validFrom": "2023-04-08T00:00:00",
+          "schema:validThrough": "2023-06-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag: offen"
+            ],
+            "en": [
+              "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday: open"
+            ],
+            "it": [
+              "Lunedì, martedì, mercoledì, giovedì, venerdì, sabato, domenica: aperto"
+            ],
+            "fr": [
+              "Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi, Dimanche : ouvert"
+            ],
+            "nl": [
+              "Maandag, dinsdag, woensdag, donderdag, vrijdag, zaterdag, zondag: open"
+            ],
+            "es": [
+              "Lunes, martes, miércoles, jueves, viernes, sábado y domingo: abierto"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/76f82720-a4a0-3624-aa23-897dc36b4c5b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/7dac20bd-3b65-395b-95c5-28ed3467d7ef",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/9609d479-5d6f-3635-ad24-3b349fd5b368",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c61fc9cb-000b-3adc-b84d-6b1474ab8ad6",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/fef49ffb-6102-3b1a-b640-12cc6f4ed5ca",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6238cb92-4826-3fab-a976-b77aeabfcede",
+          "schema:validFrom": "2023-09-02T00:00:00",
+          "schema:validThrough": "2023-10-29T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag: offen"
+            ],
+            "en": [
+              "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday: open"
+            ],
+            "it": [
+              "Lunedì, martedì, mercoledì, giovedì, venerdì, sabato, domenica: aperto"
+            ],
+            "fr": [
+              "Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi, Dimanche : ouvert"
+            ],
+            "nl": [
+              "Maandag, dinsdag, woensdag, donderdag, vrijdag, zaterdag, zondag: open"
+            ],
+            "es": [
+              "Lunes, martes, miércoles, jueves, viernes, sábado y domingo: abierto"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/2969aa18-f5e0-3dad-8ce8-d8afb6d33a00",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/45e7ead3-f0ae-3595-be84-4c19009f79b2",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/8218ceec-436d-3473-9989-589332ce3e09",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/add622c5-e919-3daf-a956-33981fb65820",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d924e2c3-5944-392f-863b-05110215dbf3",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b303f3ec-04f4-3104-99c5-da0a88916be0",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-27T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag: offen"
+            ],
+            "en": [
+              "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday: open"
+            ],
+            "it": [
+              "Lunedì, martedì, mercoledì, giovedì, venerdì, sabato, domenica: aperto"
+            ],
+            "fr": [
+              "Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi, Dimanche : ouvert"
+            ],
+            "nl": [
+              "Maandag, dinsdag, woensdag, donderdag, vrijdag, zaterdag, zondag: open"
+            ],
+            "es": [
+              "Lunes, martes, miércoles, jueves, viernes, sábado y domingo: abierto"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/0bdf9648-1540-3eea-b61a-54c97246f645",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/31b7e458-056c-3999-ad40-69f7e2080a5b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/7093d893-9b86-35db-97b6-24e604540a45",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/9fd2b449-006f-35ee-a378-e4ed2bc745dc",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/b1364d19-a789-3a22-ba13-48752cc22e19",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/d7f018c3-c1ab-31f8-8901-4d29578edb89",
+      "schema:email": [
+        "l.prouet@marennes-oleron.com",
+        "m.joulie@marennes-oleron.com",
+        "numerique@marennes-oleron.com"
+      ],
+      "schema:legalName": "Office de Tourisme de l'île d'Oléron et du bassin de Marennes",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ile-oleron-marennes.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-04-12",
+  "lastUpdateDatatourisme": "2023-04-13T06:46:38.767Z"
+}

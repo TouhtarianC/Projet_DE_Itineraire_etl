@@ -1,0 +1,512 @@
+{
+  "@id": "https://data.datatourisme.fr/13/b6df802e-9cb6-3379-8e50-2d41ced918d2",
+  "dc:identifier": "5713172",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Der Museumsbereich ist der Geschichte und dem Leben in den Steinbrüchen gewidmet."
+    ],
+    "en": [
+      "The museographic space is dedicated to the history and life in the quarries."
+    ],
+    "it": [
+      "L'area museale è dedicata alla storia e alla vita nelle cave."
+    ],
+    "fr": [
+      "L’espace muséographique est dédié à l’histoire et à la vie dans les carrières."
+    ],
+    "es": [
+      "La zona del museo está dedicada a la historia y la vida en las canteras."
+    ],
+    "nl": [
+      "Het museumgedeelte is gewijd aan de geschiedenis en het leven in de steengroeven."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Espace muséographique"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/169779d3-852b-32ce-8b1a-1724dbf5217d",
+    "dc:identifier": "2178",
+    "schema:email": [
+      "audrey.tapiero@charente-maritime.fr",
+      "ocilia.iturrart@charente-maritime.fr"
+    ],
+    "schema:legalName": "Echappées Nature / Département de la Charente-Maritime",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.charente-maritime.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/ba58eea3-9399-3e7c-a1f7-b8662ba7c16a",
+      "schema:email": [
+        "pierredecrazannes@charente-maritime.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 91 48 92"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.pierre-de-crazannes.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/6e799f4f-1369-39cd-9b36-d9254966cde5",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1dcb7e94-33b4-3658-ac4f-a613821a91a4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8aeff062-047a-3979-ac93-8cab211448ae",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9884e87b-ff60-3934-b6e9-e329161241cf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a9e73882-7dc6-3343-b273-99960827ed3a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e5a4609e-9d02-3616-b900-e38dac99e267",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Der Museumsbereich ist der Geschichte und dem Leben in den Steinbrüchen gewidmet."
+        ],
+        "en": [
+          "The museographic space is dedicated to the history and life in the quarries."
+        ],
+        "it": [
+          "L'area museale è dedicata alla storia e alla vita nelle cave."
+        ],
+        "fr": [
+          "L’espace muséographique est dédié à l’histoire et à la vie dans les carrières."
+        ],
+        "es": [
+          "La zona del museo está dedicada a la historia y la vida en las canteras."
+        ],
+        "nl": [
+          "Het museumgedeelte is gewijd aan de geschiedenis en het leven in de steengroeven."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/62848e28-0c4b-3848-a374-d3e2a95b3f85",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a3597b19-8796-3d34-9512-bd40fd8b94a2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b1af5f50-baaa-34e4-b5e8-580a05ee6516",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d78df91f-105d-3427-b738-2d5805e8e805",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e0b2c0b3-56a9-3bde-b7dd-7ec7d62a2240",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b92fd47f-24d0-381b-8e50-7122b313269c",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/dbc40705-7c5e-324d-8f7a-7eb319b9a26b",
+          "schema:addressLocality": "Crazannes",
+          "schema:postalCode": "17350",
+          "schema:streetAddress": [
+            "aire de repos A837"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17134",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Crazannes"
+              ],
+              "pt": [
+                "Crazannes"
+              ],
+              "en": [
+                "Crazannes"
+              ],
+              "it": [
+                "Crazannes"
+              ],
+              "fr": [
+                "Crazannes"
+              ],
+              "nl": [
+                "Crazannes"
+              ],
+              "es": [
+                "Crazannes"
+              ]
+            },
+            "insee": "17134",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/7a1ff4bc-d1e2-32e1-bd6d-ec43fd24a1e5",
+        "schema:latitude": "45.841197",
+        "schema:longitude": "-0.710804",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/17b72ee1-111d-37be-9238-73a398f124ec",
+          "schema:validFrom": "2023-09-01T00:00:00",
+          "schema:validThrough": "2023-09-14T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/402f98c7-ff4e-3141-8bd6-7052ac0113a4",
+          "schema:validFrom": "2023-09-15T00:00:00",
+          "schema:validThrough": "2023-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5357bf72-5134-31c8-8b8b-a908a13bc424",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9129b24d-22e5-3608-ac57-781f59fbe59c",
+          "schema:validFrom": "2023-06-15T00:00:00",
+          "schema:validThrough": "2023-06-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cd5d375d-58f5-341d-9d6b-f04f473ba75a",
+          "schema:validFrom": "2023-04-01T00:00:00",
+          "schema:validThrough": "2023-06-14T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e87f1336-db54-3d6b-bc9e-68167650b56c",
+          "schema:validFrom": "2023-10-01T00:00:00",
+          "schema:validThrough": "2023-11-05T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ff732797-5dd2-3409-bded-9f4fa8b00249",
+          "schema:validFrom": "2023-03-01T00:00:00",
+          "schema:validThrough": "2023-03-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/b423eca3-3f21-3e47-9e34-3054bd401857",
+      "schema:email": [
+        "audrey.tapiero@charente-maritime.fr",
+        "ocilia.iturrart@charente-maritime.fr"
+      ],
+      "schema:legalName": "Echappées Nature / Département de la Charente-Maritime",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.charente-maritime.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-03-23",
+  "lastUpdateDatatourisme": "2023-03-24T06:39:42.326Z"
+}

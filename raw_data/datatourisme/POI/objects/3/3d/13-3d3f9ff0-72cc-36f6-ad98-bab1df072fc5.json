@@ -1,0 +1,461 @@
+{
+  "@id": "https://data.datatourisme.fr/13/3d3f9ff0-72cc-36f6-ad98-bab1df072fc5",
+  "dc:identifier": "6034329",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Emmanuel und Estèle laden Sie ein, ihre Produktion zu entdecken, aber auch feine Produkte von lokalen Produzenten. Diese jungen Produzenten und Weinbauern entwickeln sich ständig weiter."
+    ],
+    "en": [
+      "Emmanuel and Estèle invite you to discover their production but also fine products from local producers. These young producers and winemakers are constantly developing."
+    ],
+    "it": [
+      "Emmanuel ed Estèle vi invitano a scoprire la loro produzione ma anche i prodotti pregiati dei produttori locali. Questi giovani produttori e viticoltori sono in costante sviluppo."
+    ],
+    "fr": [
+      "Emmanuel et Estèle vous invite a découvrir leur production mais également des produits fins de producteurs locaux. Ces jeunes producteurs et viticulteurs ne cessent de se développer."
+    ],
+    "es": [
+      "Emmanuel y Estèle le invitan a descubrir su producción, pero también los buenos productos de los productores locales. Estos jóvenes productores y viticultores están en constante desarrollo."
+    ],
+    "nl": [
+      "Emmanuel en Estèle nodigen u uit om hun productie te ontdekken, maar ook mooie producten van lokale producenten. Deze jonge producenten en wijnbouwers ontwikkelen zich voortdurend."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "SARL Aux Pargers - Barboteau/Renaud"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/07cb5f86-508f-3467-b4a2-fac4373a8e50",
+    "dc:identifier": "2072",
+    "schema:email": [
+      "anthony.pillet@haute-saintonge.org",
+      "numerique@jonzac-tourisme.com",
+      "sandrine.seguin@villedejonzac.fr"
+    ],
+    "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.jonzac-haute-saintonge.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/22fde3da-79ae-37ac-982f-d6b2311692ee",
+      "schema:email": [
+        "barboteauemmanuel@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 7 86 72 12 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/a486e725-9d23-3ba5-b4ad-b0b36296fa14",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/152971f9-fe73-34a5-9b5b-5f06e806bf40",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/325bf5f9-0273-3c58-8571-dcd34721ec6f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/47ad4166-9798-316e-b163-49bf59847950",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/48c6cf3b-9a21-39ec-b88c-a0790ed95264",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6ca9ae9e-f006-33c4-a17f-70a14951b982",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Emmanuel und Estèle laden Sie ein, ihre Produktion zu entdecken, aber auch feine Produkte von lokalen Produzenten. Diese jungen Produzenten und Weinbauern entwickeln sich ständig weiter."
+        ],
+        "en": [
+          "Emmanuel and Estèle invite you to discover their production but also fine products from local producers. These young producers and winemakers are constantly developing."
+        ],
+        "it": [
+          "Emmanuel ed Estèle vi invitano a scoprire la loro produzione ma anche i prodotti pregiati dei produttori locali. Questi giovani produttori e viticoltori sono in costante sviluppo."
+        ],
+        "fr": [
+          "Emmanuel et Estèle vous invite a découvrir leur production mais également des produits fins de producteurs locaux. Ces jeunes producteurs et viticulteurs ne cessent de se développer."
+        ],
+        "es": [
+          "Emmanuel y Estèle le invitan a descubrir su producción, pero también los buenos productos de los productores locales. Estos jóvenes productores y viticultores están en constante desarrollo."
+        ],
+        "nl": [
+          "Emmanuel en Estèle nodigen u uit om hun productie te ontdekken, maar ook mooie producten van lokale producenten. Deze jonge producenten en wijnbouwers ontwikkelen zich voortdurend."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/12dc4c99-2d10-3f7f-b9ce-01951d6b10ef",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/266f86ff-9b3e-3841-87da-6434d5a46e9b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/56bb937d-2d9f-3fff-92b8-d1c490c50aa1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/73e29e04-8428-3aee-9614-8ada5d5dbbff",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9779a550-d717-3a7c-8126-c97615ae0fe5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/11fbfa21-0d03-3fe3-b6e3-3dc72dfa1c83",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/9962b6ca-5a61-3d99-be38-694159ffd846",
+          "schema:addressLocality": "Saint-Ciers-Champagne",
+          "schema:postalCode": "17520",
+          "schema:streetAddress": [
+            "3 Grolon"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17316",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Ciers-Champagne"
+              ],
+              "pt": [
+                "Saint-Ciers-Champagne"
+              ],
+              "en": [
+                "Saint-Ciers-Champagne"
+              ],
+              "it": [
+                "Saint-Ciers-Champagne"
+              ],
+              "fr": [
+                "Saint-Ciers-Champagne"
+              ],
+              "nl": [
+                "Saint-Ciers-Champagne"
+              ],
+              "es": [
+                "Saint-Ciers-Champagne"
+              ]
+            },
+            "insee": "17316",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/515181b8-e426-3c91-a62e-041fea96416c",
+        "schema:latitude": "45.449968",
+        "schema:longitude": "-0.334205",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/0b8b91d2-2ff4-3b27-86d7-100894d6ce41",
+      "schema:email": [
+        "anthony.pillet@haute-saintonge.org",
+        "numerique@jonzac-tourisme.com",
+        "sandrine.seguin@villedejonzac.fr"
+      ],
+      "schema:legalName": "Offices de Tourisme de Jonzac - Haute Saintonge",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jonzac-haute-saintonge.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-03-14",
+  "lastUpdateDatatourisme": "2023-03-15T06:42:03.388Z"
+}

@@ -1,0 +1,518 @@
+{
+  "@id": "https://data.datatourisme.fr/13/ae203b8f-b4ba-393e-9a2b-9aacb947bde4",
+  "dc:identifier": "5762149",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Kirche von Soubise hat eine lange Geschichte. Als romanische Kirche, die wahrscheinlich durch einige \"Belagerungen\" zerstört wurde, wurde sie in der gotischen Epoche wieder aufgebaut."
+    ],
+    "en": [
+      "The church of Soubise has a long history. A Romanesque church, probably destroyed by several \"sieges\", it was rebuilt in the Gothic period."
+    ],
+    "it": [
+      "La chiesa di Soubise ha una lunga storia. Chiesa romanica, probabilmente distrutta da diversi \"assedi\", fu ricostruita in epoca gotica."
+    ],
+    "fr": [
+      "L’église de Soubise a une longue histoire. Église romane, sans doute détruite par quelques \"sièges\", elle fut reconstruite à l’époque gothique."
+    ],
+    "es": [
+      "La iglesia de Soubise tiene una larga historia. Iglesia románica, probablemente destruida por varios \"asedios\", fue reconstruida en el periodo gótico."
+    ],
+    "nl": [
+      "De kerk van Soubise heeft een lange geschiedenis. Een romaanse kerk, waarschijnlijk verwoest door verschillende \"belegeringen\", werd herbouwd in de gotische periode."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Kirche Saint-Pierre in Soubise"
+    ],
+    "en": [
+      "Saint-Pierre Church in Soubise"
+    ],
+    "fr": [
+      "Église Saint-Pierre de Soubise"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q22995973"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/9afefc52-942c-383c-bc1f-14b2139b09ba",
+    "dc:identifier": "2055",
+    "schema:email": [
+      "chloe.mailler@rochefort-ocean.com",
+      "christine.nourisson@rochefort-ocean.com",
+      "chrystelle.ecale@rochefort-ocean.com",
+      "lea.origlia@rochefort-ocean.com",
+      "sandrine.bouron@rochefort-ocean.com"
+    ],
+    "schema:legalName": "Office de Tourisme Rochefort Océan",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.rochefort-ocean.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/ab49b1d8-4a8f-32b0-9489-a6b335bc8295",
+      "schema:legalName": "Charentes Tourisme - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5cae81a7-86e1-3046-aaf8-227f9af5e8e4",
+      "schema:email": [
+        "communication@soubise.fr"
+      ],
+      "schema:telephone": [
+        "+33 5 46 84 92 04"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/014c6ed0-1077-3d6b-9b73-a9513f4d3a59",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/23fe740b-ea03-3c5b-87fd-4e8a0b31ada1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/482ee654-1f85-3ac6-9ade-76c2bef8ea38",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/59b844b7-8ade-37d4-9b1b-065c7a02b1a4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Kirche von Soubise hat eine lange Geschichte. Als romanische Kirche, die wahrscheinlich durch einige \"Belagerungen\" zerstört wurde, wurde sie in der gotischen Epoche wieder aufgebaut."
+        ],
+        "en": [
+          "The church of Soubise has a long history. A Romanesque church, probably destroyed by several \"sieges\", it was rebuilt in the Gothic period."
+        ],
+        "it": [
+          "La chiesa di Soubise ha una lunga storia. Chiesa romanica, probabilmente distrutta da diversi \"assedi\", fu ricostruita in epoca gotica."
+        ],
+        "fr": [
+          "L’église de Soubise a une longue histoire. Église romane, sans doute détruite par quelques \"sièges\", elle fut reconstruite à l’époque gothique."
+        ],
+        "es": [
+          "La iglesia de Soubise tiene una larga historia. Iglesia románica, probablemente destruida por varios \"asedios\", fue reconstruida en el periodo gótico."
+        ],
+        "nl": [
+          "De kerk van Soubise heeft een lange geschiedenis. Een romaanse kerk, waarschijnlijk verwoest door verschillende \"belegeringen\", werd herbouwd in de gotische periode."
+        ]
+      }
+    }
+  ],
+  "hasRepresentation": [
+    {
+      "@id": "https://data.datatourisme.fr/9e7fe4ba-c9b2-3815-86c2-268a3d5941db",
+      "ebucore:hasAnnotation": [
+        {
+          "@id": "https://data.datatourisme.fr/66dd5851-60dd-3855-9d21-f9b7cb34d35e",
+          "ebucore:isCoveredBy": "CC BY-SA 3.0",
+          "ebucore:title": {
+            "fr": [
+              "W1291-Soubise StPierre XII° 2214"
+            ]
+          },
+          "@type": [
+            "ebucore:Annotation"
+          ],
+          "credits": [
+            "Llann Wé² (https://commons.wikimedia.org/wiki/User:Llann_W%C3%A9%C2%B2)"
+          ]
+        }
+      ],
+      "ebucore:hasRelatedResource": [
+        {
+          "@id": "https://data.datatourisme.fr/f51e14e8-f2e2-34c5-9436-13eb4b1d4f95",
+          "ebucore:fileSize": [
+            5688541
+          ],
+          "ebucore:hasMimeType": [
+            {
+              "@id": "kb:JPEG",
+              "@type": [
+                "ebucore:MimeType"
+              ],
+              "rdfs:comment": {
+                "de": [
+                  "JPEG-Bild"
+                ],
+                "pt": [
+                  "Imagem JPEG"
+                ],
+                "en": [
+                  "JPEG image file"
+                ],
+                "it": [
+                  "Immagine JPEG"
+                ],
+                "fr": [
+                  "Image JPEG"
+                ],
+                "nl": [
+                  "JPEG-afbeelding"
+                ],
+                "es": [
+                  "Imagen JPEG"
+                ]
+              },
+              "rdfs:label": {
+                "de": [
+                  "image/jpeg"
+                ],
+                "pt": [
+                  "image/jpeg"
+                ],
+                "en": [
+                  "image/jpeg"
+                ],
+                "it": [
+                  "image/jpeg"
+                ],
+                "fr": [
+                  "image/jpeg"
+                ],
+                "nl": [
+                  "image/jpeg"
+                ],
+                "es": [
+                  "image/jpeg"
+                ]
+              }
+            }
+          ],
+          "ebucore:height": 3168,
+          "ebucore:locator": [
+            "https://upload.wikimedia.org/wikipedia/commons/6/60/W1291-Soubise_StPierre_XII%C2%B0_2214.JPG"
+          ],
+          "ebucore:width": 4752,
+          "@type": [
+            "ebucore:Resource"
+          ]
+        }
+      ],
+      "@type": [
+        "ebucore:EditorialObject"
+      ]
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/06add5e7-e894-3616-a290-90adfe17dc40",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7a1c64cb-433e-3f84-9c3a-14854182538d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/90c25302-3741-31d7-877f-c3605539f3fd",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/70c6da71-e623-3553-b2ac-1ee365a992bc",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/807601bd-9d0e-3032-aff4-f5b12060f53c",
+          "schema:addressLocality": "Soubise",
+          "schema:postalCode": "17780",
+          "schema:streetAddress": [
+            "place de Verdun"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:17429",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Soubise"
+              ],
+              "pt": [
+                "Soubise"
+              ],
+              "en": [
+                "Soubise"
+              ],
+              "it": [
+                "Soubise"
+              ],
+              "fr": [
+                "Soubise"
+              ],
+              "nl": [
+                "Soubise"
+              ],
+              "es": [
+                "Soubise"
+              ]
+            },
+            "insee": "17429",
+            "isPartOfDepartment": {
+              "@id": "kb:France7517",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Charente-Maritime"
+                ],
+                "pt": [
+                  "Charente-Maritime"
+                ],
+                "en": [
+                  "Charente-Maritime"
+                ],
+                "it": [
+                  "Charente-Maritime"
+                ],
+                "fr": [
+                  "Charente-Maritime"
+                ],
+                "nl": [
+                  "Charente-Maritime"
+                ],
+                "es": [
+                  "Charente-Maritime"
+                ]
+              },
+              "insee": "17",
+              "isPartOfRegion": {
+                "@id": "kb:France75",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "pt": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "en": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "it": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "fr": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "nl": [
+                    "Nouvelle-Aquitaine"
+                  ],
+                  "es": [
+                    "Nouvelle-Aquitaine"
+                  ]
+                },
+                "insee": "75",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/c1571510-670c-33f4-94e5-afbcab436a27",
+        "schema:latitude": "45.92655",
+        "schema:longitude": "-1.007722",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fed90c24-5b4e-374e-b413-9c9ae527b242",
+      "schema:email": [
+        "chloe.mailler@rochefort-ocean.com",
+        "christine.nourisson@rochefort-ocean.com",
+        "chrystelle.ecale@rochefort-ocean.com",
+        "lea.origlia@rochefort-ocean.com",
+        "sandrine.bouron@rochefort-ocean.com"
+      ],
+      "schema:legalName": "Office de Tourisme Rochefort Océan",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.rochefort-ocean.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-24",
+  "lastUpdateDatatourisme": "2023-06-25T05:33:01.162Z"
+}
