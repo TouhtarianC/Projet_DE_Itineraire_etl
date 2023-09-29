@@ -6,10 +6,10 @@
 
 import json
 import uuid
-from lib.create_DB_ORM import *
+from lib.create_DB_ORM import Trail
 from lib.annex_table import retrieve_annex_modality, create_tour_type,\
     create_trail_type, create_theme, create_audience, create_trailViz
-from lib.load_mongo import retrieve_mongo_data_POI, load_POI_into_mongodb #, load_file_mongo
+from lib.load_mongo import retrieve_mongo_data_POI, load_POI_into_mongodb
 from lib.load_neo4j import create_POI_into_neo4j
 from lib.load_maria import connect_maria
 from sqlalchemy import exc, select
@@ -92,7 +92,7 @@ def create_trail(POI):
         lastupdate = None
 
     new_trail = Trail(id=UUID_gen,
-                      DataTourism_ID=POI['@id'],
+                      DATATOURISME_ID=POI['@id'],
                       PETS_ALLOWED=pets_allowed,
                       DURATION=duration,
                       DISTANCE=distance,
@@ -168,28 +168,27 @@ def load_TRAIL(data_file: str, db_maria_connect: dict, db_mongo_connect: dict, d
 
     l_trails = retrieve_all_trails(session=session)
     print(f"nb trails already in base = {len(l_trails)}")
-    l_DataTourism_ID = [trail[0].DataTourism_ID for trail in l_trails]
+    l_DataTourism_ID = [trail[0].DATATOURISME_ID for trail in l_trails]
 
     # load data from file to variable
     with open(data_file) as f:
         data = json.load(f)
 
     mongoJSON = []
-    #neo4j_list = []
     trail_list = []
 
     for POI in data['@graph']:
         try:
             if POI['@id'] in l_DataTourism_ID:
                 old_trail = [trail[0] for trail in l_trails
-                             if trail[0].DataTourism_ID == POI['@id']][0]
+                             if trail[0].DATATOURISME_ID == POI['@id']][0]
                 update_trail(old_trail, POI)
             else:
                 new_trail = create_trail(POI)
                 # we keep only Type with "Tour" into its name
                 Tour_types = [x for x in POI['@type']
                               if re.search('.*Tour$', x)]
-                
+
                 # check if tour_type already exist in annex
                 for t_type in Tour_types:
                     _, _, l_tour_type, exist_Tour = append_trail(
@@ -330,7 +329,6 @@ def load_TRAIL(data_file: str, db_maria_connect: dict, db_mongo_connect: dict, d
                 try:
                     # creation of row into DB MariaDB from object
                     session.add(new_trail)
-                    #session.commit()
                 except exc.IntegrityError as e:
                     session.rollback()
                     print(f"Integrity error on Trail {new_trail} creation\n")
@@ -359,8 +357,19 @@ def load_TRAIL(data_file: str, db_maria_connect: dict, db_mongo_connect: dict, d
         except KeyError:
             print(f"pb avec le POI: {POI}")
 
-    print(f"{len(trail_list)} trails have been added into DB TRAIL")
-    session.commit()
+    try:
+        session.commit()
+        print(f"{len(trail_list)} trails have been added into DB TRAIL")
+    except exc.IntegrityError as e:
+        session.rollback()
+        print(f"error was {e}\n")
+    except ObjectDeletedError as e:
+        session.rollback()
+        print(f"error was {e}\n")
+    except exc.InvalidRequestError as e:
+        session.rollback()
+        print(f"error was {e}\n")
+
     session.close()
 
     # ############### MongoDB #####################

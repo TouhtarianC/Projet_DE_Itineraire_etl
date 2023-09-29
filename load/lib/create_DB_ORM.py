@@ -167,7 +167,7 @@ class Trail(Base):
     __tablename__ = "TRAIL"
     id: Mapped[str] = mapped_column(String(36), primary_key=True,
                                     default=str(uuid.uuid4()), index=True)
-    DataTourism_ID: Mapped[str] = mapped_column(String(255), index=True,
+    DATATOURISME_ID: Mapped[str] = mapped_column(String(255), index=True,
                                                 unique=True)
     TOUR_TYPE: Mapped[List["TourType"]] = relationship(
         secondary=association_TourType_Trail, back_populates='TRAILS')

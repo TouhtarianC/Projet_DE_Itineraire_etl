@@ -1,7 +1,5 @@
 version: "3.7"
 
-# create pyspark to submit : from csv to SQL and neo4j
-
 services:
 
     # mariadb
@@ -109,41 +107,6 @@ services:
         volumes:
             - ../spark/app:/usr/local/spark/app # Spark scripts folder (Must be the same path in airflow and Spark Cluster)
             - ../spark/resources:/usr/local/spark/resources #Resources folder (Must be the same path in airflow and Spark Cluster)
-
-
-    #Jupyter notebook
-    # jupyter-spark:
-    #     image: jupyter/pyspark-notebook
-    #     user: root
-    #     environment:
-    #       NB_USER: "root"
-    #       NB_UID: 0
-    #       NB_GID: 0
-    #       NOTEBOOK_ARGS: --allow-root
-    #     networks:
-    #         - default_net
-    #     ports:
-    #       - "8888:8888"
-    #       - "4040-4080:4040-4080"
-    #     links:
-    #       - "neo4j:neo4j"
-    #       - "mariadb:mariadb"
-    #       - "mongodb:mongodb"
-    #     volumes:
-    #       - ./notebooks:/home/root/work/notebooks/
-    #       - ./spark/resources/data:/home/root/work/data/
-    #       - ./spark/resources/jars:/home/root/work/jars/
-
-
-#    navigo:
-#        build:
-#          context: ./navigo
-#          dockerfile: Dockerfile
-#
-#        ports:
-#          - "8000:8000"
-#        networks:
-#          - default_net
 
 networks:
     default_net:
