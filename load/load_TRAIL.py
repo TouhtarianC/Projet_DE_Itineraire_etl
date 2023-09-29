@@ -92,7 +92,7 @@ def create_trail(POI):
         lastupdate = None
 
     new_trail = Trail(id=UUID_gen,
-                      DataTourism_ID=POI['@id'],
+                      DATATOURISME_ID=POI['@id'],
                       PETS_ALLOWED=pets_allowed,
                       DURATION=duration,
                       DISTANCE=distance,
@@ -168,7 +168,7 @@ def load_TRAIL(data_file: str, db_maria_connect: dict, db_mongo_connect: dict, d
 
     l_trails = retrieve_all_trails(session=session)
     print(f"nb trails already in base = {len(l_trails)}")
-    l_DataTourism_ID = [trail[0].DataTourism_ID for trail in l_trails]
+    l_DataTourism_ID = [trail[0].DATATOURISME_ID for trail in l_trails]
 
     # load data from file to variable
     with open(data_file) as f:
@@ -181,7 +181,7 @@ def load_TRAIL(data_file: str, db_maria_connect: dict, db_mongo_connect: dict, d
         try:
             if POI['@id'] in l_DataTourism_ID:
                 old_trail = [trail[0] for trail in l_trails
-                             if trail[0].DataTourism_ID == POI['@id']][0]
+                             if trail[0].DATATOURISME_ID == POI['@id']][0]
                 update_trail(old_trail, POI)
             else:
                 new_trail = create_trail(POI)
