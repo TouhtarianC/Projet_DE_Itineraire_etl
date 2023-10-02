@@ -190,7 +190,7 @@ class Trail(Base):
 
     def __repr__(self) -> str:
         return f"Trail(id={self.id!r},\
-                    DataTourism_ID={self.DataTourism_ID!r},\
+                    DATATOURISME_ID={self.DATATOURISME_ID!r},\
                     TOUR_TYPE={self.TOUR_TYPE!r},\
                     TRAIL_TYPE={self.TRAIL_TYPE!r},\
                     THEME={self.THEME!r},\
@@ -274,7 +274,7 @@ class Poi(Base):
     IMAGE_LINK: Mapped[str] = Column(String(255), default=None)
     CITY: Mapped[str] = Column(String(60), default=None)
     POSTAL_CODE: Mapped[int] = Column(Integer, default=None)
-    POSTAL_ADDRESS: Mapped[str] = Column(String(255), default=None)
+    POSTAL_ADDRESS: Mapped[str] = Column(String(255), default=None, index=True)
     POI_TYPES: Mapped[List['PoiType']] = relationship(
         'PoiType',
         secondary=association_PoiType_Poi,
@@ -287,8 +287,8 @@ class Poi(Base):
         'TargetAudience',
         secondary=association_Audience_Poi,
         back_populates='POIS')
-    DATATOURISME_ID: Mapped[str] = Column(String(255), index=True)
-    LAST_UPDATE: Mapped[str] = Column(String(24))
+    DATATOURISME_ID: Mapped[str] = Column(String(255), index=True, unique=True)
+    LAST_UPDATE: Mapped[str] = Column(String(12))
 
     def __repr__(self) -> str:
         return f"Poi(id={self.id!r}, \
