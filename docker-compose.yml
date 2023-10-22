@@ -16,6 +16,20 @@ services:
       networks:
         - default_net
 
+#    phpmyadmin:
+#      image: phpmyadmin/phpmyadmin:latest
+#      ports:
+#        - '8000:80'
+#      environment:
+#        - PMA_ARBITRARY=1
+#        - PMA_HOST=mariadb
+#      depends_on:
+#        - mariadb
+#      links:
+#        - "mariadb:mariadb"
+#      networks:
+#        - default_net
+
     # neo4j
     neo4j:
       image: neo4j:5.10
@@ -46,9 +60,40 @@ services:
         - ./db_persistence/mongodb:/data/db
       ports:
         - '27017:27017'
+#      environment:
+#        - MONGO_INITDB_ROOT_USERNAME=admin
+#        - MONGO_INITDB_DATABASE=admin
+#        - MONGO_INITDB_ROOT_PASSWORD=pass
       networks:
         - default_net
 
+#    mongoexpress:
+#      image: mongo-express:latest
+##      depends_on:
+##        - mongodb
+#      links:
+#        - "mongodb:mongodb"
+#      networks:
+#        - default_net
+##      environment:
+##        - ME_CONFIG_MONGODB_URL=mongodb://admin:pass@mongodb:27017/admin?authSource=admin
+##        - ME_CONFIG_MONGODB_SERVER=mongodb
+##        - ME_CONFIG_MONGODB_ADMINUSERNAME=admin
+##        - ME_CONFIG_MONGODB_ADMINPASSWORD=pass
+##        - ME_CONFIG_MONGODB_ENABLE_ADMIN=true
+##        - ME_CONFIG_BASICAUTH_USERNAME=admin
+##        - ME_CONFIG_BASICAUTH_PASSWORD=pass
+#      ports:
+#        - '8081:8081'
+#      volumes:
+#        - ./db_persistence/mongodb:/data/db
+
+    navigo:
+      image: exploreit-navigo
+      ports:
+        - "9000:8000"
+      networks:
+        - default_net
 
     # Spark with 2 workers
     spark-master:
@@ -107,6 +152,30 @@ services:
         volumes:
             - ../spark/app:/usr/local/spark/app # Spark scripts folder (Must be the same path in airflow and Spark Cluster)
             - ../spark/resources:/usr/local/spark/resources #Resources folder (Must be the same path in airflow and Spark Cluster)
+
+# may be useful
+#    #Jupyter notebook
+#    jupyter-spark:
+#        image: jupyter/pyspark-notebook
+#        user: root
+#        environment:
+#          NB_USER: "root"
+#          NB_UID: 0
+#          NB_GID: 0
+#          NOTEBOOK_ARGS: --allow-root
+#        networks:
+#            - default_net
+#        ports:
+#          - "8888:8888"
+#          - "4040-4080:4040-4080"
+#        links:
+#          - "neo4j:neo4j"
+#          - "mariadb:mariadb"
+#          - "mongodb:mongodb"
+#        volumes:
+#          - ./notebooks:/home/root/work/notebooks/
+#          - ./spark/resources/data:/home/root/work/data/
+#          - ./spark/resources/jars:/home/root/work/jars/
 
 networks:
     default_net:
