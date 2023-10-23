@@ -62,7 +62,7 @@ def find_element(POI, element):
             case "postalAddress": 
                 res = POI['isLocatedAt'][0]['schema:address'][0]['schema:streetAddress'][0]
             case "lastUpdate": 
-                res = POI['lastUpdateDatatourisme']
+                res = POI['lastUpdate']
         
     except KeyError:
         return None
