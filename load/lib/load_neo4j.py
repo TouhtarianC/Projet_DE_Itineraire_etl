@@ -35,7 +35,7 @@ def create_POI_into_neo4j(POI: dict, UUID_gen: str, db_neo4j_connect: dict, node
         ) as driver:
             with driver.session() as session:
                 query = (
-                    f"MERGE (r:{node_label} {{longitude: '{longitude}', latitude: '{latitude}', uuid: '{UUID_gen}'}})"
+                    f"MERGE (r:{node_label} {{LONGITUDE: '{longitude}', LATITUDE: '{latitude}', uuid: '{UUID_gen}'}})"
                 )
                 session.run(query)
 
@@ -52,6 +52,6 @@ def load_POI_into_neo4j(POI_list, db_neo4j_connect):
                 
                     if latitude != None and longitude != None:                        
                         query = (
-                                f"MERGE (r:{node_label} {{longitude: '{longitude}', latitude: '{latitude}', uuid: '{UUID_gen}'}})"
+                                f"MERGE (r:{node_label} {{LONGITUDE: '{longitude}', LATITUDE: '{latitude}', uuid: '{UUID_gen}'}})"
                             )
                         session.run(query)

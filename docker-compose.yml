@@ -35,19 +35,20 @@ services:
       image: neo4j:5.10
       ports:
         - '7474:7474'
-#        - '7473:7473'
         - '7687:7687'
       environment:
         - NEO4J_AUTH=neo4j/neo4jneo4j
+        - NEO4J_dbms_security_procedures_unrestricted=gds.*,apoc.*
         - NEO4J_server_memory_heap_initial__size=1G
         - NEO4J_server_memory_heap_max__size=2G
+        - NEO4J_server_memory_pagecache_size=1G
         - NEO4J_apoc_export_file_enabled=true
         - NEO4J_apoc_import_file_enabled=true
         - NEO4J_apoc_import_file_use__neo4j__config=true
-        - NEO4JLABS_PLUGINS=["apoc", "graph-data-science"]
-#        - NEO4J_PLUGINS=["graph-data-science"]
+        - ./plugins:/plugins
       volumes:
         - ./db_persistence/neo4j:/data
+        - ./plugins:/plugins
       networks:
         - default_net
 
