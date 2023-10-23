@@ -33,18 +33,19 @@ def main():
         .appName("Load Data to DB") \
         .master("local[4]") \
         .getOrCreate()
-    
-    
+
     df = spark.read.option("header", "true").option("delimiter", ";").csv(csv_file_path)
     
     # Filter the lines where specified columns are null
     required_columns = ["X", "Y", "osm_id", "type", "name", "com_insee", "com_nom"]
     df = df.na.drop(subset=required_columns)
 
-    # Rename columns X to longitude and Y to latitude
+    # Rename columns X to longitude, Y to latitude, com_insee to POSTAL_CODE and com_nom to CITY
     df = df \
-        .withColumnRenamed("X", "longitude") \
-        .withColumnRenamed("Y", "latitude")
+        .withColumnRenamed("X", "LONGITUDE") \
+        .withColumnRenamed("Y", "LATITUDE") \
+        .withColumnRenamed("com_insee", "POSTAL_CODE") \
+        .withColumnRenamed("com_nom", "CITY")
 
     # Generate a new UUID column for each row
     @F.udf(StringType())
@@ -75,7 +76,7 @@ def main():
 
                 for record in records:
                     query = (
-                        f"MERGE (r:{node_type} {{longitude: '{record.longitude}', latitude: '{record.latitude}', uuid: '{record.uuid}'}})"
+                        f"MERGE (r:{node_type} {{LONGITUDE: '{record.LONGITUDE}', LATITUDE: '{record.LATITUDE}', uuid: '{record.uuid}'}})"
                     )
                     session.run(query)
 
@@ -90,8 +91,8 @@ def main():
         del document["osm_id"]
         del document["type"]
         del document["name"]
-        del document["com_insee"]
-        del document["com_nom"]
+        del document["POSTAL_CODE"]
+        del document["CITY"]
 
         return document
 
@@ -137,8 +138,8 @@ def main():
                 osm_id VARCHAR(50) NOT NULL,
                 type VARCHAR(50) NOT NULL,
                 name VARCHAR(250) NOT NULL,
-                com_insee INT NOT NULL,
-                com_nom VARCHAR(50) NOT NULL,
+                POSTAL_CODE INT NOT NULL,
+                CITY VARCHAR(50) NOT NULL,
                 PRIMARY KEY (uuid)
                 )
             """
@@ -148,8 +149,8 @@ def main():
     # todo more functional
     def insert_into_mariadb(record):
         return f""" 
-        INSERT INTO {table_name} (uuid, osm_id, type, name, com_insee, com_nom) 
-        VALUES ('{record.uuid}', '{record.osm_id}', '{record.type}', "{record.name}", {record.com_insee}, "{record.com_nom}" ); 
+        INSERT INTO {table_name} (uuid, osm_id, type, name, POSTAL_CODE, CITY) 
+        VALUES ('{record.uuid}', '{record.osm_id}', '{record.type}', "{record.name}", {record.POSTAL_CODE}, "{record.CITY}" ); 
         """
 
     sql_query_rdd = df.rdd.map(lambda x: insert_into_mariadb(x))
