@@ -16,20 +16,6 @@ services:
       networks:
         - default_net
 
-#    phpmyadmin:
-#      image: phpmyadmin/phpmyadmin:latest
-#      ports:
-#        - '8000:80'
-#      environment:
-#        - PMA_ARBITRARY=1
-#        - PMA_HOST=mariadb
-#      depends_on:
-#        - mariadb
-#      links:
-#        - "mariadb:mariadb"
-#      networks:
-#        - default_net
-
     # neo4j
     neo4j:
       image: neo4j:5.10
