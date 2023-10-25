@@ -26,19 +26,19 @@ def connect_maria(db_maria_connect: dict, DEBUG: bool):
 
 
 def find_object_in_list(object_name, list_of_names, object_type):
-    res=None
-            
-    if object_type == "poi_type" or object_type == "poi_theme" or object_type == "audience" : 
+    res = None
+
+    if object_type == "poi_type" or object_type == "poi_theme" or object_type == "audience" :
         for a in list_of_names:
-            if object_name == a[0].NAME: 
-                res=a[0]
-                break   
+            if object_name == a[0].NAME:
+                res = a[0]
+                break
         return res
-    
-    elif object_type == "poi": 
+
+    elif object_type == "poi":
         for a in list_of_names:
-            if object_name == a[0].DATATOURISME_ID: 
-                res=a[0]
+            if object_name == a[0].DATATOURISME_ID:
+                res = a[0]
                 break
         return res
 
@@ -47,33 +47,33 @@ def find_element(POI, element):
     res = None
     try:
         match element:
-            case "petsAllowed": 
+            case "petsAllowed":
                 res = POI['hasFeature'][0]['petsAllowed']
-            case  "reducedMobilityAccess": 
+            case  "reducedMobilityAccess":
                 res = POI['reducedMobilityAccess']
-            case "webpage": 
+            case "webpage":
                 res = POI['isOwnedBy'][0]['foaf:homepage'][0]
-            case "image": 
+            case "image":
                 res = POI['hasMainRepresentation'][0]['ebucore:hasRelatedResource'][0]['ebucore:locator'][0]
-            case "city": 
+            case "city":
                 res = POI['isLocatedAt'][0]['schema:address'][0]['schema:addressLocality']
-            case "postalCode": 
+            case "postalCode":
                 res = POI['isLocatedAt'][0]['schema:address'][0]['schema:postalCode']
-            case "postalAddress": 
+            case "postalAddress":
                 res = POI['isLocatedAt'][0]['schema:address'][0]['schema:streetAddress'][0]
-            case "lastUpdate": 
+            case "lastUpdate":
                 res = POI['lastUpdate']
-        
+
     except KeyError:
         return None
 
     return res
 
 
-def create_POI_for_mariadb(POI, UUID_gen, datatourisme_id, 
-                            poi_dic, poi_type_dic, poi_theme_dic, audience_dic, 
-                            l_mariadb_poi, l_mariadb_poi_type, l_mariadb_poi_theme, l_mariadb_audience): 
-         
+def create_POI_for_mariadb(POI, UUID_gen, datatourisme_id,
+                            poi_dic, poi_type_dic, poi_theme_dic, audience_dic,
+                            l_mariadb_poi, l_mariadb_poi_type, l_mariadb_poi_theme, l_mariadb_audience):
+
     pets_allowed = find_element(POI, 'petsAllowed')
     reduced_mobility_access = find_element(POI, 'reducedMobilityAccess')
     webp = find_element(POI, 'webpage')
@@ -91,13 +91,13 @@ def create_POI_for_mariadb(POI, UUID_gen, datatourisme_id,
             poi_type_res = find_object_in_list(p_type, poi_type_dic, 'poi_type')
             if poi_type_res == None:  
                 poi_type_new = PoiType(NAME=p_type)
-                
-                #append in lists
+
+                # append in lists
                 poi_types.append(poi_type_new)
                 l_mariadb_poi_type.append(poi_type_new)
                 poi_type_dic.append([poi_type_new,])
             else:
-                #append in list existing poi_type
+                # append in list existing poi_type
                 poi_types.append(poi_type_res)
     except KeyError:
         pass
