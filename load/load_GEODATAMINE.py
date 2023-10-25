@@ -9,7 +9,7 @@ from sqlalchemy import create_engine, text
 from sqlalchemy_utils import database_exists, create_database
 import pymongo
 
-from settings import NEO4J_URI, NEO4J_USER, NEO4J_PWD, MARIADB_HOSTING_TABLE, MARIADB_HOST, MARIADB_USER, \
+from settings import NEO4J_URI, NEO4J_USER, NEO4J_PWD, MARIADB_HOSTING_TABLE, MARIADB_HOST, MARIADB_USER, MARIADB_PORT,\
     MARIADB_PWD, MARIADB_DB, MARIADB_WC_TABLE, MARIADB_RESTAURANT_TABLE, MONGODB_URI, MONGODB_DB, MONGODB_WC_COLLECTION, \
     MONGODB_RESTAURANT_COLLECTION, MONGODB_HOSTING_COLLECTION
 
@@ -116,7 +116,7 @@ def main():
     print("loading data to mariadb ..")
 
     # Connect to MariaDB and create a new row for each element of the DataFrame
-    SQLALCHEMY_DATABASE_URI = f'mysql+pymysql://{MARIADB_USER}:{MARIADB_PWD}@{MARIADB_HOST}/{MARIADB_DB}'
+    SQLALCHEMY_DATABASE_URI = f'mysql+pymysql://{MARIADB_USER}:{MARIADB_PWD}@{MARIADB_HOST}:{MARIADB_PORT}/{MARIADB_DB}'
     engine = create_engine(SQLALCHEMY_DATABASE_URI, echo=False)
     if not database_exists(engine.url):
         create_database(engine.url)

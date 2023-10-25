@@ -1,12 +1,11 @@
 .venv/
 .vscode/
-load/__pycache__/
-load/lib/__pycache__/
 load/test/
 db_persistence/
 spark/
 .env
-*/__pycache__/
+**/__pycache__/
 *.py[cod]
 *$py.class
 .idea/
+Pipfile*
