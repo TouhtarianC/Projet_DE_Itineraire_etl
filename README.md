@@ -30,16 +30,28 @@ All the details about the schema of theses databases are described [here](hld_pr
 - **load**: contains scripts to extract/tranform and load data into final databases.
 
 ## 4- To execute ETL :
+:warning: you need **SPARK 3.4.1** and **Python3.10** to run this project
+
  - create your virtual env python with **requirements.txt**
  - run containers with **docker-compose.yml** file
  - to retrieve fresh data from the Datatourime source, execute **collect/download_Datatourism_ws.sh** (you must export your API_KEY into environment variables first)
  - execute **load/load_POI.py** to load Datatourime's data about POIs into the 3 BDD
+ ```code
+ python3.10 load/load_POI.py
+ ```
  - execute **load/load_TRAIL.py** to load Datatourime's data about TRAILs into the 3 BDD
+ ```code
+ python3.10 load/load_TRAIL.py
+ ```
  - execute **load/load_GEODATAMINE.py** to load Geodatamine's data about hotels, restaurants and toilets into the 3 BDD
+ ```code
+python3.10 load_GEODATAMINE.py -t wc ../raw_data/geodatamine/nouvelle-aquitaine_toilets_2023-07-04/dat
+a.csv 
+python3.10 load_GEODATAMINE.py -t restaurant ../raw_data/geodatamine/nouvelle-aquitaine_restaurant_2023-07-04/data.csv 
+python3.10 load_GEODATAMINE.py -t hosting ../raw_data/geodatamine/nouvelle-aquitaine_hosting_2023-07-04/data.csv
+ ```
 
  all BDD data will be persisted into a directory named **db_persistence**
-
- when your data are loaded, you can stop the 3 spark containers.
 
  :warning: don't stop BDD containers
 
