@@ -60,10 +60,10 @@ def load_file_mongo(mongo_host, mongo_port, db_username, db_password, db_name,
                     collection_name, data_file):
 
     client = MongoClient(
-      host=mongo_host,
-      port=mongo_port,
-      username=db_username,
-      password=db_password
+        host=mongo_host,
+        port=mongo_port,
+        username=db_username,
+        password=db_password
     )
     db = client.get_database(db_name)
 
@@ -86,24 +86,24 @@ def find_element_to_dic(POI, element):
             dict = POI['hasDescription'][0]['shortDescription']
         elif element == 'desc':
             dict = POI['hasDescription'][0]['dc:description']
-            
+
         for item in dict.keys():
             language = item
             value = dict[item][0]
             res[language] = value
-    
+
     except KeyError:
         return {}
-    
+
     except TypeError:
         # sometimes it's just a dictionary and not a list
-        res[dict['@language']] = dict['@value'] # to be reviewed
+        res[dict['@language']] = dict['@value']  # to be reviewed
 
     return res
 
 
-def create_POI_for_mongodb(POI, UUID_gen): 
-        
+def create_POI_for_mongodb(POI, UUID_gen):
+
     label = find_element_to_dic(POI, 'label')
     shortDesc = find_element_to_dic(POI, 'shortDesc')
     desc = find_element_to_dic(POI, 'desc')
@@ -112,19 +112,18 @@ def create_POI_for_mongodb(POI, UUID_gen):
         "UUID": UUID_gen,
         "LABEL": label,
         "SHORT_DESCRIPTION": shortDesc,
-        "DESCRIPTION": desc 
+        "DESCRIPTION": desc
     }
 
     return document
 
 
-def load_POI_into_mongodb(POI_list, db_mongo_connect): 
+def load_POI_into_mongodb(POI_list, db_mongo_connect):
 
     if POI_list != []:
-        collection = MongoClient(db_mongo_connect['uri'])\
-            [db_mongo_connect['database']]\
-            [db_mongo_connect['collection']]
-        
+        collection = MongoClient(db_mongo_connect['uri'])[
+            db_mongo_connect['database']][db_mongo_connect['collection']]
+
         collection.insert_many(POI_list)
 
 

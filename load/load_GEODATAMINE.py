@@ -9,15 +9,21 @@ from sqlalchemy import create_engine, text
 from sqlalchemy_utils import database_exists, create_database
 import pymongo
 
-from settings import NEO4J_URI, NEO4J_USER, NEO4J_PWD, MARIADB_HOSTING_TABLE, MARIADB_HOST, MARIADB_USER, MARIADB_PORT,\
-    MARIADB_PWD, MARIADB_DB, MARIADB_WC_TABLE, MARIADB_RESTAURANT_TABLE, MONGODB_URI, MONGODB_DB, MONGODB_WC_COLLECTION, \
-    MONGODB_RESTAURANT_COLLECTION, MONGODB_HOSTING_COLLECTION
+from settings import NEO4J_URI, NEO4J_USER, NEO4J_PWD, MARIADB_HOSTING_TABLE, \
+    MARIADB_HOST, MARIADB_USER, MARIADB_PORT, MARIADB_PWD, MARIADB_DB, \
+    MARIADB_WC_TABLE, MARIADB_RESTAURANT_TABLE, MONGODB_URI, MONGODB_DB, \
+    MONGODB_WC_COLLECTION, MONGODB_RESTAURANT_COLLECTION, \
+    MONGODB_HOSTING_COLLECTION
+
 
 def parse_args():
-    parser = argparse.ArgumentParser(description="Ingest CSV data files and store data in databases")
+    parser = argparse.ArgumentParser(
+        description="Ingest CSV data files and store data in databases")
     parser.add_argument("csv_file", help="Path to the CSV file")
-    parser.add_argument("-t", "--type", choices=["wc", "restaurant", "hosting"],
-                        help="Type of nodes to ingest: WC, Restaurant, or Hosting")
+    parser.add_argument("-t", "--type",
+                        choices=["wc", "restaurant", "hosting"],
+                        help="Type of nodes to ingest: \
+                            WC, Restaurant, or Hosting")
     return parser.parse_args()
 
 
@@ -34,13 +40,16 @@ def main():
         .master("local[4]") \
         .getOrCreate()
 
-    df = spark.read.option("header", "true").option("delimiter", ";").csv(csv_file_path)
-    
+    df = spark.read.option("header", "true").option(
+        "delimiter", ";").csv(csv_file_path)
+
     # Filter the lines where specified columns are null
-    required_columns = ["X", "Y", "osm_id", "type", "name", "com_insee", "com_nom"]
+    required_columns = ["X", "Y", "osm_id",
+                        "type", "name", "com_insee", "com_nom"]
     df = df.na.drop(subset=required_columns)
 
-    # Rename columns X to longitude, Y to latitude, com_insee to POSTAL_CODE and com_nom to CITY
+    # Rename columns X to longitude, Y to latitude,
+    # com_insee to POSTAL_CODE and com_nom to CITY
     df = df \
         .withColumnRenamed("X", "LONGITUDE") \
         .withColumnRenamed("Y", "LATITUDE") \
@@ -68,10 +77,15 @@ def main():
 
     print("loading data to neo4j ..")
 
-    # Connect to Neo4j and create a Restaurant node for each element of the DataFrame
-    # we can adopt more functional style (decorator style to externalise node_type)
+    # Connect to Neo4j and create a Restaurant node
+    # for each element of the DataFrame
+    # we can adopt more functional style
+    # (decorator style to externalise node_type)
     def create_neo4j_node_partition(records):
-        with GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PWD)) as driver:
+        with GraphDatabase.driver(
+            NEO4J_URI,
+            auth=(NEO4J_USER, NEO4J_PWD)) \
+                as driver:
             with driver.session() as session:
 
                 for record in records:
@@ -85,7 +99,8 @@ def main():
 
     print("loading data to mongodb ..")
 
-    # Connect to MongoDB and create a document for each element of the DataFrame
+    # Connect to MongoDB and create a document
+    # for each element of the DataFrame
     def create_mongodb_document(record):
         document = record.asDict()
         del document["osm_id"]
@@ -148,9 +163,9 @@ def main():
 
     # todo more functional
     def insert_into_mariadb(record):
-        return f""" 
-        INSERT INTO {table_name} (uuid, osm_id, type, name, POSTAL_CODE, CITY) 
-        VALUES ('{record.uuid}', '{record.osm_id}', '{record.type}', "{record.name}", {record.POSTAL_CODE}, "{record.CITY}" ); 
+        return f"""
+        INSERT INTO {table_name} (uuid, osm_id, type, name, POSTAL_CODE, CITY)
+        VALUES ('{record.uuid}', '{record.osm_id}', '{record.type}', "{record.name}", {record.POSTAL_CODE}, "{record.CITY}");
         """
 
     sql_query_rdd = df.rdd.map(lambda x: insert_into_mariadb(x))

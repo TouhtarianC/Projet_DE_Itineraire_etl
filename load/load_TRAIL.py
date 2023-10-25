@@ -7,7 +7,7 @@
 import json
 import uuid
 from lib.create_DB_ORM import Trail
-from lib.annex_table import retrieve_annex_modality, create_tour_type,\
+from lib.annex_table import retrieve_annex_modality, create_tour_type, \
     create_trail_type, create_theme, create_audience, create_trailViz
 from lib.load_mongo import retrieve_mongo_data_POI, load_POI_into_mongodb
 from lib.load_neo4j import create_POI_into_neo4j
@@ -18,9 +18,9 @@ from sqlalchemy.orm.exc import ObjectDeletedError
 import re
 from datetime import datetime
 
-from settings import MARIADB_DB, MARIADB_HOST, MARIADB_PORT, \
-    MARIADB_USER, MARIADB_PWD, DATAFILES_TRAIL, MONGODB_TRAIL_COLLECTION, MONGODB_URI, MONGODB_DB, \
-    NEO4J_URI, NEO4J_USER, NEO4J_PWD
+from settings import MARIADB_DB, MARIADB_HOST, MARIADB_PORT, MARIADB_USER, \
+    MARIADB_PWD, DATAFILES_TRAIL, MONGODB_TRAIL_COLLECTION, MONGODB_URI, \
+    MONGODB_DB, NEO4J_URI, NEO4J_USER, NEO4J_PWD
 
 
 def retrieve_all_trails(session: Session):
@@ -106,7 +106,14 @@ def create_trail(POI):
     return new_trail
 
 
-def append_trail(session: Session, annex_type: str, annex_field: str, list_mod: list, list_obj: list, new_trail: Trail, DEBUG: bool):
+def append_trail(
+        session: Session,
+        annex_type: str,
+        annex_field: str,
+        list_mod: list,
+        list_obj: list,
+        new_trail: Trail,
+        DEBUG: bool):
     """function to create/add annex foreignkey if needed to trail
     annex_type = "tourType", "trailType", "theme" or "audience"
         return:
@@ -132,14 +139,15 @@ def append_trail(session: Session, annex_type: str, annex_field: str, list_mod: 
             "create_func": create_audience,
             # "attribut": "AUDIENCE",
             "trail_attribut": "TARGET_AUDIENCE"}
-        }
+    }
 
     created = False
     trail_attribut = getattr(new_trail, mat[annex_type]["trail_attribut"])
     # attribut = mat[annex_type]["attribut"]
 
     if annex_field in list_mod:
-        obj = [tour[0] for tour in list_obj if getattr(tour[0], 'NAME') == annex_field][0]
+        obj = [tour[0] for tour in list_obj if getattr(
+            tour[0], 'NAME') == annex_field][0]
     else:
         # Annex modality must be created
         obj = mat[annex_type]["create_func"](session, annex_field)
@@ -153,7 +161,12 @@ def append_trail(session: Session, annex_type: str, annex_field: str, list_mod: 
     return created, obj, list_obj, list_mod
 
 
-def load_TRAIL(data_file: str, db_maria_connect: dict, db_mongo_connect: dict, db_neo4j_connect: dict, DEBUG: bool):
+def load_TRAIL(
+        data_file: str,
+        db_maria_connect: dict,
+        db_mongo_connect: dict,
+        db_neo4j_connect: dict,
+        DEBUG: bool):
     # ####################  MariaDB
     session = connect_maria(db_maria_connect=db_maria_connect, DEBUG=DEBUG)
 
@@ -284,18 +297,20 @@ def load_TRAIL(data_file: str, db_maria_connect: dict, db_mongo_connect: dict, d
                         # it's probably that POI_isDedicatedTo is a list
                         if isinstance(POI_isDedicatedTo, list):
                             for audience in POI_isDedicatedTo:
-                                _, _, l_audience, exist_audience = append_trail(
-                                    session=session,
-                                    annex_type="audience",
-                                    annex_field=audience["@id"][3:],
-                                    list_mod=exist_audience,
-                                    list_obj=l_audience,
-                                    new_trail=new_trail,
-                                    DEBUG=DEBUG
-                                )
+                                _, _, l_audience, exist_audience = \
+                                    append_trail(
+                                        session=session,
+                                        annex_type="audience",
+                                        annex_field=audience["@id"][3:],
+                                        list_mod=exist_audience,
+                                        list_obj=l_audience,
+                                        new_trail=new_trail,
+                                        DEBUG=DEBUG
+                                    )
                         else:
                             if DEBUG:
-                                print(f"pas d'audience pour ce POI {new_trail}")
+                                print(
+                                    f"pas d'audience pour ce POI {new_trail}")
                 except KeyError:
                     if DEBUG:
                         print(f"pas d'audience pour ce POI {new_trail}")
@@ -313,7 +328,8 @@ def load_TRAIL(data_file: str, db_maria_connect: dict, db_mongo_connect: dict, d
                                 trailViz = create_trailViz(session=session,
                                                            viz=loc_rep)
                                 if trailViz:
-                                    new_trail.TRAIL_VISUALIZATION.append(trailViz)
+                                    new_trail.TRAIL_VISUALIZATION.append(
+                                        trailViz)
                     else:
                         try:
                             loc_rep = POI['hasRepresentation']['ebucore:hasRelatedResource']['ebucore:locator']['@value']
@@ -338,7 +354,8 @@ def load_TRAIL(data_file: str, db_maria_connect: dict, db_mongo_connect: dict, d
                     print(f"issue with trail {new_trail}\n")
                 except exc.InvalidRequestError:
                     session.rollback()
-                    print(f"InvalidRequest error on Trail {new_trail} creation\n")
+                    print(
+                        f"InvalidRequest error on Trail {new_trail} creation\n")
 
                 trail_list.append(new_trail)
 
@@ -352,7 +369,10 @@ def load_TRAIL(data_file: str, db_maria_connect: dict, db_mongo_connect: dict, d
 
                 ###########################################################
                 # for NEO4J :
-                create_POI_into_neo4j(POI=POI, UUID_gen=new_trail.id, db_neo4j_connect=db_neo4j_connect, node_label="TRAIL")
+                create_POI_into_neo4j(POI=POI,
+                                      UUID_gen=new_trail.id,
+                                      db_neo4j_connect=db_neo4j_connect,
+                                      node_label="TRAIL")
 
         except KeyError:
             print(f"pb avec le POI: {POI}")
@@ -394,7 +414,7 @@ if __name__ == '__main__':
 
     # parameter to connect MongoDB (docker Hazem)
     db_mongo_connect = {
-        'uri': MONGODB_URI, 
+        'uri': MONGODB_URI,
         'database': MONGODB_DB,
         'collection': MONGODB_TRAIL_COLLECTION
     }
