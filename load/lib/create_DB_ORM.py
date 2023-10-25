@@ -29,7 +29,7 @@ class TourType(Base):
 
     def __repr__(self) -> str:
         return f"TourType(id={self.id!r}, NAME={self.NAME!r})"
-    
+
     def __init__(self, id, NAME):
         self.id = id
         self.NAME = NAME
@@ -55,7 +55,7 @@ class TrailType(Base):
 
     def __repr__(self) -> str:
         return f"TrailType(id={self.id!r}, NAME={self.NAME!r})"
-    
+
     def __init__(self, id, NAME):
         self.id = id
         self.NAME = NAME
@@ -81,7 +81,7 @@ class ThemeTrail(Base):
 
     def __repr__(self) -> str:
         return f"Theme(id={self.id!r}, NAME={self.NAME!r})"
-    
+
     def __init__(self, id, NAME):
         self.id = id
         self.NAME = NAME
@@ -133,6 +133,7 @@ class TargetAudience(Base):
         self.id = id
         self.NAME = NAME
 
+
 association_Viz_Trail = Table(
     "association_Viz_Trail",
     Base.metadata,
@@ -156,7 +157,7 @@ class TrailViz(Base):
     def __repr__(self) -> str:
         return f"TrailViz(id={self.id!r}, FILE_TYPE={self.FILE_TYPE!r}, \
             FILE_LINK={self.FILE_LINK!r})"
-    
+
     def __init__(self, id, FILE_TYPE, FILE_LINK):
         self.id = id
         self.FILE_TYPE = FILE_TYPE
@@ -168,7 +169,7 @@ class Trail(Base):
     id: Mapped[str] = mapped_column(String(36), primary_key=True,
                                     default=str(uuid.uuid4()), index=True)
     DATATOURISME_ID: Mapped[str] = mapped_column(String(255), index=True,
-                                                unique=True)
+                                                 unique=True)
     TOUR_TYPE: Mapped[List["TourType"]] = relationship(
         secondary=association_TourType_Trail, back_populates='TRAILS')
     TRAIL_TYPE: Mapped[List["TrailType"]] = relationship(
@@ -256,7 +257,7 @@ class PoiTheme(Base):
 
     def __repr__(self) -> str:
         return f"PoiTheme(id={self.id!r}, NAME={self.NAME!r})"
-    
+
     def __init__(self, NAME):
         self.id = str(uuid.uuid4())
         self.NAME = NAME
@@ -305,16 +306,17 @@ class Poi(Base):
                     DATATOURISME_ID={self.DATATOURISME_ID!r}, \
                     LAST_UPDATE={self.LAST_UPDATE!r}, \
                     )"
-    
-    def __init__(self, id, PETS_ALLOWED, REDUCED_MOBILITY_ACCESS, WEBPAGE_LINK, IMAGE_LINK,
-                 CITY, POSTAL_CODE, POSTAL_ADDRESS, DATATOURISME_ID, LAST_UPDATE):
-        self.id=id
-        self.PETS_ALLOWED=PETS_ALLOWED
-        self.REDUCED_MOBILITY_ACCESS=REDUCED_MOBILITY_ACCESS
-        self.WEBPAGE_LINK=WEBPAGE_LINK
-        self.IMAGE_LINK=IMAGE_LINK
-        self.CITY=CITY
-        self.POSTAL_CODE=POSTAL_CODE
-        self.POSTAL_ADDRESS=POSTAL_ADDRESS
-        self.DATATOURISME_ID=DATATOURISME_ID
-        self.LAST_UPDATE=LAST_UPDATE
+
+    def __init__(self, id, PETS_ALLOWED, REDUCED_MOBILITY_ACCESS,
+                 WEBPAGE_LINK, IMAGE_LINK, CITY, POSTAL_CODE,
+                 POSTAL_ADDRESS, DATATOURISME_ID, LAST_UPDATE):
+        self.id = id
+        self.PETS_ALLOWED = PETS_ALLOWED
+        self.REDUCED_MOBILITY_ACCESS = REDUCED_MOBILITY_ACCESS
+        self.WEBPAGE_LINK = WEBPAGE_LINK
+        self.IMAGE_LINK = IMAGE_LINK
+        self.CITY = CITY
+        self.POSTAL_CODE = POSTAL_CODE
+        self.POSTAL_ADDRESS = POSTAL_ADDRESS
+        self.DATATOURISME_ID = DATATOURISME_ID
+        self.LAST_UPDATE = LAST_UPDATE
