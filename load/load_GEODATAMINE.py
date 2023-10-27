@@ -1,7 +1,7 @@
 import argparse
 import uuid
 from pyspark.sql import SparkSession
-
+from pyspark.sql.functions import monotonically_increasing_id
 from pyspark.sql import functions as F
 from pyspark.sql.types import StringType
 from neo4j import GraphDatabase
@@ -56,47 +56,53 @@ def main():
         .withColumnRenamed("com_insee", "POSTAL_CODE") \
         .withColumnRenamed("com_nom", "CITY")
 
+    # Generate a partition_key to retrieve correct UUID
+    df = df.withColumn("partition_key", (monotonically_increasing_id()).cast("int")) \
+  
     # Generate a new UUID column for each row
     @F.udf(StringType())
     def generate_node_uuid():
         return str(uuid.uuid4())
+    
+    #spark.udf.register('generate_node_uuid', generate_node_uuid)
+    df = df.withColumn('UUID', (generate_node_uuid()))
 
-    spark.udf.register('generate_node_uuid', generate_node_uuid)
-    df = df.withColumn('uuid', generate_node_uuid())
+    # Collect UUIDS and convert them to have persistent UUIDs among differetn databases
+    uuid_list = df.select('UUID').collect()
+    uuid_dict = {i: row.UUID for i, row in enumerate(uuid_list)}
 
     # clean hosting names
     @F.udf(StringType())
     def clean_node_name(n):
         return n.strip('"')
 
-    spark.udf.register('clean_node_name', clean_node_name)
+    #spark.udf.register('clean_node_name', clean_node_name)
     df = df.withColumn('name', clean_node_name(df.name))
 
     print("finished cleaning and transforming data.. dataframe schema:")
     df.printSchema()
 
+    ##################################################################
     print("loading data to neo4j ..")
 
-    # Connect to Neo4j and create a Restaurant node
+    # Connect to neo4j and create a node
     # for each element of the DataFrame
-    # we can adopt more functional style
-    # (decorator style to externalise node_type)
-    def create_neo4j_node_partition(records):
-        with GraphDatabase.driver(
-            NEO4J_URI,
-            auth=(NEO4J_USER, NEO4J_PWD)) \
-                as driver:
-            with driver.session() as session:
+    def insert_into_neo4j(record):
+        uuid = uuid_dict[record.partition_key]
+        return f"MERGE (r:{node_type} {{ \
+                    LONGITUDE: '{record.LONGITUDE}', \
+                    LATITUDE: '{record.LATITUDE}', \
+                    UUID: '{uuid}'}})"
+    
+    cypher_query_rdd = df.rdd.map(lambda x: insert_into_neo4j(x))
+    cypher_query_list = cypher_query_rdd.collect()
 
-                for record in records:
-                    query = (
-                        f"MERGE (r:{node_type} {{LONGITUDE: '{record.LONGITUDE}', LATITUDE: '{record.LATITUDE}', uuid: '{record.uuid}'}})"
-                    )
-                    session.run(query)
+    with GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PWD)) as driver:
+        with driver.session() as session:
+            for query in cypher_query_list:
+                session.run(query)
 
-    # todo: set partition on df ?
-    df.foreachPartition(create_neo4j_node_partition)
-
+    ##################################################################
     print("loading data to mongodb ..")
 
     # Connect to MongoDB and create a document
@@ -109,6 +115,8 @@ def main():
         del document["POSTAL_CODE"]
         del document["CITY"]
 
+        uuid = uuid_dict[record.partition_key]
+        document["UUID"] = uuid
         return document
 
     # transform df to rdd
@@ -128,10 +136,13 @@ def main():
 
     mongo_collection.insert_many(mongo_doc_list)
 
+    ##################################################################
     print("loading data to mariadb ..")
 
-    # Connect to MariaDB and create a new row for each element of the DataFrame
-    SQLALCHEMY_DATABASE_URI = f'mysql+pymysql://{MARIADB_USER}:{MARIADB_PWD}@{MARIADB_HOST}:{MARIADB_PORT}/{MARIADB_DB}'
+    # Connect to MariaDB and create a new row 
+    # for each element of the DataFrame
+    SQLALCHEMY_DATABASE_URI = \
+        f'mysql+pymysql://{MARIADB_USER}:{MARIADB_PWD}@{MARIADB_HOST}:{MARIADB_PORT}/{MARIADB_DB}'
     engine = create_engine(SQLALCHEMY_DATABASE_URI, echo=False)
     if not database_exists(engine.url):
         create_database(engine.url)
@@ -149,13 +160,13 @@ def main():
         query = text(
             f"""
                 CREATE TABLE IF NOT EXISTS {table_name} (
-                uuid VARCHAR(50) NOT NULL,
+                UUID VARCHAR(50) NOT NULL,
                 osm_id VARCHAR(50) NOT NULL,
                 type VARCHAR(50) NOT NULL,
                 name VARCHAR(250) NOT NULL,
                 POSTAL_CODE INT NOT NULL,
                 CITY VARCHAR(50) NOT NULL,
-                PRIMARY KEY (uuid)
+                PRIMARY KEY (UUID)
                 )
             """
         )
@@ -163,10 +174,11 @@ def main():
 
     # todo more functional
     def insert_into_mariadb(record):
+        uuid = uuid_dict[record.partition_key]
         return f"""
-        INSERT INTO {table_name} (uuid, osm_id, type, name, POSTAL_CODE, CITY)
-        VALUES ('{record.uuid}', '{record.osm_id}', '{record.type}', "{record.name}", {record.POSTAL_CODE}, "{record.CITY}");
-        """
+            INSERT INTO {table_name} (UUID, osm_id, type, name, POSTAL_CODE, CITY)
+            VALUES ('{uuid}', '{record.osm_id}', '{record.type}', "{record.name}", {record.POSTAL_CODE}, "{record.CITY}");
+            """
 
     sql_query_rdd = df.rdd.map(lambda x: insert_into_mariadb(x))
     sql_query_list = sql_query_rdd.collect()

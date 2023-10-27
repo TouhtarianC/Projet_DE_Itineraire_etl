@@ -369,10 +369,11 @@ def load_TRAIL(
 
                 ###########################################################
                 # for NEO4J :
-                create_POI_into_neo4j(POI=POI,
-                                      UUID_gen=new_trail.UUID,
-                                      db_neo4j_connect=db_neo4j_connect,
-                                      node_label="TRAIL")
+                create_POI_into_neo4j(
+                    POI=POI,
+                    UUID_gen=new_trail.UUID,
+                    db_neo4j_connect=db_neo4j_connect,
+                    node_label="TRAIL")
 
         except KeyError:
             print(f"pb avec le POI: {POI}")

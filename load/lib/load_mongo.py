@@ -6,7 +6,6 @@ from pymongo import MongoClient
 from pymongo.errors import CollectionInvalid
 import json
 
-
 def retrieve_mongo_data_POI(POI):
     """function that return dictionnary
     reformatting of label, description, and short description

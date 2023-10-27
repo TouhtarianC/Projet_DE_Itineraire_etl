@@ -64,7 +64,6 @@ def create_tour_type(session, t_type):
         # creation of row into DB MariaDB from object
         session.add(t_tour)
         # session.commit()
-        print(f"new TOUR_TYPE created : {t_tour.NAME}")
         return t_tour
     except exc.IntegrityError:
         session.rollback()
@@ -83,7 +82,6 @@ def create_trail_type(session, t_type):
         # creation of row into DB MariaDB from object
         session.add(t_tour)
         # session.commit()
-        print(f"new TRAIL_TYPE created : {t_tour.NAME}")
         return t_tour
     except exc.IntegrityError:
         session.rollback()
@@ -102,7 +100,6 @@ def create_theme(session, theme):
         # creation of row into DB MariaDB from object
         session.add(t_theme)
         # session.commit()
-        print(f"new THEME created : {t_theme.NAME}")
         return t_theme
     except exc.IntegrityError:
         session.rollback()
@@ -120,7 +117,6 @@ def create_audience(session, audience):
         # creation of row into DB MariaDB from object
         session.add(t_audience)
         # session.commit()
-        print(f"new TARGET_AUDIENCE created : {t_audience.NAME}")
         return t_audience
     except exc.IntegrityError:
         session.rollback()
@@ -142,7 +138,6 @@ def create_trailViz(session, viz):
             # creation of row into DB MariaDB from object
             session.add(t_viz)
             # session.commit()
-            # print(f"new TRAIL_VIZ {t_viz} created")
             return t_viz
         except exc.IntegrityError:
             session.rollback()

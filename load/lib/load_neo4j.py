@@ -58,9 +58,11 @@ def load_POI_into_neo4j(POI_list, db_neo4j_connect):
 
     # upload to neo4j
     if POI_list != []:
-        with GraphDatabase.driver(db_neo4j_connect['uri'],
-                                  auth=(db_neo4j_connect['username'],
-                                  db_neo4j_connect['password'])) as driver:
+        with GraphDatabase.driver(
+            db_neo4j_connect['uri'],
+            auth=(db_neo4j_connect['username'],
+            db_neo4j_connect['password'])
+        ) as driver:
             with driver.session() as session:
                 for POI in POI_list:
                     latitude = POI['latitude']
