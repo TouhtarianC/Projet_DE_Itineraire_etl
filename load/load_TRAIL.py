@@ -91,7 +91,7 @@ def create_trail(POI):
     except KeyError:
         lastupdate = None
 
-    new_trail = Trail(id=UUID_gen,
+    new_trail = Trail(UUID=UUID_gen,
                       DATATOURISME_ID=POI['@id'],
                       PETS_ALLOWED=pets_allowed,
                       DURATION=duration,
@@ -362,7 +362,7 @@ def load_TRAIL(
                 # Prepare Trail Mongo Data
                 mongo_trail = retrieve_mongo_data_POI(POI=POI)
 
-                mongoJSON.append({"_id": new_trail.id,
+                mongoJSON.append({"UUID": new_trail.UUID,
                                   "LABEL": mongo_trail['LABEL'],
                                   "SHORT_DESCRIPTION": mongo_trail['SHORT_DESCRIPTION'],
                                   "DESCRIPTION": mongo_trail['DESCRIPTION']})
@@ -370,7 +370,7 @@ def load_TRAIL(
                 ###########################################################
                 # for NEO4J :
                 create_POI_into_neo4j(POI=POI,
-                                      UUID_gen=new_trail.id,
+                                      UUID_gen=new_trail.UUID,
                                       db_neo4j_connect=db_neo4j_connect,
                                       node_label="TRAIL")
 

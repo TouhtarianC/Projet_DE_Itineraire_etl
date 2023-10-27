@@ -57,7 +57,7 @@ def create_tour_type(session, t_type):
     """function to create TOUR_TYPE into DB and return the object"""
     UUID_gen = str(uuid.uuid4())
     t_tour = TourType(
-        id=UUID_gen,
+        UUID=UUID_gen,
         NAME=t_type
     )
     try:
@@ -76,7 +76,7 @@ def create_trail_type(session, t_type):
     """function to create TRAIL_TYPE into DB and return the object"""
     UUID_gen = str(uuid.uuid4())
     t_tour = TrailType(
-        id=UUID_gen,
+        UUID=UUID_gen,
         NAME=t_type
     )
     try:
@@ -95,7 +95,7 @@ def create_theme(session, theme):
     """function to create THEME into DB and return the object"""
     UUID_gen = str(uuid.uuid4())
     t_theme = ThemeTrail(
-        id=UUID_gen,
+        UUID=UUID_gen,
         NAME=theme
     )
     try:
@@ -113,7 +113,7 @@ def create_audience(session, audience):
     """function to create TARGET_AUDIENCE into DB and return the object"""
     UUID_gen = str(uuid.uuid4())
     t_audience = TargetAudience(
-        id=UUID_gen,
+        UUID=UUID_gen,
         NAME=audience
     )
     try:
@@ -134,7 +134,7 @@ def create_trailViz(session, viz):
     UUID_gen = str(uuid.uuid4())
     try:
         t_viz = TrailViz(
-            id=UUID_gen,
+            UUID=UUID_gen,
             FILE_TYPE=re.search(r'\.([a-zA-Z0-9]+)$', viz).group(1).lower(),
             FILE_LINK=viz
         )

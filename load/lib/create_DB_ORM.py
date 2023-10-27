@@ -12,14 +12,14 @@ class Base(DeclarativeBase):
 association_TourType_Trail = Table(
     "association_TourType_Trail",
     Base.metadata,
-    Column("TRAIL", ForeignKey("TRAIL.id"), primary_key=True),
-    Column("TOUR_TYPE", ForeignKey("TOUR_TYPE.id"), primary_key=True),
+    Column("TRAIL", ForeignKey("TRAIL.UUID"), primary_key=True),
+    Column("TOUR_TYPE", ForeignKey("TOUR_TYPE.UUID"), primary_key=True),
 )
 
 
 class TourType(Base):
     __tablename__ = "TOUR_TYPE"
-    id: Mapped[str] = mapped_column(String(36), primary_key=True,
+    UUID: Mapped[str] = mapped_column(String(36), primary_key=True,
                                     default=str(uuid.uuid4()), index=True)
     NAME: Mapped[str] = mapped_column(String(30), unique=True)
     TRAILS: Mapped[List['Trail']] = relationship(
@@ -28,24 +28,24 @@ class TourType(Base):
         back_populates='TOUR_TYPE')
 
     def __repr__(self) -> str:
-        return f"TourType(id={self.id!r}, NAME={self.NAME!r})"
-
-    def __init__(self, id, NAME):
-        self.id = id
+        return f"TourType(UUID={self.UUID!r}, NAME={self.NAME!r})"
+    
+    def __init__(self, UUID, NAME):
+        self.UUID = UUID
         self.NAME = NAME
 
 
 association_TrailType_Trail = Table(
     "association_TrailType_Trail",
     Base.metadata,
-    Column("TRAIL", ForeignKey("TRAIL.id"), primary_key=True),
-    Column("TRAIL_TYPE", ForeignKey("TRAIL_TYPE.id"), primary_key=True),
+    Column("TRAIL", ForeignKey("TRAIL.UUID"), primary_key=True),
+    Column("TRAIL_TYPE", ForeignKey("TRAIL_TYPE.UUID"), primary_key=True),
 )
 
 
 class TrailType(Base):
     __tablename__ = "TRAIL_TYPE"
-    id: Mapped[str] = mapped_column(String(36), primary_key=True,
+    UUID: Mapped[str] = mapped_column(String(36), primary_key=True,
                                     default=str(uuid.uuid4()), index=True)
     NAME: Mapped[str] = mapped_column(String(30), unique=True)
     TRAILS: Mapped[List['Trail']] = relationship(
@@ -54,24 +54,24 @@ class TrailType(Base):
         back_populates='TRAIL_TYPE')
 
     def __repr__(self) -> str:
-        return f"TrailType(id={self.id!r}, NAME={self.NAME!r})"
-
-    def __init__(self, id, NAME):
-        self.id = id
+        return f"TrailType(UUID={self.UUID!r}, NAME={self.NAME!r})"
+    
+    def __init__(self, UUID, NAME):
+        self.UUID = UUID
         self.NAME = NAME
 
 
 association_ThemeTrail_Trail = Table(
     "association_Theme_Trail",
     Base.metadata,
-    Column("TRAIL", ForeignKey("TRAIL.id"), primary_key=True),
-    Column("THEME", ForeignKey("THEME.id"), primary_key=True),
+    Column("TRAIL", ForeignKey("TRAIL.UUID"), primary_key=True),
+    Column("THEME", ForeignKey("THEME.UUID"), primary_key=True),
 )
 
 
 class ThemeTrail(Base):
     __tablename__ = "THEME"
-    id: Mapped[str] = mapped_column(String(36), primary_key=True,
+    UUID: Mapped[str] = mapped_column(String(36), primary_key=True,
                                     default=str(uuid.uuid4()), index=True)
     NAME: Mapped[str] = mapped_column(String(30), unique=True)
     TRAILS: Mapped[List['Trail']] = relationship(
@@ -80,26 +80,26 @@ class ThemeTrail(Base):
         back_populates='THEME')
 
     def __repr__(self) -> str:
-        return f"Theme(id={self.id!r}, NAME={self.NAME!r})"
-
-    def __init__(self, id, NAME):
-        self.id = id
+        return f"Theme(UUID={self.UUID!r}, NAME={self.NAME!r})"
+    
+    def __init__(self, UUID, NAME):
+        self.UUID = UUID
         self.NAME = NAME
 
 
 association_Audience_Trail = Table(
     "association_Audience_Trail",
     Base.metadata,
-    Column("TRAIL", ForeignKey("TRAIL.id"), primary_key=True),
-    Column("TARGET_AUDIENCE", ForeignKey("TARGET_AUDIENCE.id"),
+    Column("TRAIL", ForeignKey("TRAIL.UUID"), primary_key=True),
+    Column("TARGET_AUDIENCE", ForeignKey("TARGET_AUDIENCE.UUID"),
            primary_key=True),
 )
 
 association_Audience_Poi = Table(
     "association_Audience_Poi",
     Base.metadata,
-    Column("poi_id", ForeignKey("POI.id")),
-    Column("target_audience_id", ForeignKey("TARGET_AUDIENCE.id")),
+    Column("poi_uuid", ForeignKey("POI.UUID")),
+    Column("target_audience_uuid", ForeignKey("TARGET_AUDIENCE.UUID")),
 )
 
 
@@ -114,7 +114,7 @@ association_Audience_Poi = Table(
 
 class TargetAudience(Base):
     __tablename__ = "TARGET_AUDIENCE"
-    id: Mapped[str] = Column(String(36), primary_key=True,
+    UUID: Mapped[str] = Column(String(36), primary_key=True,
                              default=str(uuid.uuid4()), index=True)
     NAME: Mapped[str] = Column(String(255), unique=True)
     POIS: Mapped[List['Poi']] = relationship(
@@ -127,25 +127,25 @@ class TargetAudience(Base):
         back_populates='TARGET_AUDIENCE')
 
     def __repr__(self) -> str:
-        return f"TargetAudience(id={self.id!r}, NAME={self.NAME!r})"
+        return f"TargetAudience(UUID={self.UUID!r}, NAME={self.NAME!r})"
 
-    def __init__(self, id, NAME):
-        self.id = id
+    def __init__(self, UUID, NAME):
+        self.UUID = UUID
         self.NAME = NAME
 
 
 association_Viz_Trail = Table(
     "association_Viz_Trail",
     Base.metadata,
-    Column("TRAIL", ForeignKey("TRAIL.id"), primary_key=True),
-    Column("TRAIL_VISUALIZATION", ForeignKey("TRAIL_VISUALIZATION.id"),
+    Column("TRAIL", ForeignKey("TRAIL.UUID"), primary_key=True),
+    Column("TRAIL_VISUALIZATION", ForeignKey("TRAIL_VISUALIZATION.UUID"),
            primary_key=True),
 )
 
 
 class TrailViz(Base):
     __tablename__ = "TRAIL_VISUALIZATION"
-    id: Mapped[str] = mapped_column(String(36), primary_key=True,
+    UUID: Mapped[str] = mapped_column(String(36), primary_key=True,
                                     default=str(uuid.uuid4()), index=True)
     FILE_TYPE: Mapped[str] = mapped_column(String(30))
     FILE_LINK: Mapped[str] = mapped_column(String(255))
@@ -155,18 +155,18 @@ class TrailViz(Base):
         back_populates='TRAIL_VISUALIZATION')
 
     def __repr__(self) -> str:
-        return f"TrailViz(id={self.id!r}, FILE_TYPE={self.FILE_TYPE!r}, \
+        return f"TrailViz(UUID={self.UUID!r}, FILE_TYPE={self.FILE_TYPE!r}, \
             FILE_LINK={self.FILE_LINK!r})"
-
-    def __init__(self, id, FILE_TYPE, FILE_LINK):
-        self.id = id
+    
+    def __init__(self, UUID, FILE_TYPE, FILE_LINK):
+        self.UUID = UUID
         self.FILE_TYPE = FILE_TYPE
         self.FILE_LINK = FILE_LINK
 
 
 class Trail(Base):
     __tablename__ = "TRAIL"
-    id: Mapped[str] = mapped_column(String(36), primary_key=True,
+    UUID: Mapped[str] = mapped_column(String(36), primary_key=True,
                                     default=str(uuid.uuid4()), index=True)
     DATATOURISME_ID: Mapped[str] = mapped_column(String(255), index=True,
                                                  unique=True)
@@ -190,7 +190,7 @@ class Trail(Base):
     LAST_UPDATE: Mapped[str] = Column(String(12))
 
     def __repr__(self) -> str:
-        return f"Trail(id={self.id!r},\
+        return f"Trail(UUID={self.UUID!r},\
                     DATATOURISME_ID={self.DATATOURISME_ID!r},\
                     TOUR_TYPE={self.TOUR_TYPE!r},\
                     TRAIL_TYPE={self.TRAIL_TYPE!r},\
@@ -211,22 +211,22 @@ class Trail(Base):
 association_PoiType_Poi = Table(
     "association_PoiType_Poi",
     Base.metadata,
-    Column("poi_id", ForeignKey("POI.id")),
-    Column("poi_type_id", ForeignKey("POI_TYPE.id")),
+    Column("poi_uuid", ForeignKey("POI.UUID")),
+    Column("poi_type_uuid", ForeignKey("POI_TYPE.UUID")),
 )
 
 
 association_PoiTheme_Poi = Table(
     "association_PoiTheme_Poi",
     Base.metadata,
-    Column("poi_id", ForeignKey("POI.id")),
-    Column("poi_theme_id", ForeignKey("POI_THEME.id")),
+    Column("poi_uuid", ForeignKey("POI.UUID")),
+    Column("poi_theme_uuid", ForeignKey("POI_THEME.UUID")),
 )
 
 
 class PoiType(Base):
     __tablename__ = "POI_TYPE"
-    id: Mapped[str] = Column(String(36),
+    UUID: Mapped[str] = Column(String(36),
                              primary_key=True,
                              default=str(uuid.uuid4()),
                              index=True)
@@ -236,16 +236,16 @@ class PoiType(Base):
                                              back_populates='POI_TYPES')
 
     def __repr__(self) -> str:
-        return f"PoiType(id={self.id!r}, NAME={self.NAME!r})"
+        return f"PoiType(UUID={self.UUID!r}, NAME={self.NAME!r})"
 
     def __init__(self, NAME):
-        self.id = str(uuid.uuid4())
+        self.UUID = str(uuid.uuid4())
         self.NAME = NAME
 
 
 class PoiTheme(Base):
     __tablename__ = "POI_THEME"
-    id: Mapped[str] = Column(String(36),
+    UUID: Mapped[str] = Column(String(36),
                              primary_key=True,
                              default=str(uuid.uuid4()),
                              index=True)
@@ -256,16 +256,16 @@ class PoiTheme(Base):
         back_populates='POI_THEMES')
 
     def __repr__(self) -> str:
-        return f"PoiTheme(id={self.id!r}, NAME={self.NAME!r})"
-
+        return f"PoiTheme(UUID={self.UUID!r}, NAME={self.NAME!r})"
+    
     def __init__(self, NAME):
-        self.id = str(uuid.uuid4())
+        self.UUID = str(uuid.uuid4())
         self.NAME = NAME
 
 
 class Poi(Base):
     __tablename__ = "POI"
-    id: Mapped[str] = Column(String(36),
+    UUID: Mapped[str] = Column(String(36),
                              primary_key=True,
                              default=str(uuid.uuid4()),
                              index=True)
@@ -292,7 +292,7 @@ class Poi(Base):
     LAST_UPDATE: Mapped[str] = Column(String(12))
 
     def __repr__(self) -> str:
-        return f"Poi(id={self.id!r}, \
+        return f"Poi(UUID={self.UUID!r}, \
                     PETS_ALLOWED={self.PETS_ALLOWED!r}, \
                     REDUCED_MOBILITY_ACCESS={self.REDUCED_MOBILITY_ACCESS!r}, \
                     WEBPAGE_LINK={self.WEBPAGE_LINK!r}, \
@@ -306,17 +306,16 @@ class Poi(Base):
                     DATATOURISME_ID={self.DATATOURISME_ID!r}, \
                     LAST_UPDATE={self.LAST_UPDATE!r}, \
                     )"
-
-    def __init__(self, id, PETS_ALLOWED, REDUCED_MOBILITY_ACCESS,
-                 WEBPAGE_LINK, IMAGE_LINK, CITY, POSTAL_CODE,
-                 POSTAL_ADDRESS, DATATOURISME_ID, LAST_UPDATE):
-        self.id = id
-        self.PETS_ALLOWED = PETS_ALLOWED
-        self.REDUCED_MOBILITY_ACCESS = REDUCED_MOBILITY_ACCESS
-        self.WEBPAGE_LINK = WEBPAGE_LINK
-        self.IMAGE_LINK = IMAGE_LINK
-        self.CITY = CITY
-        self.POSTAL_CODE = POSTAL_CODE
-        self.POSTAL_ADDRESS = POSTAL_ADDRESS
-        self.DATATOURISME_ID = DATATOURISME_ID
-        self.LAST_UPDATE = LAST_UPDATE
+    
+    def __init__(self, UUID, PETS_ALLOWED, REDUCED_MOBILITY_ACCESS, WEBPAGE_LINK, IMAGE_LINK,
+                 CITY, POSTAL_CODE, POSTAL_ADDRESS, DATATOURISME_ID, LAST_UPDATE):
+        self.UUID=UUID
+        self.PETS_ALLOWED=PETS_ALLOWED
+        self.REDUCED_MOBILITY_ACCESS=REDUCED_MOBILITY_ACCESS
+        self.WEBPAGE_LINK=WEBPAGE_LINK
+        self.IMAGE_LINK=IMAGE_LINK
+        self.CITY=CITY
+        self.POSTAL_CODE=POSTAL_CODE
+        self.POSTAL_ADDRESS=POSTAL_ADDRESS
+        self.DATATOURISME_ID=DATATOURISME_ID
+        self.LAST_UPDATE=LAST_UPDATE
