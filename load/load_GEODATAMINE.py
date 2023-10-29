@@ -54,7 +54,10 @@ def main():
         .withColumnRenamed("X", "LONGITUDE") \
         .withColumnRenamed("Y", "LATITUDE") \
         .withColumnRenamed("com_insee", "POSTAL_CODE") \
-        .withColumnRenamed("com_nom", "CITY")
+        .withColumnRenamed("com_nom", "CITY") \
+        .withColumnRenamed("name", "NAME") \
+        .withColumnRenamed("type", "TYPE") \
+        .withColumnRenamed("osm_id", "OSM_ID")
 
     # Generate a partition_key to retrieve correct UUID
     df = df.withColumn("partition_key", (monotonically_increasing_id()).cast("int")) \
@@ -77,7 +80,7 @@ def main():
         return n.strip('"')
 
     #spark.udf.register('clean_node_name', clean_node_name)
-    df = df.withColumn('name', clean_node_name(df.name))
+    df = df.withColumn('NAME', clean_node_name(df.NAME))
 
     print("finished cleaning and transforming data.. dataframe schema:")
     df.printSchema()
@@ -109,9 +112,9 @@ def main():
     # for each element of the DataFrame
     def create_mongodb_document(record):
         document = record.asDict()
-        del document["osm_id"]
-        del document["type"]
-        del document["name"]
+        del document["OSM_ID"]
+        del document["TYPE"]
+        del document["NAME"]
         del document["POSTAL_CODE"]
         del document["CITY"]
 
@@ -161,9 +164,9 @@ def main():
             f"""
                 CREATE TABLE IF NOT EXISTS {table_name} (
                 UUID VARCHAR(50) NOT NULL,
-                osm_id VARCHAR(50) NOT NULL,
-                type VARCHAR(50) NOT NULL,
-                name VARCHAR(250) NOT NULL,
+                OSM_ID VARCHAR(50) NOT NULL,
+                TYPE VARCHAR(50) NOT NULL,
+                NAME VARCHAR(250) NOT NULL,
                 POSTAL_CODE INT NOT NULL,
                 CITY VARCHAR(50) NOT NULL,
                 PRIMARY KEY (UUID)
@@ -176,8 +179,8 @@ def main():
     def insert_into_mariadb(record):
         uuid = uuid_dict[record.partition_key]
         return f"""
-            INSERT INTO {table_name} (UUID, osm_id, type, name, POSTAL_CODE, CITY)
-            VALUES ('{uuid}', '{record.osm_id}', '{record.type}', "{record.name}", {record.POSTAL_CODE}, "{record.CITY}");
+            INSERT INTO {table_name} (UUID, OSM_ID, TYPE, NAME, POSTAL_CODE, CITY)
+            VALUES ('{uuid}', '{record.OSM_ID}', '{record.TYPE}', "{record.NAME}", {record.POSTAL_CODE}, "{record.CITY}");
             """
 
     sql_query_rdd = df.rdd.map(lambda x: insert_into_mariadb(x))
