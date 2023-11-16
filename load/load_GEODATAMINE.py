@@ -1,7 +1,8 @@
 import argparse
+import csv
 import uuid
 from pyspark.sql import SparkSession
-
+from pyspark.sql.functions import monotonically_increasing_id
 from pyspark.sql import functions as F
 from pyspark.sql.types import StringType
 from neo4j import GraphDatabase
@@ -40,6 +41,22 @@ def main():
         .master("local[4]") \
         .getOrCreate()
 
+    # load insee code to 'la poste' postal code mapping
+    insee_postal_code_mapping = {}
+    with open("../raw_data/geodatamine/laposte-insee.csv", 'r') as csvfile:
+        reader = csv.DictReader(csvfile, delimiter=';')
+        for row in reader:
+            # skip Région Corse(94) (as their insee code is not an integer)
+            try:
+                insee_postal_code_mapping.update(
+                    {int(row['#Code_commune_INSEE']): int(row['Code_postal'])}
+                )
+            except ValueError:
+                continue
+
+    print(f'loaded {len(insee_postal_code_mapping)} INSEE code to postal code mapping ..')
+
+    # load geodatamine file (passed as script argument)
     df = spark.read.option("header", "true").option(
         "delimiter", ";").csv(csv_file_path)
 
@@ -54,58 +71,75 @@ def main():
         .withColumnRenamed("X", "LONGITUDE") \
         .withColumnRenamed("Y", "LATITUDE") \
         .withColumnRenamed("com_insee", "POSTAL_CODE") \
-        .withColumnRenamed("com_nom", "CITY")
+        .withColumnRenamed("com_nom", "CITY") \
+        .withColumnRenamed("name", "NAME") \
+        .withColumnRenamed("type", "TYPE") \
+        .withColumnRenamed("osm_id", "OSM_ID")
+
+    # change all POSTAL_CODE values from INSEE to POSTAL CODE
+    @F.udf(StringType())
+    def insee_to_postal_code(x):
+        try:
+            postal_code = insee_postal_code_mapping[int(x)]
+        except KeyError:
+            # unknown insee code
+            postal_code = int(x)
+        return str(postal_code)
+
+    df = df.withColumn('POSTAL_CODE', insee_to_postal_code(df.POSTAL_CODE))
 
     # Generate a new UUID column for each row
     @F.udf(StringType())
     def generate_node_uuid():
         return str(uuid.uuid4())
-
-    spark.udf.register('generate_node_uuid', generate_node_uuid)
-    df = df.withColumn('uuid', generate_node_uuid())
+    
+    # spark.udf.register('generate_node_uuid', generate_node_uuid)
+    df = df.withColumn('UUID', (generate_node_uuid()))
 
     # clean hosting names
     @F.udf(StringType())
     def clean_node_name(n):
         return n.strip('"')
 
-    spark.udf.register('clean_node_name', clean_node_name)
-    df = df.withColumn('name', clean_node_name(df.name))
+    # spark.udf.register('clean_node_name', clean_node_name)
+    df = df.withColumn('NAME', clean_node_name(df.NAME))
 
     print("finished cleaning and transforming data.. dataframe schema:")
     df.printSchema()
+    print(df.head(10))
 
+    ##################################################################
     print("loading data to neo4j ..")
 
-    # Connect to Neo4j and create a Restaurant node
+    # Connect to neo4j and create a node
     # for each element of the DataFrame
-    # we can adopt more functional style
-    # (decorator style to externalise node_type)
-    def create_neo4j_node_partition(records):
-        with GraphDatabase.driver(
-            NEO4J_URI,
-            auth=(NEO4J_USER, NEO4J_PWD)) \
-                as driver:
-            with driver.session() as session:
+    mongo_data_list = df.rdd.map(lambda row: row.asDict()).collect()
 
-                for record in records:
-                    query = (
-                        f"MERGE (r:{node_type} {{LONGITUDE: '{record.LONGITUDE}', LATITUDE: '{record.LATITUDE}', uuid: '{record.uuid}'}})"
-                    )
-                    session.run(query)
+    # Prepare Cypher query for bulk insertion
+    cypher_query = f"""
+    UNWIND $dataList as data
+    MERGE (r:{node_type} {{
+    LONGITUDE: data.LONGITUDE,
+    LATITUDE: data.LATITUDE,
+    UUID: data.UUID
+    }})
+    """
 
-    # todo: set partition on df ?
-    df.foreachPartition(create_neo4j_node_partition)
+    with GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PWD)) as driver:
+        with driver.session() as session:
+            # Perform bulk insert using a single Cypher query
+            session.run(cypher_query, dataList=mongo_data_list)
 
+    ##################################################################
     print("loading data to mongodb ..")
 
     # Connect to MongoDB and create a document
     # for each element of the DataFrame
     def create_mongodb_document(record):
         document = record.asDict()
-        del document["osm_id"]
-        del document["type"]
-        del document["name"]
+        del document["OSM_ID"]
+        del document["TYPE"]
+        del document["NAME"]
         del document["POSTAL_CODE"]
         del document["CITY"]
 
@@ -128,10 +162,13 @@ def main():
 
     mongo_collection.insert_many(mongo_doc_list)
 
+    ##################################################################
     print("loading data to mariadb ..")
 
-    # Connect to MariaDB and create a new row for each element of the DataFrame
-    SQLALCHEMY_DATABASE_URI = f'mysql+pymysql://{MARIADB_USER}:{MARIADB_PWD}@{MARIADB_HOST}:{MARIADB_PORT}/{MARIADB_DB}'
+    # Connect to MariaDB and create a new row 
+    # for each element of the DataFrame
+    SQLALCHEMY_DATABASE_URI = \
+        f'mysql+pymysql://{MARIADB_USER}:{MARIADB_PWD}@{MARIADB_HOST}:{MARIADB_PORT}/{MARIADB_DB}'
     engine = create_engine(SQLALCHEMY_DATABASE_URI, echo=False)
     if not database_exists(engine.url):
         create_database(engine.url)
@@ -149,13 +186,13 @@ def main():
         query = text(
             f"""
                 CREATE TABLE IF NOT EXISTS {table_name} (
-                uuid VARCHAR(50) NOT NULL,
-                osm_id VARCHAR(50) NOT NULL,
-                type VARCHAR(50) NOT NULL,
-                name VARCHAR(250) NOT NULL,
+                UUID VARCHAR(50) NOT NULL,
+                OSM_ID VARCHAR(50) NOT NULL,
+                TYPE VARCHAR(50) NOT NULL,
+                NAME VARCHAR(250) NOT NULL,
                 POSTAL_CODE INT NOT NULL,
                 CITY VARCHAR(50) NOT NULL,
-                PRIMARY KEY (uuid)
+                PRIMARY KEY (UUID)
                 )
             """
         )
@@ -164,9 +201,9 @@ def main():
     # todo more functional
     def insert_into_mariadb(record):
         return f"""
-        INSERT INTO {table_name} (uuid, osm_id, type, name, POSTAL_CODE, CITY)
-        VALUES ('{record.uuid}', '{record.osm_id}', '{record.type}', "{record.name}", {record.POSTAL_CODE}, "{record.CITY}");
-        """
+            INSERT INTO {table_name} (UUID, OSM_ID, TYPE, NAME, POSTAL_CODE, CITY)
+            VALUES ('{record.UUID}', '{record.OSM_ID}', '{record.TYPE}', "{record.NAME}", {record.POSTAL_CODE}, "{record.CITY}");
+            """
 
     sql_query_rdd = df.rdd.map(lambda x: insert_into_mariadb(x))
     sql_query_list = sql_query_rdd.collect()

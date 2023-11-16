@@ -46,8 +46,10 @@ def create_POI_into_neo4j(POI: dict,
         ) as driver:
             with driver.session() as session:
                 query = (
-                    f"MERGE (r:{node_label} {{LONGITUDE: '{longitude}', \
-                        LATITUDE: '{latitude}', uuid: '{UUID_gen}'}})"
+                    f"MERGE (r:{node_label} {{ \
+                        LONGITUDE: '{longitude}', \
+                        LATITUDE: '{latitude}', \
+                        UUID: '{UUID_gen}'}})"
                 )
                 session.run(query)
 
@@ -56,9 +58,11 @@ def load_POI_into_neo4j(POI_list, db_neo4j_connect):
 
     # upload to neo4j
     if POI_list != []:
-        with GraphDatabase.driver(db_neo4j_connect['uri'],
-                                  auth=(db_neo4j_connect['username'],
-                                  db_neo4j_connect['password'])) as driver:
+        with GraphDatabase.driver(
+            db_neo4j_connect['uri'],
+            auth=(db_neo4j_connect['username'],
+            db_neo4j_connect['password'])
+        ) as driver:
             with driver.session() as session:
                 for POI in POI_list:
                     latitude = POI['latitude']
@@ -68,8 +72,9 @@ def load_POI_into_neo4j(POI_list, db_neo4j_connect):
 
                     if latitude is not None and longitude is not None:
                         query = (
-                            f"MERGE (r:{node_label} \
-                                {{LONGITUDE: '{longitude}', \
-                                LATITUDE: '{latitude}', uuid: '{UUID_gen}'}})"
+                            f"MERGE (r:{node_label} {{ \
+                                LONGITUDE: '{longitude}', \
+                                LATITUDE: '{latitude}', \
+                                UUID: '{UUID_gen}'}})"
                         )
                         session.run(query)

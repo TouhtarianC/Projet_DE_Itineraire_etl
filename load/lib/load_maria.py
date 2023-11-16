@@ -129,13 +129,12 @@ def create_POI_for_mariadb(POI, UUID_gen, datatourisme_id,
 
     try:
         audience = POI['hasDescription'][0]["isDedicatedTo"][0]["@id"][3:]
-        target_audience_res = find_object_in_list(
-            audience, audience_dic, 'audience')
-
-        if target_audience_res is None:
-            id = str(uuid.uuid4())
-            target_audience_new = TargetAudience(id=id, NAME=audience)
-
+        target_audience_res = find_object_in_list(audience, audience_dic, 'audience')
+                
+        if target_audience_res == None:
+            UUID = str(uuid.uuid4())
+            target_audience_new = TargetAudience(UUID=UUID, NAME=audience)
+                    
             target_audience.append(target_audience_new)
             l_mariadb_audience.append(target_audience_new)
             audience_dic.append([target_audience_new,])
@@ -146,22 +145,22 @@ def create_POI_for_mariadb(POI, UUID_gen, datatourisme_id,
     except KeyError:
         pass
 
-    new_poi = Poi(id=UUID_gen,
-                  PETS_ALLOWED=pets_allowed,
-                  REDUCED_MOBILITY_ACCESS=reduced_mobility_access,
-                  WEBPAGE_LINK=webp,
-                  IMAGE_LINK=image,
-                  CITY=city,
-                  POSTAL_CODE=postalCode,
-                  POSTAL_ADDRESS=postalAddress,
-                  DATATOURISME_ID=datatourisme_id,
-                  LAST_UPDATE=lastUpdate)
+    new_poi = Poi(UUID=UUID_gen, 
+        PETS_ALLOWED = pets_allowed,
+        REDUCED_MOBILITY_ACCESS = reduced_mobility_access, 
+        WEBPAGE_LINK=webp, 
+        IMAGE_LINK=image,
+        CITY=city, 
+        POSTAL_CODE=postalCode, 
+        POSTAL_ADDRESS=postalAddress, 
+        DATATOURISME_ID=datatourisme_id, 
+        LAST_UPDATE = lastUpdate)
 
-    new_poi.POI_TYPES = poi_types
-    new_poi.POI_THEMES = poi_themes
-    new_poi.TARGET_AUDIENCE = target_audience
+    new_poi.POI_TYPES=poi_types
+    new_poi.POI_THEMES=poi_themes
+    new_poi.TARGET_AUDIENCE=target_audience
 
-    poi_dic.append([new_poi, 0])
+    poi_dic.append([new_poi,0])
     l_mariadb_poi.append(new_poi)
 
     return (

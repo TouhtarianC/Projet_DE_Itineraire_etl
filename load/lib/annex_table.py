@@ -57,14 +57,13 @@ def create_tour_type(session, t_type):
     """function to create TOUR_TYPE into DB and return the object"""
     UUID_gen = str(uuid.uuid4())
     t_tour = TourType(
-        id=UUID_gen,
+        UUID=UUID_gen,
         NAME=t_type
     )
     try:
         # creation of row into DB MariaDB from object
         session.add(t_tour)
         # session.commit()
-        print(f"new TOUR_TYPE created : {t_tour.NAME}")
         return t_tour
     except exc.IntegrityError:
         session.rollback()
@@ -76,14 +75,13 @@ def create_trail_type(session, t_type):
     """function to create TRAIL_TYPE into DB and return the object"""
     UUID_gen = str(uuid.uuid4())
     t_tour = TrailType(
-        id=UUID_gen,
+        UUID=UUID_gen,
         NAME=t_type
     )
     try:
         # creation of row into DB MariaDB from object
         session.add(t_tour)
         # session.commit()
-        print(f"new TRAIL_TYPE created : {t_tour.NAME}")
         return t_tour
     except exc.IntegrityError:
         session.rollback()
@@ -95,14 +93,13 @@ def create_theme(session, theme):
     """function to create THEME into DB and return the object"""
     UUID_gen = str(uuid.uuid4())
     t_theme = ThemeTrail(
-        id=UUID_gen,
+        UUID=UUID_gen,
         NAME=theme
     )
     try:
         # creation of row into DB MariaDB from object
         session.add(t_theme)
         # session.commit()
-        print(f"new THEME created : {t_theme.NAME}")
         return t_theme
     except exc.IntegrityError:
         session.rollback()
@@ -113,14 +110,13 @@ def create_audience(session, audience):
     """function to create TARGET_AUDIENCE into DB and return the object"""
     UUID_gen = str(uuid.uuid4())
     t_audience = TargetAudience(
-        id=UUID_gen,
+        UUID=UUID_gen,
         NAME=audience
     )
     try:
         # creation of row into DB MariaDB from object
         session.add(t_audience)
         # session.commit()
-        print(f"new TARGET_AUDIENCE created : {t_audience.NAME}")
         return t_audience
     except exc.IntegrityError:
         session.rollback()
@@ -134,7 +130,7 @@ def create_trailViz(session, viz):
     UUID_gen = str(uuid.uuid4())
     try:
         t_viz = TrailViz(
-            id=UUID_gen,
+            UUID=UUID_gen,
             FILE_TYPE=re.search(r'\.([a-zA-Z0-9]+)$', viz).group(1).lower(),
             FILE_LINK=viz
         )
@@ -142,7 +138,6 @@ def create_trailViz(session, viz):
             # creation of row into DB MariaDB from object
             session.add(t_viz)
             # session.commit()
-            # print(f"new TRAIL_VIZ {t_viz} created")
             return t_viz
         except exc.IntegrityError:
             session.rollback()
