@@ -1,4 +1,5 @@
 import argparse
+import csv
 import uuid
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import monotonically_increasing_id
@@ -40,6 +41,22 @@ def main():
         .master("local[4]") \
         .getOrCreate()
 
+    # load insee code to 'la poste' postal code mapping
+    insee_postal_code_mapping = {}
+    with open("../raw_data/geodatamine/laposte-insee.csv", 'r') as csvfile:
+        reader = csv.DictReader(csvfile, delimiter=';')
+        for row in reader:
+            # skip Région Corse(94) (as their insee code is not an integer)
+            try:
+                insee_postal_code_mapping.update(
+                    {int(row['#Code_commune_INSEE']): int(row['Code_postal'])}
+                )
+            except ValueError:
+                continue
+
+    print(f'loaded {len(insee_postal_code_mapping)} INSEE code to postal code mapping ..')
+
+    # load geodatamine file (passed as script argument)
     df = spark.read.option("header", "true").option(
         "delimiter", ";").csv(csv_file_path)
 
@@ -59,51 +76,59 @@ def main():
         .withColumnRenamed("type", "TYPE") \
         .withColumnRenamed("osm_id", "OSM_ID")
 
-    # Generate a partition_key to retrieve correct UUID
-    df = df.withColumn("partition_key", (monotonically_increasing_id()).cast("int")) \
-  
+    # change all POSTAL_CODE values from INSEE to POSTAL CODE
+    @F.udf(StringType())
+    def insee_to_postal_code(x):
+        try:
+            postal_code = insee_postal_code_mapping[int(x)]
+        except KeyError:
+            # unknown insee code
+            postal_code = int(x)
+        return str(postal_code)
+
+    df = df.withColumn('POSTAL_CODE', insee_to_postal_code(df.POSTAL_CODE))
+
     # Generate a new UUID column for each row
     @F.udf(StringType())
     def generate_node_uuid():
         return str(uuid.uuid4())
     
-    #spark.udf.register('generate_node_uuid', generate_node_uuid)
+    # spark.udf.register('generate_node_uuid', generate_node_uuid)
     df = df.withColumn('UUID', (generate_node_uuid()))
-
-    # Collect UUIDS and convert them to have persistent UUIDs among differetn databases
-    uuid_list = df.select('UUID').collect()
-    uuid_dict = {i: row.UUID for i, row in enumerate(uuid_list)}
 
     # clean hosting names
     @F.udf(StringType())
     def clean_node_name(n):
         return n.strip('"')
 
-    #spark.udf.register('clean_node_name', clean_node_name)
+    # spark.udf.register('clean_node_name', clean_node_name)
     df = df.withColumn('NAME', clean_node_name(df.NAME))
 
     print("finished cleaning and transforming data.. dataframe schema:")
     df.printSchema()
+    print(df.head(10))
 
     ##################################################################
     print("loading data to neo4j ..")
 
     # Connect to neo4j and create a node
     # for each element of the DataFrame
-    def insert_into_neo4j(record):
-        uuid = uuid_dict[record.partition_key]
-        return f"MERGE (r:{node_type} {{ \
-                    LONGITUDE: '{record.LONGITUDE}', \
-                    LATITUDE: '{record.LATITUDE}', \
-                    UUID: '{uuid}'}})"
-    
-    cypher_query_rdd = df.rdd.map(lambda x: insert_into_neo4j(x))
-    cypher_query_list = cypher_query_rdd.collect()
+    mongo_data_list = df.rdd.map(lambda row: row.asDict()).collect()
+
+    # Prepare Cypher query for bulk insertion
+    cypher_query = f"""
+    UNWIND $dataList as data
+    MERGE (r:{node_type} {{
+    LONGITUDE: data.LONGITUDE,
+    LATITUDE: data.LATITUDE,
+    UUID: data.UUID
+    }})
+    """
 
     with GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PWD)) as driver:
         with driver.session() as session:
-            for query in cypher_query_list:
-                session.run(query)
+            # Perform bulk insert using a single Cypher query
+            session.run(cypher_query, dataList=mongo_data_list)
 
     ##################################################################
     print("loading data to mongodb ..")
@@ -118,8 +143,6 @@ def main():
         del document["POSTAL_CODE"]
         del document["CITY"]
 
-        uuid = uuid_dict[record.partition_key]
-        document["UUID"] = uuid
         return document
 
     # transform df to rdd
@@ -177,10 +200,9 @@ def main():
 
     # todo more functional
     def insert_into_mariadb(record):
-        uuid = uuid_dict[record.partition_key]
         return f"""
             INSERT INTO {table_name} (UUID, OSM_ID, TYPE, NAME, POSTAL_CODE, CITY)
-            VALUES ('{uuid}', '{record.OSM_ID}', '{record.TYPE}', "{record.NAME}", {record.POSTAL_CODE}, "{record.CITY}");
+            VALUES ('{record.UUID}', '{record.OSM_ID}', '{record.TYPE}', "{record.NAME}", {record.POSTAL_CODE}, "{record.CITY}");
             """
 
     sql_query_rdd = df.rdd.map(lambda x: insert_into_mariadb(x))
