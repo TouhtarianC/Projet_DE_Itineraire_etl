@@ -106,6 +106,9 @@ def main():
 
     print("finished cleaning and transforming data.. dataframe schema:")
     df.printSchema()
+
+    # quick and dirty fix for UUID issue
+    df = spark.createDataFrame(df.collect(), df.schema)
     print(df.head(10))
 
     ##################################################################
