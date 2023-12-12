@@ -34,3 +34,7 @@ MONGODB_TRAIL_COLLECTION = config('MONGODB_TRAIL_COLLECTION', default="pois", ca
 # datafiles for POI & TRAIL
 DATAFILES_POI = config('DATAFILES_POI', default='../raw_data/datatourisme/POI/objects/', cast=str)
 DATAFILES_TRAIL = config('DATAFILES_TRAIL', default='../raw_data/datatourisme/TRAIL/tous_itineraire_NA_structured.jsonld', cast=str)
+
+# Categories of theme and type of POI
+FILE_CATEGORIES_POI_THEME = config('FILE_CATEGORIES_POI_THEME', default="../raw_data/categories/categories_poi_theme.csv", cast=str)
+FILE_CATEGORIES_POI_TYPE = config('FILE_CATEGORIES_POI_TYPE', default="../raw_data/categories/categories_poi_type.csv", cast=str)

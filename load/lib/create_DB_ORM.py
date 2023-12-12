@@ -271,6 +271,7 @@ class PoiType(Base):
         default=str(uuid.uuid4()),
         index=True)
     NAME: Mapped[str] = Column(String(30), unique=True)
+    CATEGORY: Mapped[str] = Column(String(50), default='')
     POIS: Mapped[List['Poi']] = relationship( \
         'Poi',
         secondary=association_PoiType_Poi,
@@ -292,6 +293,7 @@ class PoiTheme(Base):
         default=str(uuid.uuid4()),
         index=True)
     NAME: Mapped[str] = Column(String(30), unique=True)
+    CATEGORY: Mapped[str] = Column(String(50), default='')
     POIS: Mapped[List['Poi']] = relationship(
         'Poi',
         secondary=association_PoiTheme_Poi,
