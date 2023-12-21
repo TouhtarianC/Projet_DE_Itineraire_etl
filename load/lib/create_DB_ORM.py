@@ -1,8 +1,7 @@
 from typing import List
 from sqlalchemy import ForeignKey, String, Column, Table, Integer, \
-    Boolean, Float, Date
+    Boolean, Float
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column, relationship
-from datetime import date
 import uuid
 
 
@@ -278,7 +277,7 @@ class PoiType(Base):
         back_populates='POI_TYPES')
 
     def __repr__(self) -> str:
-        return f"PoiType(UUID={self.UUID!r}, NAME={self.NAME!r})"
+        return f"PoiType(UUID={self.UUID!r}, NAME={self.NAME!r}, CATEGORY={self.CATEGORY!r})"
 
     def __init__(self, NAME):
         self.UUID = str(uuid.uuid4())
@@ -300,7 +299,7 @@ class PoiTheme(Base):
         back_populates='POI_THEMES')
 
     def __repr__(self) -> str:
-        return f"PoiTheme(UUID={self.UUID!r}, NAME={self.NAME!r})"
+        return f"PoiTheme(UUID={self.UUID!r}, NAME={self.NAME!r}, CATEGORY={self.CATEGORY!r})"
     
     def __init__(self, NAME):
         self.UUID = str(uuid.uuid4())
