@@ -18,7 +18,7 @@ Data from these 3 sources will be extracted, transformed and loaded into 3 datab
  - 1 MongoDB database for "textual" data (description texts, translation dictionnary, etc.)
  - 1 Neo4J database for geographical coordinates data
 
-All the details about the schema of theses databases are described [here](hld_project_de_v6.drawio)
+All the details about the schema of theses databases are described [here](hld_project_de_v8.drawio)
 
 ## 3 - Project Structure:
 - **root** : 
